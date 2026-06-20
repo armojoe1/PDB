@@ -13,8 +13,8 @@
           "type": "bullets",
           "items": [
             "Israeli strikes on 19 June killed at least 47 people in Lebanon—the second-deadliest single day of the conflict—prompting Tehran to signal that talks could not continue under fire. The halt came hours later, after Trump pressed Israeli leadership directly. Vice President Vance's planned regional trip was cancelled as the fighting peaked, underscoring how close the diplomacy came to breaking.",
-            "The nuclear track is the central prize. Joint US-Israeli strikes beginning 1 March severely damaged the enrichment plants at Natanz and Fordow, and DNI Gabbard testified in March that Iran has not resumed enrichment. Washington's leverage is highest while those facilities remain inoperable and the stockpile cannot grow; the window for a durable deal is therefore narrow.",
-            "We judge the Lebanon ceasefire fragile. Hezbollah has not agreed to disarm—a condition G7 leaders demanded at Évian—and a single strike or rocket volley could unravel the diplomatic track within hours.",
+            "The nuclear track is the central prize. Joint US-Israeli strikes beginning 1 March severely damaged the enrichment plants at Natanz and Fordow, and DNI Gabbard testified in March that Iran has not resumed enrichment. Washington's leverage is highest while those facilities remain inoperable and the stockpile—roughly 440 kg of near-weapons-grade uranium—cannot grow; the window for a durable deal is narrow.",
+            "We judge the Lebanon ceasefire fragile. Hezbollah has not agreed to disarm—a condition G7 leaders demanded at Évian—and a single strike or rocket volley could unravel the diplomatic track within hours. The Strait of Hormuz, reopened under the 14 June deal, is functioning, but Iran retains the option to threaten it as coercive leverage.",
             "For Washington, the decision point falls before the 60-day window closes in mid-August. Failure to convert the ceasefire into a verifiable framework risks a return to open-ended nuclear ambiguity."
           ]
         },
@@ -23,43 +23,54 @@
         },
         {
           "type": "para",
-          "text": "The Strait of Hormuz, closed to commercial traffic for most of the four-month conflict, reopened under the 14 June deal, easing global energy markets. We assess Iran's compliance is holding."
-        },
-        {
-          "type": "bullets",
-          "items": [
-            "NSA SIGINT confirms the ceasefire-compliance order to Iranian naval elements originated at the ministry level, consistent with a genuine—if provisional—leadership decision to honor the maritime terms.",
-            "Houthi forces, who resumed missile fire at Israel and declared a ban on Israeli shipping after an eight-month pause, are a residual flashpoint; missiles triggered sirens near Tel Aviv as recently as 16 June. A renewed Houthi-Israeli exchange could test Tehran's restraint."
-          ]
+          "text": "NSA SIGINT confirms the ceasefire-compliance order to Iranian naval elements originated at the ministry level, consistent with a genuine—if provisional—leadership decision to honor the maritime terms. Houthi forces, who resumed missile fire at Israel after an eight-month pause, remain a residual flashpoint that could test Tehran's restraint."
         }
       ],
       "prepared_by": "Prepared by ODNI with reporting from CIA, NSA, DIA, INR, Treasury OIA, and open sources."
     },
     {
-      "headline": "Russia Claims Donetsk Village as Kharkiv Takes Fresh Infrastructure Strike",
+      "headline": "Ukraine Lands Record Drone Strike on Moscow, Hitting Capital's Main Refinery",
       "blocks": [
         {
           "type": "para",
-          "text": "We assess Russia's summer offensive is making incremental gains in eastern Ukraine while sustaining a deliberate campaign against civilian infrastructure—designed to deepen Ukrainian war-weariness and drain Western-supplied air defenses ahead of autumn. Ukrainian forces retain tactical initiative in Kharkiv oblast, retaking a settlement on 19 June."
+          "text": "We assess that Ukraine's overnight strike on 18 June—one of the largest drone attacks on Moscow since Russia's full-scale invasion—marks a deliberate shift toward punishing strikes on Russia's deep rear and energy backbone, designed to impose domestic costs that Russia's offensive in the east cannot offset. Drones again struck the Moscow Oil Refinery in Kapotnya, the second hit on that facility in three days, sending smoke over the capital, disrupting airports, and closing major roads."
         },
         {
           "type": "bullets",
           "items": [
-            "Russia's defense ministry claimed full occupation of Yurkivka in Donetsk on 20 June; Ukrainian sources contest it, but independent reporting confirms heavy Russian armored pressure. In the Pokrovsk sector, fighting is continuous, with Ukrainian defensive depth still constraining Russian exploitation of earlier gains.",
-            "A Russian missile struck Kharkiv critical infrastructure early on 20 June; a separate strike wounded two in Zaporizhzhia. Targeting Ukraine's second city fits a consistent effort to pull air-defense assets off the front to shield urban centers.",
-            "G7 leaders at Évian (15-17 June) pledged expanded military aid, naming additional air defense and long-range strike capabilities. We assess delivery timelines—not the pledges—will determine whether Ukraine can blunt the infrastructure campaign before winter.",
-            "Kharkiv's defensive posture has stabilized relative to 2025, reflecting cumulative Western resupply; we judge Russian forces lack the concentration for a near-term breakthrough in this sector."
+            "Russia's defense ministry claimed it destroyed roughly 555 drones overnight, about 180 of them near Moscow, with more than a dozen regions targeted—figures that, even as Russian framing, concede the scale of the assault. President Zelensky paired the strike with a public call that it is 'time the war ended,' signaling pressure-for-leverage rather than open-ended escalation.",
+            "We assess the strikes expose persistent gaps in Russia's air defenses over its core and will compound a deepening domestic fuel squeeze. We judge Russia almost certainly will answer with a large retaliatory long-range package against Ukrainian cities and infrastructure.",
+            "On the ground the picture is grinding and incremental: Russia's defense ministry claimed full occupation of Yurkivka in Donetsk on 20 June, which Kyiv contests, and a Russian missile struck Kharkiv critical infrastructure early on 20 June. Ukrainian forces retook a settlement in Kharkiv oblast on 19 June; the front there has stabilized relative to 2025.",
+            "G7 leaders at Évian pledged additional air defense and long-range strike systems. For Washington, the question is whether delivery timelines let Ukraine sustain deep strikes and defend its grid before winter, and whether the Moscow strikes complicate—or accelerate—any push toward negotiations."
           ]
         }
       ],
-      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, NGA, INR, and open sources."
+      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, NGA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "UK By-Election Win Opens a Path to Replace Prime Minister Starmer",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Greater Manchester Mayor Andy Burnham's decisive win in the 18 June Makerfield by-election materially raises the probability of a Labour leadership contest—and a possible change of British prime minister—within weeks, injecting months of political uncertainty into a Tier 1 US ally. Burnham took 54.8 percent (24,937 votes) to Reform UK's 34.5 percent, a majority of roughly 9,200, securing the Commons seat he needs to mount a challenge to Prime Minister Keir Starmer."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The seat was opened deliberately when the sitting Labour MP resigned to let Burnham stand. He is now positioned to contest the leadership; press reporting indicates roughly 97 Labour MPs have called on Starmer to resign or set a timetable after heavy losses in the 2026 local elections. Starmer has so far refused to step aside.",
+            "The instability builds on May's resignations of the Defence Secretary and a junior minister over defense-investment funding—directly relevant to allied burden-sharing and the UK's NATO spending trajectory.",
+            "We assess any successor would likely preserve core UK commitments—NATO, AUKUS, and support for Ukraine—but a protracted leadership fight clouds London's near-term reliability on defense spending, sanctions cohesion, and trade. For Washington, the watch items are continuity of UK defense plans, AUKUS submarine timelines, and the UK's posture on Ukraine through any transition."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
     },
     {
       "headline": "Allied Sanctions Enforcement Escalates From Designation to Interdiction",
       "blocks": [
         {
           "type": "para",
-          "text": "We assess the G7's Évian commitment to tighten pressure on Russia's war economy is producing enforcement with few precedents: the United Kingdom's first physical boarding and seizure of a sanctioned Russian 'shadow fleet' tanker on 14 June marks a shift from financial designation toward direct military interdiction of the oil price-cap evasion network."
+          "text": "We assess that the G7's Évian commitment to tighten pressure on Russia's war economy is producing enforcement with few precedents: the United Kingdom's first physical boarding and seizure of a sanctioned Russian 'shadow fleet' tanker on 14 June marks a shift from financial designation toward direct military interdiction of the oil price-cap evasion network."
         },
         {
           "type": "bullets",
@@ -83,10 +94,10 @@
         {
           "type": "bullets",
           "items": [
-            "Ukraine: leaders pledged additional air defense and long-range strike systems plus further energy and financial sanctions on Russia, describing European resolve as a 'strategic awakening'—language reflecting real shifts in German and French defense posture.",
-            "Middle East: the G7 endorsed the US-Iran ceasefire and the Hormuz reopening while pressing for a 'comprehensive' follow-on agreement, and separately demanded a Lebanon ceasefire and Hezbollah disarmament. The public endorsement gives Washington political cover to press for a nuclear deal.",
+            "Ukraine: leaders pledged additional air defense and long-range strike systems plus further energy and financial sanctions on Russia, describing European resolve as a 'strategic awakening.'",
+            "Middle East: the G7 endorsed the US-Iran ceasefire and the Hormuz reopening while pressing for a 'comprehensive' follow-on agreement, and separately demanded a Lebanon ceasefire and Hezbollah disarmament—giving Washington political cover to press for a nuclear deal.",
             "AI: members agreed on shared principles for safe AI deployment and child protection—an allied framework that complements the administration's 5 June National Security Presidential Memorandum 11 directing accelerated military and intelligence AI adoption.",
-            "We assess the inclusion of India, Brazil, Egypt, Kenya, and South Korea is the clearest sign yet of a strategy to widen the anti-evasion coalition. India's participation matters most given its role as a major buyer of discounted Russian crude; Évian raised the diplomatic cost of continued purchases, though behavior change will lag."
+            "We assess the inclusion of India, Brazil, Egypt, Kenya, and South Korea is the clearest sign yet of a strategy to widen the anti-evasion coalition; India's role as a major buyer of discounted Russian crude makes its participation most consequential, though behavior change will lag."
           ]
         }
       ],
@@ -105,8 +116,7 @@
             "NGA assesses from imagery and vessel tracking that the survey, escorted by at least two China Coast Guard ships, concentrated near strategic chokepoints—consistent with undersea mapping for contingency planning, reframed as routine law enforcement to complicate Taipei's response.",
             "China sanctioned Philippine Defense Secretary Gilberto Teodoro on 11 June—the first time it has formally sanctioned a sitting defense minister of a recognized state—after Manila resisted PRC claims near Scarborough Shoal, a qualitative escalation against a US treaty ally.",
             "PRC coast guard vessels made the first recorded incursion into restricted waters around Taiwan's Itu Aba outpost on 11 June, which Taipei condemned as a sovereignty violation.",
-            "Taiwan's opposition has delayed the 2026 budget by nine months, threatening President Lai's plan to raise defense spending to 3.3 percent of GDP. We assess this self-imposed constraint measurably weakens near-term deterrence—something Beijing is almost certainly weighing.",
-            "For Washington, the watch item is whether PRC survey operations east of Taiwan recur, which would signal a systematic effort to degrade US access and response options."
+            "Taiwan's opposition has delayed the 2026 budget by nine months, threatening President Lai's plan to raise defense spending to 3.3 percent of GDP. We assess this self-imposed constraint measurably weakens near-term deterrence—something Beijing is almost certainly weighing. The watch item is whether PRC survey operations east of Taiwan recur."
           ]
         }
       ],
@@ -122,10 +132,9 @@
         {
           "type": "bullets",
           "items": [
-            "CISA issued an urgent advisory on 19 June confirming a campaign ('FortiBleed') has compromised 86,644 Fortinet devices worldwide, with federal civilian networks and critical infrastructure—including systems supporting World Cup venues—among the highest-risk categories, and directed immediate patching.",
+            "CISA issued an urgent advisory on 19 June confirming a campaign ('FortiBleed') has compromised 86,644 Fortinet devices worldwide—including systems supporting World Cup venues—and directed immediate patching. A critical, unpatched flaw in older iPhone and iPad models was also confirmed under active exploitation on 19 June.",
             "Microsoft on 19 June disclosed an exploit chain ('AutoJack') that turns AI browsing agents into remote-code-execution vectors with no user interaction beyond running the agent—a new attack surface created by rapid enterprise AI adoption. We assess state actors will adopt it within weeks.",
-            "A critical, unpatched flaw in older iPhone and iPad models was confirmed under active exploitation on 19 June; officials using affected devices should be treated as potentially compromised pending guidance.",
-            "The World Cup (11 June-19 July), across 16 US cities plus Mexico and Canada, is a high-visibility target. No specific, credible plot is confirmed, but extremist chatter referencing the tournament stayed elevated through June, amplified by the post-Iran-war threat environment."
+            "No specific, credible plot against the World Cup (11 June-19 July, 16 US cities plus Mexico and Canada) is confirmed, but extremist chatter referencing the tournament stayed elevated through June, amplified by the post-Iran-war threat environment."
           ]
         }
       ],
@@ -137,7 +146,7 @@
         {
           "type": "bullets",
           "items": [
-            "<b>DPRK:</b> No new provocations overnight, but the trajectory is unambiguous. Kim Jong Un inspected a newly commissioned enrichment plant on 4 June and called for 'exponential' arsenal growth; we assess the facility is operational and Pyongyang has roughly doubled fissile-material capacity in five years. A March leadership purge consolidated Kim's control and hardened the line toward Seoul; no diplomatic opening is expected.",
+            "<b>DPRK:</b> No new provocations overnight, but the trajectory is unambiguous. Kim Jong Un inspected a newly commissioned enrichment plant on 4 June and called for 'exponential' arsenal growth; we assess the facility is operational and Pyongyang has roughly doubled fissile-material capacity in five years. Seoul says Trump signaled at the G7 an openness to re-engaging Pyongyang—worth watching for a named channel or envoy.",
             "<b>Houthis/Red Sea:</b> Attacks on shipping and Israel resumed in June after the October 2025 pause. MARAD has reissued an advisory spanning the Red Sea, Bab el-Mandeb, Gulf of Aden, and Arabian Sea; CENTCOM is monitoring. Sustained Houthi-Israeli exchanges could draw Iranian proxies into an escalation Tehran may struggle to control.",
             "<b>Armenia:</b> Russia ran a broad hybrid campaign—disinformation, cyber, influence—against Armenia's 7 June parliamentary elections, aiming to reverse Yerevan's westward turn. It appears to have failed in its immediate objective but signals Moscow's continued willingness to deploy the full hybrid toolkit against former Soviet states drifting West."
           ]
