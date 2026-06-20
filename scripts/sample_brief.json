@@ -1,0 +1,35 @@
+{
+  "date": "2016-09-14",
+  "classification": "TOP SECRET//NOFORN",
+  "short_classification": "TOP SECRET",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "Cyber Threats to US Election Unlikely To Alter Voting Outcomes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that foreign adversaries do not have the capability to covertly overturn the vote outcome of the coming US presidential election by executing cyber attacks on election infrastructure. These adversaries\u2014most notably Russia\u2014can conduct cyber operations against election infrastructure to undermine the credibility of the process and weaken the perceived legitimacy of the winning candidate."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Multiple checks and redundancies in the voting system make it likely that officials could detect a large-scale manipulation of election systems intended to change an outcome, especially in a well-covered US presidential election.",
+            "We assess that Russia has increased the aggressiveness of cyber capabilities used against US Government and political targets as demonstrated by recent high-profile operations against a national political party."
+          ]
+        },
+        {
+          "type": "stars",
+          "rule": true
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Nonstate cyber actors probably have the capability and intent to steal voter registration data, based on similarities with past operations targeting bulk personally identifiable information."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by DHS with reporting from CIA, DHS, FBI, NSA, OSE, State, and open sources."
+    }
+  ]
+}
