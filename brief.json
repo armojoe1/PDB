@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-21",
+  "cover": true,
+  "emblem": "assets/whitehouse_small.png",
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Tehran again declares the strait 'closed'; CENTCOM says traffic is flowing as the deal wavers." },
+    { "tag": "LEBANON", "summary": "Israeli strikes kill at least 32, straining the day-old renewed ceasefire." },
+    { "tag": "UNITED KINGDOM", "summary": "Cabinet presses Starmer to set an exit date after Burnham's by-election win." },
+    { "tag": "COLOMBIA", "summary": "Polarized presidential runoff today carries direct stakes for US ties." },
+    { "tag": "SUDAN", "summary": "RSF masses for an assault on El Obeid, raising mass-atrocity risk." },
+    { "tag": "BOLIVIA", "summary": "Paz declares a state of emergency as blockades choke fuel and food." },
+    { "tag": "NOTES", "summary": "Gaza; Pakistan; Turkey-Romania; Spain." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Declares Hormuz ‘Closed’ Again as Ceasefire Deal Wavers",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran's renewed declaration on 20 June that the Strait of Hormuz is “closed” is principally coercive signaling tied to Israeli operations in Lebanon rather than a return to physical interdiction. US Central Command reports traffic is uninterrupted, with 55 merchant ships carrying more than 17 million barrels of oil transiting Saturday. The move lands days after Tehran and Washington reached an interim agreement to end the war, and just as Iranian negotiators prepared for technical-level talks in Switzerland on 22 June — underscoring how fragile the settlement remains." },
+        { "type": "bullets", "items": [
+          "The IRGC Navy warned vessels away from the strait, linking the closure to the “crimes of the Zionist regime in Lebanon” and alleged US bad faith on ceasefire commitments; CENTCOM's spokesman responded flatly that “Iran does not control the Strait of Hormuz” and that US forces are monitoring to keep it that way.",
+          "The Geneva signing of the final accord, expected 19 June, slipped. Deputy Foreign Minister Kazem Gharibabadi says talks will continue and that an end to the war has been declared “on all fronts,” but the text is not yet signed — leaving the deal interim and reversible.",
+          "Brent crude closed near $80.57 on 19 June, having erased nearly all the gains since the conflict began in late February. Markets are pricing the rhetoric as posturing rather than a fresh supply shock; a genuine re-closure would reverse that within hours.",
+          "Overhead imagery confirms tankers — including the first Saudi-owned vessels to sail since the conflict began — transiting the strait this week, consistent with CENTCOM's account that the waterway remains open."
+        ] },
+        { "type": "para", "text": "For Washington, the central question is whether Tehran can wall the Hormuz and nuclear tracks off from the unresolved Lebanon file. We judge the more likely near-term path is continued brinkmanship around the Sunday talks rather than interdiction — but a single tanker incident or a high-casualty Israeli strike in Lebanon could re-escalate quickly. The 22 June talks are the next decision point." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Israeli Strikes in South Lebanon Strain Renewed Ceasefire",
+      "blocks": [
+        { "type": "para", "text": "We assess the Lebanon track is the most likely trigger for a collapse of the broader Iran ceasefire. Israeli airstrikes across southern Lebanon on 20 June killed at least 32 people, including 16 in Nabatieh and two Lebanese soldiers — a day after Israel and Hezbollah renewed their ceasefire. Prime Minister Netanyahu's office said Israeli troops will remain in southern Lebanon “as long as deemed necessary.”" },
+        { "type": "bullets", "items": [
+          "Defense Minister Israel Katz has stated the IDF will hold security zones inside Lebanon. Israel is not a party to the US–Iran memorandum, leaving a widening gap between the political deal on paper and conditions on the ground.",
+          "Tehran has explicitly conditioned a permanent end to the war on a halt in Lebanon, which turns each Israeli strike into a potential off-ramp from the deal for Iranian hardliners.",
+          "We expect the Israel–Lebanon political and security tracks to reconvene the week of 22 June. Whether Israel will accept a “permanent” end that covers Lebanon — rather than an open-ended security presence — is the variable to watch."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "UK Labour Leadership Crisis Deepens as Cabinet Presses Starmer To Set an Exit Date",
+      "blocks": [
+        { "type": "para", "text": "We assess Prime Minister Keir Starmer's position is seriously weakened and a leadership contest is a realistic possibility within months. After Andy Burnham's 18 June Makerfield by-election win returned him to the Commons — taking 54.8% and a majority above 9,200 — several cabinet ministers, including Home Secretary Shabana Mahmood and Energy Secretary Ed Miliband, are urging Starmer to set a timetable for an “orderly transition.” Starmer says he will stand in any contest and “not walk away.”" },
+        { "type": "bullets", "items": [
+          "The crisis is rooted in a defense-funding dispute that produced three Ministry of Defence resignations this month — Defence Secretary John Healey, junior minister Al Carns, and a ministerial aide — following an earlier wave that included Health Secretary Wes Streeting.",
+          "Burnham, now eligible to stand, is the early front-runner in a field that could include Streeting, Mahmood, Lammy, Rayner, and Miliband.",
+          "For Washington, turmoil in a top-tier ally bears directly on UK defense spending, AUKUS, and the durability of UK support for Ukraine. We judge core UK–US intelligence and defense cooperation will hold through any transition, but the trajectory of British defense outlays is now genuinely in question."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Colombia Votes in Polarized Runoff With Direct Stakes for US Ties",
+      "blocks": [
+        { "type": "para", "text": "We assess today's runoff (21 June) will set the direction of US–Colombia relations on counternarcotics, migration, and security cooperation for the next four years. Voters choose between right-wing lawyer Abelardo de la Espriella, who led the 31 May first round with 43.7%, and leftist senator Iván Cepeda at 40.9%, who casts himself as the continuation of outgoing President Gustavo Petro." },
+        { "type": "bullets", "items": [
+          "The closing weeks were turbulent: a congressional commission's unconstitutional bid to suspend Petro until election day collapsed within hours, and the official who issued it was herself suspended.",
+          "A de la Espriella win likely means warmer ties with Washington, a harder line on crime, and sharper friction with Caracas; a Cepeda win likely sustains Petro-era tension over coca eradication and a more independent foreign policy.",
+          "We expect a close result. The losing camp's acceptance of the outcome, and the security environment around the count, are the near-term things to watch."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the DEA Office of National Security Intelligence, and open sources."
+    },
+    {
+      "headline": "RSF Masses for Assault on El Obeid, Raising Mass-Atrocity Risk",
+      "blocks": [
+        { "type": "para", "text": "We assess the Rapid Support Forces are positioning for a large-scale ground assault on El Obeid, the North Kordofan capital, and that an RSF breakthrough would carry a serious risk of atrocities against civilians, echoing the pattern seen at El Fasher. The Sudanese Armed Forces reported drone strikes on 20 June against RSF units preparing to attack the city; RSF drone bombardment has struck El Obeid for days, concentrating on fuel supplies." },
+        { "type": "bullets", "items": [
+          "El Obeid is a strategic crossroads linking Khartoum to Darfur; its capture would consolidate RSF control of Kordofan and open routes toward central Sudan.",
+          "UN human-rights officials have warned of “impending atrocities” as the militia closes in, citing an unprecedented buildup of fighters around the city.",
+          "For Washington, the immediate concern is a fresh humanitarian catastrophe and further regional spillover; meaningful leverage runs mainly through the RSF's external backers in the Gulf."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, State INR, and open sources."
+    },
+    {
+      "headline": "Bolivia Declares State of Emergency as Blockades Choke Supplies",
+      "blocks": [
+        { "type": "para", "text": "We assess President Rodrigo Paz's 20 June declaration of a 90-day state of emergency — authorizing the military to clear road blockades — marks a sharp escalation of a roughly 50-day crisis that has paralyzed Bolivia's economy. The unrest began in May after Paz cut long-standing fuel subsidies to shrink the deficit; protests backed by unions, farmers, and supporters of former President Evo Morales demand his resignation. At least 14 people have died since 1 May." },
+        { "type": "bullets", "items": [
+          "The decree bars blockades and tasks the armed forces with reopening roads and supporting police; deploying the military against protesters carries its own escalation risk.",
+          "Paz signed an agreement with one labor union late on 19 June, but other protesters refuse to negotiate, leaving the standoff unresolved.",
+          "We judge Bolivia's instability is more an economic and regional-migration concern than a direct US security issue, but a militarized crackdown that turns violent could deepen the crisis and draw in Morales's base."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Gaza.</b> Israeli strikes on a residential area killed at least six people, including two children; Al Jazeera cameraman Ahmed Wishah was among those killed on 20 June, the latest in a high toll of journalists in the conflict.",
+          "<b>Pakistan.</b> Two roadside bombings in Bannu District, Khyber Pakhtunkhwa, killed at least seven and wounded three on 20 June — consistent with the sustained TTP-linked insurgency across the northwest.",
+          "<b>Turkey–Romania.</b> Ankara delivered its first-ever warship export to Romania, a NATO and EU member — a modest but notable marker of Turkey's expanding defense-industrial reach into allied markets.",
+          "<b>Spain.</b> A court ordered Begoña Gómez, wife of Prime Minister Pedro Sánchez, to stand trial on corruption charges and confiscated her passport, adding to the legal pressure surrounding Sánchez's government."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
