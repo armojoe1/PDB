@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-22",
+  "cover": true,
+  "emblem": "/tmp/whitehouse_small.png",
+  "toc": [
+    { "tag": "IRAN-US", "summary": "First face-to-face round in Switzerland opens a 60-day sprint to lock in the war's end; Trump threats cloud the path." },
+    { "tag": "ISRAEL-LEBANON", "summary": "IDF ordered to hold fire across most of the south but stay in the security zone; friction persists at Ali al-Taher Hill." },
+    { "tag": "UKRAINE", "summary": "Overnight strikes on both sides of the Crimean Bridge force fuel rationing in occupied Crimea." },
+    { "tag": "COLOMBIA", "summary": "Razor-thin runoff hands the right a preliminary win; Cepeda disputes the count." },
+    { "tag": "BOLIVIA", "summary": "State of emergency breaks 50 days of blockades; a patrol-plane crash kills six." },
+    { "tag": "QATAR-ENERGY", "summary": "Blast at the Ras Laffan LNG hub assessed accidental; no near-term threat to global supply." },
+    { "tag": "NOTES", "summary": "Czech public-media protests; oil at a three-month low." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Talks Open 60-Day Sprint To Lock In War's End; Trump Threats Cloud the Path",
+      "blocks": [
+        { "type": "para", "text": "We assess that the first face-to-face round of US-Iran negotiations, concluded yesterday in Switzerland, has put the end of the spring war on a workable but fragile track. A high-level committee agreed a roadmap to a final deal within 60 days and stood up working groups on the nuclear file, sanctions, and a monitoring and dispute-resolution mechanism, building on the 14-point memorandum of understanding the two presidents signed on 17 June. We judge the parties want the truce to hold; the principal near-term risk is political escalation from the top, not a breakdown at the table." },
+        { "type": "bullets", "items": [
+          "Vice President Vance led the US delegation alongside Jared Kushner and envoy Steve Witkoff; Iran's team was led by Parliament Speaker Ghalibaf with Foreign Minister Araghchi. Qatar and Pakistan mediated at the Burgenstock complex above Lake Lucerne.",
+          "President Trump's public threats of renewed strikes over the Lebanon fighting rattled the session and, by Tehran's account, briefly disrupted it; we assess the threats are leverage to keep Iran moving rather than a decision to resume hostilities, but they raise the odds of a miscalculation.",
+          "The package reportedly trades Iran reopening the Strait of Hormuz for the US lifting its blockade of Iranian ports — the central de-escalation that markets are already pricing.",
+          "For Washington, the decision point comes as the technical talks convert the framework into verifiable steps over the next two months; a stall on the nuclear or sanctions tracks is the most likely trigger for renewed pressure."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "A related mechanism aimed at Lebanon — a US-Iran \"de-confliction cell,\" with Qatari and Pakistani support — is intended to police the termination of military operations there. We assess its credibility will be tested within days by continued Israeli-Hezbollah contact in the south (see following item)." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NSA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Israel Halts Most Fire in Lebanon but Holds the Security Zone as Friction Persists",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel is consolidating, not withdrawing. Prime Minister Netanyahu and Defense Minister Katz yesterday ordered the IDF to remain in place across the occupied positions in southern Lebanon and to hold fire everywhere except Ali al-Taher Hill, where exchanges with Hezbollah continued. The IDF chief framed the mission as unchanged — \"defending the north\" — signaling Israel intends to keep the buffer that protects its northern communities regardless of the diplomatic track." },
+        { "type": "bullets", "items": [
+          "Hezbollah has not struck Israeli territory in a week but is still engaging Israeli troops inside southern Lebanon; we judge the group is preserving deterrent posture while avoiding the escalation that would hand Israel a pretext to expand operations.",
+          "The standing security zone is the friction point most likely to unravel the ceasefire: each localized clash risks a wider exchange that the new US-Iran de-confliction cell has not yet demonstrated it can contain.",
+          "For Washington, Lebanon is the soft seam in the broader settlement; we expect US mediators to press both Jerusalem and the cell to freeze the Ali al-Taher contact before it tests the 60-day timeline."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Strikes Both Sides of the Crimean Bridge, Forcing Fuel Rationing in Crimea",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's overnight long-range strikes on both sides of the Kerch Strait mark a deliberate effort to choke the logistics and fuel that sustain Russian forces in the south. President Zelensky said the operation hit military logistics, the oil industry, and air defenses on both sides of the Crimean Bridge; reporting describes a struck oil depot in occupied Kerch and a large fire at the Kavkaz port on the Russian side." },
+        { "type": "bullets", "items": [
+          "The occupation authorities in Crimea responded by banning civilian fuel sales and reserving supply for state and security services — a concrete sign the strikes are biting the rear, not just scoring symbolic hits.",
+          "Open-source imagery shows heavy smoke over the Kerch port facilities; overhead imagery corroborates fires at the targeted fuel infrastructure on both shores.",
+          "Fighting along the line stayed intense, with the heaviest pressure in the Pokrovsk and Huliaipole directions; Zelensky also warned of a possible new Russian mass strike in retaliation.",
+          "For Washington, the campaign against Crimean logistics is shaping the battlefield ahead of any negotiation over the south; we expect Russia to answer with another large drone-and-missile salvo against Ukrainian cities and energy infrastructure."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Colombia Turns Right in a Razor-Thin Runoff; Cepeda Disputes the Count",
+      "blocks": [
+        { "type": "para", "text": "We assess that Colombia is on course for a sharp swing to the right, pending certification. In yesterday's runoff, conservative Abelardo de la Espriella took roughly 49.7 percent to leftist Senator Iván Cepeda's 48.7 percent on the preliminary count — a margin under one point. De la Espriella, who campaigned on hard security and warmer ties with Washington, would succeed President Gustavo Petro, who governs until the 7 August handover; the result, if it holds, reverses the policy direction of Colombia's first leftist government." },
+        { "type": "bullets", "items": [
+          "Cepeda has not conceded, calling the tally \"not yet official or legally binding\" and saying his observers and lawyers are challenging some 33,000 polling stations; we assess the sub-one-point margin makes a contested certification period likely.",
+          "A de la Espriella presidency would probably realign Bogotá toward Washington on counternarcotics and security cooperation after a strained Petro era, with implications for migration, coca eradication, and regional posture toward Venezuela.",
+          "What to watch: the formal tally and any successful challenges; a narrow, disputed result raises the risk of post-election friction and tests the credibility of Colombia's electoral institutions."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Bolivia Declares State of Emergency To Break Blockades; Patrol Plane Crash Kills Six",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Rodrigo Paz has reasserted control of Bolivia's highways but at real political and human cost. After roughly 50 days of protests over his cut to fuel subsidies, Paz declared a nationwide state of emergency — ratified by parliament — authorizing the military and police to clear blockades that had isolated La Paz and El Alto. Authorities reported no active blockades by Sunday, but the crisis is not resolved." },
+        { "type": "bullets", "items": [
+          "A light aircraft on aerial patrol over a blockaded highway crashed, killing six, including Bolivian Air Force officers.",
+          "Business groups put losses above $2 billion, with cities short of fuel and food, deepening what is already Bolivia's worst economic crisis in four decades; the ombudsman attributes at least 17 deaths to blocked medical access.",
+          "We judge the emergency buys Paz time rather than stability: the underlying fight over subsidies and the fiscal deficit is unresolved, and renewed unrest is a realistic possibility if austerity continues."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Blast at Qatar's Ras Laffan LNG Hub Assessed Accidental; No Near-Term Threat to Supply",
+      "blocks": [
+        { "type": "para", "text": "We assess, on current reporting, that the explosion at Qatar's Ras Laffan industrial city was an industrial accident, not a hostile act — a meaningful judgment given regional tensions. Qatar's Interior Ministry attributed the blast at the Barzan facility to a technical malfunction; a source cited operational error. Authorities reported 54 injured and 18 missing, with the fire contained and no gas or hazardous leak detected. Ras Laffan hosts the world's largest LNG export complex, supplying roughly one-fifth of global LNG." },
+        { "type": "bullets", "items": [
+          "We have seen no indication of an attack or sabotage; early Qatari statements understated casualties before the government confirmed the figures, so details may continue to firm up.",
+          "There is no reported damage to the core liquefaction trains or export berths; we assess the near-term risk to global LNG flows is low absent evidence of wider damage.",
+          "What to watch: confirmation of the cause and any disruption to Barzan gas processing or downstream LNG loadings; a prolonged outage would tighten an already jittery energy market (see Notes)."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Czech Republic — media-funding protests.</b> Thousands marched in Prague yesterday against Prime Minister Andrej Babiš's coalition plan to scrap the licence-fee system and fund public broadcasters from the state budget, a roughly 15 percent cut critics say opens the door to political control on the Hungarian and Slovak model. Czech Television and Czech Radio staff planned a warning strike today. We assess this as an early flashpoint in the new government's drive to reshape Czech institutions; for Washington, the trajectory of media independence in an EU and NATO member is worth watching." },
+        { "type": "para", "text": "<b>Energy — oil at a three-month low.</b> Brent traded near $78 a barrel, its weakest since early March, as markets priced the prospective reopening of the Strait of Hormuz and a durable US-Iran de-escalation. We judge the move runs ahead of the facts: analysts caution the market is pricing a best-case, frictionless normalization, leaving prices exposed to any setback in the talks or hiccup in restoring tanker traffic." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury OIA, and open sources."
+    }
+  ]
+}
