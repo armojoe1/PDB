@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-23",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "Lucerne talks produce a 60-day roadmap; inspections access remains the open question." },
+    { "tag": "CHINA-US", "summary": "Beijing answers a Pentagon blacklist with dual-use and rare-earth curbs on ten US firms." },
+    { "tag": "COLOMBIA", "summary": "Trump-backed De la Espriella wins a razor-thin runoff, swinging Bogota right." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Overnight Russian strikes kill civilians; Kyiv hits a missile-component plant." },
+    { "tag": "ISRAEL-LEBANON", "summary": "A loose truce holds as the parties prepare for talks in Washington." },
+    { "tag": "CANADA-HOMELAND", "summary": "A deadly shooting in a Montreal Jewish district kills an officer and a resident." },
+    { "tag": "NOTES", "summary": "Sudan, energy markets, and Gaza." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Talks Yield 60-Day Roadmap, but the Verification Gap Clouds the Pause",
+      "blocks": [
+        { "type": "para", "text": "We assess that the weekend round of US-Iran talks near Lucerne has bought time rather than settled the core dispute. Mediators Qatar and Pakistan announced a 60-day roadmap toward a final agreement when the session closed on 22 June, and Washington issued a temporary 60-day license permitting Iranian oil and petrochemical sales through 21 August. But the central question — whether and how international inspectors regain access to Iran’s damaged nuclear sites — remains unresolved, and the two sides are already describing the outcome differently." },
+        { "type": "bullets", "items": [
+          "Vice President Vance said Iran agreed to invite IAEA inspectors back “at the minimum of this week.” Tehran’s foreign ministry countered that no inspections of the war-damaged facilities are planned and that it will only continue its existing NPT obligations — a gap we assess is deliberate and tactical, not a misunderstanding.",
+          "The divergence matters: without agreed access and a fresh material-balance accounting, the IC will have low confidence in any estimate of Iran’s remaining enriched stockpile and centrifuge capacity. We judge Tehran is using ambiguity over access as leverage to lock in sanctions relief first.",
+          "Overhead imagery confirms substantial damage at the principal enrichment sites struck during the conflict; it does not, by itself, establish what fissile material or equipment was moved beforehand — which is precisely why on-site verification is the pivotal issue.",
+          "For Washington, the near-term win is a de-escalated Gulf and falling energy prices; the risk is codifying relief before verification. We expect the inspections question to dominate the next round and to be the most likely point of breakdown."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On the maritime side, the pause is already visible in the data. Traffic through the Strait of Hormuz has continued to recover despite Tehran’s earlier closure rhetoric, and we assess the economic incentives now favor keeping the strait open while the oil license is in force." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, the Office of Intelligence and Counterintelligence, and open sources."
+    },
+    {
+      "headline": "Beijing Retaliates With Dual-Use and Rare-Earth Curbs on Ten US Defense Firms",
+      "blocks": [
+        { "type": "para", "text": "We assess China’s 22 June decision to sanction ten US military-related companies is a calibrated, supply-chain-focused reprisal for the Pentagon’s move barring leading Chinese tech firms from US defense contracts. Beijing’s Commerce Ministry framed the US action as a breach of the understanding Xi and President Trump reached during the May visit — signaling that the trade-and-tech truce struck this spring is fraying." },
+        { "type": "bullets", "items": [
+          "The measures block Chinese exporters from shipping “dual-use” items to the named firms — among them drone makers Red Cat Holdings and Teal Drones, Oshkosh Defense, L3Harris Maritime Services, Ball Aerospace, and rare-earth players MP Materials and USA Rare Earth — and bar third-country transfers of Chinese-origin dual-use goods to them.",
+          "We judge the inclusion of rare-earth and magnet-relevant firms is the signal that matters: Beijing is again demonstrating its willingness to use mineral and processing dominance as a coercive tool against the US defense industrial base.",
+          "The targeting is symbolic in dollar terms but pointed in sector terms — unmanned systems and critical minerals are exactly the chokepoints US planners are racing to onshore.",
+          "For Washington, the development argues for accelerating stockpiling and allied diversification of rare-earth processing. We expect further tit-for-tat listings and assess a realistic possibility that Beijing pairs export curbs with slower licensing as a quieter form of pressure."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, the Office of Intelligence and Analysis (Treasury), and open sources."
+    },
+    {
+      "headline": "Colombia Swings Right as Trump-Backed De la Espriella Wins Narrow Runoff",
+      "blocks": [
+        { "type": "para", "text": "We assess Colombia is set for a sharp rightward turn after conservative lawyer Abelardo de la Espriella narrowly won the 21 June presidential runoff, with preliminary results showing roughly 49.7 percent against leftist Senator Iván Cepeda’s 48.7 percent at near-complete count. The result ends the era of outgoing leftist President Gustavo Petro and installs a security-first, US-aligned figure who campaigned on hard-line public-safety policies and drew an endorsement from President Trump." },
+        { "type": "bullets", "items": [
+          "The margin — under one point — points to a deeply polarized electorate and a contested mandate; we expect Cepeda’s camp to scrutinize the count, though no credible challenge has emerged as of this morning.",
+          "For Washington, the shift is favorable on paper: closer counternarcotics cooperation, a tougher posture toward Venezuela’s Maduro, and warmer bilateral ties after years of friction with Bogotá are all likely.",
+          "The harder questions are durability and method. We judge an aggressive security agenda could strain human-rights equities and domestic stability, and Colombia’s coca economy will not yield to rhetoric alone.",
+          "What to watch: cabinet and security appointments, early signals on US extradition and eradication cooperation, and Bogotá’s tone toward Caracas."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the DEA Office of National Security Intelligence, and open sources."
+    },
+    {
+      "headline": "Russia Sustains Overnight Strikes as Kyiv Targets the Missile Supply Chain",
+      "blocks": [
+        { "type": "para", "text": "We assess Russia is maintaining its pattern of large overnight strike packages against Ukraine while Kyiv presses a parallel campaign against the Russian defense-industrial base. Ukrainian air defense reported intercepting 79 of 88 long-range drones launched into the night of 21–22 June alongside a single Iskander-M ballistic missile; strikes that got through killed at least six civilians, including a child." },
+        { "type": "bullets", "items": [
+          "Ukraine’s General Staff said its forces struck a plant in Russia’s Voronezh region producing electronics it called a “critical component” of missile manufacturing — consistent with Kyiv’s sustained effort to degrade production rather than only intercept finished weapons.",
+          "The roughly 90 percent intercept rate reflects continued Ukrainian air-defense effectiveness, but the leakers still inflict steady civilian casualties — the attritional logic Moscow is betting on.",
+          "We see no indication in this window of a change in the front-line balance; the war’s tempo remains one of nightly strikes and incremental Russian pressure rather than decisive movement.",
+          "For Washington, the steady drawdown of interceptors keeps allied air-defense resupply a live decision point; we expect Kyiv to keep prioritizing deep strikes on component plants where Western sanctions have not closed the supply gap."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Israel-Lebanon Truce Holds Loosely as the Parties Head to Washington Talks",
+      "blocks": [
+        { "type": "para", "text": "We assess the US-, Qatar-, and Iran-brokered Israel-Hezbollah truce is holding only loosely as Lebanese and Israeli delegations prepare for talks in Washington beginning 23 June. Cross-border violence has continued past successive deadlines, and we judge the ceasefire is better described as a managed lull than a durable halt." },
+        { "type": "bullets", "items": [
+          "Israeli officials have stressed they retain “complete freedom of action” in southern Lebanon, Gaza, and beyond — language we read as preserving a free hand to strike rather than signaling renewal of full-scale war.",
+          "The Washington round, slated to run through mid-week, aims at a more comprehensive arrangement; we assess the gap between a security framework Israel will accept and terms Hezbollah and Beirut can survive politically remains wide.",
+          "For Washington, the talks are an opportunity to convert a fragile pause into something more durable, but the same enforcement problem that has dogged every recent regional ceasefire — strikes continuing under a nominal truce — will test US mediation.",
+          "What to watch: whether the parties agree any verification or de-confliction mechanism, and whether the Lebanon track stays insulated from the parallel US-Iran negotiation."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Deadly Shooting in Montreal Jewish District Kills Officer and Resident; Motive Unsettled",
+      "blocks": [
+        { "type": "para", "text": "We assess the 22 June shooting in Montreal’s Côte-des-Neiges neighborhood — home to synagogues and Jewish schools — is a serious public-safety event for a close US ally, though the gunman’s motive is not yet established. Police say the assailant killed a police officer and a Jewish resident and was himself killed; a second officer wounded in the exchange has stabilized." },
+        { "type": "bullets", "items": [
+          "Local reporting attributes the attacker to “incel” ideology and cites a purported manifesto suggesting he may have targeted the offices of Aylo, the parent company of a major pornography platform — not, on current reporting, an explicitly antisemitic plot, despite the location. We treat the motive as unconfirmed.",
+          "Whatever the motive, an armed attack in an identifiably Jewish district will heighten community-security concerns across North America at a moment of elevated threat reporting tied to the Middle East conflict.",
+          "For US homeland agencies, the relevance is the threat environment and information-sharing with Canadian partners; we have no indication of a US nexus or coordinated plot.",
+          "What to watch: Canadian authorities’ confirmation of motive and any indication of online radicalization patterns relevant to US-based copycat risk."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the FBI Intelligence Branch, the DHS Office of Intelligence and Analysis, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan — RSF defection amid atrocity warning.</b> A senior Rapid Support Forces commander, Ali Rizkallah, was received in Khartoum on 22 June and given rank in the armed forces, the army-aligned government touting a string of high-level defections. The optics drew anger from those who fear former RSF figures will escape accountability. Separately, the UN Security Council warned of substantial RSF reinforcement around El Obeid and an imminent risk of mass atrocities. We assess the defections reshuffle alliances at the margins but do not alter the war’s trajectory; El Obeid is the nearer-term humanitarian flashpoint." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Energy — crude slides on Gulf de-escalation.</b> Crude extended losses to roughly $74 a barrel on 22 June, near its lowest since early March, as Hormuz traffic normalized and Washington’s 60-day license cleared a path for renewed Iranian exports. We judge the market is pricing a best-case normalization; logistics frictions or a renewed flare-up over the inspections dispute could reverse the move quickly." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Gaza — strikes continue under the standing ceasefire.</b> An Israeli strike hit Gaza City on 22 June even as the October 2025 Gaza ceasefire nominally holds; Gaza’s health ministry says cumulative deaths since the truce took effect now exceed 900. We assess the ceasefire persists in name while permitting recurrent Israeli strikes against claimed threats — the same enforcement gap visible on the Lebanon track." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, the Office of Intelligence and Analysis (Treasury), and open sources."
+    }
+  ]
+}

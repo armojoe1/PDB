@@ -148,10 +148,10 @@ GREY_RULE = HexColor("#9a9a9a")
 STAR_GREY = HexColor("#b0b0b0")
 
 PAGE_W, PAGE_H = letter
-LMARGIN = 1.10 * inch
-RMARGIN = 1.00 * inch
-TMARGIN = 1.18 * inch              # banner sits above; story masthead band starts here
-BMARGIN = 1.15 * inch              # leaves room for footer banner
+LMARGIN = 0.85 * inch
+RMARGIN = 0.80 * inch
+TMARGIN = 1.05 * inch              # banner sits above; story masthead band starts here
+BMARGIN = 0.95 * inch              # leaves room for footer banner
 
 CLASSIFICATION = "TOP SECRET//NOFORN"   # overridable via brief["classification"]
 SHORT_CLASS = "TOP SECRET"              # the short marking that sits by the date
@@ -168,19 +168,19 @@ def build_styles():
     )
     styles["headline"] = ParagraphStyle(
         "headline", parent=ss["Normal"], fontName=FONT_BOLD,
-        fontSize=14, leading=18, spaceBefore=2, spaceAfter=10, textColor=INK,
+        fontSize=12, leading=14.5, spaceBefore=1, spaceAfter=6, textColor=INK,
     )
     styles["body"] = ParagraphStyle(
         "body", parent=ss["Normal"], fontName=FONT_REGULAR,
-        fontSize=11.5, leading=16.5, spaceAfter=9, textColor=INK,
+        fontSize=9, leading=11.5, spaceAfter=5, textColor=INK,
         alignment=TA_LEFT,
     )
     styles["bullet"] = ParagraphStyle(
-        "bullet", parent=styles["body"], leftIndent=4, spaceAfter=8,
+        "bullet", parent=styles["body"], leftIndent=4, spaceAfter=4,
     )
     styles["prepared"] = ParagraphStyle(
         "prepared", parent=ss["Normal"], fontName=FONT_ITALIC,
-        fontSize=11, leading=15.5, spaceBefore=14, spaceAfter=6, textColor=INK,
+        fontSize=8.5, leading=11, spaceBefore=7, spaceAfter=4, textColor=INK,
     )
     styles["cover_title"] = ParagraphStyle(
         "cover_title", parent=ss["Normal"], fontName=FONT_BOLD,

@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-23",
+  "cover": false,
+  "emblem": "/tmp/blank.png",
+  "articles": [
+    {
+      "headline": "Iran Talks Yield 60-Day Roadmap, but Verification Gap Clouds the Pause",
+      "blocks": [
+        { "type": "para", "text": "We assess the weekend US-Iran talks near Lucerne bought time, not a settlement. Mediators Qatar and Pakistan announced a 60-day roadmap as the session closed on 22 June, and Washington issued a 60-day license permitting Iranian oil sales through 21 August. The core dispute -- whether inspectors regain access to Iran's war-damaged nuclear sites -- is unresolved, and the two sides describe the outcome differently." },
+        { "type": "bullets", "items": [
+          "Vice President Vance said Iran agreed to invite IAEA inspectors back this week; Tehran's foreign ministry countered that no inspections of the damaged sites are planned. We judge the gap is deliberate -- Tehran is using ambiguity over access to lock in sanctions relief first.",
+          "Without agreed access and a fresh material accounting, the IC will have low confidence in any estimate of Iran's remaining enriched stockpile. We expect inspections to dominate the next round and to be the likeliest breaking point.",
+          "Hormuz traffic has kept recovering; we assess the economics now favor keeping the strait open while the oil license holds."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Beijing Retaliates With Dual-Use and Rare-Earth Curbs on Ten US Defense Firms",
+      "blocks": [
+        { "type": "para", "text": "We assess China's 22 June sanctions on ten US military-related firms are a calibrated, supply-chain reprisal for the Pentagon's move barring leading Chinese tech firms from US defense contracts. Beijing framed the US action as breaching the Xi-Trump understanding reached in May -- a signal the spring tech-and-trade truce is fraying." },
+        { "type": "bullets", "items": [
+          "The measures block Chinese exports of dual-use items to the named firms -- drone makers Red Cat and Teal, Oshkosh Defense, L3Harris Maritime, Ball Aerospace, and rare-earth players MP Materials and USA Rare Earth -- and bar third-country transfers.",
+          "We judge the rare-earth targeting is the real signal: Beijing again wields mineral dominance against the US defense industrial base. We expect further tit-for-tat listings and possibly slower export licensing as quieter pressure."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Colombia Swings Right as Trump-Backed De la Espriella Wins Narrow Runoff",
+      "blocks": [
+        { "type": "para", "text": "We assess Colombia is set for a sharp rightward turn after conservative lawyer Abelardo de la Espriella narrowly won the 21 June runoff -- about 49.7 percent to leftist Senator Ivan Cepeda's 48.7 at near-complete count. The result ends outgoing leftist President Petro's era and installs a security-first, US-aligned figure who drew a Trump endorsement." },
+        { "type": "bullets", "items": [
+          "The sub-one-point margin signals a polarized electorate and contested mandate; no credible challenge has emerged as of this morning.",
+          "For Washington the shift looks favorable: closer counternarcotics cooperation, a tougher line on Venezuela, and warmer ties after years of friction. We judge an aggressive security agenda could still strain rights and stability.",
+          "What to watch: security appointments, US extradition and eradication cooperation, and Bogota's tone toward Caracas."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the DEA Office of National Security Intelligence, and open sources."
+    },
+    {
+      "headline": "Russia Sustains Overnight Strikes as Kyiv Targets the Missile Supply Chain",
+      "blocks": [
+        { "type": "para", "text": "We assess Russia is maintaining large overnight strike packages while Kyiv presses a parallel campaign against Russia's defense-industrial base. Ukrainian air defense reported downing 79 of 88 long-range drones overnight on 21-22 June plus one Iskander-M; leakers killed at least six civilians, including a child." },
+        { "type": "bullets", "items": [
+          "Ukraine's General Staff said it struck a Voronezh-region plant making electronics it called a critical missile component -- consistent with its effort to degrade production, not just intercept finished weapons.",
+          "The ~90 percent intercept rate shows continued air-defense effectiveness, but steady leakage inflicts the civilian attrition Moscow is betting on. For Washington, interceptor resupply stays a live decision point."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Israel-Lebanon Truce Holds Loosely as Parties Head to Washington Talks",
+      "blocks": [
+        { "type": "para", "text": "We assess the US-, Qatar-, and Iran-brokered Israel-Hezbollah truce is holding only loosely as Lebanese and Israeli delegations prepare for talks in Washington beginning 23 June. Cross-border violence has continued past successive deadlines; we judge this is a managed lull, not a durable halt." },
+        { "type": "bullets", "items": [
+          "Israeli officials stress they retain complete freedom of action in southern Lebanon and Gaza -- language we read as preserving a free hand to strike, not signaling renewed full-scale war.",
+          "We assess the gap between a security framework Israel will accept and terms Beirut can survive politically remains wide. What to watch: any verification or de-confliction mechanism, and whether the Lebanon track stays insulated from the US-Iran negotiation."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Deadly Shooting in Montreal Jewish District; Motive Unsettled",
+      "blocks": [
+        { "type": "para", "text": "We assess the 22 June shooting in Montreal's Cote-des-Neiges -- home to synagogues and Jewish schools -- is a serious public-safety event for a close ally, though the gunman's motive is not established. Police say the assailant killed an officer and a Jewish resident and was himself killed; a wounded second officer has stabilized." },
+        { "type": "bullets", "items": [
+          "Local reporting ties the attacker to incel ideology and a purported manifesto suggesting he targeted a pornography company -- not, on current reporting, an explicitly antisemitic plot despite the location. We treat motive as unconfirmed.",
+          "For US homeland agencies the relevance is the threat climate and Canadian information-sharing; we see no US nexus. What to watch: confirmation of motive and any online-radicalization pattern with copycat risk."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the FBI Intelligence Branch, DHS I&A, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan.</b> A senior RSF commander, Ali Rizkallah, was received in Khartoum on 22 June and given army rank, the government touting a run of defections; critics fear accountability will be evaded. The UN Security Council warned of RSF reinforcement around El Obeid and an imminent mass-atrocity risk. We assess the defections reshuffle alliances at the margins; El Obeid is the nearer humanitarian flashpoint." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Energy.</b> Crude slid to about $74 on 22 June, near its lowest since early March, as Hormuz traffic normalized and the 60-day license cleared a path for Iranian exports. We judge the market is pricing a best-case normalization that logistics or a renewed inspections dispute could quickly reverse." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Gaza.</b> An Israeli strike hit Gaza City on 22 June even as the October 2025 ceasefire nominally holds; Gaza's health ministry says cumulative deaths since the truce exceed 900. We assess the ceasefire persists in name while permitting recurrent strikes -- the same enforcement gap seen on the Lebanon track." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, and open sources."
+    }
+  ]
+}
