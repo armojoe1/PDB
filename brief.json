@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-24",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-DEAL", "summary": "Ceasefire framework strained by contested inspections and frozen-fund terms as Rubio reassures the Gulf." },
+    { "tag": "ENERGY", "summary": "Temporary sanctions waiver returns Iranian crude to market, pulling oil to a three-month low." },
+    { "tag": "WAR POWERS", "summary": "Senate rebukes the President on Iran in the first such resolution to clear both chambers." },
+    { "tag": "LEBANON", "summary": "Israel-Hezbollah truce holds but is tested by the first lethal incident in the south." },
+    { "tag": "CHINA-TAIWAN", "summary": "Carrier Fujian transits the strait as Taipei drills for a no-warning attack." },
+    { "tag": "NATO", "summary": "A public US break with allies over Iran tests alliance cohesion before the Ankara summit." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Putin holds to maximalist terms as talks restart; Ukrainian strikes keep Russian fuel under strain." },
+    { "tag": "NOTES", "summary": "Five Eyes warn on cyber-capable AI; Seoul reaffirms a 3.5% defense pledge at the front line." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Nuclear Framework Strained by Disputes Over Inspections and Frozen Funds",
+      "blocks": [
+        { "type": "para", "text": "We assess that this month's US-Iran ceasefire framework, while still in force, is being held together more by each side's interest in calm than by agreement on its terms. Within the past 24 hours Washington and Tehran have advanced openly contradictory accounts of the two questions that matter most to US security &mdash; verified monitoring of Iran's enriched-uranium stockpile and the scope of sanctions relief &mdash; raising the realistic possibility that the 60-day window closes with the program still unverified." },
+        { "type": "bullets", "items": [
+          "On 23 June, IAEA Director General Rafael Grossi said inspectors <i>will</i> return to Iran's nuclear sites under the interim arrangement, telling reporters \"this is going to happen\"; the same day Iran's Foreign Ministry spokesman said there is \"no plan\" and no scheduled visit, and Iranian officials reiterated that the ballistic-missile program is not on the table.",
+          "Iran's parliament speaker and chief negotiator announced agreement to unfreeze roughly $12 billion in Iranian assets in two tranches. The President said publicly the funds may be used only to buy food and medicine from the United States; Tehran's central bank governor disputed any such condition. We judge the gap is genuine, not theater &mdash; each capital is selling a different deal to its own audience.",
+          "Technical talks in Switzerland broke up on 23 June without closing those gaps. We assess verification is the sharper near-term failure point: absent IAEA access, the US cannot confirm the disposition of Iran's highly enriched uranium, and a collapse would reopen the military option the ceasefire was meant to retire."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Secretary of State Rubio arrived in Abu Dhabi on 23 June to open a three-day swing through the UAE, Kuwait and Bahrain, including a meeting of Gulf partners. We assess the trip is principally about reassurance: Gulf governments are uneasy that the framework's financial terms are too generous to Tehran and want guarantees on freedom of transit through the Strait of Hormuz. For Washington, keeping the Gulf bought in is what makes the ceasefire durable; the decision point comes if inspections stall past Rubio's return." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Bureau of Intelligence and Research, the National Security Agency, and open sources."
+    },
+    {
+      "headline": "Temporary Waiver Returns Iranian Crude to Market, Pulling Oil to a Three-Month Low",
+      "blocks": [
+        { "type": "para", "text": "We assess the de-escalation with Iran is already paying a tangible economic dividend &mdash; and handing Tehran a strategic one. A 60-day Treasury waiver issued 22 June lets Iran produce, ship and sell crude and, for the first time in decades, transact in US dollars; markets read it as faster supply, and Brent fell to roughly $77 a barrel on 23 June, its lowest in nearly three months and down sharply from the conflict's peak." },
+        { "type": "bullets", "items": [
+          "The waiver was a condition of this month's memorandum of understanding. Tanker traffic through the Strait of Hormuz is normalizing, and reporting indicates Iran has moved tens of millions of barrels of previously stranded crude over the past week.",
+          "For Washington, the near-term read is favorable: lower energy prices ease domestic inflation and take pressure off the Federal Reserve. We judge the relief is real but conditional &mdash; it rests on a contested deal that could lapse in August.",
+          "The strategic cost is the mirror image. Restoring Tehran's oil revenue and, notably, its access to dollar clearing reverses a pressure instrument the US has relied on for years. We assess that capability, once re-established, will be politically difficult to claw back even if the framework fails."
+        ] },
+        { "type": "para", "text": "For the President, the question is sequencing: the waiver expires 21 August, and we expect Tehran to press for its renewal as leverage against the verification demands carried in the lead item. A snap-back of sanctions would re-tighten the oil market and reintroduce the Hormuz risk premium the past week has drained out." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Office of Intelligence and Analysis of the Department of the Treasury, CIA, and open sources."
+    },
+    {
+      "headline": "Senate Rebukes the President on Iran in First War Powers Vote To Clear Both Chambers",
+      "blocks": [
+        { "type": "para", "text": "We assess the President's domestic room to resume military action against Iran narrowed on 23 June, when the Senate voted 50-48 to direct him to halt hostilities absent congressional authorization. Paired with the House's earlier passage, it is the first time a war powers resolution on Iran has cleared both chambers &mdash; a symbolic instrument with no legal force, but a real political signal at a delicate moment in the ceasefire." },
+        { "type": "bullets", "items": [
+          "Four Republicans &mdash; Collins, Cassidy, Murkowski and Paul &mdash; joined nearly all Democrats; Senator Fetterman was the lone Democrat opposed, and two Republicans did not vote. As a concurrent resolution it does not go to the President's desk and will not become law.",
+          "The President called the four defecting Republicans \"losers\" who had \"made my job more difficult,\" underscoring that the breach is within his own party as much as across the aisle.",
+          "We judge the practical effect is to raise the political cost of any renewed strike: it puts a bipartisan marker down that further action needs authorization, and it complicates US threats to \"hit Iran again\" that have been part of Washington's leverage in the talks."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research and open sources."
+    },
+    {
+      "headline": "Israel-Hezbollah Truce Holds but Is Tested by First Lethal Incident in South Lebanon",
+      "blocks": [
+        { "type": "para", "text": "We assess the Israel-Hezbollah ceasefire in effect since roughly 19 June is largely holding but absorbed its first deadly test on 23 June, when Israeli fire killed two people near Nabatieh al-Fawqa in south Lebanon. The episode illustrates the central fragility of the arrangement: Israeli forces remain on Lebanese ground, and each lethal incident invites a Hezbollah response that could reopen a second front the broader regional de-escalation depends on staying closed." },
+        { "type": "bullets", "items": [
+          "The Israel Defense Forces said troops fired on four militants \"operating under civilian cover\" who had entered a zone Israel still holds; Lebanon's national news agency and the local mayor said the dead were civilians, and Hezbollah called it a \"blatant\" violation of the truce.",
+          "Hezbollah's secretary-general Naim Qassem said Israeli forces \"will not remain\" in Lebanon and warned the group would respond to violations. The UN characterized the ceasefire as \"largely holding.\"",
+          "For Washington, the Lebanon truce is a load-bearing piece of the same regional architecture as the Iran framework. We assess sustained Israeli presence is the most likely trigger for escalation, and that a single mishandled incident could undo weeks of quiet."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Defense Intelligence Agency, the National Security Agency, and open sources."
+    },
+    {
+      "headline": "China Sends Carrier Fujian Through Taiwan Strait as Taipei Drills for a No-Warning Attack",
+      "blocks": [
+        { "type": "para", "text": "We assess Beijing used its most capable warship to make a pointed statement on 23 June, sailing the carrier <i>Fujian</i> through the Taiwan Strait &mdash; the first carrier transit since April &mdash; on the eve of a Taiwanese exercise built around a surprise Chinese attack. We judge the move as pressure-by-presence rather than a precursor to operations, but it marks maturing PLA Navy power projection that would complicate US and allied operations in any Taiwan contingency." },
+        { "type": "bullets", "items": [
+          "The <i>Fujian</i>, commissioned late in 2025, is the world's largest non-nuclear carrier and China's first with electromagnetic catapults, letting it launch heavier and more numerous aircraft than its ramp-equipped predecessors. Overhead imagery confirms the southbound transit, which Taiwan's defense ministry said it tracked alongside other Chinese aircraft and vessels operating near the island.",
+          "Taiwan began a five-day \"Immediate Combat Readiness Exercise\" using actual troops and equipment on real terrain, scripted around Beijing abruptly converting a routine encirclement drill into a real attack &mdash; precisely the no-warning scenario US planners worry most about. It follows the detection of 21 Chinese military aircraft near the island on 22 June and precedes the larger annual Han Kuang drills in August.",
+          "For Washington, the pairing is the point: Beijing demonstrates it can normalize carrier operations on Taiwan's doorstep while Taipei demonstrates it is hardening against gray-zone-to-kinetic escalation. We expect continued Chinese presence operations calibrated to test, but not breach, the threshold for a US or Taiwanese response."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, Navy intelligence, and open sources."
+    },
+    {
+      "headline": "A Public US Break With Allies Over Iran Tests Alliance Cohesion Before the Ankara Summit",
+      "blocks": [
+        { "type": "para", "text": "We assess the transatlantic relationship took a visible hit on 23 June, when the President publicly attacked NATO allies for not backing the United States in the Iran war and again questioned the value of US alliance commitments &mdash; just as Secretary General Mark Rutte traveled to Washington to steady the alliance ahead of the 7-8 July Ankara summit. Layered onto an active US force-posture review in Europe, the rupture risks both eastern-flank deterrence and US leverage in Ukraine diplomacy." },
+        { "type": "bullets", "items": [
+          "The President said allies \"weren't there for us,\" singled out Germany and Italy for criticism, and disparaged UK Prime Minister Starmer; Chancellor Merz had earlier drawn his ire by saying the US was being \"humiliated\" in the Iran war.",
+          "Rutte began a three-day Washington visit, including a White House meeting, explicitly to repair ties strained by the Iran war and by US plans to trim its military footprint in Europe. The Pentagon's six-month posture review signals possible reductions against the backdrop of a previously announced drawdown of US troops from Germany.",
+          "For Washington, the cost is leverage: allied cohesion is what underwrites pressure on Moscow and sanctions discipline. We assess Ankara is now a high-stakes test of whether the alliance holds together under US pressure, and we expect allied capitals to hedge &mdash; accelerating their own defense plans &mdash; if the US commitment looks conditional."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, the Defense Intelligence Agency, and open sources."
+    },
+    {
+      "headline": "Putin Holds to Maximalist Terms as Talks Restart; Ukrainian Strikes Keep Russian Fuel Under Strain",
+      "blocks": [
+        { "type": "para", "text": "We assess Moscow is using the prospect of restarted negotiations to project battlefield momentum while conceding nothing. On 23 June Putin and Foreign Minister Lavrov reiterated that Russia will negotiate only on the 2022 \"Istanbul\" basis &mdash; terms that would bar Ukrainian NATO membership and Western aid and cap Kyiv's military with no reciprocal limits on Russia. We judge this a negotiating posture designed to set up an impasse the Kremlin can blame on Kyiv." },
+        { "type": "bullets", "items": [
+          "Independent campaign assessment characterizes the Istanbul terms as tantamount to Ukrainian capitulation, and judges Moscow is pairing them with an information effort to frame potential Ukrainian strikes on Russian deep-strike enablers in Belarus as escalation. On the ground, Russia's main summer effort around Kostyantynivka has not consolidated into territorial control.",
+          "Ukraine's long-range campaign continues to bite: Russian officials on 23 June acknowledged \"massive\" impact on energy infrastructure while downplaying nationwide shortages, with gasoline restrictions now reported as far east as Kamchatka and export bans extended into the autumn. Russia launched roughly 135 drones at Ukraine overnight on 21-22 June, most intercepted; Kyiv reported about 1,390 Russian casualties in its 23 June daily update.",
+          "For Washington, the gap between Putin's unchanged demands and a US-pushed timeline is the risk: we assess it raises the chance the US faults Kyiv for stalled talks and conditions further support. Ukraine's ability to impose real costs deep inside Russia is what most strengthens its hand at the table."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Defense Intelligence Agency, the National Security Agency, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Five Eyes warn cyber-capable frontier AI is \"months, not years\" away.</b> On 23 June the cybersecurity agencies of the United States, United Kingdom, Canada, Australia and New Zealand issued a rare joint advisory assessing that AI models able to mount serious cyberattacks on governments and businesses are \"months, not years\" away and will outpace current defenses, urging a whole-of-society response now. We assess this clears the national-security bar as a coordinated allied judgment on a near-term offensive-cyber inflection &mdash; with the caveat that it is a forecast, not a demonstrated capability jump.",
+          "<b>Seoul reaffirms a 3.5% defense pledge at the front line.</b> On 24 June, ahead of the 76th anniversary of the Korean War's outbreak, President Lee Jae-myung visited a Marine unit on Yeonpyeong Island near the Northern Limit Line, took part in a live-fire drill, and reaffirmed raising defense spending toward 3.5% of GDP while shifting toward a smaller, more professional force. We assess the dual-track posture &mdash; deterrence hardening alongside outreach to Pyongyang &mdash; bears directly on US burden-sharing and wartime command discussions."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the National Security Agency, the DHS Office of Intelligence and Analysis, the Defense Intelligence Agency, and open sources."
+    }
+  ]
+}
