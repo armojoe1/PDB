@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-25",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "War-ending deal strains over nuclear inspections as oil falls below $74." },
+    { "tag": "LEBANON", "summary": "US-mediated talks advance in Washington even as Israeli strikes continue." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Ukrainian deep strikes drive occupied Crimea into a fuel and power crisis." },
+    { "tag": "EUROPE-NATO", "summary": "Europe's big five pre-coordinate defense before the Ankara summit." },
+    { "tag": "NORTH KOREA", "summary": "Pyongyang commissions its first guided-missile destroyer." },
+    { "tag": "CHINA-TAIWAN", "summary": "Carrier Fujian transits the strait amid a crowded exercise season." },
+    { "tag": "VENEZUELA", "summary": "Twin major earthquakes strike the Caribbean coast near Caracas." },
+    { "tag": "NOTES", "summary": "Operation Endgame, a CI/CD supply-chain flaw, Ebola reaches France, Senate war-powers whiplash, Niger exits the ICC." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Nuclear-Inspection Impasse Threatens To Unravel War-Ending Deal",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran agreement that halted the June war has entered its most fragile phase, with verified nuclear monitoring — the deal's central deliverable — still unconfirmed five days into the 60-day negotiating window. President Trump stated on 24 June that Tehran had “fully and completely agreed” to intrusive IAEA inspections and warned there would be “no further negotiations” otherwise; Iran's foreign ministry flatly denied any such commitment. The gap is not cosmetic — it goes to whether the international community can again account for Iran's nuclear material." },
+        { "type": "bullets", "items": [
+          "The two unresolved issues are concrete: roughly 440 kilograms of uranium enriched to 60 percent — enough, if further enriched, for several weapons — which Washington wants removed from the country and Tehran insists on retaining; and about $12 billion in frozen Iranian funds the US would release only into escrow for agricultural purchases. We judge neither side has yet moved off its opening position.",
+          "IAEA Director General Rafael Grossi says inspections “are going to happen,” while Iranian spokesman Esmaeil Baghaei says there is “no clear schedule” — a calibrated stall, not a refusal. We assess Tehran is trading access incrementally for sanctions relief rather than conceding it outright.",
+          "For Washington, the key question is whether the President's “do what we have to do” language is leverage or a genuine signal that US strikes could resume inside the window. We judge a return to limited strikes is a realistic possibility if Iran stonewalls past the first month, though both sides retain strong incentives to preserve the ceasefire."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Allied reaction is sharpening even as markets price the truce as durable. Gulf partners privately describe the emerging arrangement as a poor bargain that leaves the Iranian government intact and rewarded." },
+        { "type": "bullets", "items": [
+          "Saudi Arabia says it has received “no details” on a reported $300 billion Iran reconstruction fund; Qatar is interested but uncommitted; the UAE had pressed for the US and Israel to finish the campaign against Tehran. We assess this Saudi-Emirati divergence will complicate any durable regional security architecture.",
+          "The clearest tangible US gain is energy: traffic through the Strait of Hormuz has returned to roughly two dozen transits a day, near pre-war levels, and Brent crude has fallen below $74 a barrel — its lowest since before the war and down about 40 percent from the wartime peak. We judge the collapsing risk premium gives Washington room to reimpose Russian-oil sanctions, but it also bakes the truce's credibility into the market — a reversal would move prices violently."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Israel-Lebanon Talks Advance in Washington as Strikes Continue in the South",
+      "blocks": [
+        { "type": "para", "text": "We assess that US-mediated talks between Israel and Lebanon are making procedural progress but remain hostage to Israel's refusal to commit to a troop withdrawal — a gap that could reignite the southern front and, with it, strain the broader Iran ceasefire. A second working-level round ran this week at the State Department under Secretary Rubio, focused on “pilot zones” in which the Lebanese Armed Forces would progressively retake territory from Hezbollah." },
+        { "type": "bullets", "items": [
+          "Israeli Defense Minister Israel Katz declared that Israeli forces will not leave southern Lebanon “even if there is an American demand,” and Israeli strikes killed two people in the south on 24 June while the talks were under way. We judge Israel is deliberately de-linking the Lebanon track from the US-Iran negotiation to preserve freedom of action.",
+          "Lebanese President Joseph Aoun thanked Vice President Vance and Secretary Rubio, signaling Beirut still sees Washington as the indispensable broker. We assess the LAF lacks the capacity to disarm Hezbollah quickly, which makes the phased “pilot zone” approach the only realistic path — and a slow one.",
+          "For Washington, the risk is that continued Israeli operations erode the Lebanese government's ability to deliver, handing Hezbollah a recovery window. A decision point comes if Israel widens strikes while the talks continue."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Ukrainian Deep Strikes Drive Occupied Crimea Into Fuel and Power Crisis",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's deep-strike and logistics-interdiction campaign is materially degrading Russia's hold on occupied Crimea without a corresponding change on the front line — a deliberate strategy to raise Moscow's costs and pressure it toward negotiation. Strikes through 24 June hit more than 60 military targets across the peninsula and severed a railway bridge over the North Crimean Canal near Razdolne." },
+        { "type": "bullets", "items": [
+          "Overhead imagery confirms the railway span over the North Crimean Canal is down, cutting a supply artery into the peninsula; Ukrainian forces also reported destroying a Pantsir-S1 system, an S-300 launcher, and a Nebo-U radar.",
+          "The second-order effects are visible: the Russian-installed head of Crimea, Sergei Aksyonov, has restricted fuel sales to state agencies, passenger rail is suspended, and power outages have hit Yevpatoria, Saki, and Dzhankoi. We assess these disruptions are a political and propaganda liability for Moscow even short of a frontline shift.",
+          "For Washington, the campaign demonstrates that Ukrainian long-range strike can impose strategic costs on Russian sustainment and energy revenue. We expect Moscow to weigh escalatory retaliation against Ukrainian cities; the risk of a major retaliatory barrage is rising."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Europe's Big Five Pre-Coordinate Defense Ahead of Ankara Summit",
+      "blocks": [
+        { "type": "para", "text": "We assess that Europe's largest military powers are organizing explicitly around the prospect of a reduced US military footprint, hedging on American reliability while presenting a united front before the NATO summit in Ankara on 7-8 July. Leaders of the “E5” — Germany's Merz, who hosted, with France's Macron, the UK's Starmer, Italy's Meloni, and Poland's Tusk — met in Berlin on 24 June and pledged to raise defense spending and coordinate on long-range strike, air defense, drones, and AI." },
+        { "type": "bullets", "items": [
+          "The same day, NATO Secretary General Mark Rutte met President Trump at the White House to steady the alliance ahead of Ankara, against a backdrop of US criticism and an active Pentagon review of the US troop presence in Europe. We judge summit success hinges substantially on managing the President directly.",
+          "Merz and Macron framed the effort as building a more “balanced” transatlantic partnership — language we assess reflects genuine European doubt about the durability of long-term US commitment, not merely burden-sharing rhetoric.",
+          "For Washington, this is the burden-shift it has long demanded, but it also erodes US leverage over European defense choices. We expect Europe to keep building autonomous capacity regardless of the Ankara outcome."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "North Korea Commissions First Guided-Missile Destroyer, Declares a Nuclear Navy",
+      "blocks": [
+        { "type": "para", "text": "We assess that North Korea's commissioning of its first Choe Hyon-class destroyer is a deliberate move to extend its nuclear deterrent to a sea-based leg, complicating allied missile-defense and anti-submarine planning over time. Kim Jong Un presided over the ceremony at the Nampho shipyard on 24 June, calling the nuclear arming of the fleet a “strategic course.”" },
+        { "type": "bullets", "items": [
+          "The roughly 5,000-ton vessel is claimed to carry nuclear-capable cruise and ballistic missiles and enters the West Sea Fleet. Kim pledged to commission a second hull, the Kang Kon, soon and to build toward larger 10,000-ton combatants; liaison reporting corroborates that the second hull is fitting out.",
+          "We judge the near-term operational value is limited — a small surface combatant is vulnerable and the missile claims are unverified — but a credible sea-based second-strike capability over the longer term would raise the threshold for any preemptive option.",
+          "For Washington and its allies, the development feeds a regional naval arms competition and argues for sustained trilateral US-ROK-Japan anti-submarine and missile-defense coordination."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "China's Carrier Transits the Taiwan Strait Into a Crowded Exercise Season",
+      "blocks": [
+        { "type": "para", "text": "We assess that the transit of China's newest aircraft carrier, the Fujian, through the Taiwan Strait — coinciding with Taiwan's live-fire drills and a dense cluster of US-led exercises — is a calculated show of force meant to normalize PLA carrier presence near Taiwan rather than a precursor to action. Taiwan's defense ministry tracked the transit this week alongside roughly two dozen PLA aircraft and several naval vessels operating in the vicinity." },
+        { "type": "bullets", "items": [
+          "The activity overlaps Taiwan's combat-readiness exercise (23-28 June) and the US-led Valiant Shield and Resolute Dragon drills, with RIMPAC opening near Hawaii on 25 June. We assess Beijing timed the transit to contest the optics of allied exercise season.",
+          "The Fujian, commissioned in late 2025 and China's first carrier with electromagnetic catapults, is building operational tempo. We see no indication of the broader mobilization that would precede a major operation.",
+          "For Washington, the episode underscores rising gray-zone and miscalculation risk in a crowded operating environment. We expect the PLA to keep increasing the frequency of such transits to erode the political significance of the median line."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Powerful Twin Earthquakes Strike Venezuela's Caribbean Coast Near Caracas",
+      "blocks": [
+        { "type": "para", "text": "We assess that the pair of major earthquakes that struck Venezuela's coast on the evening of 24 June is a developing humanitarian catastrophe with significant political and regional implications for a sanctioned, fragile government. The US Geological Survey recorded a magnitude-7.2 foreshock followed within roughly a minute by a 7.5 quake, with epicenters near Morón, about 100 miles west of Caracas." },
+        { "type": "bullets", "items": [
+          "Acting President Delcy Rodríguez reported at least 32 dead and more than 700 injured early on 25 June, with the toll expected to climb sharply; USGS modeling places a realistic possibility of casualties in the thousands. Buildings collapsed in La Guaira and Simón Bolívar International Airport was damaged and closed.",
+          "Offers of assistance came from the United States, Mexico, Brazil, China, and Qatar, among others. We assess the disaster creates both a narrow diplomatic opening with Caracas and a risk of renewed migration pressure if infrastructure damage proves severe.",
+          "For Washington, the event complicates an already tense relationship with the Maduro-Rodríguez government and could affect output from a major sanctioned oil producer. The situation remains developing as of early 25 June."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Cyber — ‘Operation Endgame’ takedown.</b> An international operation announced 24 June (US, UK, Canada, Germany, the Netherlands, and Denmark, with Microsoft and Proofpoint) dismantled infrastructure behind the Amadey, StealC, and SocGholish malware — 326 servers and 142 domains seized, about $47 million in cryptocurrency recovered, and some 27 million stolen credentials retrieved. We assess the disruption degrades the credential-theft pipeline feeding ransomware, though operators typically rebuild.",
+          "<b>Cyber — CI/CD supply-chain exposure.</b> Researchers disclosed on 24 June a systemic class of GitHub Actions workflow flaws allowing unauthenticated code-push and credential theft; more than 300 high-impact repositories were confirmed exploitable, with fixes reported at Microsoft, Google, Cloudflare, and the Python Software Foundation. We judge the amplification of the flaw by AI coding agents to be the more consequential, longer-term concern for US government and critical-infrastructure software.",
+          "<b>Health security — Ebola reaches Europe.</b> France confirmed its first Ebola case on 24 June, a physician who flew commercially from Kinshasa; no local spread is indicated and contact tracing is under way. The underlying DRC outbreak (Bundibugyo species, no approved vaccine) has reached 1,094 cases and 277 deaths — the fastest-growing on record. WHO assesses global risk “remains low,” but a vaccine-less variant exported via commercial aviation warrants close watch.",
+          "<b>Congress — Iran war-powers whiplash.</b> The Senate passed a non-binding Iran war-powers resolution 50-48 on 23 June — the first such measure to clear both chambers — then declined to advance a similar resolution a day later under White House pressure. We assess the reversal shows the President retains effective control of the war-powers question as ceasefire implementation begins.",
+          "<b>Sahel — Niger exits the ICC.</b> Niger formally began withdrawal from the International Criminal Court on 24 June, aligning with junta partners Mali and Burkina Faso. We judge the move continues the Sahel states' rupture from Western-aligned institutions and further narrows US and allied leverage in the world's deadliest region for terrorism."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NSA, the DHS Office of Intelligence and Analysis, FBI, and open sources."
+    }
+  ]
+}
