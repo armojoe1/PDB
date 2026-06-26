@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-26",
+  "cover": true,
+  "toc": [
+    { "tag": "VENEZUELA", "summary": "Twin earthquakes devastate a fragile post-Maduro transition; US surges relief." },
+    { "tag": "IRAN-GULF", "summary": "Rubio closes Gulf tour warning Tehran against Strait of Hormuz tolls." },
+    { "tag": "UKRAINE-POLAND", "summary": "Recovery conference opens amid a Warsaw-Kyiv rift as the EU releases its first loan tranche." },
+    { "tag": "ISRAEL-LEBANON", "summary": "Israel signals open-ended presence in Lebanon and Syria as strikes continue." },
+    { "tag": "CHINA-TAIWAN", "summary": "Expanding coast guard patrols east of Taiwan point to pressure, not imminent assault." },
+    { "tag": "SUDAN", "summary": "RSF drone campaign hits White Nile as the de facto partition hardens." },
+    { "tag": "NOTES", "summary": "Ebola reaches France; a Yemeni journalist killed; new US sanctions on scam and ISIS finance." }
+  ],
+  "articles": [
+    {
+      "headline": "Twin Earthquakes Devastate Venezuela as US Surges Relief to a Fragile Transition",
+      "blocks": [
+        { "type": "para", "text": "We assess that the magnitude-7.5 and 7.2 earthquakes that struck north-central Venezuela on 24-25 June — the country’s most powerful since at least 1900 — have opened a humanitarian emergency that will test the seven-month-old transitional government of acting President Delcy Rodríguez and draw the United States deeper into Venezuela’s internal affairs. Authorities reported roughly 235 dead and more than 4,300 injured as of this morning, a toll we judge almost certain to climb sharply." },
+        { "type": "bullets", "items": [
+          "The “doublet” — a 7.2 followed within seconds by a 7.5 near Yumare at about 10 km depth — collapsed more than 100 buildings in the Caribbean port of La Guaira and damaged structures across Caracas. The shallow depth and dense coastal construction account for the high casualty count; US Geological Survey modeling places a realistic possibility on fatalities reaching the thousands.",
+          "Rodríguez, who took power after US forces captured Nicolás Maduro in January, has declared a nationwide state of emergency, ordered medical staff to report for duty, and stood up a $200 million reconstruction fund. We judge the government’s response capacity is thin after years of economic collapse and January’s political rupture, and that hospitals are already overwhelmed.",
+          "US Southern Command is surging assets, with two Navy ships and aircraft in the Caribbean assigned to relief — a notable posture given Washington’s direct role in Maduro’s ouster. Overhead imagery confirms the scale of collapse along the La Guaira waterfront.",
+          "For Washington, disaster relief offers leverage to stabilize a transition it helped create and to blunt the charge that the US “runs” Venezuela; the risk is that aid becomes entangled in a contested-legitimacy fight, as Maduro loyalists continue to insist he remains the lawful president."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NGA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Rubio Closes Gulf Tour Warning Against Hormuz Tolls as Iran Deal Strains Arab Partners",
+      "blocks": [
+        { "type": "para", "text": "We assess that Secretary of State Rubio’s just-concluded Gulf swing was aimed at containing Arab anxiety over the US-Iran interim agreement, and that the dispute over Tehran’s floated Strait of Hormuz transit tolls is now the most likely near-term flashpoint in an otherwise holding ceasefire. On 25 June Rubio warned that any Iranian toll would spread “like a contagion” to other waterways and said there is “zero support” among Gulf states for it." },
+        { "type": "bullets", "items": [
+          "The US and Iran signed a memorandum of understanding last week extending the ceasefire that ended more than 100 days of war and opening a 60-day window to resolve Iran’s nuclear program and other issues. On day 118 of the conflict period, the Islamic Revolutionary Guard Corps publicly rejected a proposed alternative Hormuz routing.",
+          "Press reporting indicates Tehran is modeling a Turkey-style transit-fee regime it projects could yield some $40 billion a year — a revenue grab we assess doubles as leverage to offset wartime economic damage and sanctions.",
+          "Gulf partners are privately uneasy that US normalization with Shia-majority Iran could entrench Tehran’s regional position; GCC ministers pressed that durable security must also address Iran’s ballistic missiles, drones, and proxies.",
+          "Energy spillover is already visible: Iraq is weighing an OPEC exit unless its production cap rises, citing reserve drawdown from war-related disruption. In Washington, the Senate on 24 June blocked a War Powers resolution after presidential pressure, preserving the administration’s freedom of action. We expect holding the ceasefire while keeping Hormuz open to remain the central balancing act; a decision point comes if Tehran moves to impose tolls unilaterally."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NSA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Recovery Conference Opens Under a Polish Rift as EU Releases First Loan Tranche",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Ukraine Recovery Conference that opened in Gdańsk on 25 June will mobilize substantial reconstruction financing but has also exposed a widening Warsaw-Kyiv rift that bears watching for its effect on Ukraine’s most important logistical and political rear-area partner. President Zelensky withdrew days before over a dispute with Polish President Nawrocki tied to contested World War II history, sending Prime Minister Svyrydenko in his place." },
+        { "type": "bullets", "items": [
+          "The European Commission disbursed the first €3.2 billion tranche of a €90 billion loan package for Ukraine’s defense, energy resilience, and state budget; organizers expect more than 160 agreements worth over €10 billion, and Kyiv signed a separate $3.39 billion World Bank package.",
+          "Zelensky’s absence — driven by friction with Nawrocki, who has taken a harder nationalist line — is a notable signal: Poland is Ukraine’s indispensable arms conduit and staging ground, and historical tension there carries real strategic risk.",
+          "We judge the financing keeps Ukraine’s state solvent and its grid investment moving into the 2026-27 winter, but does not substitute for the air defense and munitions Kyiv most needs against continued Russian strikes.",
+          "For Washington, a frayed Warsaw-Kyiv relationship complicates burden-sharing as the US presses Europe to carry more of Ukraine’s support. Watch whether the rift bleeds into NATO’s Ankara summit in early July."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Israel Signals Open-Ended Presence in Lebanon and Syria as Strikes Continue",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel intends to hold security zones in southern Lebanon, Syria, and Gaza indefinitely, and that continued strikes — including one that killed several people in Lebanon’s Nabatieh province on 25 June — will keep low-level escalation risk elevated even as the broader US-Iran ceasefire holds. Defense Minister Katz said forces will remain “without any time limit” to protect residents." },
+        { "type": "bullets", "items": [
+          "Lebanese health authorities reported the Nabatieh strike killed three to six people. A US assertion that Israel had pulled back from part of its southern buffer zone was denied by both Israeli and Lebanese officials — a discrepancy that underscores how contested the withdrawal question remains.",
+          "Separately on 25 June, an Israeli drone strike killed at least one person in Gaza City, and a raid in Salfit in the West Bank killed one Palestinian.",
+          "Katz warned Tehran that any Iranian attack on Israel — over Lebanon or for any other reason — would draw a full-force response, language we read as deterrent signaling while the 60-day US-Iran talks proceed.",
+          "For Washington, Israel’s open-ended posture complicates efforts to stabilize Lebanon and consolidate the Iran ceasefire. The key question is whether Israeli operations stay calibrated below the threshold that would reignite the wider war."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Beijing’s Expanding Patrols East of Taiwan Point to Pressure, Not Imminent Assault",
+      "blocks": [
+        { "type": "para", "text": "We assess that China’s intensifying coast guard activity in the Pacific approaches east of Taiwan — highlighted in reporting on 25 June — reflects a deliberate gray-zone campaign to normalize jurisdiction claims and rehearse elements of a future blockade, rather than preparation for a near-term invasion. We see no indication of the logistics buildup that would precede a major amphibious operation." },
+        { "type": "bullets", "items": [
+          "Beijing characterizes the patrols as “legitimate” enforcement in waters it claims as its exclusive economic zone east of Taiwan, framing them as a response to Japanese and Philippine maritime moves; analysts describe an “anaconda” approach meant to slowly constrict Taiwan without a decisive battle.",
+          "We judge China still faces significant constraints — amphibious lift gaps, integration weaknesses, and limited blue-water command experience — that make a near-term conquest impractical despite the broader military buildup.",
+          "For Washington, the risk is incrementalism: each normalized patrol erodes Taipei’s freedom of action and complicates allied responses below the threshold of armed conflict. We will watch for coast guard interactions with foreign-flagged merchant traffic, which raise the odds of a miscalculation or incident."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, ONI, and open sources."
+    },
+    {
+      "headline": "RSF Drone Campaign Strikes White Nile State as Sudan’s De Facto Partition Hardens",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Rapid Support Forces’ 25 June drone strikes on Rabak, Kosti, and the Kenana complex in White Nile State reflect a shift toward long-range attacks on infrastructure as the RSF consolidates a parallel state in the territory it holds — hardening Sudan’s de facto east-west partition. The strikes damaged fuel and medicine warehouses and caused civilian casualties." },
+        { "type": "bullets", "items": [
+          "The targeting of power, fuel, and industrial nodes is consistent with an RSF strategy to degrade services in army-held areas while building parallel governance; press reporting indicates the group is also issuing its own currency notes in territory it controls.",
+          "We judge that neither the RSF nor the Sudanese Armed Forces can achieve a decisive military victory soon, and that the trajectory points toward a hardening split with competing administrations.",
+          "For Washington and its partners, a partitioned Sudan threatens to entrench one of the world’s worst humanitarian catastrophes and to create ungoverned space exploitable by extremist groups across the Sahel and the Red Sea corridor."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>DR Congo / Ebola.</b> France confirmed its first imported case on 24 June as the Democratic Republic of the Congo outbreak — now the second-largest on record at more than 1,100 confirmed cases and roughly 291 deaths, and the fastest-spreading Ebola event to date — continued to outpace the response in Ituri province. The Bundibugyo-strain outbreak’s spillover to a NATO ally raises the profile of a fast-moving health-security threat." },
+        { "type": "para", "text": "<b>Yemen.</b> A car bombing killed Al Arabiya correspondent Mohammed Ayda in Hadhramaut province on the evening of 24 June; no group claimed responsibility. We note the killing against a fluid security backdrop in eastern Yemen." },
+        { "type": "para", "text": "<b>US Treasury actions.</b> On 24-25 June the Treasury blacklisted nine individuals and 26 entities tied to the Prince Holding Group’s cyber-scam networks, with an alleged executive arrested in Japan, and separately designated three individuals and six entities in Nigeria for financing the Islamic State — part of a sustained campaign against transnational fraud and terrorist finance." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NSA, Treasury OIA, DHS I&amp;A, and open sources."
+    }
+  ]
+}
