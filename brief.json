@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-27",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "US and Iran trade strikes; the week-old Hormuz understanding frays but holds." },
+    { "tag": "ISRAEL-LEBANON", "summary": "A US-brokered framework is signed in Washington; Hezbollah rejects its core condition." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv presses one of its heaviest deep-strike campaigns; Crimea a 'zone of constant losses.'" },
+    { "tag": "ENERGY", "summary": "Oil hits a four-month low as markets bet the strait stays open; OPEC+ keeps fragmenting." },
+    { "tag": "VENEZUELA", "summary": "Twin quakes become a major disaster; the US mounts a large relief effort." },
+    { "tag": "UKRAINE AID", "summary": "At Gdansk, Ukraine's backers convert pledges into cash through 2027." },
+    { "tag": "NOTES", "summary": "Sudan atrocity warning; Russia's overnight barrage on Ukrainian cities." }
+  ],
+  "articles": [
+    {
+      "headline": "US and Iran Trade Strikes as Hormuz Understanding Frays",
+      "blocks": [
+        { "type": "para", "text": "We assess that the week-old US–Iran understanding on the Strait of Hormuz is at its most fragile point since it was signed, after US forces struck Iranian targets overnight and Tehran announced retaliation against US positions in the Gulf. The exchange has not escalated to sustained fighting, but it has hardened both sides' rhetoric and put the 60-day arrangement that reopened the strait at real risk." },
+        { "type": "bullets", "items": [
+          "US Central Command said it struck Iranian missile- and drone-storage sites and coastal radar installations along Iran's southern coast — reporting points to areas near Sirik and Qeshm Island — in response to a 25 June drone attack on the Singapore-flagged container ship <i>Ever Lovely</i> in the strait. The vessel was damaged but proceeded under its own power.",
+          "Iran's IRGC Navy said it “targeted the deployment sites of US military forces in the region” in reply, and Bahrain reported being targeted by Iranian drones. As of this morning we have seen no confirmation that US facilities were hit; we treat Tehran's claim as announced, not verified.",
+          "Iran's foreign ministry called the US strikes a violation of Article 1 of the memorandum of understanding signed last week; Vice President Vance warned that “violence will be met with violence.” Each government accuses the other of breaking the deal, but neither has formally abandoned it.",
+          "The George H.W. Bush Carrier Strike Group is operating in the US 5th Fleet area of responsibility, and CENTCOM retains substantial strike assets in theater — a posture that gives the President options well short of a return to large-scale operations."
+        ] },
+        { "type": "para", "text": "Overhead imagery is consistent with strikes on coastal radar and storage sites along Iran's southern coast." },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the near-term question is whether this stays a contained tit-for-tat or reopens the wider war the understanding paused. We assess escalation is possible but not yet the likeliest path: both sides retain a strong interest in the strait staying open, and — as oil markets are signaling — the commercial flow through Hormuz has continued despite the violence. A decision point comes if Iran lands a damaging blow on US personnel; that, more than the rhetoric, would force a choice in Washington." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Israel and Lebanon Sign US-Brokered Framework; Hezbollah Rejects It",
+      "blocks": [
+        { "type": "para", "text": "We assess that Friday's framework agreement between Israel and Lebanon — signed at the State Department under US mediation — is a genuine step toward de-escalation that nonetheless rests on a condition, Hezbollah's disarmament and withdrawal, the group has flatly refused to meet. The deal lowers the odds of near-term Israeli–Lebanese fighting while leaving the harder problem unresolved." },
+        { "type": "bullets", "items": [
+          "The accord, signed by the Israeli and Lebanese ambassadors with Secretary Rubio presiding, commits Israel to a partial pullback from two areas inside the buffer zone it holds in south Lebanon, with the Lebanese Armed Forces moving in behind it.",
+          "The ceasefire is contingent on a “complete cessation of fire” by Hezbollah and the evacuation of its fighters from the South Litani sector. Prime Minister Netanyahu said Israel will hold the buffer zone “until Hezbollah disarms and as long as there is a threat to the State of Israel.”",
+          "Hezbollah rejected the terms within hours: lawmaker Hassan Fadlallah said Beirut cannot enforce an agreement signed in Washington and that the group will keep — and “hold on to even more” — its weapons."
+        ] },
+        { "type": "para", "text": "For the United States, the framework is a diplomatic win that advances the administration's regional de-escalation track, but its durability turns on whether the Lebanese state can do something it has never managed — assert authority over Hezbollah. We judge that implementation, not signature, is the real test. Watch whether the first Israeli pullback and the LAF deployment actually occur on the ground in the coming weeks; if they do not, the framework risks becoming another paper ceasefire." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Presses Deep-Strike Campaign as Crimea Becomes a 'Zone of Constant Losses'",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine has seized the initiative in the deep-strike fight, sustaining one of its heaviest drone campaigns of the war against Russian rear areas and occupied Crimea and beginning to degrade the logistics that supply Russia's southern front. The campaign does not move the front line, but it is imposing real and growing costs inside Russia and on the peninsula." },
+        { "type": "bullets", "items": [
+          "Russian air defenses reported intercepting roughly 660 Ukrainian drones overnight across a dozen regions and Crimea — among the largest such attacks since the 2022 invasion. Ukraine's SBU called Crimea a “zone of constant losses,” citing strikes on military airfields and air-defense sites.",
+          "Kyiv's campaign over the past week has hit fuel, power, and transport links to Crimea — including disabled vehicle ferries — producing fuel shortages and crossing delays on the peninsula. Open-source imagery shows damage to airfields and port infrastructure.",
+          "We assess the intent is operational, not symbolic: by starving the southern logistics network, Ukraine aims to make Russian positions in the south harder to sustain through the summer fighting season."
+        ] },
+        { "type": "para", "text": "For Washington, the campaign strengthens the case that continued air-defense and long-range support — reaffirmed by the G7 this month — is producing battlefield effect. The principal risk is Russian retaliation against Ukrainian cities, which continued overnight (see Notes). We expect Kyiv to keep prioritizing logistics and air bases over showcase targets, because that is where the strikes change Russian behavior." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Oil Falls to Four-Month Low as Markets Bet the Strait Stays Open",
+      "blocks": [
+        { "type": "para", "text": "We assess that oil markets are signaling confidence the Strait of Hormuz will remain open despite the renewed US–Iran exchange — a judgment that, if it holds, sharply limits the economic leverage either a price shock or Tehran could exert on the United States. Brent settled Friday near $72 a barrel, its lowest since late February, even as a vessel was attacked in the strait." },
+        { "type": "bullets", "items": [
+          "Brent for August settled down about 4% near $71.99, with WTI near $69.23; that the market fell on a day a ship was hit underscores that traders are pricing in continuity, not closure.",
+          "Gulf export volumes have recovered toward three-quarters of pre-crisis levels as tankers resume transits under the 60-day understanding.",
+          "Beneath the price story, OPEC+ is fragmenting: the UAE left the cartel in May, and Iraq — its second-largest producer — is now pressing for a higher quota and signaling it could follow. We assess a looser, less disciplined cartel means structurally softer prices and less ability for any single producer to weaponize supply."
+        ] },
+        { "type": "para", "text": "For the United States, cheaper oil is an economic tailwind and a strategic cushion: it blunts Iran's ability to inflict pain through the strait and erodes Russia's energy revenue. The risk case is a genuine Hormuz closure or a sustained tanker-war — outcomes the market is currently discounting, and the first thing to watch if the US–Iran exchange widens." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, CIA, and open sources."
+    },
+    {
+      "headline": "Venezuela Reels From Twin Quakes; US Mounts a Large Relief Effort",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 24 June twin earthquakes in northern Venezuela are a major humanitarian disaster still in its acute phase, with the death toll climbing and a realistic possibility it rises sharply as rescuers reach collapsed structures. The United States has launched a substantial relief effort — notable given Washington's deep stake in Venezuela following its January operation that captured Nicolás Maduro." },
+        { "type": "bullets", "items": [
+          "A magnitude-7.2 foreshock and a 7.5 mainshock struck near the northern coast on 24 June. National Assembly President Jorge Rodríguez reported on the 26th that more than 900 had died and over 3,300 were injured, with tens of thousands unaccounted for; USGS modeling warns the toll could run into the thousands. Caracas and La Guaira were hit hard.",
+          "The US is deploying urban search-and-rescue teams — including the Fairfax County and Los Angeles County task forces — plus medical and humanitarian aid coordinated by the State and Defense Departments; Mexico, Chile, and El Salvador are also assisting.",
+          "President Trump pledged rapid support and spoke with Venezuelan officials, who publicly acknowledged the US offer. Acting President Delcy Rodríguez now leads the government in Maduro's absence — an arrangement Washington views warily even as it sends aid."
+        ] },
+        { "type": "para", "text": "We assess the disaster gives Washington an opening to build influence with the post-Maduro government, though the politics of US aid in Venezuela remain delicate on both sides. Watch the next 24–72 hours: the rescue window is closing, and the official casualty count is likely to climb as access improves and outside teams arrive." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NGA, DIA, and open sources."
+    },
+    {
+      "headline": "At Gdansk, Ukraine's Backers Convert Pledges Into Cash",
+      "blocks": [
+        { "type": "para", "text": "We assess that this week's Ukraine Recovery Conference in Gdansk marked a shift from promises to disbursement, with Kyiv securing the first tranche of the EU's €90 billion support loan and a raft of new financing — evidence that European backing is holding firm even as US policy stays transactional. The signal to Moscow is that Ukraine's war economy is being underwritten through 2027." },
+        { "type": "bullets", "items": [
+          "The European Commission released a €3.2 billion first installment of the €90 billion 2026–27 loan during the conference, roughly €60 billion of which is earmarked for Ukraine's defense industry.",
+          "Kyiv signed a $3.4 billion World Bank operation and a new £290 million UK package for energy, recovery, and justice; officials said the gathering produced more than 160 agreements worth over €10 billion.",
+          "Poland pushed a new security-and-defense dimension into the reconstruction effort, and Estonia was named host of the 2027 conference — continuity that is itself a message of staying power to both Kyiv and Moscow."
+        ] },
+        { "type": "para", "text": "For Washington, the takeaway is that the financial burden of sustaining Ukraine is shifting toward Europe, easing pressure on US appropriations while keeping Kyiv solvent. The open question is whether reconstruction money can actually be put to work while the deep-strike war grinds on — a tension that will shape how much of these commitments convert into results." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Sudan —</b> Human-rights monitors warned on 26 June of an imminent Rapid Support Forces offensive on El Obeid in North Kordofan, urging international action to prevent a repeat of the El-Fasher atrocities; a UN fact-finding mission concluded earlier this year that RSF conduct in El-Fasher bore “the hallmarks of genocide.” We assess El Obeid is the next major flashpoint in Sudan's war and a near-term mass-atrocity risk.",
+          "<b>Ukraine (homeland) —</b> Russia's overnight barrage killed civilians in the Kharkiv region — including a strike on Izium — and damaged energy and civilian infrastructure in Kyiv, Odesa, Zaporizhzhia, and Sumy; Ukrainian air defenses reported downing 174 of 189 drones, with four of seven Iskander-M missiles getting through. The barrage underscores that Moscow retains the capacity to punish Ukrainian cities even as it loses ground in the deep-strike fight."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, NGA, and open sources."
+    }
+  ]
+}
