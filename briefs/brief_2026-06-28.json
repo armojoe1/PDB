@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-28",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "Hormuz ceasefire collapses as US and Iran trade strikes; IRGC hits Gulf bases." },
+    { "tag": "ENERGY-HORMUZ", "summary": "Tanker attacks strand shipping and whipsaw oil; supply risk persists." },
+    { "tag": "LEBANON-ISRAEL", "summary": "US-brokered framework signed in Washington; Hezbollah rejects it." },
+    { "tag": "UKRAINE", "summary": "Kyiv launches one of its largest deep-strike drone assaults into Russia." },
+    { "tag": "VENEZUELA", "summary": "Quake toll tops 1,400 as the rescue window closes." },
+    { "tag": "CHINA-TAIWAN", "summary": "Beijing sustains pressure with a 55-aircraft sortie around the island." },
+    { "tag": "NOTES", "summary": "Gaza strike; Gulf partners react to Iranian fire." }
+  ],
+  "articles": [
+    {
+      "headline": "US and Iran Trade Strikes as Hormuz Ceasefire Collapses",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 17 June US-Iran ceasefire has effectively broken down. Across 26-27 June, US Central Command conducted two consecutive nights of strikes on Iranian military targets after Iranian one-way attack drones struck commercial tankers near the Strait of Hormuz; early on 28 June, Iran's Islamic Revolutionary Guard Corps (IRGC) retaliated with a missile-and-drone salvo against US facilities in Kuwait and Bahrain. This is the most serious escalation since the truce, and we judge further tit-for-tat strikes are likely in the coming days." },
+        { "type": "bullets", "items": [
+          "CENTCOM said its 27 June strikes followed an Iranian drone that hit the Panama-flagged tanker M/T Kiku &mdash; carrying more than two million barrels of crude &mdash; near Hormuz at about 0430 ET, and that Tehran had been &ldquo;given a chance to honor the ceasefire agreement but elected not to.&rdquo; The strikes targeted Iranian surveillance, communications, air-defense, drone-storage, and mine-laying capabilities; a prior round on 26 June answered an attack on the tanker M/V Ever Lovely.",
+          "The IRGC said its navy and aerospace forces struck the Ali al-Salem air base in Kuwait and US Fifth Fleet facilities in Bahrain in a joint operation around 0200-0300 local on 28 June. A US official said no US casualties or major damage had been reported; Kuwait and Bahrain condemned the strikes as violations of their sovereignty. NSA reporting is consistent with the IRGC Aerospace Force having directed the Gulf-base operation.",
+          "The United States retains heavy strike capacity in theater &mdash; multiple carrier strike groups and, by US command accounts, more than 30 warships in the CENTCOM area &mdash; but that same forward posture exposes US bases and Gulf partners to Iranian retaliation."
+        ] },
+        { "type": "para", "text": "For Washington, the central question is whether the administration intends a limited reprisal to restore deterrence or the opening of a broader campaign. We expect continued Iranian harassment of Gulf shipping and the realistic possibility of further strikes on US regional facilities. A key decision point would come if Iranian fire produces US casualties, which would sharply raise pressure for a wider American response." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Hormuz Attacks Strand Shipping and Whipsaw Oil; Supply Risk Persists",
+      "blocks": [
+        { "type": "para", "text": "We assess that repeated attacks on tankers transiting the Strait of Hormuz are disrupting global shipping and sustaining a risk premium in oil, even as physical supply has so far held. The 27 June strike on the M/T Kiku damaged the vessel's bridge and kept the UN International Maritime Organization's (IMO) evacuation of stranded crews suspended." },
+        { "type": "bullets", "items": [
+          "The IMO had already paused a plan to move out more than 11,000 sailors stranded aboard vessels in the Gulf after an earlier projectile strike; Secretary-General Arsenio Dominguez said the agency wants safety guarantees before resuming.",
+          "Prices swung hard. Brent spiked toward $76 before easing, with August Brent settling near $72 (down about 4 percent) and US WTI near $69 as more tankers exited the strait &mdash; markets pricing disruption risk rather than an actual loss of barrels.",
+          "Roughly a fifth of seaborne oil and a large share of LNG transit Hormuz. For the United States, the exposure is less direct crude dependence than the price shock to allies and the global economy."
+        ] },
+        { "type": "para", "text": "We judge a sustained closure of the strait is unlikely in the near term but cannot be ruled out if the military exchange widens. Watch war-risk insurance premiums, any Iranian move toward mining the approaches, and whether shipowners begin holding tankers out of the Gulf in larger numbers &mdash; the point at which a price-risk story would become a supply story." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Treasury Office of Intelligence and Analysis, the Energy Department's Office of Intelligence and Counterintelligence, and open sources."
+    },
+    {
+      "headline": "US-Brokered Lebanon-Israel Framework Signed; Hezbollah Rejects It",
+      "blocks": [
+        { "type": "para", "text": "We assess the trilateral US-Israel-Lebanon framework signed in Washington on 26 June is a meaningful diplomatic step but faces immediate resistance that limits near-term implementation. Hezbollah Secretary-General Naim Qassem on 27 June declared the accord &ldquo;null and void,&rdquo; and an Israeli drone struck near Nabatieh in southern Lebanon the same day, underscoring how fragile the arrangement is." },
+        { "type": "bullets", "items": [
+          "The framework sets out a &ldquo;sequenced process&rdquo; in which Lebanon's army restores sovereign authority and disarms &ldquo;non-state armed groups&rdquo; &mdash; a clear reference to Hezbollah &mdash; with two pilot zones handed over first; only then would Israel &ldquo;progressively redeploy.&rdquo;",
+          "Prime Minister Netanyahu called the deal &ldquo;a historic achievement&rdquo; but said Israel would remain in its southern Lebanon &ldquo;security zone&rdquo; on no fixed timetable and reserved the right to keep striking. The arrangement front-loads Lebanese obligations and back-loads Israeli withdrawal.",
+          "Qassem accused Beirut of surrendering sovereignty. We judge that Hezbollah's rejection, combined with continued Israeli strikes, makes full implementation unlikely absent sustained US pressure on Beirut and a Lebanese Armed Forces capacity to act against Hezbollah that remains in doubt."
+        ] },
+        { "type": "para", "text": "For Washington, a durable Lebanon track would consolidate post-war gains against Hezbollah and damp a flashpoint that could draw in Iran. The first real test is narrow and concrete: whether the Lebanese army actually deploys into the pilot zones and begins disarmament, or whether the framework stalls at signature." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Launches One of Its Largest Drone Assaults Deep Into Russia",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine overnight on 26-27 June carried out one of its heaviest long-range drone bombardments of the war, striking targets across roughly a dozen Russian regions, occupied Crimea, and the surrounding seas, while Russia pressed on with daily strikes against Ukrainian cities." },
+        { "type": "bullets", "items": [
+          "Ukrainian forces said they hit a Pantsir-S1 air-defense system in Feodosia and the Kerch-area ferry Petropavlovsk in occupied Crimea &mdash; claims consistent with an expanding deep-strike campaign aimed at Russian logistics and air defenses, though independent battle-damage confirmation is still pending.",
+          "Russian strikes on 27 June injured at least 13 people in Sumy, including two children, and nine in Zaporizhzhia; Kyiv said its air defenses downed or suppressed 113 of 129 Russian drones overnight.",
+          "Russia shelled the Sumy region more than 60 times over the preceding day, killing one and wounding others &mdash; the steady civilian toll the long-range exchange continues to produce on both sides."
+        ] },
+        { "type": "para", "text": "For Washington, the tempo signals Kyiv's intent to carry the war onto Russian territory and degrade the systems behind the nightly attacks on its cities. We expect Moscow to answer with further large-scale aerial barrages; a sustained Ukrainian ability to reach Crimea's air defenses and Kerch-area shipping would be the clearest sign the deep-strike campaign is achieving operational effect rather than symbolic reach." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Venezuela Earthquake Toll Tops 1,400 as Rescue Window Closes",
+      "blocks": [
+        { "type": "para", "text": "We assess the twin earthquakes that struck Venezuela on 24 June constitute a major humanitarian disaster with regional implications. Venezuelan officials on 27 June put the death toll above 1,400, with more than 3,200 injured and tens of thousands reported missing, as the roughly 72-hour window for finding survivors neared its end." },
+        { "type": "bullets", "items": [
+          "The 24 June sequence &mdash; a magnitude-7.2 foreshock followed within seconds by a 7.5 mainshock &mdash; caused widespread damage around La Guaira and Caracas. International rescue teams, including from the United States, Mexico, Brazil, and Cuba, have joined the search.",
+          "Official figures are likely to change and probably to rise: with more than 50,000 people reported missing, the toll remains highly uncertain and the count is still developing as of this morning.",
+          "A disaster of this scale strains the Maduro government's capacity and reshapes the politics around Venezuela. For Washington, it intersects with sanctions, migration pressures, and the question of humanitarian engagement &mdash; creating both openings and risks."
+        ] },
+        { "type": "para", "text": "We expect the response phase to dominate Caracas's bandwidth for weeks and to draw in regional and outside assistance. How the government manages relief &mdash; and whether it accepts or limits foreign help &mdash; will shape both domestic stability and the near-term tenor of US-Venezuela dynamics." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Beijing Sustains Military Pressure on Taiwan With Large Sortie",
+      "blocks": [
+        { "type": "para", "text": "We assess that China is maintaining steady military pressure on Taiwan rather than signaling imminent action. Taipei's defense ministry reported detecting 55 People's Liberation Army (PLA) aircraft and seven PLA Navy vessels around the island in the 24 hours to early 27 June, with 27 of the aircraft crossing into Taiwan's southwestern air-defense identification zone." },
+        { "type": "bullets", "items": [
+          "The activity is consistent with Beijing's now-routine gray-zone pressure campaign; we see no indication of the logistics buildup that would precede a major operation.",
+          "Taiwan scrambled combat air patrols and readied naval and land-based missile units in response, in line with its standard reaction to large sorties."
+        ] },
+        { "type": "para", "text": "For Washington, the value of these sorties to Beijing is cumulative: each one normalizes a higher baseline of coercion and grinds at Taiwan's readiness and the attention of its air crews. The near-term watch item is any sharp spike tied to Taipei's political or defense calendar, which would suggest signaling beyond routine pressure." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Gaza.</b> An Israeli strike on a tent sheltering displaced people in western Gaza City on 27 June wounded at least 12, according to Shifa hospital and the Palestinian Red Crescent, most of them women and two critically. The Israel-Hamas ceasefire in place since October 2025 holds in form but continues to fray, with periodic strikes and little movement on the later phases of the US peace plan." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Gulf fallout.</b> Kuwait and Bahrain on 28 June condemned Iran's missile-and-drone strikes on facilities in their territory as violations of their sovereignty that undermine de-escalation. We assess Gulf partners will press Washington for reassurance and reinforced air and missile defense while urging restraint, wary of becoming the battleground for a widening US-Iran exchange." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NSA, and open sources."
+    }
+  ]
+}
