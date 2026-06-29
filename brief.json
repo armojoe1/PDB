@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-29",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US-Iran ceasefire on the brink after a second day of strikes; Tehran threatens to quit talks, but the technical track holds for midweek." },
+    { "tag": "VENEZUELA", "summary": "Quake toll passes 1,450 as Washington mounts a large relief effort in a country it occupied militarily six months ago." },
+    { "tag": "UKRAINE", "summary": "Kyiv's domestically built Flamingo missiles hit a strategic-missile plant deep inside Russia; Moscow strikes Kyiv and Sumy." },
+    { "tag": "LEBANON", "summary": "An Israeli strike days after the US-brokered framework tests a deal Hezbollah has already rejected outright." },
+    { "tag": "ENERGY", "summary": "Brent at four-month lows as Hormuz reopens, but the price is hostage to a fragile truce." },
+    { "tag": "CHINA-TAIWAN", "summary": "PLA pressure on Taiwan stays well below trend; we read it as recalibration, not restraint." },
+    { "tag": "NOTES", "summary": "Gulf partners in the crossfire; Israel courts South Sudan." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Truce on the Brink After Second Day of Strikes; Talks Survive, Narrowly",
+      "blocks": [
+        { "type": "para", "text": "We assess that the mid-June Islamabad understanding is closer to collapse than at any point since it was signed, but that both Washington and Tehran still prefer to talk than to fight a wider war. US forces struck Iranian targets for a second straight day on 28 June, and Iran answered with drone and missile salvos against the Gulf states; even so, mediators and both governments indicate the technical negotiating track remains scheduled to resume midweek. We judge the most likely path remains a strained, violable pause rather than a return to general war — but the margin for miscalculation has narrowed sharply." },
+        { "type": "bullets", "items": [
+          "US Central Command struck Iranian surveillance infrastructure, communications nodes, air-defense sites, drone-storage facilities, and minelaying capability on 28 June, characterizing the action as a response to an Iranian drone attack on a Qatari-flagged tanker the previous day.",
+          "Iran's Islamic Revolutionary Guard Corps launched drones and missiles at US military sites in Bahrain and Kuwait, and claimed to have destroyed eight US facilities — a figure we assess is substantially inflated and that open reporting does not support (see Notes for the partner-state impact).",
+          "Foreign Minister Abbas Araghchi and parliament speaker Mohammad Bagher Qalibaf warned of a “complete halt” to negotiations if US strikes continue; President Trump posted that further violations would mean “the Islamic Republic of Iran will no longer exist.” We read both as coercive signaling rather than decisions taken.",
+          "For Washington, the central question is whether President Pezeshkian's government can absorb a second day of US strikes without walking out. A decision point comes with the resumption of technical talks: if Tehran keeps the de-confliction cell staffed, the pause holds; an empty chair would be the clearest sign the understanding is failing."
+        ] },
+        { "type": "para", "text": "Liaison reporting corroborates that the technical track is still scheduled to reconvene midweek despite the public brinkmanship, consistent with both sides' interest in preserving the mid-June framework." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Venezuela Quake Toll Passes 1,450 as Washington Leads Relief in a Country It Occupied This Year",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 24 June twin earthquakes are now the deadliest natural disaster in Venezuela's modern history, and that the US-led international response is unfolding against an extraordinary political backdrop: the same US government mounting the relief effort captured the country's sitting president, Nicolás Maduro, in a January military operation. The disaster gives acting President Delcy Rodríguez's caretaker government a humanitarian lifeline and gives Washington a rare opening for influence — one both sides are handling gingerly." },
+        { "type": "bullets", "items": [
+          "Two strike-slip quakes — magnitude 7.2 followed 39 seconds later by a 7.5 mainshock — devastated La Guaira and Caracas on 24 June; the toll surpassed 1,450 dead with thousands injured, and fresh building collapses were reported along the coast at Caraballeda on 28 June.",
+          "More than 2,000 rescue workers from 27 countries are operating in-country. Secretary of State Marco Rubio has deployed a Disaster Assistance Response Team and the Fairfax and Los Angeles urban search-and-rescue teams, and committed roughly $150 million in relief; Brazil's President Lula has sent a field hospital.",
+          "Figures for the missing — reported as high as the tens of thousands — should be treated with caution; such early counts routinely include the displaced and double-count, and we expect them to fall as accounting improves.",
+          "For Washington, the relief operation is also statecraft: a visible, competent US response in a country whose government it dismantled six months ago shapes how Venezuelans and the region judge US intentions. We expect Caracas to accept aid while resisting anything that looks like a political opening."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Ukraine's Homegrown Missiles Reach a Strategic-Missile Plant Deep Inside Russia",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's overnight strike on the Titan-Barrikady complex in Volgograd marks a meaningful step in Kyiv's ability to reach Russia's strategic-weapons industry with domestically produced long-range systems — free of the Western-supplied-weapons restrictions that have constrained such targeting. President Zelensky said newly fielded FP-5 “Flamingo” cruise missiles struck the plant, which produces launchers for the Yars and Topol-M intercontinental missiles and the Iskander-M. We judge the strategic value lies less in this single hit than in the capability it demonstrates." },
+        { "type": "bullets", "items": [
+          "Volgograd's governor confirmed damage to production facilities and at least ten people injured — corroboration that the strike reached its target, even as battle-damage remains to be assessed.",
+          "Russia struck back overnight on 28 June, hitting Kyiv with ballistic missiles and killing a man in a drone strike in Sumy; at least five people were killed across both countries over the weekend's exchanges.",
+          "The strike fits Zelensky's stated campaign to pressure Russia's defense-industrial and energy base with deep strikes rather than wait on stalled US-brokered diplomacy.",
+          "For Washington, an indigenous Ukrainian deep-strike capability cuts both ways: it reduces Kyiv's dependence on US permissions and munitions, but it also removes a brake on escalation against Russian strategic targets. We expect Moscow to frame strikes near its nuclear-missile production as a red line."
+        ] },
+        { "type": "para", "text": "Overhead imagery showing fresh fire-scarring at the Titan-Barrikady site would be consistent with the reported strike and the governor's account of damage." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Israeli Strike Tests a US-Brokered Lebanon Framework Hezbollah Has Already Rejected",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-brokered Israel-Lebanon framework announced on 26 June is fragile and that continued Israeli strikes, combined with Hezbollah's flat rejection, make near-term implementation unlikely. An Israeli airstrike in southern Lebanon on 28 June — days after the deal — underscored that the cessation of fire is conditional and contested. The framework's core bargain, sequencing Hezbollah's disarmament ahead of an Israeli pullback, runs directly into the one outcome the group says it will not accept." },
+        { "type": "bullets", "items": [
+          "Lebanon's national news agency reported an Israeli strike near Deir Siryan and Taybeh in the south on 28 June; there were no immediate reports of casualties and the Israeli military did not comment.",
+          "The framework, announced by Secretary of State Marco Rubio, lays out a sequenced process in which the Lebanese army restores sovereign control and verifiably disarms Hezbollah before Israel progressively redeploys.",
+          "Hezbollah leader Naim Qassem called the agreement “null and void” and “a surrender of sovereignty,” and refused to disarm while Israeli forces remain on Lebanese soil; the deal has drawn protest inside Lebanon.",
+          "The test for Washington is whether the Lebanese state has the capacity and will to disarm Hezbollah without a civil conflict. We assess it does not yet, which makes the framework aspirational until the balance of force inside Lebanon shifts."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Oil at Four-Month Lows as Hormuz Reopens — but the Price Is Hostage to the Truce",
+      "blocks": [
+        { "type": "para", "text": "We assess that the sharp fall in crude prices reflects markets pricing in a durable reopening of the Strait of Hormuz, and that the move is real but reversible: the discount rests entirely on a ceasefire that took two days of strikes over the weekend. Brent fell to roughly $69–$72 a barrel — its lowest since late February — before recovering modestly above $72 on 30 June as traders weighed the renewed exchange of fire." },
+        { "type": "bullets", "items": [
+          "A US Navy-overseen maritime body widened a transit route near Oman on 27 June, and Gulf exports have recovered to roughly three-quarters of pre-war levels; Saudi Arabia has resumed loading at Ras Tanura, with the UAE, Kuwait, and Qatar raising output.",
+          "Traffic remains below normal — on the order of 89 transits in 72 hours against a typical 138 per day — indicating the recovery is partial and confidence-dependent.",
+          "Chinese and Japanese crude imports each fell by roughly 40 percent during the disruption, a combined draw of nearly 6 million barrels per day that will take time to normalize.",
+          "For Washington, cheaper oil is a tailwind for US consumers and inflation, but the leverage runs through Tehran: a renewed Hormuz closure would spike prices within days. We expect prices to stay volatile and headline-driven until the political track stabilizes."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "PLA Pressure on Taiwan Stays Well Below Trend; We Read Recalibration, Not Restraint",
+      "blocks": [
+        { "type": "para", "text": "We assess that the marked, sustained decline in People's Liberation Army air activity around Taiwan reflects a deliberate recalibration of pressure rather than any softening of Beijing's long-term intent. On 28 June, Taiwan's defense ministry detected six PLA Navy vessels but no PLA aircraft operating around the island in its morning tally — a notably quiet day that fits a months-long downshift from the tempo seen after President Lai Ching-te's 2024 election." },
+        { "type": "bullets", "items": [
+          "The PLA logged roughly 217 air-defense-identification-zone incursions in May, well down from monthly averages that had exceeded 300 in the year after Lai took office.",
+          "The carrier Liaoning returned to Qingdao on 23 June after a deployment of more than 40 days in the South China Sea and Western Pacific, demonstrating improving ability to sustain long-range carrier operations — a capability that matters more than any single quiet day.",
+          "We judge several non-exclusive drivers are plausible: husbanding airframes, seasonal weather, and a calculated lull while a Middle East crisis absorbs US attention and assets. None of these implies reduced ambition toward Taiwan.",
+          "What to watch: a resumption of large-scale sorties around Taiwan's political and defense milestones would confirm the lull is tactical. We expect pressure to return on Beijing's preferred timeline, not Taipei's."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Gulf partners in the crossfire.</b> Three states hosting major US forces absorbed the weekend's escalation. Bahrain — home to US Naval Forces Central Command and the Fifth Fleet — reported a residential building damaged near its international airport with no fatalities; Kuwait, which hosts Camp Arifjan and Ali al-Salem Air Base, said its air defenses intercepted Iranian drones and two missiles; and Qatar, site of Al Udeid Air Base, reported one citizen killed and one injured by shrapnel at sea. The Gulf Cooperation Council condemned the Iranian strikes. We assess the principal effect is on US force protection and partner reassurance: Washington will face pressure to bolster regional air and missile defense even as it argues the truce is holding." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Israel courts South Sudan.</b> Foreign Minister Gideon Sa'ar met his South Sudanese counterpart, James Pitia Morgan, in Jerusalem on 28 June, part of a broader Israeli push to deepen ties in Africa following the Gaza war. The meeting is modest in itself but fits a pattern of Israeli outreach to states willing to expand security and diplomatic cooperation; we assess it carries more signaling value than immediate substance." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
