@@ -1,6 +1,7 @@
 {
   "date": "2026-06-30",
   "cover": true,
+  "emblem": "assets/whitehouse_small.png",
   "toc": [
     { "tag": "IRAN-US", "summary": "US and Iranian teams convene in Doha on Hormuz as the ceasefire holds; Israel warns the war could resume." },
     { "tag": "RUSSIA-UKRAINE", "summary": "Putin concedes Ukrainian deep strikes are causing fuel shortages as a new poll shows war fatigue at a record high." },
