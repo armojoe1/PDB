@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-30",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "US and Iranian teams convene in Doha on Hormuz as the ceasefire holds; Israel warns the war could resume." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Putin concedes Ukrainian deep strikes are causing fuel shortages as a new poll shows war fatigue at a record high." },
+    { "tag": "VENEZUELA", "summary": "US Marines reopen La Guaira port for quake relief, putting American forces ashore in Venezuela." },
+    { "tag": "NATO-ALLIES", "summary": "Rutte and Starmer pre-coordinate ahead of the Ankara summit as transatlantic frictions linger." },
+    { "tag": "EUROPE-SECURITY", "summary": "Targeted bombing in Monaco wounds a Ukraine-sanctioned tycoon; suspect flees into France." },
+    { "tag": "ENERGY-OPEC", "summary": "Hormuz traffic recovers as the ceasefire holds, but OPEC cohesion is fraying after the UAE's exit." },
+    { "tag": "NOTES", "summary": "Drone strikes a JetBlue jet at JFK; Europe's heat toll mounts as a US heat dome builds." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Hormuz Talks Open in Doha as Fragile Standdown Holds",
+      "blocks": [
+        { "type": "para", "text": "We assess that today's technical talks between US and Iranian delegations in Doha represent the best near-term opportunity to lock in the standdown in the Strait of Hormuz, but that the pause remains fragile and reversible. Both sides agreed over the weekend to halt the tit-for-tat strikes that had closed in around the strait for four days; vessels are again transiting and traffic has been consistent since Monday. The agenda has narrowed from Iran's nuclear program to the immediate question of how shipping through the strait is managed — a sign both capitals are prioritizing de-escalation over a comprehensive deal." },
+        { "type": "bullets", "items": [
+          "The US team is led by special envoy Steve Witkoff and Jared Kushner; the venue was shifted to Qatar from Switzerland after the latest escalation, narrowing the focus to Hormuz transit and de-escalation mechanics.",
+          "Tehran continues to insist publicly that control of the strait — including any mine-clearing — is Iran's alone, rejecting French and Omani offers to assist. We read this as leverage-setting ahead of the talks rather than a bar to a working arrangement.",
+          "Israeli officials warn the war could resume \"within two days,\" underscoring that Jerusalem views the pause skeptically and retains its own decision calculus independent of Washington's track.",
+          "Public messaging is contradictory by design: the US frames talks as resuming, while Iranian officials periodically deny any agenda is fixed. We judge the meeting will proceed, but expect Tehran to keep deniability for domestic and bargaining reasons."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the key question is whether a Hormuz modus vivendi can be stabilized without conceding Iranian primacy over an international waterway. A durable understanding would relieve pressure on global energy markets and reduce the risk of a miscalculation drawing in US naval forces; a breakdown would revive the closure threat and Israel's resumption clock. A decision point comes if the Doha session produces a written shipping-management framework — its presence or absence by week's end will signal whether the standdown is hardening or merely a lull." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Putin Concedes Strain From Ukraine's Deep-Strike Campaign",
+      "blocks": [
+        { "type": "para", "text": "We assess that Vladimir Putin's rare public admission that Ukrainian strikes on energy and logistics infrastructure are \"creating problems\" reflects genuine strain on Russia's fuel system rather than a rhetorical feint. In an interview aired over the weekend, Putin acknowledged a fuel shortage he characterized as real but \"not critical,\" and named restoring fuel supply and replenishing air defenses as immediate priorities — an unusually candid framing for a leader who has consistently projected confidence about the war's trajectory." },
+        { "type": "bullets", "items": [
+          "Ukraine's long-range drone campaign has intensified, hitting refineries and ports including a fire at the Slavyansk-na-Kubani refinery in Krasnodar and strikes on facilities tied to Crimea; occupation authorities declared a fuel-sales state of emergency in Crimea late last week.",
+          "Russia is short of S-300 interceptors, and Putin's emphasis on air defense signals that protecting rear-area infrastructure is now competing with front-line priorities for scarce resources.",
+          "A nationwide Russian poll released Monday found 81 percent favor ending the war — the highest war-fatigue reading recorded since 2022, a domestic-pressure indicator Moscow cannot ignore indefinitely.",
+          "Russian fires continued unabated: Monday strikes killed roughly a dozen civilians, including six in a missile strike on Dnipro and three in a drone strike on a minibus in Zaporizhzhia."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Putin separately rejected Kyiv's proposal for a mutual halt to long-range strikes, telling state television Ukraine had floated the idea as a step toward peace. We judge Moscow declined because the deep-strike exchange now cuts against Russia more than Ukraine: Kyiv's interior-targeting campaign is imposing asymmetric economic cost. For Washington, the admission validates the theory of victory behind continued long-range enablement and suggests sustained pressure on Russian refining could become a meaningful lever on Moscow's war economy. We expect Russia's next move to be intensified strikes on Ukrainian energy ahead of winter to restore deterrence." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "US Marines Reopen Venezuelan Port in Earthquake Relief Mission",
+      "blocks": [
+        { "type": "para", "text": "We assess that the reopening of Venezuela's La Guaira port by a US Marine team marks a significant — and politically notable — expansion of the American humanitarian footprint ashore in a country with which Washington has had adversarial relations for years. A specialized Marine detachment of roughly 130 personnel restored port operations, allowing the USS Fort Lauderdale to begin moving relief supplies and heavy equipment by sea to the areas hardest hit by the 24 June twin earthquakes." },
+        { "type": "bullets", "items": [
+          "The magnitude-7.2 and 7.5 quakes, striking seconds apart, collapsed more than 1,400 buildings in La Guaira, damaged Caracas's main airport, and have left roughly 1,700 confirmed dead with tens of thousands still unaccounted for.",
+          "More than 300 US search-and-rescue personnel were already operating on the ground; reopening the seaport relieves the bottleneck created by the damaged airport and lets aid flow at scale.",
+          "We judge the optics significant: US forces operating openly on Venezuelan soil, with at least tacit Caracas acquiescence, is a marked departure from the prior posture and may open limited channels that did not previously exist."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the mission is a low-cost opportunity to demonstrate reach and goodwill in the hemisphere while the window for finding survivors closes. The risk is that relief access becomes entangled in Venezuelan domestic politics or is leveraged by Caracas for sanctions relief. We expect the immediate US focus to remain operational — sustaining the sea line of supply — with any political follow-through handled cautiously and separately." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, SOUTHCOM, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Rutte and Starmer Pre-Coordinate Ahead of Ankara Summit",
+      "blocks": [
+        { "type": "para", "text": "We assess that NATO Secretary General Mark Rutte's talks Monday with UK Prime Minister Keir Starmer were aimed at locking in alignment on Ukraine and defense spending before next week's Ankara summit (7–8 July), so that those areas of convergence can offset the transatlantic frictions that have dogged the alliance this year. Burden-sharing and defense-industrial capacity have shifted from promises to implementation, and London is positioning itself as a bridge between Washington and skeptical European capitals." },
+        { "type": "bullets", "items": [
+          "Two episodes strained alliance unity in 2026: the US proposal to take control of Greenland, and European reluctance to back the US-Israeli strikes on Iran. Both will shadow the Ankara agenda even as leaders try to project cohesion.",
+          "Points of genuine convergence — higher European defense spending and sustained support for Ukraine — give the summit a basis for a reset of US-NATO relations after a contentious spring.",
+          "Energy security and maritime supply-chain resilience, sharpened by the Hormuz crisis, are increasingly folded into NATO's strategic thinking and will feature in Ankara."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, allied pre-coordination of this kind is double-edged: it can smooth a summit outcome favorable to US burden-sharing goals, but it also reflects European efforts to manage and constrain unpredictable US initiatives such as Greenland. We expect the Ankara communiqué to emphasize defense-spending milestones and Ukraine support while papering over the Greenland and Iran disagreements; the test will be whether the spending commitments are concrete or aspirational." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Targeted Bombing in Monaco Wounds Ukraine-Sanctioned Tycoon",
+      "blocks": [
+        { "type": "para", "text": "We assess that Monday evening's bombing in Monaco was a deliberate, targeted attack rather than indiscriminate terrorism. An improvised device packed with bolts and glass detonated around 9 p.m. local time at a residential building on the street bordering France, seriously wounding three people — among them Vadym Iermolaiev, a tycoon sanctioned by Ukraine over business dealings in occupied Crimea. A woman and a child were also injured." },
+        { "type": "bullets", "items": [
+          "Monaco's authorities first called the blast \"an attack,\" then settled on \"deliberate explosion\"; Prince Albert II called it a \"heinous crime.\" The suspected perpetrator fled across the border into France, and a manhunt is underway.",
+          "The victim profile — a sanctioned businessman tied to occupied Crimea — points toward score-settling connected to the war economy rather than mass-casualty terrorism, though attribution is unconfirmed.",
+          "The cross-border flight complicates the response, drawing French law enforcement into what is nominally a Monegasque case."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "We caution that motive and sponsorship remain open: the target's profile is consistent with several hypotheses, from private disputes to state-linked action, and the available reporting does not yet distinguish among them. For Washington, the episode is a reminder that the war's financial and sanctions disputes are spilling into physical attacks on Western European soil. We expect the French-Monegasque investigation to drive the next development; identification of the suspect would be the key indicator of motive." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, FBI, and open sources."
+    },
+    {
+      "headline": "Hormuz Traffic Recovers, but OPEC Cohesion Is Fraying",
+      "blocks": [
+        { "type": "para", "text": "We assess that the easing of the Strait of Hormuz crisis is allowing a gradual recovery in Gulf oil flows, even as the cartel that manages global supply shows widening internal strain. With the ceasefire holding and vessels again transiting, shipments through the strait have risen from a low near 9.6 million barrels per day toward roughly 12 million, and analysts expect further recovery if the standdown endures." },
+        { "type": "bullets", "items": [
+          "The market backdrop is unusually soft for a Gulf crisis: the IEA now projects 2026 global oil demand to fall by about 1.1 million b/d, a sharp downgrade driven by higher fuel prices and supply disruptions earlier in the year.",
+          "OPEC cohesion is the structural worry. The UAE's departure on 1 May set a precedent, and Iraq — the bloc's second-largest producer, strained financially by the Iran war — is openly threatening to exit unless its quota is raised, while moving to triple Kurdistan-Turkey pipeline exports.",
+          "We assess a partial OPEC unraveling would, over time, erode the cartel's ability to defend prices, with mixed implications for the US: lower prices for consumers but greater volatility and reduced spare-capacity discipline globally."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the near-term read is favorable — recovering Hormuz flows and soft demand point to contained prices — but the longer-term signal is a Gulf producer bloc losing its grip just as Middle East security risk stays elevated. We expect the next inflection to be OPEC's response to Iraq's quota demand; a concession would hold the bloc together, a refusal could accelerate fragmentation." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, INR, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>United States — Airspace.</b> A JetBlue jet reported striking a drone on approach to New York's JFK airport Monday morning; the aircraft landed safely and a post-flight inspection found no damage. The FAA has opened a formal investigation, and a helicopter reported a near-miss with a model aircraft nearby the same day. We assess the incidents reflect a persistent gap in counter-drone enforcement around major US airports rather than a coordinated threat, but the trend is a growing homeland-security concern as similar events recur at Newark." },
+        { "type": "para", "text": "<b>Europe / United States — Extreme heat.</b> The WHO counts more than 1,300 heat-related deaths across Europe since 21 June amid a prolonged heat wave. In the United States, forecasters warn a dangerous heat dome will build over the eastern two-thirds of the country this week, with record highs into the 100s expected from Washington to New York. We judge the principal near-term risks to be public-health and grid stress; the strain on power infrastructure during peak demand is the indicator to watch." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DHS I&A, NGA, and open sources."
+    }
+  ]
+}
