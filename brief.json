@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-01",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "Indirect Doha talks open on ceasefire implementation as Oman floats a Hormuz proposal; strait risk stays elevated." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv presses a 40-day pressure campaign with heavy overnight strikes; Sweden signs a Gripen deal and Denmark adds $670M." },
+    { "tag": "VENEZUELA", "summary": "US military footprint in-country tops 900 as SOUTHCOM reopens La Guaira port for quake relief." },
+    { "tag": "GLOBAL ENERGY", "summary": "Brent near $70 caps a ~30% quarterly drop, the sharpest since 2020, as the Iran risk premium unwinds." },
+    { "tag": "ISRAEL", "summary": "Netanyahu markets a 'broad national government' as polls show an anti-Netanyahu bloc ahead before the October vote." },
+    { "tag": "DRC-HEALTH", "summary": "Bundibugyo-strain Ebola reaches a fourth province with 377 dead; response is outpaced." },
+    { "tag": "NOTES", "summary": "Supreme Court expands presidential removal power; IRGC officers killed in western Iran; European heat toll passes 1,300." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran: Indirect Doha Talks Test a Fragile Ceasefire as Hormuz Risk Persists",
+      "blocks": [
+        { "type": "para", "text": "We assess that the ceasefire that halted this year's US–Iran fighting is holding but remains brittle, and that the indirect technical talks convening in Doha are the near-term proving ground for whether it endures. US and Iranian delegations arrived in Qatar on 30 June for mediated discussions on implementing the 17 June memorandum of understanding; the two sides are not meeting face to face, with Qatari and Pakistani officials shuttling between them. We judge the absence of direct contact signals that both governments want an off-ramp while neither is prepared to be seen conceding." },
+        { "type": "bullets", "items": [
+          "The agenda centers on the mechanics that matter most to Washington: safe passage for commercial shipping through the Strait of Hormuz—through which roughly a fifth of the world's oil and LNG moves—and the disposition of Iran's frozen assets. Under the MOU, Tehran commits to use its \"best efforts\" to keep the strait open.",
+          "Oman on 30 June delivered a separate proposal on Hormuz transit arrangements, an Omani mediating role we assess is intended to give Tehran a face-saving channel distinct from the Doha track.",
+          "Maritime-security firms have kept the Hormuz threat level at \"substantial,\" even as transit volumes held steady over the prior 48 hours. Overhead imagery confirms commercial traffic through the strait is running at or near normal density—consistent with a de facto pause rather than a durable settlement.",
+          "Iran's delegation is led by a deputy foreign minister; the US side is fronted by the President's special envoy and senior aides. We assess the working-level cast caps how much can be decided this week."
+        ] },
+        { "type": "para", "text": "For Washington, the central question is durability: a functioning strait and returning Iranian barrels are already pulling energy prices down (see Global Energy), but a collapse of the talks would re-price crude and put US naval escort demands back on the table almost overnight. We expect the near-term test to be whether Iran translates its \"best efforts\" language into observable restraint by its naval and IRGC forces; a single seizure or mining incident would be the clearest signal the ceasefire is failing." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Presses a 40-Day Pressure Campaign as Sweden and Denmark Deepen Support",
+      "blocks": [
+        { "type": "para", "text": "We assess that Kyiv is deliberately raising the tempo of long-range strikes and locking in Western capability commitments to shift the war's trajectory after a year of stalled US-brokered diplomacy. Overnight into 30 June, Ukraine mounted one of its largest drone assaults of the war against targets across a dozen Russian regions and Crimea; Moscow's mayor reported more than 60 drones downed over the capital, and Russia's defense ministry claimed 660 intercepts nationwide. Russian strikes on Ukraine killed at least 12 civilians and wounded some 40 the same day." },
+        { "type": "bullets", "items": [
+          "The strikes fall within the roughly 40-day pressure campaign President Zelensky has authorized—framed as an \"influence operation\" to compel Moscow to end the war. We assess the intent is to impose visible costs deep inside Russia and strengthen Kyiv's hand ahead of any renewed negotiation, not to seize ground.",
+          "Ukraine and Sweden signed an agreement on 30 June for 16 Gripen E fighters, building on an earlier framework for Gripen C/D deliveries expected in early 2027. We judge the deal is as much about a long-term airpower relationship as near-term capability.",
+          "Denmark announced its 30th aid package, about $670 million, including long-range artillery ammunition and roughly $200 million routed through the \"Danish model\" of direct funding to Ukrainian arms makers—a mechanism we assess is increasingly central to sustaining Kyiv's domestic production."
+        ] },
+        { "type": "para", "text": "For Washington, the pattern underscores that European capitals are moving to backstop Ukraine's industrial base and airpower on their own timelines, partially insulating Kyiv from swings in US policy. We expect Russia to answer the deep-strike campaign with intensified strikes on Ukrainian energy and defense-industrial sites; the decision point to watch is the NATO summit in Ankara on 7–8 July, where Ukraine attends as an invited guest and allied capacity pledges will be tested against these fresh national commitments." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "US Military Footprint in Venezuela Grows as SOUTHCOM Reopens Quake-Hit Port",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US earthquake-relief mission in Venezuela has become a significant and politically notable military operation, with American forces now operating inside a country long at odds with Washington. Following the twin 24 June quakes—magnitudes 7.2 and 7.5—US Southern Command has established a footprint of more than 900 personnel inside Venezuela and roughly 800 more staged in Puerto Rico and Curaçao. Marines were the first US personnel on the ground, and the amphibious ship USS Fort Lauderdale has begun delivering supplies through La Guaira." },
+        { "type": "bullets", "items": [
+          "A specialized Marine team reopened the La Guaira port channel to sealift, the critical bottleneck for moving heavy equipment and bulk aid. Overhead imagery confirms the channel has been cleared and the port is receiving vessels.",
+          "The humanitarian toll is severe and still rising: authorities report on the order of 1,900 dead and more than 10,000 injured, with tens of thousands still listed as missing and UN agencies citing figures above 50,000 unaccounted for.",
+          "We assess the disaster has, at least temporarily, opened a channel of US–Venezuela operational cooperation that would have been implausible weeks ago—an opening Washington can use, but one both governments are likely to frame narrowly as humanitarian."
+        ] },
+        { "type": "para", "text": "For Washington, the mission carries both goodwill and risk: US forces are exposed inside a country with an adversarial government and uncertain command-and-control deconfliction. We expect the footprint to draw down as the port and airfields stabilize; the near-term watch item is force protection and whether the relief cooperation is allowed to translate into any durable diplomatic thaw." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Oil Caps Its Steepest Quarterly Fall Since 2020 as the Iran Premium Unwinds",
+      "blocks": [
+        { "type": "para", "text": "We assess that the sharp second-quarter drop in crude prices reflects the rapid deflation of a war-driven risk premium rather than a fundamental demand collapse—leaving prices unusually sensitive to whether the Iran ceasefire holds. Brent traded near $70–73 on 30 June, closing out a quarter down roughly 30%, the largest quarterly decline since 2020, after topping $100 earlier in the year at the height of the Gulf crisis." },
+        { "type": "bullets", "items": [
+          "Two developments drove the reversal: the 17 June ceasefire and the reopening of Hormuz released cargoes that had been trapped in the Gulf, and US sanction waivers have let additional Iranian barrels back onto the market—Tehran claims exports exceeding 40 million barrels since the blockade lifted.",
+          "OPEC+ had already trimmed its 2026 demand-growth forecast to under 1 million barrels per day, reflecting weaker consumption during the conflict—so the added supply is landing in a soft market.",
+          "We judge the price move is a net positive for US and allied consumers and eases inflation pressure, but it squeezes higher-cost producers and hands revenue relief to Moscow and Tehran at the margin."
+        ] },
+        { "type": "para", "text": "For Washington, cheaper crude is a tailwind, but the same dynamic ties the energy outlook directly to the Doha talks. We expect prices to stay range-bound near current levels absent a shock; a breakdown in the Iran track or an OPEC+ decision to defend prices would be the most likely catalysts to reverse the trend." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, CIA, INR, and open sources."
+    },
+    {
+      "headline": "Netanyahu Markets a 'Broad' Government as Polls Favor the Opposition Bloc",
+      "blocks": [
+        { "type": "para", "text": "We assess that Prime Minister Netanyahu is repositioning for a difficult election, casting himself as the candidate of a \"broad national government\" while his current coalition trails in the polls. On 30 June he defended the pitch and said he is \"against boycotts,\" arguing that any government formed by his opponents would be a narrow left-wing bloc dependent on Arab parties. Legislative elections must be held by 27 October." },
+        { "type": "bullets", "items": [
+          "Recent polling keeps Likud the single largest party at around 24 seats, but places the anti-Netanyahu camp near 58 seats against roughly 52 for the current coalition—short of a majority for either side and pointing to protracted coalition math.",
+          "The coalition is racing to pass priority legislation before the Knesset's pre-election recess begins on 16 July, a compressed window we assess will shape the campaign's opening terms.",
+          "We judge Netanyahu's \"broad government\" framing is aimed at peeling centrist voters while preserving his hard-right and Haredi base—an inherently tense balance."
+        ] },
+        { "type": "para", "text": "For Washington, the outcome bears directly on the pace of postwar Gaza arrangements, the durability of the Iran ceasefire calculus, and Israeli decision-making on Lebanon and the Palestinian file. We expect a volatile, personality-driven campaign; the near-term signal to watch is whether the pre-recess legislative push holds the coalition together or accelerates defections." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "DRC Ebola Outbreak Reaches a Fourth Province as Response Falls Behind",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Bundibugyo-strain Ebola outbreak in the Democratic Republic of the Congo is outpacing the international response and now poses a widening regional-health risk. DRC authorities reported 1,307 confirmed cases and 377 deaths as of 30 June, and reporting on 29 June indicated the virus had spread to Haut-Uélé, the fourth affected province, alongside Ituri, North Kivu, and South Kivu. WHO declared the outbreak a public-health emergency of international concern in May." },
+        { "type": "bullets", "items": [
+          "The earlier detection of a linked case in Kampala, Uganda, remains the most strategically worrying feature: urban, cross-border transmission is far harder to contain than a rural cluster.",
+          "UN agencies warn the response is under-resourced and being outrun by the caseload; insecurity in the eastern provinces compounds access problems.",
+          "We assess the Bundibugyo strain, while genuinely dangerous, is not the Zaire strain against which the most established vaccine stockpiles are optimized—a factor complicating the medical countermeasure picture."
+        ] },
+        { "type": "para", "text": "For Washington, the outbreak is a test of the post-reorganization US global-health posture and of whether early containment funding materializes before the caseload compounds. We expect continued geographic spread in the near term; the key indicator to watch is any sustained chain of transmission in a major city." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>United States — Court expands removal power.</b> In end-of-term rulings issued 29–30 June, the Supreme Court in a 6-3 decision broadened the President's authority to remove officials at independent agencies without cause, unwinding decades of precedent shielding those bodies—though a separate 5-4 ruling let the Federal Reserve governor Washington sought to remove stay in place, preserving the Fed's distinct status. We assess the net effect meaningfully strengthens White House control over the administrative state while carving out the central bank." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Iran — IRGC officers killed in the west.</b> Two Islamic Revolutionary Guard Corps members were shot dead at their home in Paveh, near the Iraqi Kurdistan border, on 30 June. The motive is unclear; Tehran has previously blamed Kurdish separatist groups for violence in the area. We judge the incident a reminder that Iran's internal-security frictions persist even as it negotiates externally." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Europe — Heat toll mounts.</b> WHO counts more than 1,300 heat-related deaths across Europe since 21 June amid a severe heat wave, with dangerous conditions also affecting the eastern United States. We assess the episode adds to strain on power grids and public-health systems and reinforces the security relevance of recurring extreme-heat events." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DHS I&A, and open sources."
+    }
+  ]
+}
