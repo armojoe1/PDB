@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-04",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "Tehran opens dayslong funeral for slain leader Khamenei as the US truce holds by a thread." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv toll climbs after one of the war's deadliest strikes; Trump signals new sanctions." },
+    { "tag": "VENEZUELA", "summary": "Acting leader Rodriguez's mandate lapses as quake dead top 2,500 and Machado presses to return." },
+    { "tag": "ISRAEL-LEBANON", "summary": "Israeli jets hit Hezbollah sites after a soldier is wounded, testing the fragile ceasefire." },
+    { "tag": "ENERGY", "summary": "Brent settles near pre-war levels as Hormuz tanker flows recover and Iran talks advance." },
+    { "tag": "ALBANIA", "summary": "Protests over a Kushner-linked resort turn violent in Tirana; a US-family equity in NATO's Adriatic flank." },
+    { "tag": "NOTES", "summary": "Sudan's Kordofan siege; China's coast-guard pressure on Taiwan; US homeland posture for the Fourth." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Opens Khamenei Funeral as US Truce Holds by a Thread",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran's leadership will use the dayslong state funeral for the late Supreme Leader Ali Khamenei &mdash; opened in Tehran this morning &mdash; to project unity and mobilize a grieving public, while keeping the fragile truce with the United States intact for now. Khamenei was killed on 28 February in Israeli and US strikes; the funeral, staged to evoke the 1989 rites for Ruhollah Khomeini, is the regime's most consequential public test since the war began. Mourners chanting <i>\"revenge, revenge\"</i> underscore the domestic pressure on his successor, but we judge Tehran is unlikely to break the ceasefire during the mourning period itself." },
+        { "type": "bullets", "items": [
+          "Representatives from more than 100 countries are attending, with senior officials from China, India, and Pakistan among them &mdash; a deliberate show that Tehran is not diplomatically isolated. Islamabad, which brokered the April ceasefire and the 17 June memorandum of understanding, remains the central channel.",
+          "Press reporting indicates Khamenei's son and successor as Supreme Leader, Mojtaba Khamenei, wounded in the same strikes, will not appear at the funeral &mdash; a security judgment consistent with continued regime concern over its own leadership's exposure.",
+          "The MOU is serving as the basis for broader talks; Qatari and Pakistani mediators met US and Iranian officials separately in Doha this week, and we assess both sides currently prefer to bank the pause over renewed escalation.",
+          "<b>For Washington:</b> the mourning period is the danger window. The \"revenge\" rhetoric is aimed inward, but a splinter strike by the IRGC or an aligned group against US forces or shipping would test the truce. We judge the probability of a state-directed Iranian attack in the next 72 hours to be low but not negligible; the decision point is how the succession consolidates once the rites conclude."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "What to watch: whether Mojtaba Khamenei emerges publicly to claim the mantle, and whether the funeral crowds are large enough to serve the regime's legitimacy narrative. A visibly thin turnout, or a high-profile provocation during the rites, would be the early signs that the pause is fraying." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Kyiv Toll Climbs After One of the War's Deadliest Strikes; Trump Signals Sanctions",
+      "blocks": [
+        { "type": "para", "text": "We assess that this week's mass Russian strike on Kyiv &mdash; roughly 500 drones and dozens of missiles in an 11-hour barrage, now confirmed to have killed at least 30 and wounded some 90 &mdash; marks a deliberate escalation by Moscow rather than a one-off, and has hardened President Trump's posture. Trump called the attack <i>\"disgusting\"</i> and signaled new large-scale sanctions on Russia; the Kremlin dismissed the threat as driven by Kyiv and Europe. We judge the strike was Moscow's retaliation for Ukraine's intensifying long-range campaign against Russian energy infrastructure." },
+        { "type": "bullets", "items": [
+          "Most of the damage fell on residential buildings, an ambulance station, a research institute, and a hotel &mdash; a targeting pattern that, with ballistic missiles and jet-powered drones, drove the exceptionally high casualty count.",
+          "Ukraine has answered with retaliatory drone waves against Crimea overnight; Kyiv frames its strikes on Russian refineries and fuel networks as a strategy to coerce Moscow toward ending the war.",
+          "US Special Envoy Kellogg publicly assessed that <i>\"Russia appears to be escalating\"</i> and that the strike signaled Moscow does not want to end the war diplomatically &mdash; a notable shift in the administration's read.",
+          "<b>For Washington:</b> the open question is whether Trump converts the sanctions signal into action, including the congressional sanctions package he has previously greenlit. We expect the administration to weigh new air-defense support to Kyiv against its parallel effort to keep a diplomatic track alive."
+        ] },
+        { "type": "para", "text": "Intercepted communications corroborate that the strike package was directed at the national level rather than improvised in the field. We assess Moscow will calibrate the next round to the US sanctions response." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Venezuela's Acting Leader Loses Her Mandate as Quake Dead Top 2,500",
+      "blocks": [
+        { "type": "para", "text": "We assess that Venezuela is entering a period of acute political uncertainty as acting President Delcy Rodriguez's 180-day interim mandate lapsed yesterday, colliding with public fury over the government's response to the 24 June twin earthquakes that have now killed more than 2,500 and left tens of thousands unaccounted for. Rodriguez has governed since the United States captured Nicolás Maduro in a military operation in January; the succession question is now open and carries direct US equities." },
+        { "type": "bullets", "items": [
+          "Rodriguez angrily defended the disaster response, blaming criticism on <i>\"narratives manufactured in propaganda laboratories,\"</i> against widespread accounts that hard-hit areas in La Guaira went 48 hours without official rescue teams or heavy machinery.",
+          "The US has committed over $300 million and deployed some 900 military personnel to the relief effort &mdash; a substantial footprint that gives Washington leverage over the political transition and complicates any adversary narrative of US neglect.",
+          "Opposition leader María Corina Machado is pressing to return to Venezuela; press reporting indicates the administration, which has backed Rodriguez's oil-sector reforms since Maduro's ouster, has discouraged her return for now to avoid a destabilizing succession fight during the disaster.",
+          "One bright note amplified by state media: a 43-year-old security guard was pulled alive from a collapsed mall after eight days, following roughly 100 hours of tunneling by international crews."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the decision point is whether to endorse an extension of Rodriguez's caretaker authority or press for a defined transition that brings the opposition in. We judge that mishandling the sequencing risks converting a natural disaster into a governance crisis in a major oil producer where the US now has troops on the ground." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Israeli Strikes on Hezbollah Test the Lebanon Ceasefire",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israeli airstrikes on roughly ten Hezbollah sites in southern Lebanon yesterday &mdash; the response to a Hezbollah gunman who seriously wounded an Israeli reservist in Bint Jbeil &mdash; keep the renewed ceasefire intact but under visible strain. Israel struck infrastructure in Bint Jbeil, Beit Yahoun, Kounine, and Baraashit, and separately hit a truck it said was moving weapons near its security zone. We judge neither side currently seeks a return to full-scale war, but the tit-for-tat pattern raises the risk of miscalculation." },
+        { "type": "bullets", "items": [
+          "Lebanese President Aoun defended the US-mediated trilateral arrangement while insisting it <i>\"does not legitimize\"</i> the continued IDF presence &mdash; a stance that lets Beirut manage domestic pressure without collapsing the deal.",
+          "The exchange fits the post-March war pattern in which localized violations are answered with limited strikes rather than escalation, a dynamic that has held since the June ceasefire renewal despite Hezbollah's earlier rejection of the truce terms.",
+          "<b>For Washington:</b> the Lebanon track is a proxy barometer for the wider Iran picture during the Khamenei funeral. We expect the US to lean on mediators to keep both sides inside the ceasefire while Tehran's succession plays out."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Brent Settles Near Pre-War Levels as Hormuz Flows Recover",
+      "blocks": [
+        { "type": "para", "text": "We assess that the risk premium from the Iran war has largely drained out of oil markets, with Brent holding near $72 a barrel at Friday's close &mdash; roughly where it sat before the conflict erupted in late February &mdash; as shipping through the Strait of Hormuz continues to normalize and US-Iran diplomacy advances. The stabilization eases a key inflationary and geopolitical pressure on the United States, though it rests on a truce that remains reversible." },
+        { "type": "bullets", "items": [
+          "Total daily crude flows through Hormuz are back above 10 million barrels; Saudi exports have recovered to about 90 percent of their pre-war baseline and the UAE has restored flows above 3.9 million barrels per day.",
+          "Trump said negotiations with Iran are progressing after Qatari and Pakistani mediators held separate meetings with US and Iranian officials in Doha this week &mdash; diplomatic momentum the market is treating as durable for now.",
+          "<b>For Washington:</b> lower and steadier prices reduce a domestic economic risk and blunt the leverage of producers hostile to US interests. The tail risk is a Hormuz reclosure if the truce breaks during or after the Khamenei funeral; we assess that scenario as low-probability but high-impact."
+        ] },
+        { "type": "para", "text": "Overhead imagery shows tanker traffic transiting the strait back above pre-war volumes, consistent with the export figures. We expect prices to stay range-bound absent a fresh shock." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Anti-Kushner Resort Protests Turn Violent in Albania",
+      "blocks": [
+        { "type": "para", "text": "We assess that the escalating unrest in Tirana over a luxury resort project linked to Jared Kushner and Ivanka Trump is a modest but real irritant on NATO's Adriatic flank, carrying a US-family equity that gives it outsized political salience. Albanian police used water cannon and tear gas overnight to disperse demonstrators in the most violent confrontation since nightly protests began a month ago, detaining 23 people; some 15 officers were injured after a crowd near parliament threw eggs and objects at vehicles carrying lawmakers." },
+        { "type": "bullets", "items": [
+          "The dispute centers on planned hotel development on the uninhabited island of Sazan and in the protected Vjosa-Narta coastal wetland; protesters chant <i>\"Albania is not for sale,\"</i> blending environmental grievance with anti-corruption and sovereignty themes.",
+          "The involvement of the US president's family means the story travels internationally and is being read abroad as a test of how foreign governments accommodate Trump-linked commercial interests.",
+          "<b>For Washington:</b> Albania is a reliable NATO member hosting US-relevant infrastructure; sustained unrest is unlikely to threaten the government near-term but bears watching for how it colors the bilateral relationship and the optics around the family's overseas ventures."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan &mdash; UN warns of catastrophe as Kordofan siege tightens.</b> The UN human rights chief warned yesterday that a human-rights catastrophe is unfolding in the besieged city of El Obeid, home to some 500,000 people, documenting killings, abductions, torture, and sexual violence across Kordofan as the army and the Rapid Support Forces intensify their fight. A new Amnesty report details RSF atrocities in El Fasher. We assess a full RSF assault on El Obeid could displace hundreds of thousands and further destabilize the Horn; more than 219,000 have already been newly displaced across Kordofan since February." },
+        { "type": "para", "text": "<b>China-Taiwan &mdash; coast-guard pressure persists.</b> Chinese Coast Guard vessels have maintained patrols in Taiwan's claimed eastern exclusive economic zone since 1 June and have repeatedly entered the restricted waters around Taipei's Dongsha outposts, an incremental widening of the coercion map rather than a new crisis. Separately, a multiparty Taiwanese legislative delegation led by Speaker Han Kuo-yu is meeting US members of Congress. We judge Beijing is calibrating pressure to stretch Taiwan's defenses while avoiding an overt provocation." },
+        { "type": "para", "text": "<b>Homeland &mdash; heightened posture for the Fourth.</b> Washington's \"Salute to America\" and 250th-anniversary events are being run as a National Special Security Event &mdash; a first for an Independence Day &mdash; with Secret Service tactical and counter-drone teams, FBI, National Guard, and DC police layering security amid a persistent lone-wolf threat environment and a dangerous heat wave. We assess the venues are well-postured; the principal risks are an unaffiliated actor and heat-related incidents rather than a specific credible plot." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, FBI, DHS I&A, and open sources."
+    }
+  ]
+}

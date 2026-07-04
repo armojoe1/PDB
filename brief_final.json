@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-04",
+  "cover": false,
+  "emblem": "/tmp/claude-0/-home-user-PDB/b35691f4-29d8-59aa-ac3c-b30fa8c80165/scratchpad/wh_170.png",
+  "articles": [
+    {
+      "headline": "Iran Opens Khamenei Funeral as US Truce Holds by a Thread",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran's leadership will use the dayslong state funeral for the late Supreme Leader Ali Khamenei &mdash; opened in Tehran this morning &mdash; to project unity and mobilize a grieving public while keeping the fragile truce with the United States intact for now. Khamenei was killed on 28 February in Israeli and US strikes; mourners chanting <i>\"revenge, revenge\"</i> underscore the pressure on his successor, but we judge Tehran is unlikely to break the ceasefire during the mourning period itself." },
+        { "type": "bullets", "items": [
+          "Officials from more than 100 countries are attending, with senior figures from China, India, and Pakistan among them &mdash; a deliberate signal that Tehran is not isolated. Islamabad, which brokered the April ceasefire and the 17 June memorandum of understanding, remains the central channel.",
+          "Press reporting indicates Khamenei's son and successor, Mojtaba Khamenei, wounded in the same strikes, will not appear at the funeral &mdash; a security judgment consistent with continued regime concern over its leadership's exposure.",
+          "<b>For Washington:</b> the mourning period is the danger window. The \"revenge\" rhetoric is aimed inward, but a splinter strike by the IRGC or an aligned group against US forces or shipping would test the truce. We judge a state-directed Iranian attack in the next 72 hours as unlikely but not negligible; the decision point is how the succession consolidates once the rites conclude."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Kyiv Toll Climbs After One of the War's Deadliest Strikes; Trump Signals Sanctions",
+      "blocks": [
+        { "type": "para", "text": "We assess that this week's mass Russian strike on Kyiv &mdash; roughly 500 drones and dozens of missiles in an 11-hour barrage, now confirmed to have killed at least 30 &mdash; marks a deliberate escalation and has hardened President Trump's posture. Trump called the attack <i>\"disgusting\"</i> and signaled new large-scale sanctions; the Kremlin dismissed the threat. We judge the strike was Moscow's retaliation for Ukraine's intensifying long-range campaign against Russian energy infrastructure." },
+        { "type": "bullets", "items": [
+          "Most damage fell on residential buildings, an ambulance station, and a hotel; ballistic missiles and jet-powered drones drove the high casualty count. Ukraine answered with retaliatory drone waves against Crimea overnight.",
+          "US Special Envoy Kellogg publicly assessed that <i>\"Russia appears to be escalating\"</i> and does not want to end the war diplomatically &mdash; a notable shift in the administration's read.",
+          "<b>For Washington:</b> the open question is whether Trump converts the sanctions signal into action, including the congressional package he has previously greenlit, and whether he adds air-defense support for Kyiv."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Venezuela's Acting Leader Loses Her Mandate as Quake Dead Top 2,500",
+      "blocks": [
+        { "type": "para", "text": "We assess that Venezuela faces acute political uncertainty as acting President Delcy Rodriguez's 180-day interim mandate lapsed yesterday, colliding with public fury over the response to the 24 June twin earthquakes that have killed more than 2,500. Rodriguez has governed since the United States captured Nicol&aacute;s Maduro in a military operation in January; the succession question now carries direct US equities." },
+        { "type": "bullets", "items": [
+          "Rodriguez angrily defended the response, blaming criticism on <i>\"narratives manufactured in propaganda laboratories,\"</i> against accounts that hard-hit La Guaira went 48 hours without official rescue teams.",
+          "The US has committed over $300 million and some 900 military personnel to the relief effort, giving Washington leverage over the transition; press reporting indicates the administration has discouraged opposition leader Mar&iacute;a Corina Machado from returning for now.",
+          "<b>For Washington:</b> the decision point is whether to back an extension of Rodriguez's caretaker authority or press for a defined transition &mdash; mishandling the sequencing risks a governance crisis in a major oil producer where US troops are now on the ground."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Lebanon &mdash; Israeli strikes test the truce.</b> Israeli jets hit roughly ten Hezbollah sites in southern Lebanon yesterday after a Hezbollah gunman wounded an Israeli reservist in Bint Jbeil. President Aoun defended the US-mediated arrangement while insisting it does not legitimize the continued IDF presence. We judge neither side seeks full-scale war, but the tit-for-tat raises miscalculation risk during Iran's succession." },
+        { "type": "para", "text": "<b>Energy &mdash; Brent near pre-war levels.</b> Brent held near $72 at Friday's close as Strait of Hormuz flows recovered above 10 million barrels a day and Trump said Iran talks are progressing after Doha mediation. The drained risk premium eases a US inflationary pressure; the tail risk is a Hormuz reclosure if the truce breaks." },
+        { "type": "para", "text": "<b>Albania &mdash; anti-Kushner protests turn violent.</b> Police used water cannon and tear gas in Tirana overnight against protesters opposing a resort project linked to Jared Kushner and Ivanka Trump, detaining 23; some 15 officers were injured. A modest irritant on NATO's Adriatic flank carrying a US-family equity that gives it outsized salience." },
+        { "type": "para", "text": "<b>Sudan &mdash; UN warns of catastrophe.</b> The UN rights chief warned yesterday of a human-rights catastrophe in besieged El Obeid, documenting killings and sexual violence across Kordofan as the army and RSF intensify their fight; a new Amnesty report details RSF atrocities in El Fasher. A full RSF assault could displace hundreds of thousands." },
+        { "type": "para", "text": "<b>Homeland &mdash; heightened posture for the Fourth.</b> Washington's 250th-anniversary \"Salute to America\" is being run as a National Special Security Event &mdash; a first for Independence Day &mdash; with Secret Service counter-drone teams, FBI, and National Guard amid a persistent lone-wolf threat and a dangerous heat wave. We assess the venues are well-postured; the principal risks are an unaffiliated actor and heat." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, FBI, DHS I&amp;A, and open sources."
+    }
+  ]
+}
