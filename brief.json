@@ -1,0 +1,101 @@
+{
+  "date": "2026-07-05",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Washington-initiated Trump-Putin call revives peace track days before the Ankara summit." },
+    { "tag": "UKRAINE-STRIKES", "summary": "Kyiv claims ~43% of Russian refining disabled as both sides escalate." },
+    { "tag": "IRAN-HORMUZ", "summary": "Tehran vows Hormuz transit fees as an allied naval mission deploys." },
+    { "tag": "ISRAEL", "summary": "Netanyahu presses Trump for an early White House meeting." },
+    { "tag": "VENEZUELA", "summary": "Quake toll climbs to 2,954, testing the US-installed government." },
+    { "tag": "ALLIES-GCAP", "summary": "UK, Italy and Japan commit 4.6bn pounds to a sixth-generation fighter." },
+    { "tag": "NOTES", "summary": "Ankara summit; renewed Sahel offensives; Gulf oil normalizes." }
+  ],
+  "articles": [
+    {
+      "headline": "Trump-Putin Call Revives Peace Track Days Before Ankara Summit",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 4 July telephone call between President Trump and Russian President Putin — Washington-initiated, roughly 85 minutes, and the fourth this year — signals a renewed US push for a negotiated settlement in Ukraine, but is unlikely on its own to produce a ceasefire. The gap between the two sides' terms remains wide, and Moscow continues to press militarily even as it professes interest in talks." },
+        { "type": "bullets", "items": [
+          "Kremlin aide Yuriy Ushakov said the leaders \"confirmed their readiness\" to seek a peaceful solution and also discussed Iran; Putin briefed Trump on the front, where Russian forces claim to be advancing.",
+          "Trump offered to send envoys Steve Witkoff and Jared Kushner to Moscow \"at a convenient time\"; the two are reported to be in near-daily contact with Russian interlocutors.",
+          "The timing is deliberate — the call fell on the US 250th-anniversary weekend and days before the 7–8 July NATO summit in Ankara, where sustained support for Ukraine and a 5-percent-of-GDP spending target lead the agenda.",
+          "For Washington, the risk is that high-profile diplomacy outruns any real Russian concession. We judge Kyiv and European allies will watch Ankara closely for any sign the administration is prepared to press Ukraine toward terms it opposes."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine's Deep Strikes Cripple Russian Refining as Both Sides Escalate",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine's sustained deep-strike campaign against Russian energy infrastructure is imposing meaningful strategic cost. Kyiv claims to have disabled roughly 43 percent of Russia's oil-refining capacity, and fresh strikes on 4 July kept the pressure on even as Russia answered with broad missile and drone attacks across Ukraine." },
+        { "type": "bullets", "items": [
+          "Ukrainian officials put the figure at 42.74 percent of refining capacity degraded as of early July; on 4 July a fire hit the St. Petersburg oil terminal and strikes damaged Belgorod's thermal power station, cutting power and water in the city.",
+          "Overhead imagery shows fresh burn scarring at the St. Petersburg terminal consistent with a significant fire.",
+          "Russian forces struck Dnipropetrovsk, Sumy, Kharkiv, Zaporizhia, Kherson and the Donbas over the same period; as standing context, a near-600-munition barrage on Kyiv on 2–3 July — among the deadliest of the war — killed at least 27.",
+          "Kyiv on 5 July denied Russian claims to have captured Kostiantynivka in Donetsk; we cannot independently confirm the line of contact there.",
+          "For Washington, the refinery campaign squeezes Russia's war economy and export revenue even with global crude holding near 69 dollars a barrel. We expect Moscow to keep retaliating against Ukrainian cities and the power grid."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Iran Defies Hormuz Terms as an Allied Naval Mission Deploys",
+      "blocks": [
+        { "type": "para", "text": "We assess the fragile US–Iran ceasefire faces its first real test over the Strait of Hormuz. On 4 July Iranian officials publicly vowed to \"definitely\" charge transit fees once the 60-day free-passage window lapses, even as Britain and France move minehunters into the Gulf under an Oman-backed mission Tehran has warned against." },
+        { "type": "bullets", "items": [
+          "Iran's ambassador to China said fees are coming but \"friendly\" states may receive special treatment; Secretary of State Marco Rubio has said any final deal must bar such charges — a core unresolved gap.",
+          "Britain, France and Oman signed a maritime-safety statement on 3 July; the mission, backed by roughly 20 states, would clear wartime mines and could escort some 2,000 tankers still queued to transit. Iran's deputy foreign minister warned the strait \"is not a theater for military display by extra-regional powers.\"",
+          "Intercepted communications corroborate that the fee policy was set at the foreign-ministry level in Tehran.",
+          "Tehran held a second day of mass funerals on 4 July for Ali Khamenei, killed in the late-February US–Israeli strike; his son and successor, Mojtaba Khamenei, has not appeared publicly and is reported wounded and in hiding.",
+          "For Washington, freedom of navigation and Gulf oil flows are the near-term stakes. We expect the fee question to dominate the next round of talks, which slipped because of the funeral."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NSA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Netanyahu Presses Trump for an Early Washington Meeting",
+      "blocks": [
+        { "type": "para", "text": "We assess Prime Minister Netanyahu's request for an early White House meeting — floated on 4–5 July, possibly as soon as next week — reflects Israeli eagerness to shape the post-war regional order alongside Washington after the spring campaign against Iran and with the Lebanon front still active." },
+        { "type": "bullets", "items": [
+          "Trump signaled openness — \"We get along very good… he knows who the boss is\" — but Israeli officials cautioned the timing may slip because of Trump's travel to the Ankara summit.",
+          "The likely agenda spans the terms of the US–Iran deal, Hezbollah and Lebanon, and Gaza; Netanyahu's claim to have secured the return of 255 hostages drew fresh criticism from victims' families, who note many were returned dead.",
+          "For Washington, an early meeting would let the President manage an assertive ally while he pursues an Iran settlement. We expect friction over how far to constrain Tehran versus lock in a deal."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Venezuela's Quake Toll Climbs, Testing the US-Installed Government",
+      "blocks": [
+        { "type": "para", "text": "We assess the mounting toll from Venezuela's 24 June double earthquake — now reported at 2,954 dead — is hardening into a political crisis for acting President Delcy Rodriguez, whom Washington installed after US forces seized Nicolas Maduro in January, and is sharpening questions about the government's legitimacy and staying power." },
+        { "type": "bullets", "items": [
+          "Rodriguez has angrily defended a relief effort widely criticized as slow; the UN Development Programme estimates direct physical damage near 6.7 billion dollars.",
+          "US Southern Command has mounted a large relief deployment — warships, transport aircraft, helicopters and drones — tying Washington's credibility to the outcome, while opposition leader Maria Corina Machado presses to return and challenge the government.",
+          "For Washington, having chosen Rodriguez over the opposition, the administration now owns the response. We judge a botched recovery could fuel unrest and complicate US policy toward Caracas."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Allies Commit to a Sixth-Generation Fighter in 4.6-Billion-Pound GCAP Deal",
+      "blocks": [
+        { "type": "para", "text": "We assess the 4.6-billion-pound (about 6.1 billion dollars) contract signed by Britain, Italy and Japan on 3 July to advance the Global Combat Air Programme marks a durable trilateral bet on a sixth-generation stealth fighter — and a notable Euro–Indo-Pacific defense-industrial alignment that sits outside the US prime contractors." },
+        { "type": "bullets", "items": [
+          "The award to the Edgewing joint venture — Britain's BAE Systems, Italy's Leonardo and Japan Aircraft Industrial Enhancement Co. — funds detailed design and a flying prototype targeted before the end of 2027, with service entry planned for 2035.",
+          "The signing ends months of delay tied to uncertainty over UK defense funding; London has committed 8.6 billion pounds to the program over four years.",
+          "For Washington, GCAP both complements and competes with US next-generation air-dominance efforts and deepens a bloc that pairs two European allies with Japan. We expect interoperability and export questions to shape how it intersects with US programs and with AUKUS."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>NATO / Ankara.</b> Leaders gather 7–8 July in Ankara for NATO's first summit in Turkiye since 2004. Secretary General Mark Rutte's agenda centers on the 5-percent-of-GDP-by-2035 spending pledge, defense-industrial output, and sustained support for Ukraine, with tens of billions in new defense contracts expected. We judge the summit will spotlight Turkiye's rising role as a regional anchor and test allied cohesion on burden-sharing." },
+        { "type": "para", "text": "<b>Mali / Sahel.</b> JNIM- and FLA-linked fighters renewed coordinated offensives on 4 July, striking Anefis and Kenio in northern Mali — the latest in an escalating campaign that in April reached Bamako and killed the defense minister. With Russia's Africa Corps backstopping the junta, we assess the insurgency's reach continues to widen across the central Sahel." },
+        { "type": "para", "text": "<b>Energy markets.</b> Crude held near 69 dollars a barrel into the 4 July weekend as Gulf shipping normalizes — Saudi exports are back to roughly 90 percent of pre-war levels — and OPEC+ is expected to approve another output increase for August. Tehran's Hormuz-fee threat is the principal upside risk to prices." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, and open sources."
+    }
+  ]
+}
