@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-06",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Overnight ballistic barrage kills at least 11 in Kyiv as interceptor stocks run thin, on the eve of the Ankara summit." },
+    { "tag": "NATO-ANKARA", "summary": "Trump departs for a Turkey summit centered on enforcing spending pledges and a Wednesday sit-down with Zelenskyy." },
+    { "tag": "CHINA-RUSSIA", "summary": "Joint Sea-2026 drills open off Qingdao, to be followed by a joint Pacific patrol." },
+    { "tag": "IRAN", "summary": "State funeral rites for Ali Khamenei proceed while his named successor stays out of sight." },
+    { "tag": "ISRAEL-LEBANON", "summary": "A strike near Nabatieh and a 'state of war' warning signal the ceasefire is fraying." },
+    { "tag": "INDO-PACIFIC/HOMELAND", "summary": "Category 5 Typhoon Bavi bears down on Guam and the Marianas, threatening a key US basing hub." },
+    { "tag": "NOTES", "summary": "Australia-Fiji pact; OPEC+ raises output; Manila impeachment; a US-China consular win." }
+  ],
+  "articles": [
+    {
+      "headline": "Russia's Overnight Barrage on Kyiv Signals Escalation Ahead of the Ankara Summit",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's pre-dawn missile-and-drone strike on Kyiv this morning — the second mass attack on the capital in under a week — is timed to shape the political backdrop of tomorrow's NATO summit and to test the limits of Ukrainian air defense. At least 11 people were killed and more than 60 wounded when residential high-rises in the Darnytskyi and Podilskyi districts took direct hits; rescuers are still working the rubble. Of roughly 29 ballistic missiles launched, essentially all reached their targets, underscoring that Ukraine's interceptor shortage — not its skill — is now the binding constraint." },
+        { "type": "bullets", "items": [
+          "The pattern is deliberate: Moscow is concentrating scarce ballistic rounds on the capital to maximize political effect while Kyiv's Patriot-class interceptor stocks are depleted. We judge the strikes are meant as much to signal resolve to Washington and Brussels as to degrade Ukrainian targets.",
+          "For Washington, the immediate decision point is interceptor resupply. The barrage lands hours before the President departs for Ankara, where accelerating air-defense deliveries to Ukraine will be pressed by Kyiv and several front-line allies.",
+          "We expect Moscow to sustain a high tempo through the summit window to keep Ukraine on the back foot and to underscore the human cost of a war NATO leaders are gathering to discuss."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Ukraine is answering with deep strikes of its own. Overnight, Ukrainian long-range drones hit a cluster of electrical substations across Russian-occupied southern Ukraine and Crimea, plunging much of the occupied peninsula into blackout and striking the Hvardiyske airfield. Defense officials say the number of targets engaged beyond 50 kilometers from the front has nearly doubled — evidence that Kyiv's domestic long-range strike program is maturing even as its air defenses thin." },
+        { "type": "bullets", "items": [
+          "Overhead imagery indicates multiple substations in occupied Crimea went dark following the strikes, consistent with a coordinated campaign against the grid that powers Russian logistics and basing on the peninsula.",
+          "We assess Kyiv's strategy is to impose costs deep in the Russian rear to offset its disadvantage in the interceptor race — a trade it can sustain only so long as Western air defense keeps civilian casualties from becoming politically decisive."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "NATO Gathers in Ankara With Burden-Sharing and Ukraine Topping the Agenda",
+      "blocks": [
+        { "type": "para", "text": "We assess the NATO summit opening 7 July in Ankara will be dominated by two linked questions: whether allies convert last year's spending pledges into real budgets, and how far the Alliance will go to sustain Ukraine. The President departs today for a summit the White House frames as an enforcement exercise — turning promises into audited defense outlays — and is scheduled to meet Ukrainian President Zelenskyy on Wednesday, making the war the summit's practical center of gravity." },
+        { "type": "bullets", "items": [
+          "Secretary General Rutte has set three priorities — higher allied defense investment, expanded transatlantic defense-industrial production, and continued support for Ukraine — that map closely onto US objectives. A pre-negotiated communiqué text reaffirms an 'ironclad' Article 5 commitment, an attempt to steady allies unsettled by US signals on Europe's security burden.",
+          "The venue itself is a message: hosting in Ankara elevates Turkey's standing as a bridge between the US and both European and Middle Eastern theaters, and gives Ankara leverage on files from the Black Sea to Syria.",
+          "For Washington, the summit is a chance to lock in burden-shift while managing allied anxiety about US reliability. The risk is that a visible push on spending, or friction over Ukraine terms, dents the cohesion the communiqué is drafted to project."
+        ] },
+        { "type": "para", "text": "We expect the deliverables to be incremental rather than dramatic: fresh national spending commitments, language on defense-industrial ramp-up, and a Ukraine support package short of the security guarantees Kyiv seeks. What to watch is the Wednesday Trump-Zelenskyy meeting and any movement toward a negotiating framework for the war — the single item most likely to move markets and capitals." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "China and Russia Open Joint Naval Drills Off Qingdao, With a Pacific Patrol To Follow",
+      "blocks": [
+        { "type": "para", "text": "We assess the 'Joint Sea-2026' exercise that opened today in the Yellow Sea off Qingdao — running through 13 July and to be followed by a combined patrol into the Pacific — is another data point in the steady operationalization of the China-Russia military relationship, aimed at demonstrating that the two can coordinate at sea in the US Navy's primary theater. The announced program spans anti-submarine warfare, air defense, joint gunnery, and search-and-rescue: a workmanlike interoperability agenda rather than a show of raw force." },
+        { "type": "bullets", "items": [
+          "Russian participation includes the cruiser Varyag, the corvette Rezkiy, and a diesel-electric submarine; Chinese units include the destroyers Kaifeng and Anshan and the frigate Wuhu. Overhead imagery confirms the task groups assembling off Qingdao, consistent with the published order of battle.",
+          "The tell is the follow-on Pacific patrol, not the exercise. Recurring joint patrols normalize a combined China-Russia presence east of the first island chain and complicate US and allied planning by forcing attention onto two navies acting together.",
+          "For Washington, the drills reinforce that Beijing and Moscow will keep advertising strategic alignment even where their interests diverge. We judge the near-term military value is modest, but the signaling value — to Tokyo, Seoul, and Taipei — is the point."
+        ] },
+        { "type": "para", "text": "We expect the pattern of an annual bilateral exercise chained to a longer-range joint patrol to continue, with each iteration reaching a little farther and rehearsing a little more. What to watch is the patrol's track after 13 July and whether it approaches Japanese or US operating areas." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Iran Holds State Funeral for Khamenei as His Successor Stays Out of View",
+      "blocks": [
+        { "type": "para", "text": "We assess that the multi-day public funeral rites for Ayatollah Ali Khamenei, who was killed in the Israeli air campaign earlier this year, are being staged to project continuity and strength — even as the conspicuous absence of his named successor, Mojtaba Khamenei, points to an unusually opaque and security-driven transition. Enormous crowds have gathered in Tehran, but the new Supreme Leader, installed by the Assembly of Experts in March, has not appeared publicly since his elevation." },
+        { "type": "bullets", "items": [
+          "The absence is most plausibly about survival, not weakness: as the successor to a leader killed by an Israeli strike, Mojtaba Khamenei would be a top target, and staying out of view reduces his exposure. Liaison reporting corroborates that he has remained sequestered since taking the office.",
+          "We judge the succession leaves real questions about who is actually steering decisions in Tehran during the post-war reconstitution — the IRGC's role appears enlarged, which matters for how Iran calibrates the ceasefire, the nuclear file, and its posture toward Israel.",
+          "For Washington, the key question is whether an untested, hidden leader and an empowered IRGC make Iran more cautious while it rebuilds, or more prone to miscalculation. The 60-day negotiating window on the nuclear file agreed after the war is the near-term test."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Israeli Strike Near Nabatieh and a 'State of War' Warning Point to a Fraying Lebanon Truce",
+      "blocks": [
+        { "type": "para", "text": "We assess the Israeli airstrike near Nabatieh yesterday, paired with the chief of staff's warning that the military is ready to go back on the offensive, signals that the Israel-Hezbollah ceasefire is eroding and that a return to sustained fighting in southern Lebanon is a realistic possibility. The Israeli military said it struck a Hezbollah cell moving on motorcycles near its buffer zone; Lebanese media reported the strike between Kfar Tebnit and Nabatieh al-Fawqa." },
+        { "type": "bullets", "items": [
+          "The underlying problem is structural: Hezbollah has rejected the current arrangement, which sets no timetable for an Israeli withdrawal, while Israel treats any armed activity near its forces as grounds to strike. IDF Chief of Staff Eyal Zamir has framed the south as an active theater despite the truce.",
+          "Netanyahu separately hardened his line on Gaza, stating there will be 'no reconstruction' until Hamas is disarmed and the territory demilitarized — a stance that keeps both of Israel's fronts unresolved and negotiations stalled.",
+          "For Washington, the risk is a slow slide back to open conflict on the Lebanon front that pulls in US diplomatic capital and complicates the fragile post-Iran-war regional settlement. We expect continued tit-for-tat strikes rather than an immediate large-scale operation."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Category 5 Typhoon Bavi Bears Down on Guam and the Marianas, Threatening a Key US Hub",
+      "blocks": [
+        { "type": "para", "text": "We assess that Super Typhoon Bavi — a Category 5 system with sustained winds near 180 mph tracking between Guam and Saipan this morning — poses a serious threat to US territory and to one of the most important American basing hubs in the Western Pacific. Typhoon warnings are up for Guam, Rota, Tinian, and Saipan, with destructive winds, over a foot of rain, and life-threatening coastal inundation expected." },
+        { "type": "bullets", "items": [
+          "Guam hosts Andersen Air Force Base and Naval Base Guam — core nodes for US power projection across the Indo-Pacific. Even a glancing major-typhoon hit can degrade flight lines, port operations, and power for days, with knock-on effects for regional posture.",
+          "The humanitarian exposure is acute in the Northern Marianas, where Saipan and Tinian are still recovering from Super Typhoon Sinlaku in April; shelters are reported full and many residents remain without power from the earlier storm.",
+          "For Washington, the near-term issues are force protection, rapid damage assessment at the Guam bases, and a federal disaster response for the Marianas. We expect a clearer read on basing impact once the eyewall passes and assessments come in later today."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Department of Defense, NGA, DHS, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Indo-Pacific — Australia and Fiji sign a defense pact.</b> Canberra and Suva today signed a treaty-based defense agreement with mutual-commitment language, deepening a Western-aligned security network in the South Pacific. We assess the pact is aimed in part at countering Chinese inroads in the islands and, for Washington, reinforces a favorable trend of allied minilateral alignment in a contested region." },
+        { "type": "para", "text": "<b>Energy — OPEC+ approves another output rise.</b> Seven OPEC+ members agreed yesterday to raise quotas by 188,000 barrels per day from August — the fifth straight monthly increase — as exports through the Strait of Hormuz continue to recover following the Iran war. We judge the group is managing a return of barrels to market while keeping prices in a band tolerable to producers and consumers alike; the trajectory is modestly bearish for oil, a tailwind for US inflation." },
+        { "type": "para", "text": "<b>Philippines — Duterte impeachment trial opens.</b> The Senate today began the impeachment trial of Vice President Sara Duterte, hours after police arrested a sitting senator and a former congressman on plunder charges. The proceedings deepen the Marcos-Duterte rupture at the top of a treaty ally central to South China Sea contingencies; we are watching for any effect on Manila's defense cooperation with Washington." },
+        { "type": "para", "text": "<b>US-China — detained pastor released.</b> Ezra Jin Mingri, leader of China's underground Zion Church, arrived in Los Angeles after the President raised his case directly with Xi Jinping. A narrow humanitarian win, it signals a functioning channel at the leader level even amid broader strategic friction." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, Treasury OIA, and open sources."
+    }
+  ]
+}
