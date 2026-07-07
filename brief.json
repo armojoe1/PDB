@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-07",
+  "cover": true,
+  "toc": [
+    { "tag": "UKRAINE", "summary": "Russia's second mass strike on Kyiv in four days exposes a widening ballistic-missile gap on the eve of the NATO summit." },
+    { "tag": "NATO", "summary": "Ankara summit opens with Trump pressing allies to accelerate the 5 percent defense pledge." },
+    { "tag": "IRAN", "summary": "Khamenei's state funeral underscores an opaque, untested succession as his named heir stays unseen." },
+    { "tag": "GAZA", "summary": "Hamas offers to dissolve its Gaza government but concedes nothing on disarmament; Israel calls it a stunt." },
+    { "tag": "VENEZUELA", "summary": "Quake fallout tests the US-backed Rodriguez government as her interim mandate lapses." },
+    { "tag": "ENERGY", "summary": "OPEC+ lifts August output; crude eases on ample supply." },
+    { "tag": "INDO-PACIFIC", "summary": "Australia and Fiji sign a defense pact; a Philippine impeachment trial opens." },
+    { "tag": "NOTES", "summary": "China frees a US pastor; North Korea keeps testing; Sudan's war on civilians; Cuba's grid fails again." }
+  ],
+  "articles": [
+    {
+      "headline": "Russia's Heaviest Kyiv Barrage in Days Exposes Ukraine's Ballistic-Missile Gap",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's overnight bombardment of Kyiv on 6 July — its second mass strike on the capital in four days — was timed to shape the NATO summit opening in Ankara and to exploit a widening gap in Ukraine's defenses against ballistic missiles. Ukrainian officials reported at least 22 people killed and dozens wounded, several of them children, with the toll still rising this morning." },
+        { "type": "bullets", "items": [
+          "The strike package combined roughly 23 ballistic missiles, some 39 cruise missiles, six Zircon hypersonic anti-ship missiles, and more than 350 attack and decoy drones. Air defenses downed most of the cruise missiles and drones but, by Kyiv's own account, intercepted none of the ballistic missiles — the shortfall that is doing the killing.",
+          "We judge the constraint is materiel, not skill. Ukraine's shortage of Patriot interceptors is acute, and Russia is deliberately weighting its salvos toward ballistic systems to saturate what remains. President Zelensky said the “insufficient supply of interceptor missiles” left the ballistic threat unanswered.",
+          "Overhead imagery shows fresh impact craters and heavy structural damage across the southeastern Darnytskyi district, an area also struck last week.",
+          "For Washington, the barrage sharpens the summit's central question — whether allies will free up Patriot interceptors and speed deliveries. Zelensky is using the attack to press that plea directly to leaders gathering in Ankara."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Kyiv is answering against Russia's energy backbone." },
+        { "type": "bullets", "items": [
+          "Ukrainian forces struck the Omsk refinery deep in Siberia on 6 July, part of a sustained campaign against Russian refining and logistics. We assess these long-range strikes are meant to raise the war's economic cost for Moscow even as Ukraine's own cities remain exposed."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "NATO Opens in Ankara as Trump Presses Allies To Accelerate the 5 Percent Pledge",
+      "blocks": [
+        { "type": "para", "text": "We assess that the NATO summit opening 7 July in Ankara will turn less on new commitments than on enforcement: President Trump arrives intent on holding allies to the 5 percent-of-GDP defense pledge secured at last year's Hague summit and on pressing them to reach it faster. Secretary General Rutte is asking members to table concrete national plans." },
+        { "type": "bullets", "items": [
+          "The Hague framework sets 3.5 percent of GDP for core defense and 1.5 percent for defense-related spending by 2035. The administration wants allies “on the path … with urgency,” in the words of the US envoy, and treats this gathering as the first real test of compliance.",
+          "Rutte's stated priorities are higher allied investment, rebuilding transatlantic defense-industrial capacity, and sustaining Ukraine — the last made more urgent by the overnight strikes on Kyiv.",
+          "Trump is expected to meet Zelensky midweek, Syrian President Ahmad al-Sharaa, and host Erdogan; he spoke with both Zelensky and Putin on 4 July. We judge Ukraine security assistance — above all air-defense interceptors — will dominate his bilateral with Zelensky.",
+          "The “NATO 3.0” concept the administration is promoting — Europe carrying more of its own defense so the US can shift focus toward the Indo-Pacific — is the strategic subtext. For Washington, the win condition in Ankara is credible spending plans, not another communiqué."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, and open sources."
+    },
+    {
+      "headline": "Khamenei State Funeral Underscores Iran's Opaque, Untested Succession",
+      "blocks": [
+        { "type": "para", "text": "We assess that the mass state funeral for former Supreme Leader Ali Khamenei in Tehran on 6 July was staged to project continuity, but the conspicuous absence of his son and named successor, Mojtaba Khamenei, instead underscored how opaque and untested Iran's leadership has become since the February war. Mojtaba has not appeared in public since he was named." },
+        { "type": "bullets", "items": [
+          "Ali Khamenei was killed in an Israeli strike on 28 February; the Assembly of Experts named the 56-year-old Mojtaba as the third supreme leader in early March. He has since governed — to the extent he is governing — entirely through intermediaries.",
+          "Liaison reporting corroborates that Mojtaba was wounded in the same 28 February strike that killed his father. His continued invisibility, even at the funeral, is feeding public unease that Tehran's usual signals of stability are missing.",
+          "We judge day-to-day authority now rests with an institutional network — the IRGC command, the presidency, and senior clerics — rather than a single visible figure, raising the risk of friction or miscalculation in any new crisis.",
+          "For Washington, the key question is decision-making. An unseen, untested supreme leader complicates deterrence signaling and any diplomacy on the nuclear file. We expect Tehran to keep succession questions tightly controlled and to lean on managed public mobilization to demonstrate resilience."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Hamas Offers To Dissolve Its Gaza Government; Israel Dismisses It as a Stunt",
+      "blocks": [
+        { "type": "para", "text": "We assess that Hamas's 6 July announcement that it will dissolve its Gaza administration and hand day-to-day governance to a Palestinian technocratic committee is a calibrated move to claim progress on the US-backed post-war plan while conceding nothing on the issue that actually blocks it — disarmament." },
+        { "type": "bullets", "items": [
+          "The technocratic committee is a core element of the framework President Trump laid out after October's fragile ceasefire. Hamas cast the handover as a step forward, but its statement made no mention of surrendering its weapons — the central requirement of the deal's stalled second phase.",
+          "Israel dismissed the move as a stunt; Prime Minister Netanyahu said on 5 July there would be “no reconstruction in Gaza until Hamas is disarmed.” We judge the sides remain far apart on sequencing — governance handover versus decommissioning.",
+          "The ceasefire remains violent. Israeli strikes killed at least six Palestinians on 6 July; Gaza's health ministry attributes more than a thousand deaths to truce-period operations — figures we treat as reported, not independently confirmed.",
+          "For Washington, the handover is an opening worth testing: a technocratic body could become the vehicle for reconstruction and security arrangements, but only if paired with a credible disarmament track. We expect US mediators to press both."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Quake Fallout Tests US-Backed Rodriguez in Venezuela as Interim Mandate Lapses",
+      "blocks": [
+        { "type": "para", "text": "We assess that Venezuela's catastrophic June earthquakes have become the first serious test of the US-backed interim government of Delcy Rodriguez — and that the lapse of her 180-day mandate on 4 July has reopened the country's leadership question at the worst possible moment. The confirmed toll has risen above 3,300, with thousands still missing." },
+        { "type": "bullets", "items": [
+          "Rodriguez was installed with Trump administration support after Nicolas Maduro was captured and imprisoned in a US military operation on 3 January. Her interim mandate has now formally expired, leaving the legal basis for continued rule contested.",
+          "The disaster response has drawn heavy criticism — residents describe being left to dig for survivors without official teams for the first 48 hours — and Rodriguez has publicly defended her government's performance. The UN Development Programme puts direct damage in the billions of dollars.",
+          "Opposition leader Maria Corina Machado is pressing for a return to power; the administration has so far stood behind Rodriguez. We judge Washington faces a genuine dilemma — continuity under a weakened but aligned interim leader versus the legitimacy claim of the opposition it long championed.",
+          "For Washington, the decision point is near-term: whether to back an extension, a transition, or elections. Instability in a major oil producer on the hemisphere's doorstep carries migration and energy consequences the US will feel directly."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "OPEC+ Lifts August Output; Crude Eases on Ample Supply",
+      "blocks": [
+        { "type": "para", "text": "We assess that OPEC+'s decision to raise August production targets reflects a durable strategic shift toward defending market share over price, and points to a well-supplied oil market through the summer despite persistent geopolitical risk." },
+        { "type": "bullets", "items": [
+          "The group agreed on 5 July to lift output targets by roughly 188,000 barrels per day for August. Brent eased to about $71.70 and US WTI to about $68.40 on 6 July.",
+          "Supply is recovering visibly: OPEC output rose sharply in June and Gulf exports climbed back above 10 million barrels per day, unwinding the tightness that followed the spring's Middle East disruptions.",
+          "For Washington, softer, well-supplied crude is a tailwind on inflation and leaves more room to sustain sanctions pressure without a price spike. We judge the main upside risk remains geopolitical — a renewed Gulf shock or escalation touching shipping lanes."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, CIA, and open sources."
+    },
+    {
+      "headline": "Australia and Fiji Sign Defense Pact, Deepening Indo-Pacific Alignment",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Australia–Fiji defense pact signed 6 July marks another increment in Canberra's effort to lock in security ties across the South Pacific and to blunt Beijing's push for influence and access in the region — a trend that runs in Washington's favor." },
+        { "type": "bullets", "items": [
+          "The agreement deepens defense cooperation with a strategically placed island state and fits a broader pattern of Australian, US, and partner activity aimed at keeping the Pacific's security architecture Western-leaning. We judge Beijing will read it as containment and look to counter with agreements of its own.",
+          "For Washington, a more capable and better-networked Australia advancing Pacific burden-sharing aligns squarely with the shift-to-the-Indo-Pacific logic behind the NATO 3.0 concept on display in Ankara."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Political turbulence is testing another treaty ally." },
+        { "type": "bullets", "items": [
+          "The impeachment trial of Philippine Vice President Sara Duterte opened in the Senate on 6 July. We assess it will absorb considerable political oxygen in Manila and bears watching for its effect on the Marcos government's cohesion and on US–Philippine defense cooperation, including expanded basing access."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>China — Pastor freed as goodwill gesture.</b> Beijing released prominent underground-church pastor Ezra Jin, who reached the United States on 4 July after nine months in detention. Chinese officials framed the release as a goodwill gesture tied to the US 250th anniversary and to President Trump's May request to Xi. At least eight of his Zion Church colleagues remain held.",
+          "<b>North Korea — Sustained test cadence.</b> Following Kim Jong Un's 25 June oversight of ballistic-missile and rocket-launcher tests, we expect continued short-range and cruise-missile activity through July, consistent with Pyongyang's five-year modernization plan and the Korean War anniversary period.",
+          "<b>Sudan — War on civilians.</b> The UN has ordered an inquiry into abuses at El-Obeid, where monitors report more than 330 children killed in six months. We assess the humanitarian trajectory continues to worsen with no diplomatic off-ramp in view.",
+          "<b>Cuba — Grid failure.</b> Cuba suffered its third nationwide blackout of 2026 on 6 July, underscoring an accelerating infrastructure collapse with migration implications for the United States."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State INR, and open sources."
+    }
+  ]
+}
