@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-08",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "US strikes 80-plus Iranian targets after tanker attacks; June truce unraveling." },
+    { "tag": "NATO-ANKARA", "summary": "Ankara summit yields F-35 opening for Turkey amid US pressure and Greenland threats." },
+    { "tag": "UKRAINE-RUSSIA", "summary": "Kyiv's deep-strike campaign reaches its farthest point yet at Omsk." },
+    { "tag": "GAZA", "summary": "Hamas dissolves its government, handing civil rule to a UN-backed committee." },
+    { "tag": "CHINA-TAIWAN", "summary": "Taipei presses public readiness as Beijing test-fires an SLBM in the South Pacific." },
+    { "tag": "FRANCE", "summary": "Le Pen confirms a 2027 run after a court trims her ineligibility." },
+    { "tag": "NOTES", "summary": "Khamenei's funeral and an absent successor; oil firms; Lebanon; a Senate visit to Taipei." }
+  ],
+  "articles": [
+    {
+      "headline": "US Strikes Follow Tanker Attacks as June Truce With Iran Unravels",
+      "blocks": [
+        { "type": "para", "text": "We assess that the June understanding intended to keep the Strait of Hormuz open is now failing, and that a return to sustained US-Iran exchanges is a realistic possibility absent rapid de-escalation. US Central Command reported striking more than 80 Iranian targets on 7 July in retaliation for attacks on three commercial vessels transiting the strait, hitting air-defense sites, command-and-control nodes, anti-ship missile units, and more than 60 Islamic Revolutionary Guard Corps (IRGC) fast-attack boats. The Treasury simultaneously reimposed the oil sanctions it had lifted under the 17 June Islamabad Memorandum. We judge the strikes were calibrated to restore deterrence over the waterway rather than to reopen a general war, but the margin for miscalculation is now narrow." },
+        { "type": "bullets", "items": [
+          "The Qatari-owned LNG carrier <i>Al Rekayat</i> and the Saudi-flagged crude tanker <i>Wedyan</i> were struck by projectiles on 6 July; the IRGC hit a third tanker on 7 July. The <i>Al Rekayat</i> suffered an engine-room fire, and we assess Tehran's intent was to demonstrate it can still close the strait at will.",
+          "Iranian state media claimed the IRGC fired missiles and drones at some 85 US sites across Bahrain and Kuwait in response. <b>We cannot corroborate that claim; there is no confirmation of impacts or casualties at US facilities, and we treat the figure as Iranian messaging, not battle damage.</b>",
+          "NSA reporting corroborates that the order to interdict shipping originated within the IRGC Navy command, consistent with Tehran's public position that continued Israeli strikes in southern Lebanon voided the truce.",
+          "For Washington, the decision point is whether Tehran treats the US response as closing the incident or as escalation. We expect Iran to keep harassment below the threshold of a full naval clash while it tests the durability of the Islamabad framework."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Command uncertainty in Tehran raises the risk of an uncontrolled spiral. Mojtaba Khamenei, named Supreme Leader in March after his father's killing, has not appeared in public since, and decision-making appears diffused across the IRGC and the elected government of President Masoud Pezeshkian. The Abraham Lincoln Carrier Strike Group is operating in the Central Command area of responsibility in support of operations to keep the strait open. We judge a fractured leadership makes Iranian signaling harder to read and a tit-for-tat misstep more likely." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Ankara Summit Hands Turkey an F-35 Opening as Trump Presses Allies",
+      "blocks": [
+        { "type": "para", "text": "We assess the NATO summit in Ankara advanced a US-Turkey reset that strengthens Ankara's standing inside the Alliance while straining relations with other partners. President Trump signaled he is prepared to let Turkey rejoin the F-35 program and to lift the sanctions imposed over Ankara's purchase of Russian S-400 air defenses; President Erdogan said he had been promised five aircraft. We judge the opening is real but conditional, and that any transfer would take months to negotiate and years to deliver." },
+        { "type": "bullets", "items": [
+          "Trump publicly criticized allies for declining to join US operations to reopen and patrol the Strait of Hormuz, telling reporters he was \"very disappointed with NATO\" — pressure we assess is aimed at burden-sharing on Gulf security, not a genuine step toward withdrawal.",
+          "He again raised acquiring Greenland and floated drawing down US forces in Europe. We assess these are negotiating levers rather than firm policy, but they add to allied anxiety about US reliability.",
+          "Israel and Greece oppose the F-35 opening. For Washington, the trade-off is using the jets to anchor Turkey westward against the cost to Israel's qualitative military edge and to confidence in export safeguards.",
+          "We expect defense-spending pledges and continued materiel support for Ukraine to headline the communiqué, with the F-35 question left deliberately open pending a formal review."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Defense Intelligence Agency, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine's Deep-Strike Campaign Reaches Its Farthest Point at Omsk",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine is deliberately widening its long-range campaign against Russian energy and logistics to impose economic costs Moscow cannot easily screen, timing the effort to the NATO summit. Kyiv's Special Operations Forces struck the Omsk refinery in western Siberia — roughly 2,500 kilometers from Ukrainian-held territory and the deepest refinery strike of the war. Omsk is Russia's largest refinery, near 460,000 barrels per day and about 12 percent of national refining output; the governor confirmed the attack but reported no casualties." },
+        { "type": "bullets", "items": [
+          "Overhead imagery is consistent with a strike on refining infrastructure; we assess even partial, temporary outages compound the strain on Russia's fuel logistics as the summer campaign continues.",
+          "Ukrainian forces also reported striking eight tankers of Russia's \"shadow fleet\" overnight, extending the campaign to the sanctioned oil trade that funds the war.",
+          "This follows a large Russian missile-and-drone barrage days earlier that killed at least 22 people, 15 of them in Kyiv, and exposed gaps in Ukrainian air defenses. Moscow's messaging has escalated to talk of \"war with NATO\" even as its front-line gains stay incremental.",
+          "For Washington, the deep strikes strengthen Kyiv's leverage but raise the risk of Russian escalation against energy infrastructure; we expect continued pressure on allies at Ankara to close Ukraine's air-defense and long-range-strike gaps."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Defense Intelligence Agency, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Hamas Dissolves Its Government, Ceding Civil Rule in Gaza",
+      "blocks": [
+        { "type": "para", "text": "We assess Hamas's dissolution of its governing body is a genuine, if partial, step in the US-backed settlement, but that its practical effect on the ground remains uncertain. The head of Gaza's Government Emergency Committee announced his resignation and the committee's dissolution, transferring authority to the National Committee for the Administration of Gaza (NCAG) established under a UN Security Council resolution — ending nearly two decades of formal Hamas rule that began in 2007." },
+        { "type": "bullets", "items": [
+          "The handover is a required milestone of the US-backed plan, which also obliges Hamas to disarm — the far harder and still-unmet condition. We judge Hamas is trading visible governance while trying to preserve its armed wing and residual influence.",
+          "The NCAG has for months operated from outside Gaza, reportedly over Israeli objections to its entry; until it actually deploys and administers services, we assess the transfer is more political than administrative.",
+          "Sporadic strikes continued in Gaza despite the ceasefire, underscoring how fragile the arrangement remains.",
+          "For Washington, the test is sequencing: whether disarmament and the committee's physical entry follow, or whether the handover stalls as a paper transfer. We expect the next weeks to show which."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Taipei Presses Public Readiness as Beijing Tests a Sea-Based Missile",
+      "blocks": [
+        { "type": "para", "text": "We assess Taiwan is deliberately conditioning its public for a protracted contest with Beijing, framing preparedness as prudence rather than provocation, while China continues to normalize displays of strategic reach. A senior Taiwanese security official said the island's defensive preparations are \"not a provocation\" and urged the public to take the threat seriously now, pointing to Beijing's military spending and sustained pressure operations." },
+        { "type": "bullets", "items": [
+          "China's navy test-launched a long-range ballistic missile with a dummy warhead from a nuclear-powered submarine in the South Pacific, which Beijing described as routine annual training. We assess the launch signals confidence in its sea-based deterrent and is meant to be noticed by Washington and regional capitals.",
+          "Taipei separately warned that Beijing's new ethnic-unity law claims extraterritorial reach that could expose Taiwanese travelers abroad to detention or extradition pressure in states aligned with China.",
+          "We see no indication of the mobilization or logistics buildup that would precede a major operation against Taiwan; the current tempo is coercive signaling, not imminent action.",
+          "For Washington, the durability of Taiwan's \"whole-of-society\" resilience push, and continued visible US support, remain the key variables shaping Beijing's calculus."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Defense Intelligence Agency, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Le Pen Confirms 2027 Bid After Court Trims Her Ineligibility",
+      "blocks": [
+        { "type": "para", "text": "We assess a French appeals-court ruling has cleared Marine Le Pen to contest the 2027 presidential election, reopening a contest with direct consequences for European cohesion on Ukraine, defense, and trade. The court shortened the ineligibility imposed after her embezzlement conviction but ordered her to wear an electronic monitor; Le Pen said she will appeal to the Cassation Court, which she expects to suspend the monitor, and will \"campaign without an electronic bracelet.\"" },
+        { "type": "bullets", "items": [
+          "Le Pen said she will run alongside her deputy Jordan Bardella, whom she would name prime minister — a ticket that leads or runs competitively in current French polling.",
+          "For Washington, a National Rally path to the Élysée bears on French support for Ukraine, EU sanctions cohesion, defense spending, and trade posture — all areas where a Le Pen presidency would likely diverge from the current government.",
+          "We assess the legal track is not fully settled: the pending appeal, and any further rulings, could still reshape her eligibility before the campaign. This is a development to watch, not a closed question."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Iran — funeral, absent successor.</b> Iran staged a mass state funeral drawing crowds in the hundreds of thousands to Qom for slain Supreme Leader Ali Khamenei, choreographed to project strength. His designated successor, Mojtaba Khamenei, again did not appear; we assess the persistent absence — reportedly tied to injuries — signals unresolved questions over who actually commands decisions in Tehran." },
+        { "type": "bullets", "items": [
+          "<b>Energy — prices firm on strait risk.</b> Brent settled about 3 percent higher near $74 per barrel and US WTI near $70 after the tanker attacks and reimposed sanctions. We assess the muted move reflects a market that still expects the strait to stay largely open; a confirmed closure or a hit on a major loading terminal would drive a sharper spike.",
+          "<b>Lebanon — ceasefire under strain.</b> Continued Israeli strikes in southern Lebanon are the stated Iranian pretext for reclosing the strait, keeping the Israel-Hezbollah truce fragile and linking the Levant directly to the Gulf crisis.",
+          "<b>Taiwan — US signal.</b> A visiting US senator used a Taipei stop to stress that US-Taiwan ties are durable and would not be \"swayed by any one president\" — reinforcing deterrence messaging amid Beijing's pressure campaign."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury's Office of Intelligence and Analysis, and open sources."
+    }
+  ]
+}
