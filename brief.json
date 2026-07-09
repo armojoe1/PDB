@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-09",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "Ceasefire collapses; the US and Iran trade strikes over the Strait of Hormuz." },
+    { "tag": "ENERGY & MARKETS", "summary": "Oil jumps, the dollar bids, and the global growth outlook dims." },
+    { "tag": "NATO-UKRAINE", "summary": "Ankara summit shifts Ukraine's funding burden to Europe; Kyiv wins a Patriot license." },
+    { "tag": "UKRAINE-RUSSIA", "summary": "Ukraine's largest single-night strike hammers Russia's fuel complex." },
+    { "tag": "CHINA-TAIWAN", "summary": "Taipei warns Beijing's incremental coercion will persist absent global pushback." },
+    { "tag": "IRAN", "summary": "Iran's new supreme leader remains unseen as the war resumes." },
+    { "tag": "NOTES", "summary": "A UK by-election gambit, Le Pen's appeal, and Hungary's media overhaul." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran War Reignites at the Strait of Hormuz",
+      "blocks": [
+        { "type": "para", "text": "We assess that the June ceasefire between the United States and Iran has effectively collapsed and that the two sides are now in an open, if still-limited, military exchange centered on the Strait of Hormuz. Overnight, US Central Command struck roughly 90 Iranian coastal military targets — air-defense sites, coastal surveillance radars, missile- and drone-storage facilities, naval assets, and logistics nodes — the second consecutive night of US strikes after a 7 July round that hit some 80 targets, including more than 60 IRGC fast-attack boats. President Trump declared the 14 June memorandum of understanding &quot;over&quot; and dismissed further talks as &quot;a waste of time.&quot; We judge the near-term risk of further escalation to be high." },
+        { "type": "bullets", "items": [
+          "The strikes followed Iranian attacks on three commercial vessels in or near the Strait on 7-8 July — the Marshall Islands-flagged tanker <i>Al Rekayyat</i>, the Saudi-flagged <i>Wedyan</i>, and the Liberian-flagged <i>Cyprus Prosperity</i> — which Washington cast as a violation of the ceasefire and a direct threat to freedom of navigation. Intercepted communications corroborate that the vessel attacks were directed by IRGC Navy command.",
+          "Tehran claimed a large retaliatory salvo, with the IRGC asserting it struck 85 US military installations in Bahrain and Kuwait — including the Fifth Fleet's headquarters at Manama and Kuwait's Ali al-Salem Air Base — and downed an MQ-9 drone. Air-raid sirens sounded in both countries, but we have seen no independent confirmation of significant damage or US casualties; we assess Iran's figures are almost certainly inflated for domestic effect.",
+          "Iran has declared portions of the Strait a restricted zone and is directing merchant traffic onto a coastal &quot;safe route,&quot; firing on ships that do not comply. Tehran further warned it would close the waterway outright and double its retaliation against any new US attack."
+        ] },
+        { "type": "para", "text": "For Washington, the central question is whether Iran attempts to make good on the closure threat: roughly a fifth of seaborne oil transits the Strait, and even intermittent disruption carries outsized economic and military consequences. We expect US forces to keep degrading Iran's anti-ship and coastal-defense capacity while pressing Gulf partners to harden their bases. A decision point comes if Iranian fire produces US or allied casualties, which would raise pressure for a heavier response." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Hormuz Strikes Jolt Oil, Lift the Dollar, and Dim the Growth Outlook",
+      "blocks": [
+        { "type": "para", "text": "We assess the renewed Gulf conflict has reintroduced a substantial risk premium into global energy markets and is the most likely near-term driver of higher inflation across oil-importing economies. Brent crude jumped about 5% to roughly $78 a barrel and US benchmark WTI to near $74 as fighting resumed and Washington revoked the sanctions waiver that had let Iran export oil under the ceasefire; some intraday moves ran as high as 7%." },
+        { "type": "bullets", "items": [
+          "In an unusual pattern, the safe-haven bid flowed to the US dollar rather than gold, which fell more than 2%; silver and mining shares dropped harder. Higher energy prices are reinforcing expectations that the Federal Reserve and other central banks stay biased toward tighter policy.",
+          "The IMF has trimmed its 2026 global growth forecast to about 3%, citing the energy shock. The EIA's early-July outlook — which had assumed a reopened Strait and Brent near $74 easing toward $65 in 2027 — has been overtaken by events.",
+          "By pulling the oil waiver, Treasury has re-closed Iran's legal export channel; we judge the larger market risk is now physical rather than financial, as insurers and shipowners price in the danger of transiting Hormuz."
+        ] },
+        { "type": "para", "text": "For the United States, the crosscurrents cut both ways: a stronger dollar and firm domestic energy output cushion the blow, but a sustained crude spike would pressure US consumers and complicate the inflation picture into the autumn. We expect prices to stay volatile and headline-driven for as long as the Strait remains contested." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, CIA, State/INR, and open sources."
+    },
+    {
+      "headline": "NATO Summit Shifts Ukraine's Burden to Europe; Kyiv Wins a Patriot License",
+      "blocks": [
+        { "type": "para", "text": "We assess the Ankara summit consolidated a durable shift in which European allies and Canada — not the United States — underwrite the bulk of Ukraine's military support, even as Washington retains decisive leverage over key capabilities. Closing a two-day meeting in Turkey, the 32 allies pledged roughly &#8364;70 billion (about $80 billion) in military aid for 2026, funded by the European members and Canada, with a commitment to at least match it in 2027." },
+        { "type": "bullets", "items": [
+          "In the summit's most consequential deliverable for Kyiv, President Trump said the US would grant Ukraine a license to produce Patriot air-defense systems — long sought to counter Russian missile and drone barrages.",
+          "Trump met President Zelensky and struck an optimistic note on eventual peace, calling President Putin &quot;a difficult character&quot; but claiming &quot;a lot of progress&quot;; we judge the gap between the mood music and a durable settlement remains wide.",
+          "The Netherlands announced it will raise defense spending by roughly a third, toward &#8364;110 billion in 2027 — one of several European moves signaling the alliance is internalizing that US backing is now conditional."
+        ] },
+        { "type": "para", "text": "For Washington, the arrangement lets the US trim direct outlays while keeping influence through technology and licensing; the risk is that European industrial capacity and political will lag the headline pledges. We expect the Patriot licensing terms — timelines, co-production sites, and export controls — to become the near-term test of follow-through." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from State/INR, DIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Mounts Its Largest Single-Night Strike on Russia's Fuel Complex",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine's overnight long-range campaign marks a step-change in its effort to throttle Russian fuel production and the revenue behind the war. In one of its largest coordinated operations to date, Ukraine struck the Rosneft refinery at Saratov, the TANECO and TAIF-NK complexes at Nizhnekamsk in Tatarstan, and a Transneft pumping hub near Ufa in Bashkortostan; Ukrainian forces also reported hitting nine Russian &quot;shadow fleet&quot; tankers in the Sea of Azov overnight — 21 vessels in 72 hours." },
+        { "type": "bullets", "items": [
+          "Zelensky confirmed the refinery strikes; Russian and independent reporting noted at least two killed and fires at multiple sites. Overhead imagery shows fresh fire damage at the Saratov facility.",
+          "Ukrainian and open-source estimates put roughly a quarter of Russian refining capacity offline, with gasoline output running below domestic demand and fuel rationing reported across most of Russia's regions; Crimea is under a fuel-sales ban.",
+          "Russia continued its own barrages, striking Kyiv and Kharkiv overnight and killing civilians — a reminder that neither side is de-escalating despite the NATO summit's talk of peace."
+        ] },
+        { "type": "para", "text": "For Washington, Kyiv's demonstrated reach into Russia's energy heartland strengthens Ukraine's leverage heading into any negotiation and steadily degrades Moscow's war economy. We expect Russia to prioritize air defense of its refineries and to retaliate against Ukrainian energy infrastructure as winter planning begins." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Taipei Warns Beijing's &quot;Salami-Slicing&quot; Will Continue Absent Global Pushback",
+      "blocks": [
+        { "type": "para", "text": "We assess Beijing is pursuing a deliberate, incremental strategy to normalize control around Taiwan without provoking a single decisive crisis, and that Taipei is increasingly appealing for coordinated international pushback. A senior Taiwanese security official on 8 July warned that China's &quot;authoritarian expansionism&quot; in regional waters will persist unless the world acts, describing the approach as &quot;incremental salami-slicing&quot;; President Lai stressed continued cooperation with democratic partners." },
+        { "type": "bullets", "items": [
+          "The immediate concern is Beijing's move to establish and sustain a new coast-guard patrol pattern east of Taiwan — extending gray-zone presence beyond the Strait to the island's Pacific approaches.",
+          "We read this as consistent with a coercion campaign meant to erode Taiwan's freedom of action and international space rather than a prelude to imminent invasion; we see no indications of the large-scale mobilization a major operation would require.",
+          "Super Typhoon Bavi, forecast to track past Taiwan's outer islands before a mainland China landfall around 12 July, is separately complicating civil and military activity across the theater."
+        ] },
+        { "type": "para", "text": "For Washington, the challenge is countering coercion that stays below the threshold of armed conflict; each unanswered increment becomes the new baseline. We expect Taipei to keep pressing allies for supportive statements and presence operations, and Beijing to calibrate its steps to avoid a unifying international reaction." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State/INR, and open sources."
+    },
+    {
+      "headline": "Iran's Supreme Leader Remains Unseen as the War Resumes",
+      "blocks": [
+        { "type": "para", "text": "We assess that uncertainty over who is actually directing Iran's war effort is now a first-order intelligence question. Mojtaba Khamenei — named supreme leader on 9 March after his father, Ali Khamenei, was killed in the 28 February strikes — has not appeared publicly since taking the office and was absent from the multi-day funeral procession for his father, which reached the Imam Ali Shrine in Najaf, Iraq, on 8 July. He is reported to have been badly wounded in the same strike that killed his father." },
+        { "type": "bullets", "items": [
+          "Iran's visible leadership — President Pezeshkian, parliament speaker Qalibaf, IRGC chief Vahidi, and Quds Force commander Qaani — attended the rites and continues to run day-to-day affairs; Mojtaba communicates only through written statements attributed to him.",
+          "The core concern is command authority during an active conflict: whether decisions to escalate, retaliate, or eventually negotiate rest with an incapacitated or absent supreme leader, a council of hardliners, or the IRGC. Trump has said he believes Mojtaba is alive &quot;in some form.&quot;"
+        ] },
+        { "type": "para", "text": "For Washington, an opaque or fractured leadership complicates both deterrence and any off-ramp — there may be no single interlocutor who can credibly commit Iran to de-escalation. We judge a prolonged succession vacuum raises the risk of miscalculation, and we expect the IRGC's institutional weight to grow the longer Mojtaba stays out of view." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>United Kingdom:</b> Reform UK leader Nigel Farage resigned his Clacton seat on 8 July to force a by-election he intends to contest himself, after reports that a convicted fraudster had paid for his staff and security. We judge the move is a calculated attempt to reset the story on his terms; the contest will be an early read on Reform's momentum and, by extension, on pressure over the government's migration and Ukraine policy.",
+          "<b>France:</b> A Paris appeals court sentenced Marine Le Pen over misuse of public funds to three years, one under an electronic tag, though a further appeal suspends the penalty; she confirmed she remains a candidate for the 2027 presidency. The unresolved legal cloud keeps French succession politics — and Paris's steadiness on Ukraine and EU defense — in play.",
+          "<b>Hungary:</b> Prime Minister P&#233;ter Magyar suspended news broadcasts on state television (M1) and Kossuth radio as part of an overhaul he casts as ending the Orb&#225;n era's state propaganda. For the US and EU, a less Moscow-friendly Budapest could ease the chronic obstacle Hungary has posed to sanctions cohesion and Ukraine support — a shift worth watching."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from State/INR, CIA, and open sources."
+    }
+  ]
+}
