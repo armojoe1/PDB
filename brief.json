@@ -1,0 +1,113 @@
+{
+  "date": "2026-07-10",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-GULF", "summary": "US-Iran ceasefire collapses; Tehran strikes four Gulf-region states." },
+    { "tag": "ENERGY", "summary": "Oil reverses toward wartime highs as a Hormuz risk premium returns." },
+    { "tag": "UKRAINE-NATO", "summary": "Deep strikes continue as NATO clears Ukrainian Patriot production." },
+    { "tag": "DPRK", "summary": "Pyongyang formalizes a push to expand its nuclear forces." },
+    { "tag": "CHINA-TAIWAN", "summary": "Taipei warns Beijing's gray-zone pressure is redrawing the status quo." },
+    { "tag": "GAZA", "summary": "Ceasefire holds loosely as Cairo talks deadlock." },
+    { "tag": "NOTES", "summary": "Lebanon, Sudan, China-Philippines." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Ceasefire Collapses; Tehran Strikes Four Gulf-Region States",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran interim understanding reached in June has effectively collapsed and that the two sides are now in an open, if still limited, exchange of fire that carries a realistic risk of a wider regional war. Over the past 24 hours US forces conducted a second consecutive night of strikes across Iran, and for the first time Tehran retaliated directly against facilities in four US-partner states -- Kuwait, Bahrain, Qatar, and Jordan. President Trump, speaking from the NATO summit in Ankara, called the ceasefire \"over\" and further talks a \"waste of time,\" while stopping short of ordering a return to full-scale war." },
+        { "type": "bullets", "items": [
+          "US Central Command reported striking roughly 90 targets, concentrated on IRGC coastal missile, drone, and fast-boat assets around Bandar Abbas, Konarak, and Chabahar, and framed the operation as a response to Iranian attacks on three commercial vessels transiting the Strait of Hormuz. Press reporting indicates one strike hit a military site near -- not at -- the Bushehr civilian nuclear plant.",
+          "In its first direct retaliation against US partners, Iran launched one-way attack drones at bases in Kuwait, Bahrain, and Qatar and fired an estimated 10 ballistic missiles at Jordan's Azraq air base. Amman says it intercepted eight; Kuwait reported one person injured and damage at several sites. Iran's health ministry claims at least 14 killed and 78 wounded inside Iran over two days.",
+          "Intercepted communications corroborate that the retaliatory salvos were ordered at the IRGC Aerospace Force command level.",
+          "For Washington, the near-term exposure is twofold: US personnel spread across Gulf basing, and the roughly one-fifth of seaborne oil that transits Hormuz. We judge Tehran is signaling resolve and staking out a bargaining position -- asserting a \"right\" to levy fees on Hormuz traffic -- rather than seeking an all-out war it cannot win."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Behind the strikes, mediation is active. Qatar and Pakistan are working to pull both sides back to the June memorandum, and the UN Secretary-General has urged \"maximum restraint.\"" },
+        { "type": "bullets", "items": [
+          "The exchange was still developing as of this morning: Iranian state media reported fresh US strikes overnight near Asaluyeh, adjacent to the South Pars gas complex; US forces had not confirmed the strikes, consistent with their practice on ongoing operations.",
+          "A decision point comes if Iran's next salvo produces US casualties or closes Hormuz outright -- either would likely force a choice between de-escalation on Tehran's terms and a broader campaign. We are watching for the movement of additional US air and naval assets into the theater as the clearest indicator of which way Washington leans."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Oil Reverses Toward Wartime Highs as Hormuz Risk Returns",
+      "blocks": [
+        { "type": "para", "text": "We assess that the renewed US-Iran fighting has reintroduced a war-risk premium into oil that had largely bled out since June, and that prices will stay elevated and headline-sensitive as long as the Strait of Hormuz outcome is unresolved." },
+        { "type": "bullets", "items": [
+          "Brent settled about 5% higher near $78 on 8 July and edged above $79 on 9 July -- its highest since mid-June -- after Trump declared the ceasefire over and signaled further strikes. Market commentary reads the move as pricing uncertainty, not a closed strait.",
+          "The US Treasury has revoked the temporary suspension of sanctions on Iranian oil granted under the June memorandum, canceling a license that had allowed Iranian crude sales through 21 August.",
+          "Overnight strikes reported near Asaluyeh place Iran's South Pars infrastructure -- one of the world's largest gas fields -- inside the risk picture; damage to processing or export capacity there would tighten gas and LNG markets, not only crude.",
+          "For the US economy the exposure runs through pump prices and inflation expectations; for Gulf partners it is direct and immediate. We expect coordinated messaging from major producers and the IEA to cap panic, but a genuine Hormuz disruption would overwhelm available spare capacity."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, CIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Trades Deep Strikes With Russia as NATO Clears Patriot Production",
+      "blocks": [
+        { "type": "para", "text": "We assess the war remains locked in a mutual long-range strike campaign, with neither side achieving a decisive battlefield shift, even as Kyiv banks meaningful gains from this week's NATO summit in Ankara." },
+        { "type": "bullets", "items": [
+          "Overnight Russia launched two ballistic missiles and roughly 94 drones; Ukraine reported downing 72, with missile and drone impacts still recorded. Strikes across Kharkiv and Kherson oblasts wounded civilians, including passengers on a minibus in central Kherson.",
+          "Ukraine struck deep in return, hitting an oil terminal at Tver and reporting attacks on a dozen Russian tankers, a tug, and a dry-cargo ship in the Sea of Azov as well as an oil-loading terminal in the Rostov region -- part of a sustained campaign against Russian energy and logistics.",
+          "Overhead imagery shows fires at the Tver oil terminal following the strike."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The larger shift for Washington came off the Ankara summit, which wrapped 8 July." },
+        { "type": "bullets", "items": [
+          "President Trump told President Zelensky the US will license Ukraine to manufacture Patriot interceptors -- a long-standing Kyiv request -- and allies pledged roughly $80 billion (about 70 billion euros) in 2026 assistance; Ukraine also concluded drone deals with Denmark, Estonia, and the Netherlands.",
+          "We judge the Patriot license, if implemented, addresses Ukraine's single most acute shortfall -- interceptor supply against Russian missile and drone barrages -- though domestic production would take time to matter at scale. For Washington, the summit signaled continued allied burden-sharing even amid Trump's public friction with several allies, and Trump again suggested a negotiated end to the war may be within reach."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "North Korea Formalizes Push To Expand Nuclear Forces",
+      "blocks": [
+        { "type": "para", "text": "We assess Pyongyang has used a Central Military Commission session to lock in a decision to grow its nuclear forces \"quantitatively and qualitatively,\" reaffirming that it will not bargain away its arsenal and is pairing warhead expansion with a naval-modernization drive." },
+        { "type": "bullets", "items": [
+          "KCNA reported an enlarged Workers' Party Central Military Commission meeting on 9 July at which Kim Jong Un ordered measures to strengthen nuclear forces and modernize the military, framing a \"powerful\" force as the only guarantor of the country's security.",
+          "The decision follows Kim's oversight of cruise-missile tests from a new 5,000-ton destroyer being readied for commissioning within two months -- continued investment in a sea-based strike capability.",
+          "For Washington and Seoul the message is continuity and escalation: no path to denuclearization, a widening qualitative program, and a maturing naval leg. We expect further tests tied to the destroyer's induction and are watching for any new fissile-production or ICBM-related activity."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Taipei Warns Beijing's Gray-Zone Pressure Is Redrawing the Status Quo",
+      "blocks": [
+        { "type": "para", "text": "We assess Beijing's incremental, below-threshold pressure on Taiwan is intended to normalize a new baseline of coercion, and that Taipei is now publicly framing it as a strategic rather than merely tactical challenge -- one it says Japan and the Philippines share." },
+        { "type": "bullets", "items": [
+          "On 9 July a senior Taiwanese official warned that China's steadily escalating \"gray-zone\" activities risk changing the Taiwan Strait status quo \"almost without notice,\" and that Taiwan, Japan, and the Philippines face the \"same pattern\" of deliberately sub-conventional pressure.",
+          "The warning tracks with continued friction elsewhere: Beijing dismissed US and EU criticism of a new ethnic-unity law as interference, and a Chinese travel and business ban on the Philippine defense secretary is straining a fragile thaw with Manila.",
+          "For Washington the difficulty is deterring a strategy engineered to avoid any single trigger for a response. We expect Taipei to press partners for a coordinated gray-zone playbook; the open question is whether the US and allies can raise the cost of coercion without handing Beijing a pretext to escalate."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Gaza Ceasefire Holds Loosely as Talks Deadlock in Cairo",
+      "blocks": [
+        { "type": "para", "text": "We assess the US-brokered Gaza ceasefire is intact in name but eroding at the edges, with continued Israeli strikes and a hard deadlock over the core issues that a new round of Cairo talks has yet to break." },
+        { "type": "bullets", "items": [
+          "Gaza health and civil-defense officials reported at least six killed over the past 24 hours in Israeli strikes and gunfire despite the ceasefire; among recent casualties was a driver working for the US-based charity World Central Kitchen.",
+          "Hamas chief negotiator Khalil al-Hayya arrived in Cairo for further talks that remain stuck on Hamas disarmament, Israeli troop withdrawal, and post-war governance.",
+          "The US-led \"Board of Peace\" announced plans for a \"pilot zone\" near Rafah to move vetted civilians to the Israeli-controlled side of the Yellow Line -- an early test of the plan's next phase.",
+          "For Washington the risk is that persistent strikes and a stalled track corrode a ceasefire it owns politically. We judge the near-term trajectory is continued low-level violence rather than outright collapse, absent a triggering mass-casualty event."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Lebanon.</b> An Israeli drone strike on 9 July killed two people in the vicinity of Ghandour Hospital in Nabatieh al-Fawqa, the latest in a run of strikes testing the Israel-Lebanon ceasefire; Beirut calls them violations.",
+          "<b>Sudan.</b> Humanitarian conditions worsened in Kordofan, with more than 800 cholera cases recorded in West Kordofan and continued clashes disrupting aid and driving displacement in Darfur; UN officials flagged child casualties in El Obeid.",
+          "<b>China-Philippines.</b> Beijing's travel and business ban on the Philippine defense secretary, imposed over his criticism of negotiations with China, threatens a fragile easing in bilateral relations that Washington has an interest in preserving."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DHS, and open sources."
+    }
+  ]
+}
