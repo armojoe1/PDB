@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-11",
+  "cover": false,
+  "toc": [
+    {
+      "tag": "IRAN-HORMUZ",
+      "summary": "Renewed US strikes and Iranian reprisals choke Strait of Hormuz shipping as the ceasefire collapses."
+    },
+    {
+      "tag": "RUSSIA-UKRAINE",
+      "summary": "Ukrainian deep strikes deepen Russia's fuel crunch even as Putin rejects negotiations."
+    },
+    {
+      "tag": "DR CONGO",
+      "summary": "Ebola spreads to new provinces as unpaid frontline workers walk off the response."
+    },
+    {
+      "tag": "SUDAN",
+      "summary": "Army backs the US truce framework but conditions it on a full RSF withdrawal."
+    },
+    {
+      "tag": "MALI-SAHEL",
+      "summary": "Bamako claims recapture of a northern town with Russian help as insurgents press."
+    },
+    {
+      "tag": "CHINA-AI",
+      "summary": "Beijing weighs walling off its frontier AI models, mirroring recent US controls."
+    },
+    {
+      "tag": "NOTES",
+      "summary": "Gaza hospital strike; China-Russia naval drills near Qingdao."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Renewed US-Iran Fighting Chokes Hormuz Shipping as Ceasefire Collapses",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the June memorandum of understanding meant to wind down the Iran war has effectively broken down, and that the fighting has now migrated into the Strait of Hormuz, where it is doing more damage to global energy flows than to either combatant. US Central Command carried out a fresh wave of strikes against Iranian coastal and IRGC targets on 10 July, after earlier hitting more than 80 sites, in response to Iranian attacks on three commercial vessels transiting the strait on 6-7 July. Tehran claims it struck US assets in Bahrain, Kuwait, Qatar, Jordan, and Iraq in reprisal; we cannot independently confirm damage."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The shipping disruption is the real strategic event. Large-tanker traffic through the strait has all but stopped: press and tracking data indicate roughly five transits over Wednesday-Thursday against about 45 on Monday, and no large vessel has crossed via the US-coordinated route while broadcasting its position since Tuesday, against a pre-war baseline near 130 a day. Overhead imagery and vessel-tracking corroborate that traffic has collapsed.",
+            "Markets are pricing risk, not yet shortage. Brent settled near 76.60 dollars a barrel Friday, up more than four dollars on the week (about 4.7 percent); analysts see 10-to-15-dollar upside through the summer if the chokepoint stays closed and inventories draw down. For Washington, the pressure point is that a prolonged closure would raise US pump prices and hand Beijing, a top buyer of Gulf crude, a grievance it can turn against US policy.",
+            "The diplomatic track is contradictory. President Trump said Iran had asked to resume talks and that the US agreed, while declaring the ceasefire over; Tehran publicly denied requesting negotiations. Foreign Minister Abbas Araghchi travels to Oman on 11 July for talks touching the strait, and a further US-Iran round, possibly hosted by Switzerland, is expected next week.",
+            "Iran's command picture remains opaque. New supreme leader Mojtaba Khamenei has not appeared publicly since the 28 February strike that killed his father; his father, Ali Khamenei, was buried on 10 July at the Imam Reza shrine in Mashhad. We judge the Hormuz attacks were probably ordered by a hardline faction opposed to the memorandum rather than directed by a fully consolidated leadership, which complicates any deal Tehran's negotiators might sign."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "Two threat threads bear watching. Israel passed the US intelligence on 9 July describing a fresh Iranian plan to kill President Trump, who confirmed he had been briefed; and Israeli leaders, including Prime Minister Netanyahu and Defense Minister Katz, said this week that Israel is ready to resume direct strikes on Iran at short notice. We expect the next 72 hours to hinge on whether the Oman channel produces even a tacit pause in the strait; absent that, a further tanker incident or US strike is the most likely path, and the risk of a miscalculation drawing in Gulf hosts of US forces rises with each exchange."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "What to watch: any resumption of escorted convoys through the strait; whether Araghchi's Oman stop yields a de-confliction understanding; and Iranian signaling from Mashhad about who actually speaks for the state."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Ukrainian Deep Strikes Deepen Russia's Fuel Crunch Even as Moscow Rejects Talks",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Ukraine's sustained campaign against Russian refining and tanker infrastructure is now producing strategic-level economic strain inside Russia, even as the Kremlin signals it intends to escalate rather than negotiate. Kyiv's military said that overnight on 10 July it struck 18 Russian vessels, including 13 tankers, along with the Ilsky refinery in Krasnodar Krai and a fuel terminal at Taganrog; its drone command separately claimed at least 25 Russian ships hit in the Sea of Azov over four days. These are Ukrainian claims, but the second-order effect is now corroborated on the Russian side."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "For the first time, Russian authorities have publicly acknowledged a gasoline shortage, and independent reporting puts primary refining at its lowest in more than two decades. We judge the strikes are the proximate cause and that domestic fuel strain, not battlefield attrition, is becoming the campaign's most politically sensitive pressure on the Kremlin.",
+            "Moscow is nonetheless leaning into escalation. Kremlin-linked sources say President Putin has rejected negotiations with Kyiv and believes Russia can seize the rest of Donbas; ground fighting remains intense around Kupiansk and Lyman, where Ukrainian forces say they are denying a Russian foothold.",
+            "The human toll is climbing. Russian glide-bomb and air attacks on 10 July killed at least four people in Kramatorsk, including a 14-year-old, and struck residential Zaporizhzhia. UN figures cited this week make June the deadliest month for Ukrainian civilians since early 2022, with 265 killed."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the pairing matters: NATO's Ankara summit last week booked new funding for Kyiv, and Ukraine's strikes are simultaneously eroding the revenue and logistics that sustain Russia's war. We expect Kyiv to keep prioritizing refineries and tankers precisely because the fuel effect is visible at home in Russia; the decision point for Moscow is whether fuel rationing forces a political adjustment before the autumn campaign."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, State (INR), and open sources."
+    },
+    {
+      "headline": "Congo's Ebola Outbreak Spreads to New Provinces as the Response Frays",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the Democratic Republic of the Congo's Ebola outbreak is not yet contained and has entered a more dangerous phase, spreading beyond its Ituri epicenter just as the frontline response weakens. Confirmed deaths reached 600 this week against roughly 1,760 cases; officials report suspected cases in the previously unaffected provinces of Tshopo and Haut-Uele. This is already the third-largest Ebola outbreak on record and, by pace, the fastest-starting."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The pathogen compounds the risk: this outbreak is the rare Bundibugyo strain, for which no vaccine or therapeutic is approved, removing tools that blunted earlier Ebola flare-ups.",
+            "The response is fraying at the worst moment. Exhausted frontline workers have walked off the job in hard-hit Ituri over wages they say have gone unpaid since the outbreak began in May, degrading case-finding exactly as the geographic footprint widens.",
+            "Cross-border seepage has already occurred. Uganda has recorded 20 cases with two deaths, and a single imported case reached France in late June, underscoring that the outbreak is a global health-security concern, not solely a Central African one."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For the United States, the near-term question is whether to surge diagnostic, logistics, and payroll support before the outbreak establishes itself in new provinces; the containment window narrows with each health zone that reports a first case. We judge that without a rapid infusion to pay and retain responders, the case curve will keep outrunning the response."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State (INR), and open sources."
+    },
+    {
+      "headline": "Sudan's Army Backs US Truce Framework but Demands Full RSF Pullout",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the US proposal to halt Sudan's civil war has real traction but remains hostage to a single sticking point over withdrawal scope. Documents reported on 9 July show the army-led government accepts most of the US framework, but conditions broad agreement on the Rapid Support Forces withdrawing from all cities it has held since May 2023, rather than the phased, limited pullback the plan envisions. Liaison reporting is consistent with the army leadership accepting the framework in principle while holding firm on this term."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The US plan calls for an immediate 90-day humanitarian truce, talks toward a permanent ceasefire, a civilian-led transition to elections, and a UN-supported mechanism for limited RSF withdrawals, prioritizing North Darfur, where the RSF seized al-Fashir, and North Kordofan.",
+            "The RSF says it received and welcomed the latest proposal and submitted a written response, leaving a narrow opening; the gap is over how much territory it must vacate, and how fast.",
+            "Facts on the ground are shifting toward Khartoum's advantage: more than two million of the roughly five million displaced from the capital have returned since the army retook it, strengthening the government's hand at the table."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, this is a rare instance of US-brokered leverage actually narrowing a war; the decision point is whether US mediators can bridge the withdrawal-scope gap without the army overplaying its recent gains. We expect the coming days to turn on whether a sequencing compromise, full withdrawal on a defined timeline, can satisfy Khartoum while keeping the RSF at the table."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, State (INR), DIA, and open sources."
+    },
+    {
+      "headline": "Bamako Claims Recapture of a Northern Town With Russian Help as Insurgents Press",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Mali's military government, leaning heavily on Russia's Africa Corps, has blunted the latest insurgent offensive but has not reversed the deeper trend of eroding state control across the north. Bamako says its forces, backed by Africa Corps fighters, retook the northern town of Anefis near Kidal after roughly a week of fighting against al-Qaeda-linked JNIM and Tuareg separatists; the government and Moscow characterize the wider offensive, renewed on 4 July, as a thwarted coup attempt. These are largely Malian and Russian claims and should be read as such."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The strategic picture still favors the insurgents. JNIM has mounted attacks near Bamako and across the center this year, and separatist forces have contested Kidal and Gao; a single town's recapture does not change the north's trajectory.",
+            "Russia is the enabler and the beneficiary. Africa Corps is now central to the junta's operations, deepening Moscow's foothold in the Sahel as US and French counterterrorism presence has receded, a net loss of US visibility into a hardening jihadist theater.",
+            "Regional signaling is mixed: Algeria reopened its airspace to Malian flights effective 10 July, a modest de-escalation, even as Bamako accuses France of having plotted against it, an unverified charge that fits the junta's pattern of blaming Western governments."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For the United States, the concern is less any single battle than the compounding of jihadist momentum with Russian entrenchment. We expect JNIM to keep testing government-held towns, and Africa Corps losses or a high-profile jihadist success to be the developments most likely to shift the picture."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, State (INR), and open sources."
+    },
+    {
+      "headline": "Beijing Weighs Walling Off Its Frontier AI Models, Mirroring US Controls",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that China is seriously considering export-style controls on access to its most capable AI models, a move that would mark a strategic convergence with recent US practice and treat frontier models, not just chips, as controlled assets. Reuters reporting this week indicates the Ministry of Commerce convened Alibaba, ByteDance, and startup Z.ai to weigh limiting foreign access to top Chinese systems, both closed and open source. This is a deliberation, not a decision, and we calibrate it as such."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The reported scheme would tier models by sensitivity: routine open-source tools needing only registration, mid-tier systems facing security vetting, and the most capable frontier models kept domestic or withheld from release, with leakage treated as a national-security offense.",
+            "It mirrors Washington's own turn. In June the Commerce Department directed a leading US lab to deny foreign nationals access to its two most capable models; access to one was later restored under tighter guardrails while the other stayed US-only. Both capitals are now moving to control the finished capability, not only the compute behind it.",
+            "The signaling cost to Beijing is real. Curbing access would undercut China's pitch that its open models, unlike pricier US offerings, are a development tool for the Global South, ceding a soft-power argument it has worked to build."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For the United States, a Chinese controls regime would validate the premise that frontier AI is a strategic export good and could presage a bifurcated global model market split along US and Chinese lines. We judge a formal Chinese policy is a realistic possibility in the coming months; what to watch is whether Beijing carves out favored partners, which would reveal how it intends to wield model access as leverage."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "<b>Gaza.</b> An Israeli drone strike hit the courtyard of the Kamal Adwan Hospital in northern Gaza on 10 July, wounding several, and Israeli fire wounded seven Palestinians, including three children, near the Bureij camp. Israeli forces now control an estimated 65 percent of the territory despite the nominal October ceasefire, under which more than 1,000 people have been killed. We assess the ceasefire is eroding in practice; Israeli leaders' warnings this week that they could resume strikes on Iran add a second front to an already unsettled picture."
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "<b>China-Russia naval drills.</b> The PLA Navy and Russian Navy are conducting the Joint Sea-2026 exercise in waters near Qingdao through 13 July. The drills are routine in form but continue a pattern of deepening Beijing-Moscow military coordination that we judge is intended, in part, to signal to Washington that the two can complicate US planning in more than one theater at once."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    }
+  ],
+  "emblem": "assets/whitehouse_small.png"
+}
