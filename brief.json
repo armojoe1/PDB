@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-12",
+  "cover": false,
+  "articles": [
+    {
+      "headline": "US and Iran Trade Direct Strikes as the Gulf War Reignites",
+      "blocks": [
+        { "type": "para", "text": "We assess the overnight exchange is the most dangerous escalation since the February war began and is likely to widen before either side seeks an off-ramp. US Central Command struck roughly 140 targets across southern Iran early Sunday after Iranian forces set a Cyprus-flagged container ship ablaze in the Strait of Hormuz, leaving one crew member missing; Iran answered with missiles and drones against Bahrain, Qatar, and the UAE." },
+        { "type": "bullets", "items": [
+          "Iran's Revolutionary Guard said it struck Qatar's Al Udeid Air Base; Doha reports its defenses intercepted the barrage. Sirens also sounded over Bahrain, home to the US Fifth Fleet. Battle-damage claims from both sides run ahead of confirmed effects.",
+          "Defense Secretary Pete Hegseth said <i>\"Iran made a poor choice. Now they pay.\"</i> New Supreme Leader Ayatollah Mojtaba Khamenei has cast avenging his father's killing as a national obligation, narrowing his room to climb down.",
+          "For Washington, the exposure is the tens of thousands of US personnel across the Gulf. We expect Tehran to calibrate to signal resolve while avoiding mass US casualties, but miscalculation risk is high; a lethal hit on a US base could force rapid escalation."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Hormuz Closure Threatens a Global Oil Shock",
+      "blocks": [
+        { "type": "para", "text": "We assess Iran's declaration that the Strait of Hormuz is closed <i>\"until further notice,\"</i> now backed by strikes on shipping, is the most serious threat to global energy flows in years. Roughly a fifth of seaborne oil and much of the world's LNG transit the chokepoint; prices are spiking and transits have fallen as insurers price the Gulf as a war zone." },
+        { "type": "bullets", "items": [
+          "Even a partial, contested closure keeps a heavy war-risk premium on crude and disrupts Gulf exporters, notably Qatari LNG. Treasury revoked the waiver that let Iran sell oil under the collapsed ceasefire.",
+          "We expect the administration to weigh Strategic Petroleum Reserve releases and press partners to keep the strait open. What to watch: whether Iran mines or physically interdicts the channel, turning a price scare into a supply crisis."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Iranian Threat To the President Sharpens Amid Open Conflict",
+      "blocks": [
+        { "type": "para", "text": "We assess Iranian rhetoric about killing the President has hardened from slogan into stated intent; while we see no imminent, in-motion plot, a heightened protective posture is warranted. Israeli intelligence shared this week described a <i>\"specific\"</i> Iranian plan; funeral mourners carried <i>\"We will kill Trump\"</i> banners." },
+        { "type": "bullets", "items": [
+          "The President warned publicly that <i>\"1,000 missiles are locked and loaded\"</i> and that the US would <i>\"decimate and destroy\"</i> Iran if it acted. Treasury on Saturday sanctioned an alleged Iranian financier.",
+          "Iran has a record of pursuing plots on US soil and against officials; open war raises both motive and the chance of a proxy attempt. We judge protective and investigative posture should stay elevated."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from FBI, DHS I&amp;A, CIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Squeezes Russia's Seaborne Fuel Trade; Strikes Kill Civilians in Sumy",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine's campaign against Russia's Azov Sea tanker traffic is beginning to bite even as Russian air attacks kill civilians behind the front. Ukrainian forces struck more than two dozen Russian vessels in the Sea of Azov; tracking data show a roughly 55 percent drop over two weeks in ships there broadcasting an active AIS transponder." },
+        { "type": "bullets", "items": [
+          "A Russian guided-bomb strike on a transit stop in Sumy killed five, including a child, and wounded about 30 on Friday; a separate strike wounded four in Zaporizhzhia.",
+          "The maritime strikes raise the cost of Russia's fuel logistics and sanctions evasion. We expect Moscow to answer with further strikes on Ukrainian cities rather than change course."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Death of Senator Graham Removes a Leading Foreign-Policy Voice",
+      "blocks": [
+        { "type": "para", "text": "We note the death of Senator Lindsey Graham (R-SC) on Saturday night at 71, after what his office called a brief and sudden illness. A close ally of the President and a persistent hawk on Iran, Russia, and Ukraine, Graham's loss lands amid open conflict with Tehran." },
+        { "type": "bullets", "items": [
+          "His death trims the Senate GOP majority by one until South Carolina's governor names a replacement, who by state practice would be a Republican; the seat was already on the 2026 ballot.",
+          "Near-term legislative impact is marginal given the party balance, but the loss of a senior Iran hawk is notable at a decision-heavy moment."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR and open sources."
+    },
+    {
+      "headline": "Venezuela's Earthquake Toll Climbs Past 4,300",
+      "blocks": [
+        { "type": "para", "text": "We assess the humanitarian crisis from last week's twin earthquakes in Venezuela is still deepening, with the official death toll now above 4,300 and likely to rise. Authorities report more than 16,000 injured and roughly 18,000 homeless; USGS loss models suggest the eventual toll could run substantially higher." },
+        { "type": "bullets", "items": [
+          "Recovery strains a state already hollowed by economic collapse, raising the prospect of renewed migration pressure northward. For Washington, it poses a near-term question on humanitarian assistance to an adversary government and a watch item on migration toward the US border."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>West Bank.</b> Rep. Ro Khanna (D-CA) said he was briefly detained by armed Israeli settlers while visiting the West Bank on Saturday, likely to sharpen congressional scrutiny of settler violence and US&ndash;Israel friction.",
+          "<b>Taiwan&ndash;China.</b> Taipei raised its China travel advisory to <i>\"orange\"</i> after reporting ten Taiwanese missing in the PRC and a Taiwanese judge questioned by security officers &mdash; a further chilling of cross-strait contact.",
+          "<b>Canada.</b> A shooting at a Latin street festival in Toronto killed at least two and wounded several on Saturday; no motive established.",
+          "<b>Homeland/Press.</b> The administration issued grand-jury subpoenas to New York Times journalists in a leak probe tied to reporting on the incoming Air Force One aircraft."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DHS I&amp;A, and open sources."
+    }
+  ]
+}
