@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-13",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "US and Iran trade strikes; Tehran declares Hormuz closed and hits Gulf bases; oil jumps." },
+    { "tag": "UKRAINE", "summary": "Zelenskyy moves to replace PM Svyrydenko in wartime cabinet overhaul as overnight strikes kill nine." },
+    { "tag": "EUROPE-UKRAINE", "summary": "Coalition of the Willing convenes in Paris to harden support and press Russia." },
+    { "tag": "GAZA", "summary": "Phase-two talks in Cairo stall on disarmament as Israeli strikes continue." },
+    { "tag": "CHINA-SCS", "summary": "Beijing again rejects the 2016 Hague ruling on its tenth anniversary as the US and allies press the case." },
+    { "tag": "DRC-EBOLA", "summary": "Congo's Bundibugyo outbreak becomes the fastest-growing Ebola epidemic on record." },
+    { "tag": "NOTES", "summary": "Markets; Pyongyang tilts to Beijing; US frontier-AI access compact." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Fighting Reignites Over Hormuz; Tehran Strikes Gulf Bases as Oil Climbs",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the June memorandum of understanding between Washington and Tehran has effectively collapsed and that direct US-Iran hostilities in and around the Strait of Hormuz have resumed at a higher intensity. Overnight, US Central Command conducted its third round of strikes in recent days against Islamic Revolutionary Guard Corps (IRGC) missile batteries, air-defense sites, and fast-attack craft along the Iranian coast, after the IRGC Navy struck a commercial container ship and declared the strait closed \"until further notice.\" We judge the closure to be a coercive assertion rather than a sustained physical interdiction, but the risk of a broader regional war is now materially higher than a week ago."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The Cyprus-flagged container ship <i>GFS Galaxy</i> was struck and heavily damaged in its engine room, with one Indian crew member reported missing; a separate vessel sustained minor damage on 10 July, consistent with an IRGC campaign to raise the cost of transit rather than to sink shipping outright.",
+            "In response, US forces hit IRGC targets near Qeshm Island and Jask; Iranian media reported a naval officer killed at Jask port. CENTCOM says the strikes are intended to restore freedom of navigation and rejects Tehran's closure claim.",
+            "Maritime traffic through the strait — roughly one-fifth of the world's seaborne oil — has fallen sharply, with only a handful of crossings tracked overnight against the usual 18-22 per day. Brent crude rose more than four percent to about $79 a barrel, its highest since late June.",
+            "For Washington, the near-term decision point is whether to expand strikes onto mainland Iranian air-defense and missile infrastructure or hold at the coast to preserve an off-ramp. We expect Tehran to keep signaling escalation dominance in the strait while avoiding a step — such as mining the channel — that would invite a decisive US response."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "We assess that Iran's overnight retaliation against Gulf host states was its geographically broadest single-night attack of the 2026 war, and that it was calibrated to punish the US regional posture while stopping short of mass casualties."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The IRGC fired ballistic missiles and one-way attack drones at US installations in Qatar, Kuwait, Bahrain, and Jordan, including Al-Udeid Air Base — host to CENTCOM's forward headquarters — Ali Al Salem Air Base in Kuwait, and the Fifth Fleet's headquarters in Bahrain; carrier-support infrastructure at Oman's Port of Duqm was also targeted.",
+            "Qatar, Kuwait, Bahrain, and the UAE each condemned the strikes as violations of their sovereignty. We judge that Tehran is deliberately straining the political tolerance of the Gulf hosts for US operations launched from or defended on their soil.",
+            "For Washington, the key question is alliance management: sustained strikes on Gulf capitals could pressure partners to limit US access even as they rely on US air defense. We expect intensified diplomacy with Doha, Abu Dhabi, and Manama over the next 24-48 hours."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, the Office of Naval Intelligence, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Zelenskyy Moves To Replace Prime Minister in Wartime Cabinet Overhaul",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that President Zelenskyy's decision to replace Prime Minister Yulia Svyrydenko after only a year signals a deliberate reorganization of Ukraine's government around foreign policy and security, not a crisis of confidence in the war effort. Zelenskyy framed the move as a shift in \"political strategy\" in which named individuals would own each priority external relationship. The reshuffle requires parliamentary approval, which we judge likely given the Rada's consistent deference since 2022."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Svyrydenko — previously first deputy prime minister and economy minister — was widely credited with negotiating the US-Ukraine critical-minerals agreement that helped thaw relations with the Trump administration; Zelenskyy signaled she would take on a \"new significant direction\" in ties with a key partner, which we read as the United States.",
+            "Zelenskyy did not name a successor. Reported contenders include Energy Minister and former premier Denys Shmyhal, Defense Minister Mykhailo Fedorov, and Naftogaz chief Serhiy Koretskyi.",
+            "For Washington, continuity on the minerals deal and defense-industrial cooperation is the metric to watch; we assess Kyiv is positioning to manage the US relationship more directly at the cabinet level heading into a difficult winter."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "The political maneuvering unfolded against continued heavy exchanges of fire. Russian drone and missile strikes killed at least four people overnight, while Ukrainian strikes on Russian and Russian-occupied territory killed five, according to officials."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Three were killed in the central Dnipropetrovsk region, including two in a strike on an industrial site in Kryvyi Rih; more than 61,000 customers lost power in Chernihiv, consistent with Moscow's continued targeting of the grid.",
+            "We expect Russia to sustain pressure in the Pokrovsk sector, where the bulk of front-line clashes were again concentrated."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine's European Backers Convene in Paris To Harden Support",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that today's Paris summit of the France- and UK-led \"Coalition of the Willing\" is intended primarily to demonstrate that European support for Kyiv is not fatiguing, and secondarily to advance concrete air-and-missile-defense commitments as US-led diplomacy remains stalled. President Macron is hosting; at least 25 heads of state are attending, with the coalition now reported at roughly three dozen participating nations."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The agenda centers on cooperation on air and missile defense, including licensed weapons production inside Ukraine — a hedge against uncertainty over the pace and scale of US assistance.",
+            "France, Britain, and Spain have again signaled readiness to contribute troops to a post-ceasefire reassurance force; Moscow reiterates that any such forces would be \"legitimate targets,\" which we assess is designed to deter deployment.",
+            "For Washington, the significance is a maturing European capability to underwrite Ukraine with less US involvement — useful as US attention and munitions are pulled toward the Gulf. We expect a joint statement long on resolve but still short of the security guarantees Kyiv seeks."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Gaza Phase-Two Talks Stall on Disarmament as Strikes Continue",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Egyptian-mediated talks on the second phase of the US-brokered Gaza plan remain deadlocked over Hamas disarmament, even as both sides profess commitment to the ceasefire. Mediators cite progress, but the core sequencing dispute — Israel's insistence that disarmament precede further withdrawal — is unresolved, and we judge a breakthrough unlikely in the near term absent a compromise on custody of weapons and payment of civil servants."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Hamas has reiterated readiness to transfer administration of Gaza to a National Committee and to place its weapons under that body's custody, while publicly rejecting Israeli disarmament demands as framed; the gap is over timing and control, not only substance.",
+            "Israeli strikes killed at least six people in Gaza, including a nine-year-old girl, with reported hits on a weapons-production site and a metal foundry in Gaza City — a reminder that the ceasefire remains fragile and enforcement-dependent.",
+            "For Washington, the risk is that a stalled phase two erodes the ceasefire it guarantees; we expect continued US pressure to keep the process moving and to prevent a return to full-scale fighting."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Beijing Rejects Hague Ruling on Tenth Anniversary as US, Allies Press the Case",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Beijing's renewed rejection of the 2016 South China Sea arbitration ruling, on the decision's tenth anniversary, reaffirms a fixed Chinese position rather than signaling new escalation — but that the coordinated US-allied statement marking the anniversary is the more consequential development, keeping legal and diplomatic pressure on Beijing's maritime claims. China's Foreign Ministry again called the ruling \"illegal and invalid\" and said it neither accepts nor recognizes it."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The US and partners issued a joint statement reaffirming the ruling's binding character; Taipei separately restated its own South China Sea position and its \"Four Principles,\" underscoring that Taiwan's overlapping claims complicate any unified front.",
+            "We judge Beijing will continue to treat the ruling as a dead letter while using coast guard and militia presence to assert control on the water; the anniversary is a marker, not a trigger.",
+            "For Washington, the value lies in reinforcing the legal architecture that underpins freedom-of-navigation operations and partner claims; we expect no change in China's operational posture in response."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Congo's Ebola Outbreak Becomes the Fastest-Growing on Record",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the Bundibugyo-strain Ebola outbreak in the eastern Democratic Republic of the Congo is now the fastest-growing Ebola epidemic ever documented and is outpacing the international response. Africa CDC reports the outbreak has surpassed roughly 1,750 cases and 600 deaths, with cases doubling on the order of every four weeks and confirmed spread across Ituri, North Kivu, and South Kivu, plus cross-border cases into Uganda."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Africa CDC's emergency-preparedness lead states plainly that \"the virus is still ahead of our response\"; the outbreak is already the third largest on record and grew faster in its first six weeks than the 2013-16 West Africa epidemic.",
+            "Insecurity in the eastern DRC, where the outbreak is centered, is hampering case-finding and vaccination — the same conditions that let past outbreaks in the region persist.",
+            "For Washington, the concerns are regional stability and the small but non-trivial risk of wider international spread; we expect pressure to sustain US and multilateral outbreak funding despite competing crises, and assess that a slow response window is closing."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State (INR), the National Center for Medical Intelligence, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "<b>Markets — risk premium returns.</b> Renewed Hormuz fighting pushed Brent above $79 a barrel, up more than four percent, while gold held near $4,200 an ounce as safe-haven demand competed with a firmer dollar. We assess prices will stay elevated and headline-driven so long as the strait's status is contested; a credible reopening would quickly bleed out the premium, as it did after the June truce."
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "<b>Pyongyang tilts toward Beijing.</b> North Korean state media has notably amplified Kim-Xi messaging in recent days, a shift from its earlier emphasis on alignment with Moscow. We judge Pyongyang is hedging between its two patrons to maximize leverage and regime security, and assess the tilt bears watching for its effect on sanctions enforcement and on any future US-DPRK diplomacy that continues to exclude Seoul."
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "<b>US frontier-AI access framework advances.</b> Following last month's executive order establishing a voluntary framework for pre-release federal review of \"covered frontier\" AI models, reporting indicates the Commerce Department has reached an early governance compact with a leading US lab providing government access to future frontier models and their safeguards. We assess this is an incremental governance step, not a capability event; there is no credible indication in the window of a frontier-capability jump or self-improving system that would warrant higher-priority treatment."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, NSA, DIA, the Office of Science and Technology, and open sources."
+    }
+  ]
+}
