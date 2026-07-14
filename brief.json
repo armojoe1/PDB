@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-14",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US and Iran resume open warfare as the Hormuz ceasefire collapses." },
+    { "tag": "ENERGY", "summary": "Blockade and tanker strikes drive oil up nearly 10 percent." },
+    { "tag": "RUSSIA-EUROPE", "summary": "Europe launches a missile-defense coalition; Russia strikes Kyiv in reply." },
+    { "tag": "JAPAN", "summary": "Tokyo to build its first central intelligence service since 1945." },
+    { "tag": "AI-CYBER", "summary": "New research finds AI automating full-cycle cyber operations." },
+    { "tag": "CHINA-TAIWAN", "summary": "Taiwan opens weeklong drills and restates its South China Sea position." },
+    { "tag": "NOTES", "summary": "India-Iran, Typhoon Bavi, Gaza." }
+  ],
+  "articles": [
+    {
+      "headline": "US–Iran War Reignites as Hormuz Ceasefire Collapses",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US–Iran confrontation has re-entered open warfare with the collapse of the short-lived Strait of Hormuz ceasefire, and that neither side now judges it can stand down without ceding control of the strait. Overnight, US Central Command conducted multiple waves of strikes against Iranian targets — Iranian media reported explosions on Kish and Qeshm islands and at Bushehr and Bandar Abbas — while Tehran claimed retaliatory attacks on US military sites in Kuwait, Bahrain, and Jordan and struck at shipping in the strait. President Trump notified Congress that “limited” military action has resumed. We judge the fighting is more likely to intensify than to ebb in the coming days." },
+        { "type": "bullets", "items": [
+          "CENTCOM says it will reinstate its naval blockade of vessels bound to and from Iranian ports at 4:00 p.m. Eastern today, restoring the cordon it enforced from 13 April to 18 June. We expect Tehran to treat active enforcement as a further act of war and to keep contesting the waterway.",
+          "The UAE confirms two of its national tankers were struck by Iranian cruise missiles in the strait; an Indian crew member was killed and several wounded, prompting New Delhi to summon Iran’s deputy ambassador. Overhead imagery indicates fresh damage to a submarine- and ship-maintenance facility at Bandar Abbas.",
+          "Tehran’s claims of hits on US bases in Jordan, Kuwait, and Bahrain are so far uncorroborated by US or host-government sources; we treat them as claimed pending confirmation of damage or casualties.",
+          "Iran has warned it will treat any regional state that supports US operations as a legitimate target — a threat aimed at the Gulf hosts of US forces. For Washington, the near-term decision point is whether to widen strikes to the Pickaxe Mountain nuclear complex, which the President has signaled he may order."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Hormuz Blockade and Tanker War Drive Oil Sharply Higher",
+      "blocks": [
+        { "type": "para", "text": "We assess that the reimposition of the US naval blockade and the exchange of strikes on shipping have restored a durable war-risk premium to global oil, and that prices will stay elevated and volatile so long as the strait is contested. Brent settled up 9.6 percent at $83.30 and WTI up 9.4 percent at $78.14 on the news — the sharpest one-day move since the war’s opening phase in the spring." },
+        { "type": "bullets", "items": [
+          "The White House says the United States will “manage” transit through the strait and levy a fee — reported at 20 percent — on cargo moving through it, a step with little precedent that allies and shippers are unlikely to accept quietly.",
+          "Traffic has thinned to roughly a half-dozen crossings in some 12-hour windows, against 18–22 daily earlier this month; a sustained closure would pull close to a fifth of seaborne crude and much of the world’s LNG off the market.",
+          "For Washington, the exposure is asymmetric: the shock lands hardest on import-dependent partners in Asia — Japan, South Korea, India — and feeds domestic inflation. We expect pressure to tap the Strategic Petroleum Reserve and to lean on Gulf producers to visibly signal spare capacity."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury’s Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Europe Stands Up Missile-Defense Coalition as Russia Strikes Kyiv",
+      "blocks": [
+        { "type": "para", "text": "We assess that Europe’s launch of an Integrated Anti-Ballistic Missile Coalition is a deliberate move toward strategic autonomy in air and missile defense, and that Moscow’s ballistic strike on Kyiv hours later was meant to answer it. Ten states — the United Kingdom, France, Germany, Italy, Spain, the Netherlands, Denmark, Norway, Sweden, and Ukraine — with a dozen defense firms agreed on 13 July to develop a lower-cost interceptor, the Freyja project, explicitly as an alternative to the US Patriot." },
+        { "type": "bullets", "items": [
+          "Within hours, Russia launched ballistic missiles at Kyiv; Mayor Klitschko reported air-defense engagements and fires in the Holosiivskyi district. We judge the timing was almost certainly intended as a demonstration against the coalition Moscow opposes.",
+          "France separately committed 16 Rafale fighters (delivering 2028–29), Franco-Italian air-defense systems, and a production license for SCALP cruise missiles — deepening a European supply chain that would compete with US primes.",
+          "Ukrainian deep strikes continued overnight: Kyiv reported a Lukoil fuel depot ablaze in Stavropol Krai, a logistics hub hit near Armiansk, and strikes on vessels in the Sea of Azov. Open-source imagery shows a large fire at the Stavropol depot.",
+          "For Washington, the coalition cuts both ways: welcome burden-sharing, but a “buy-European” architecture that could erode US defense-industrial influence and complicate NATO interoperability. We expect the administration to press for standardization even as Europe hedges."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Japan To Build First Central Intelligence Service Since 1945",
+      "blocks": [
+        { "type": "para", "text": "We assess that Tokyo’s decision to establish its first centralized civilian intelligence service since World War II reflects a durable Japanese judgment that the China, Russia, and North Korea threat environment now demands a national collection-and-analysis hub — and offers an opening for deeper US–Japan intelligence integration. Prime Minister Sanae Takaichi’s government is rebuilding the Cabinet Intelligence and Research Office into the core of the new agency." },
+        { "type": "bullets", "items": [
+          "Tokyo has quietly sought advice from the United States, Germany, and Australia on tradecraft, staffing, and collection priorities, with reporting that the FBI is backing the effort. The service is to be operational by December with a budget near $407 million.",
+          "The move consolidates functions long split among the national police and the foreign and defense ministries, aimed squarely at counterintelligence, cyber, and foreign-influence threats.",
+          "For Washington, a more capable Japanese service strengthens Indo-Pacific intelligence-sharing and could ease the caution that has long limited what the US passes to Tokyo. We expect allied liaison to widen as the agency stands up."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NSA, FBI Intelligence Branch, INR, and open sources."
+    },
+    {
+      "headline": "New Research Finds AI Automating Full-Cycle Cyber Operations",
+      "blocks": [
+        { "type": "para", "text": "We assess that AI is measurably lowering the skill and manpower needed to run end-to-end cyber operations, though the activity reported this week remains criminal and experimental rather than a demonstrated state breakthrough. Research published 13 July by a commercial security firm found AI systems generating commands, testing vulnerabilities, and moving through victim networks across entire intrusions — at times executing thousands of commands with less human direction than previously observed." },
+        { "type": "bullets", "items": [
+          "The researchers report both US and Chinese models were involved, typically through open-source systems and purpose-built malicious tools sold on criminal markets; one developer reportedly produced roughly 88,000 lines of working code in under a week with a commercial coding tool.",
+          "We judge this an incremental advance rather than a step-change: it compresses timelines and widens the pool of capable actors, but does not by itself indicate autonomous or self-improving offensive AI. We would revise our assessment upward on credible evidence of a state folding such tooling into its operations.",
+          "For Washington, the near-term risk is a higher tempo of lower-cost intrusions against critical infrastructure and a harder attribution problem. Defensive AI and faster patch cycles are the main points of leverage."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, DHS I&A, FBI Intelligence Branch, and open sources."
+    },
+    {
+      "headline": "Taiwan Opens Weeklong Drills; Restates South China Sea Position",
+      "blocks": [
+        { "type": "para", "text": "We assess Taiwan’s new defense exercise is a readiness and signaling measure rather than a response to any specific PLA move, timed to rehearse the hardest phase of an invasion scenario. The military began a five-day joint exercise on 13 July, with armored columns maneuvering through Taoyuan’s Qingpu area to rehearse halting an enemy force after a coastal landing." },
+        { "type": "bullets", "items": [
+          "Separately, on the tenth anniversary of the 2016 arbitral ruling against Beijing’s South China Sea claims, Taipei reiterated its “Four Principles” and insisted it not be excluded from any settlement affecting its rights and interests.",
+          "We read the drills as consistent with Taipei’s shift toward asymmetric, counter-landing defense; they are unlikely to draw more than routine PLA rhetoric. For Washington, the exercise is a useful data point on Taiwanese resolve and interoperability ahead of the island’s defense review."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>India–Iran.</b> New Delhi summoned Iran’s deputy ambassador on 14 July after an Indian merchant sailor was killed and others wounded in the tanker strikes in the strait — an early sign the Hormuz war is beginning to draw in the interests of states well outside the immediate theater.",
+          "<b>China — Typhoon Bavi.</b> In the storm’s wake, authorities reported more than 1.7 million people evacuated across Zhejiang, Fujian, and Shanghai’s coast after Bavi came ashore in eastern China, with hundreds of flights cancelled and rail and ferry service suspended — a near-term drag on activity in a core manufacturing and export region.",
+          "<b>Gaza.</b> Mediators pressed on with talks to shore up the US-brokered ceasefire amid sporadic reported strikes. We assess the truce is holding but fragile, and the widening Iran war raises the risk of spillover that could test it."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NGA, and open sources."
+    }
+  ]
+}
