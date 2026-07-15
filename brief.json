@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-15",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "US reimposes naval blockade as strikes on Iran enter a fourth night." },
+    { "tag": "GLOBAL ENERGY", "summary": "Oil hits a one-month high as Hormuz traffic collapses." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Ukrainian deep strikes hit Russia's last untargeted major refinery; Europe stands up a missile-defense coalition." },
+    { "tag": "CHINA", "summary": "June exports set a record on AI-chip demand, widening the surplus." },
+    { "tag": "US-ISRAEL", "summary": "Strains emerge over an Israeli pullback from Syria and Lebanon." },
+    { "tag": "YEMEN", "summary": "Houthis fire on Saudi Arabia, breaking a four-year truce." },
+    { "tag": "NOTES", "summary": "EU-UK cyber sanctions; a Hormuz-bypass pipeline; a Sudan war-crimes verdict." }
+  ],
+  "articles": [
+    {
+      "headline": "US Reimposes Iran Blockade as Strikes Enter Fourth Night; War Risk Rising",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran confrontation is escalating toward a broader war, with the reimposition of a naval blockade markedly narrowing the room for de-escalation. US Central Command resumed its blockade of Iranian ports and coastal areas at 4:00 p.m. Eastern on 14 July, hours after a fourth consecutive night of US strikes against Iranian coastal-defense, missile, drone, and maritime targets. We judge that neither side is seeking a general war outright, but the collapse of the June memorandum of understanding has removed the principal off-ramp, and the risk of miscalculation is now high." },
+        { "type": "bullets", "items": [
+          "Tehran retaliated across the Gulf: Iranian forces struck US-associated military sites in Bahrain and Jordan and hit two UAE tankers in Omani territorial waters, killing two seafarers; a Kuwaiti navy vessel was struck, wounding four; and Bahrain briefly activated air-raid sirens. Iran's Revolutionary Guard warned that \"not a single drop\" of oil and gas would transit if US operations continue.",
+          "Iran's Deputy Foreign Minister Kazem Gharibabadi said the renewed blockade has \"dismantled\" the Islamabad memorandum, signaling Tehran no longer regards the ceasefire framework as binding. We assess this closes the diplomatic track that had briefly held earlier in July.",
+          "President Trump reversed his proposal to levy a 20 percent transit fee on Strait of Hormuz shipping, saying \"nobody should be able to charge a fee\" after Gulf partners pressed for alternative arrangements. We judge the reversal was aimed at holding Gulf partners in line as the blockade tightens.",
+          "Intercepted communications indicate the order to strike the Gulf tankers was issued at the Revolutionary Guard level, consistent with Tehran's own claims of responsibility.",
+          "The Abraham Lincoln Carrier Strike Group is operating in the Arabian Sea within the US 5th Fleet area in support of Operation Epic Fury, providing the principal US carrier presence for the campaign."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Prime Minister Netanyahu warned that Israel would respond \"overwhelmingly\" to any Iranian strike, telling Iran's leadership not to \"count on there being calm\" and asserting there is \"no longer any containment of threats.\" For Washington, the central question is whether the blockade can degrade Iran's ability to attack shipping without triggering an Iranian move to close Hormuz outright. A decision point comes if Tehran attempts to mine or blockade the strait in response; that would almost certainly draw a wider US and allied naval response and a further oil-price spike." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Oil Reaches One-Month High as Strait of Hormuz Traffic Collapses",
+      "blocks": [
+        { "type": "para", "text": "We assess that the reimposed blockade and intensifying strikes are choking traffic through the Strait of Hormuz, through which roughly a fifth of the world's seaborne oil moves, and that markets are now pricing a sustained supply disruption rather than a brief scare. Brent crude settled near $86.47 a barrel on 14 July, up about 3.8 percent and its highest since mid-June, building on a 9.6 percent jump the prior session; WTI traded near $80.29." },
+        { "type": "bullets", "items": [
+          "Ship-tracking firms report Hormuz transits falling to — or below — the depressed pace seen before the June ceasefire, as owners divert or hold vessels rather than run the blockade and the crossfire.",
+          "Saudi Arabia retains a partial hedge in its east-west pipeline to the Red Sea, but renewed Houthi attacks on Red Sea shipping (see YEMEN) would erode that alternative and compound the squeeze.",
+          "We judge the near-term price path depends less on physical barrels lost so far than on whether Tehran acts on its threat to halt all Gulf energy exports; even a partial, days-long closure would likely push Brent well above $90."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the exposure is to inflation and to allied economies more dependent on Gulf crude than the US, notably in Asia. We expect the administration to weigh a Strategic Petroleum Reserve release and coordinated action with the International Energy Agency if the disruption persists, and to lean on Gulf producers to keep spare capacity flowing by alternative routes." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, Treasury Office of Intelligence and Analysis, DIA, and open sources."
+    },
+    {
+      "headline": "Ukrainian Deep Strikes Hit Russia's Last Untargeted Refinery; Europe Forms Missile-Defense Bloc",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's long-range strike campaign against Russian energy infrastructure has reached a new depth and is beginning to bite into Moscow's fuel output and export revenue. Overnight on 13-14 July, Ukrainian Special Operations Forces \"deep strike\" drones flew roughly 1,500 kilometers to hit the Gazprom Neftekhim Salavat complex in Bashkortostan — the last major Russian gasoline producer not yet struck in 2026 — along with the Afipsky refinery in Krasnodar and Russian maritime logistics." },
+        { "type": "bullets", "items": [
+          "Salavat processes about 2.7 percent of Russia's crude throughput; Ukraine's General Staff reported damage to its primary AVT-6 distillation unit, and the operation was conducted with the anti-Kremlin Chernaya Iskra (\"Black Spark\") network operating inside Russia.",
+          "Overhead imagery shows extensive fire damage across the Salavat petrochemical site, consistent with a successful strike on primary processing units.",
+          "Russia sustained its own ballistic-missile and drone barrage against Kyiv and other cities overnight, exploiting Ukraine's shortage of interceptors; Ukraine has also opened a maritime harassment campaign in the Sea of Azov aimed at isolating occupied Crimea.",
+          "In Paris, Ukraine and nine European states — Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden, and the UK — launched an Anti-Ballistic Missile Coalition to field a lower-cost alternative to the US Patriot, tied to Ukraine's \"Freya\" interceptor project, with a target of a mass-producible system inside roughly a year."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "We judge the coalition is as much a hedge against uncertain US supply as a technical program: a European-built interceptor base would reduce allied dependence on scarce Patriot stocks and reshape the air-defense market Washington now dominates. For the US, the near-term watch items are Russian retaliation against the strike-drone campaign and whether reduced refining output forces Moscow toward fuel imports or export cuts that tighten global product markets already strained by the Gulf crisis." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, State/INR, and open sources."
+    },
+    {
+      "headline": "China's June Exports Set a Record on AI-Chip Demand, Widening the Surplus",
+      "blocks": [
+        { "type": "para", "text": "We assess that China's export machine is accelerating rather than cooling under tariff pressure, giving Beijing added economic leverage as trade friction with Washington persists. Customs data released 14 July showed June exports up 27 percent year-on-year to a record $412.39 billion — the fastest pace since 2021 — while imports jumped 36 percent, the quickest in five years, to a record $286.76 billion. The monthly trade surplus widened to $125.62 billion, the second-largest on record." },
+        { "type": "bullets", "items": [
+          "The surge was driven by global demand for AI-related semiconductors and data-center hardware, with soaring chip prices lifting both export and import values, and by exporters front-loading shipments ahead of anticipated tariff increases.",
+          "First-half 2026 exports rose 17.6 percent and the cumulative surplus reached roughly $576 billion, underscoring the durability of China's external position despite US and allied trade measures.",
+          "We judge the front-loading effect will fade later in the year, but the AI-hardware component reflects genuine, sticky demand that strengthens Beijing's hand on export controls and rare-earth leverage."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the figures complicate the theory that tariffs are steadily rebalancing trade, and they highlight how central the AI supply chain has become to the US-China economic contest. We expect Beijing to lean on this resilience in any near-term negotiation over tariffs, chips, and critical minerals." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, Treasury Office of Intelligence and Analysis, State/INR, and open sources."
+    },
+    {
+      "headline": "US-Israel Strains Emerge Over an Israeli Pullback From Syria and Lebanon",
+      "blocks": [
+        { "type": "para", "text": "We assess that a policy gap is opening between Washington and Jerusalem even as the two coordinate against Iran. In a recent call, President Trump pressed Prime Minister Netanyahu to withdraw Israeli forces from Syria and Lebanon, judging the deployments a liability as the Gulf confrontation widens; Netanyahu pushed back, insisting that \"security zones\" along Israel's borders remain necessary." },
+        { "type": "bullets", "items": [
+          "US Central Command officials have voiced frustration that Israel halted additional US aerial-refueling tanker landings at Ben Gurion Airport, aircraft they consider critical to sustaining regional deterrence during the Iran campaign.",
+          "Netanyahu used a Jabotinsky memorial address to signal an uncompromising posture, declaring there is \"no longer any containment of threats\" and citing buffer zones \"deep inside neighboring territories.\"",
+          "Israeli operations continued: an IDF strike in Jabalia killed a Hamas commander and three others, and the Knesset advanced a measure temporarily barring the arrest of ultra-Orthodox draft evaders through 30 November — a reminder of the coalition pressures constraining Netanyahu at home."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the friction matters because it complicates a unified allied front at the moment US forces are most exposed in the Gulf. We expect the administration to keep pressing for an Israeli drawdown in Syria and Lebanon to concentrate the campaign on Iran, while managing a partner determined to set its own security perimeter." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State/INR, and open sources."
+    },
+    {
+      "headline": "Houthis Strike Saudi Arabia, Breaking a Four-Year Truce and Widening the War",
+      "blocks": [
+        { "type": "para", "text": "We assess that Yemen is being pulled back toward open war in tandem with the Iran crisis, opening a second front that threatens Red Sea shipping and Saudi territory. On 14 July, the Houthis fired ballistic missiles at Saudi Arabia — claiming a strike on Abha International Airport — the first publicly claimed attack on the kingdom since the informal March 2022 truce, after Yemeni government forces bombed a Sanaa airport runway to block an incoming Iranian aircraft." },
+        { "type": "bullets", "items": [
+          "Houthi military spokesman Yahya Saree claimed the operation and has declared the war's \"de-escalation phase\" over; earlier this month, Houthi-government fighting around Hodeidah produced the deadliest clashes in years.",
+          "We judge the timing is not coincidental: Iran's aligned network appears to be activating pressure points across the region as the US-Iran fight intensifies, raising the risk of renewed Houthi attacks on commercial vessels in the Red Sea and Bab al-Mandeb.",
+          "A wider Houthi campaign would degrade the Red Sea route that partly offsets Hormuz disruption, compounding the energy-market strain (see GLOBAL ENERGY)."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the reopening of the Saudi-Houthi front risks drawing Riyadh deeper into the confrontation and stretching US naval assets already committed to the Gulf. We expect increased US and partner force protection for Red Sea traffic and renewed diplomatic effort to keep the Yemen and Iran tracks from fully merging." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Europe/Russia — First joint EU-UK cyber sanctions.</b> On 13 July the EU, acting in parallel with the United Kingdom for the first time, imposed coordinated cyber sanctions on nine individuals and four entities tied to Russia's cyber ecosystem, publicly attributing sustained operations to the FSB's 16th Centre and the Turla group. We assess the joint action signals a firmer allied attribution-and-sanctions posture aimed at Russian espionage and critical-infrastructure sabotage across Europe." },
+        { "type": "para", "text": "<b>Gulf — A pipeline hedge against Hormuz.</b> Press reporting indicates Washington is supporting reconstruction of an Iraq-Syria crude pipeline that would let some Gulf oil bypass the Strait of Hormuz. We judge the effort is strategically sound but years from meaningful throughput, and it does little to ease the immediate supply risk from the current blockade." },
+        { "type": "para", "text": "<b>Sudan — War-crimes verdict against the RSF leader.</b> A Sudanese court sentenced Rapid Support Forces commander Mohamed Hamdan Dagalo (\"Hemedti\") to death for war crimes, crimes against humanity, and genocide in Darfur. We assess the ruling, delivered as the RSF remains a fighting force, is unlikely to alter the battlefield in the near term but hardens the political stakes of any settlement." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, DHS Office of Intelligence and Analysis, State/INR, and open sources."
+    }
+  ]
+}
