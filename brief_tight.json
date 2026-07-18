@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-18",
+  "cover": false,
+  "articles": [
+    {
+      "headline": "US-Iran Fighting Widens Into Seventh Night With No Off-Ramp",
+      "blocks": [
+        { "type": "para", "text": "We assess the US-Iran conflict is escalating horizontally, not de-escalating, with both sides striking beyond military targets and Tehran drawing US partners into the exchange. US forces conducted a seventh consecutive night of strikes into Friday, hitting road bridges and transport nodes across Hormozgan and reported targets near Bushehr and in Lorestan; Iranian media put the overnight toll at least eight killed. We judge the near-term risk is further widening, not a negotiated pause." },
+        { "type": "bullets", "items": [
+          "Iran expanded retaliation to US-aligned states, with fire reported against facilities in Qatar, Kuwait, Jordan, and Bahrain, and a claimed strike on a US special-operations position at al-Tanf in Syria. We assess these are calibrated to signal reach while avoiding the mass-casualty US strike that would force a larger American response.",
+          "A senior Iranian adviser warned of a \"full-scale offensive\" if strikes continue through the weekend. We read this as coercive signaling, but the margin for miscalculation is narrowing.",
+          "The reimposed US naval blockade of Iranian ports is the central escalatory lever; a lethal strike on US personnel or a Gulf population center is the most likely trigger for a sharp shift in posture."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Energy Markets Price In a Wider War as Hormuz Thins",
+      "blocks": [
+        { "type": "para", "text": "We assess the conflict is now a first-order risk to global energy supply. Brent traded above $84-$87 Friday and is tracking a weekly gain of more than 10 percent as the blockade and strikes near Iranian terminals cut Hormuz flows. A sustained closure or a major tanker incident would push prices sharply higher and feed US inflation." },
+        { "type": "bullets", "items": [
+          "Tanker transits through Hormuz have fallen to multi-week lows as operators avoid the chokepoint, through which roughly a fifth of global oil normally moves.",
+          "Tehran has told Yemen's Houthis to be ready to close the Bab al-Mandab if the US strikes Iran's power grid, opening a credible second chokepoint; the Houthis have positioned missiles and drones to act.",
+          "For Washington the exposure is economic as much as military: a price shock months before the midterms and strain on Asian allies. The decisive variable is whether the US hits Iranian energy infrastructure, which we assess would invite the Red Sea response Tehran has telegraphed."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury/OIA, CIA, NGA, and open sources."
+    },
+    {
+      "headline": "Kyiv Cuts Power to Crimea as Russia Presses Ukraine's Ports",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine is shifting toward deep strikes on the infrastructure sustaining Russia's hold on occupied territory, even as Russia intensifies pressure on Ukraine's Black Sea ports. Ukrainian action has severed key electricity supply to Crimea, triggering an energy crisis; overnight, Russia struck ports at Odesa and Mykolaiv, damaging three foreign-registered vessels and killing at least two crew, in an exchange that killed about ten on both sides." },
+        { "type": "bullets", "items": [
+          "Russia fired guided missiles and some 130 drones overnight; neither side reported confirmed ground advances. The fight remains attritional.",
+          "Damage to foreign-flagged ships risks internationalizing the maritime dimension and complicating grain and commercial traffic.",
+          "Thousands continued to protest President Zelenskyy's removal of a senior defense official; we assess this is a cohesion problem, not a threat to his position. A state-affiliated pollster also recorded a sharp drop in President Putin's approval, worth tracking though a single poll."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "China Pairs a Frontier Open Model With a Bid To Set AI's Rules",
+      "blocks": [
+        { "type": "para", "text": "We assess Beijing is running a two-track effort to narrow the US AI lead: releasing frontier-grade capability into the open-weight ecosystem while positioning itself to convene AI governance. At the World AI Conference in Shanghai, Moonshot AI unveiled Kimi K3, a roughly 2.8-trillion-parameter open-weight model that evaluators rate broadly comparable to leading US systems on complex tasks; Xi Jinping used the same venue to announce a China-led World AI Cooperation Organization that reporting indicates some 29 states have agreed to join." },
+        { "type": "bullets", "items": [
+          "The significance is the open-weight release, not a claim of supremacy: wide, low-cost circulation of a frontier-class model erodes the practical bite of US export controls. We see no evidence of recursive self-improvement or an autonomy breakout.",
+          "The new organization aims to draw developing states into a Beijing-centered standards orbit; the country count matters more than the institution's early substance.",
+          "For Washington, controls that slow China's compute access do little to blunt a model China gives away. We expect renewed debate over export-control design and open-model policy."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, the Office of Science and Technology, CIA, and open sources."
+    },
+    {
+      "headline": "Burnham To Take Over in London Monday; a Recalibration for a Core Ally",
+      "blocks": [
+        { "type": "para", "text": "We assess the imminent UK leadership change is manageable but real for US policy, coming as a close ally changes hands mid-crisis. Andy Burnham secured the Labour leadership on 17 July after rivals stood aside and is expected to be asked to form a government Monday, 20 July, succeeding Keir Starmer, who stays only until the handover. Continuity on core commitments is most likely, with tonal shifts to watch." },
+        { "type": "bullets", "items": [
+          "We expect no near-term break on NATO, AUKUS, support for Ukraine, or intelligence sharing, but a new premier may reweight defense spending, the EU relationship, and domestic priorities.",
+          "Burnham arrives by acclamation rather than an election, leaving him without a fresh mandate and sensitive to his party's left. His first statements on defense spending and Ukraine are the signal to watch."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Israeli Strikes on Gaza Reach Heaviest Tempo Since the October Ceasefire",
+      "blocks": [
+        { "type": "para", "text": "We assess the October 2025 Gaza ceasefire is eroding in practice even where it formally holds, with Israeli operations Friday at their most intense level since the truce. Local health authorities reported at least 14 Palestinians killed, including seven killed and 22 wounded when a strike hit a funeral procession in Nuseirat; the Israeli military said it struck a Palestinian Islamic Jihad cell and acknowledged civilians may have been harmed." },
+        { "type": "bullets", "items": [
+          "By local tallies, more than 1,100 have been killed in Gaza since the truce took effect, indicating it has reduced but not stopped the killing.",
+          "We assess the rising tempo raises the risk of a slide back into sustained fighting and pressures the guarantors of the October deal, at a moment when the Iran crisis is already absorbing US diplomatic bandwidth."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>United States — Election address draws scrutiny.</b> In a Thursday primetime address, President Trump released declassified documents he said reveal vulnerabilities and foreign interference in US elections and directed the Justice Department to act. Early independent reviews found the material largely restated previously known concerns, including from a 2021 IC assessment. We assess the near-term effect is political rather than a new basis for action." },
+        { "type": "para", "text": "<b>United States — Veterans package pulled.</b> House Republican leaders abruptly shelved the Take Care of America's Veterans Act before a floor vote, after failing to secure support amid a fight over disability compensation that split major veterans groups. Speaker Johnson signaled it could return after September. A domestic setback with no direct national-security effect." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, FBI, DHS/I&A, and open sources."
+    }
+  ]
+}
