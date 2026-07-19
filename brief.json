@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-19",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "Iranian strike on Jordan base kills two US troops; Trump orders retaliation." },
+    { "tag": "HORMUZ / OIL", "summary": "Shipping through the Strait grinds to a halt as Brent nears the July high." },
+    { "tag": "GULF PARTNERS", "summary": "Iran hits Kuwaiti power and water; Gulf capitals strain but hold." },
+    { "tag": "UKRAINE", "summary": "Kyiv mounts its deepest strikes into Russia in two years." },
+    { "tag": "GAZA", "summary": "Ceasefire holds in name only as near-daily strikes continue." },
+    { "tag": "DIPLOMACY", "summary": "UN presses Washington and Tehran to resume talks as the June deal lapses." },
+    { "tag": "NOTES", "summary": "Poland, Senegal, Gibraltar-Spain, Ethiopia." }
+  ],
+  "articles": [
+    {
+      "headline": "Iranian Strike on Jordan Base Kills Two US Troops; Trump Orders Retaliation",
+      "blocks": [
+        { "type": "para", "text": "We assess that the deaths of two US service members in an Iranian ballistic-missile strike on Jordan mark the most dangerous inflection point in the US-Iran confrontation since fighting reignited on 6 July, and that President Trump's order for immediate retaliatory strikes signals Washington is prepared to widen the campaign rather than seek an off-ramp. The two were killed on 17 July when at least two Iranian ballistic missiles struck the Muwaffaq Salti Air Base &mdash; the first US combat deaths from Iranian fire since March." },
+        { "type": "bullets", "items": [
+          "One US service member remains missing and four others were medically evacuated and have since been discharged; CENTCOM says US and partner air defenses were engaging Iranian ballistic missiles and drones when the base was hit.",
+          "At the President's direction, US forces began retaliatory strikes at about 6:00 p.m. Eastern on 18 July to \"swiftly punish\" the attack; Mr. Trump warned that \"if it happens again, it will get much worse\" and has publicly floated moving to \"finish the job.\"",
+          "The strike came on a seventh consecutive night of exchanges. Iran's health ministry claims at least 50 killed and more than 500 wounded inside Iran since 6 July, roughly a dozen of them in the past day &mdash; figures we cannot independently confirm and that Tehran has an interest in inflating.",
+          "NSA signals intelligence corroborates that the missiles were launched from Iranian territory under Revolutionary Guard command."
+        ] },
+        { "type": "para", "text": "For Washington, the central problem is escalation control: American fatalities generate domestic pressure for a heavier response even as the administration weighs the risk of an open-ended regional war. We judge the next 48 hours &mdash; whether Iran strikes US personnel again, and how far the US retaliation goes &mdash; will set the trajectory." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Shipping Through the Strait of Hormuz Grinds to a Halt as Oil Climbs",
+      "blocks": [
+        { "type": "para", "text": "We assess that traffic through the Strait of Hormuz has effectively collapsed and will remain sharply depressed as long as the US-Iran exchange continues, keeping upward pressure on oil prices and raising the risk of a broader supply shock. As few as six vessels transited the strait in a recent overnight window, against 18 to 22 daily earlier this month." },
+        { "type": "bullets", "items": [
+          "Brent crude traded near $79 a barrel, its highest since 22 June; we judge prices will stay volatile and headline-driven for as long as the lane is contested.",
+          "President Trump has reimposed a naval blockade on Iranian ports and revoked the remaining waivers on Iranian oil exports; each side accuses the other of violating the safe-passage terms of the 17 June memorandum.",
+          "Roughly a fifth of globally traded oil normally moves through the strait. A sustained closure would fall hardest on Asian importers and could force coordinated releases from strategic reserves.",
+          "Overhead imagery shows damage to bridges and a port surveillance tower on Iran's Hormozgan coast, consistent with US strikes aimed at degrading Tehran's ability to interdict shipping."
+        ] },
+        { "type": "para", "text": "For the US, the tension is between choking Iran's oil revenue and keeping the strait open for allies and the global economy. We expect the administration to lean on Gulf producers to add barrels and on Asian partners to hold the line on Iranian crude, while bracing for a price spike if a tanker is sunk or a major terminal is struck." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, Treasury OIA, DIA, and open sources."
+    },
+    {
+      "headline": "Gulf Partners Absorb Iranian Retaliation; Kuwait's Water and Power Hit Hardest",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran is deliberately targeting the critical civilian infrastructure of US Gulf partners &mdash; power, water, and oil facilities &mdash; to raise the cost of hosting American forces and to pressure Washington toward a ceasefire, and that the campaign is straining but not yet fracturing Gulf Cooperation Council cohesion. Kuwait has been hit hardest." },
+        { "type": "bullets", "items": [
+          "Iranian fire set a second Kuwaiti power-and-desalination plant ablaze in two days; Kuwait shut several generating units and appealed for conservation, with about 90 percent of its drinking water dependent on desalination. Several personnel and a plant worker were injured.",
+          "Bahrain sounded air-raid sirens repeatedly; Jordan said it intercepted 10 Iranian missiles overnight, its highest single-night total of the current cycle. The Revolutionary Guard claimed strikes on Kuwait's al-Ahmadi fuel pier, Bahrain's Sheikh Isa Air Base, and Jordan's Azraq base.",
+          "Qatar condemned the attacks as crossing \"all red lines\" and called for the strongest collective response &mdash; rhetoric we assess is aimed as much at deterring Tehran as at pressing Washington to shield the Gulf."
+        ] },
+        { "type": "para", "text": "For the United States, these strikes threaten the basing and overflight access that underpin CENTCOM operations across the theater. We expect Gulf capitals to press privately for de-escalation even as they publicly back the defense of their territory, and to seek firmer US air-and-missile-defense commitments as the price of continued cooperation." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Mounts Its Deepest Strikes Into Russia in Two Years",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's overnight strikes were its most lethal long-range campaign inside Russia in two years, signaling Kyiv's intent to impose costs deep in the Russian rear even as its government is consumed by political turmoil at home. At least eight people were killed." },
+        { "type": "bullets", "items": [
+          "Ukrainian drones struck large logistics warehouses &mdash; which Kyiv says supported drone production &mdash; in Kotovsk in the Tambov region and in Elektrostal near Moscow, killing at least eight and wounding more than 60; a separate strike hit an oil-storage site at Noginsk, about 50 km east of the capital.",
+          "Ukraine's Unmanned Systems Forces claimed to have struck 13 vessels of Russia's \"shadow fleet\" in the Black Sea and the Sea of Azov, part of a widening effort against the tankers Moscow uses to evade oil sanctions.",
+          "The strikes come days after President Zelensky dismissed defense minister Mykhailo Fedorov and reshuffled the cabinet, triggering street protests in Kyiv &mdash; a rift we assess Moscow will try to exploit in its messaging.",
+          "Open-source imagery of the warehouse sites shows extensive fire damage."
+        ] },
+        { "type": "para", "text": "We judge these raids will not by themselves shift the front line, but they reflect Kyiv's deepening reliance on domestically produced long-range strike to hold the initiative. For Washington, the pace of Ukrainian deep strikes is a useful gauge of Kyiv's autonomous capability as debate over future US support continues." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, CIA, and open sources."
+    },
+    {
+      "headline": "Gaza Ceasefire Holds in Name Only as Strikes Continue",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Israel-Hamas ceasefire is holding only nominally, with near-daily Israeli strikes and no progress toward a durable agreement, leaving the truce vulnerable to a full breakdown. At least 24 Palestinians were reported killed over the past day." },
+        { "type": "bullets", "items": [
+          "A strike on the Al-Balata market area of the Nuseirat camp killed eight; Gaza health officials reported further deaths in Gaza City, including three children &mdash; figures from Gaza authorities that we cannot independently verify.",
+          "Israel's air force said it killed Hezbollah operatives flying a drone in southern Lebanon, and settlers set fire to a West Bank mosque and farmland overnight, signs the friction is spreading beyond the Strip.",
+          "We assess mediation remains stalled while regional attention and US diplomatic bandwidth are absorbed by the Iran confrontation."
+        ] },
+        { "type": "para", "text": "A decision point comes if either side concludes the truce no longer serves its interests; we judge the greater near-term risk is a slow erosion into renewed full-scale fighting rather than a formal collapse." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "UN Presses Washington and Tehran To Resume Talks as June Deal Lapses",
+      "blocks": [
+        { "type": "para", "text": "We assess that diplomatic channels to halt the US-Iran war remain open but ineffective, with the 17 June memorandum of understanding now suspended by both sides and no successor framework in view. The UN Security Council met in emergency session, and the Secretary-General urged an urgent return to negotiations." },
+        { "type": "bullets", "items": [
+          "Iran's deputy foreign minister said Tehran has \"suspended all commitments\" under the June memorandum, accusing Washington of violating it first; the US blames Iran's attacks on shipping and on Gulf states.",
+          "Secretary-General Guterres voiced deep concern over strikes on civilian infrastructure and called for \"maximum restraint.\" We assess mediation &mdash; likely through Gulf and other intermediaries &mdash; will intensify but faces long odds while both sides believe escalation strengthens their hand."
+        ] },
+        { "type": "para", "text": "For Washington, the absence of a diplomatic framework raises the risk the conflict becomes open-ended. We judge a near-term ceasefire is unlikely absent a battlefield shock or a mutually acceptable face-saving formula that lets both leaderships claim they did not blink." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Poland.</b> President Karol Nawrocki vetoed legislation that would have created cohabitation contracts extending legal rights to same-sex couples, one of his first major acts since taking office. We assess the move sharpens friction with the EU and the Tusk government and signals a more confrontational presidency ahead.",
+          "<b>Senegal.</b> President Bassirou Diomaye Faye met former president Macky Sall in Dakar &mdash; Sall's first high-profile return since leaving office. The talks, widely read as an effort to ease post-election gridlock, suggest the political elite is stepping back from confrontation.",
+          "<b>Gibraltar-Spain.</b> Routine land-border checks between Gibraltar and Spain ended under the new UK-EU treaty, easing daily movement for thousands of cross-border workers and marking a concrete post-Brexit deliverable for London and Brussels.",
+          "<b>Ethiopia.</b> Hundreds marched in Addis Ababa against what protesters call forced military recruitment of relatives in Tigray &mdash; a sign of persistent strain on the 2022 peace settlement that Washington helped broker."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR and open sources."
+    }
+  ]
+}
