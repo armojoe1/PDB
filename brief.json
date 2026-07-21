@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-21",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US completes tenth night of strikes after third American death; Trump vows retaliation." },
+    { "tag": "GULF-SHIPPING", "summary": "Houthi blockade of Saudi Arabia and tanker strikes widen the war at sea; oil climbs." },
+    { "tag": "UNITED KINGDOM", "summary": "Burnham takes over in London, signaling continuity on Ukraine and a cooler note with Washington." },
+    { "tag": "UKRAINE", "summary": "Russia strikes an Odesa grain ship; Ukraine hits oil and naval targets deep inside Russia." },
+    { "tag": "LEBANON", "summary": "Israeli pullback from the first south Lebanon 'pilot zone' begins, testing the disarmament framework." },
+    { "tag": "ISRAEL-GAZA", "summary": "Settler march to the Gaza border presses Netanyahu over resettlement." },
+    { "tag": "NOTES", "summary": "Afghanistan floods; Sudan war-crimes sentence and El-Obeid siege." }
+  ],
+  "articles": [
+    {
+      "headline": "US Presses Tenth Night of Strikes on Iran After Third American Death",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US–Iran conflict has entered a sustained, escalatory phase with no near-term off-ramp evident. US Central Command completed its tenth consecutive night of strikes against Iranian targets late on 20 July, hours after President Trump warned that Tehran would “pay” for the deaths of three US service members over the preceding days. The latest wave struck Iranian military command centers, maritime attack capabilities, missile and drone launch sites, and air-defense nodes—an effort we judge is aimed less at regime change than at degrading Iran’s ability to interdict shipping in the Strait of Hormuz." },
+        { "type": "bullets", "items": [
+          "Three US personnel have been killed since 17 July—two in an Iranian strike on Muwaffaq Salti Air Base in Jordan and one during the controlled detonation of a downed Iranian attack drone—the first US combat deaths of the campaign and the proximate driver of the President’s retaliation pledge.",
+          "The Abraham Lincoln and George H.W. Bush carrier strike groups, the Boxer Amphibious Ready Group, and roughly 14 guided-missile destroyers are operating in the Arabian Sea in support of the strike campaign and the naval blockade of Iranian ports.",
+          "Intercepted communications are consistent with IRGC naval command continuing to direct attacks on tankers in the strait; we assess Tehran retains both the intent and residual capacity to strike US forces and Gulf shipping despite ten nights of degradation.",
+          "A bipartisan bloc in Congress is pressing to invoke the War Powers Resolution to constrain further operations, signaling domestic limits on an open-ended campaign."
+        ] },
+        { "type": "para", "text": "For Washington, the central risk is a widening war: continued US casualties raise pressure for heavier strikes, while Iranian and proxy attacks on Gulf partners threaten to pull Saudi Arabia and the UAE directly into the fight. We assess a decision point comes if Iran strikes a US warship or moves to close Hormuz outright—either of which would likely force a sharp escalation in the US response." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Defense Intelligence Agency, the National Security Agency, the National Geospatial-Intelligence Agency, US Central Command, and open sources."
+    },
+    {
+      "headline": "Houthi Blockade of Saudi Arabia Widens the Gulf War at Sea",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran and its Yemeni partners are deliberately expanding the maritime dimension of the war to raise the economic costs of the US campaign. On 20 July the Houthis’ military spokesman declared an immediate naval blockade of Saudi Arabia, hours after Iranian forces struck a Saudi commercial tanker attempting to transit the Omani side of the Strait of Hormuz and a second vessel was hit by an unidentified projectile northeast of Oman’s Limah." },
+        { "type": "bullets", "items": [
+          "Traffic through the strait has collapsed—only four vessels completed the transit on 19 July—and Brent crude settled near $89 a barrel, up roughly 20 percent this month; analysts warn a sustained slowdown could push prices above $100.",
+          "NGA assesses from overhead imagery that Iranian anti-ship missile and fast-attack-craft units remain dispersed along the northern shore of the strait, complicating US targeting and pointing to a protracted interdiction threat.",
+          "Riyadh has vowed measures to protect its vessels; a Houthi campaign against Saudi shipping risks drawing the kingdom more directly into the war and threatens the tanker routes that underpin global oil supply."
+        ] },
+        { "type": "para", "text": "For Washington, the blockade complicates any near-term de-escalation: mediators are still working a ceasefire framework, but each strike on shipping hardens positions and lengthens the target list. We expect continued attacks on Gulf tankers over the coming days and a further tightening of insurance and rerouting costs that will keep upward pressure on oil." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the National Geospatial-Intelligence Agency, the Defense Intelligence Agency, Treasury’s Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Burnham Takes Over in London, Signaling Continuity on Ukraine and a Cooler Note With Washington",
+      "blocks": [
+        { "type": "para", "text": "We assess that the change of government in London preserves core UK security policy while injecting fresh uncertainty into the US–UK relationship. Andy Burnham became Britain’s seventh prime minister in a decade on 20 July, succeeding Keir Starmer, whose government collapsed under sustained pressure over immigration, tax, welfare, and Gaza. Burnham has made unwavering support for Ukraine a defining early commitment, and his first foreign calls were to Presidents Trump and Zelensky." },
+        { "type": "bullets", "items": [
+          "His cabinet keeps experienced hands in the key posts—John Healey as chancellor, Ed Miliband as foreign secretary, and Wes Streeting as defense secretary—and London has reaffirmed new defense spending and its NATO command commitments.",
+          "In his first call with the President, the two discussed trade, defense, North Sea oil, and the Strait of Hormuz; the tone was cordial, but Burnham has pointedly described the US relationship as “critical” rather than “special” and is not rushing a visit to Washington.",
+          "US officials are pressing London to fund its share of the AUKUS submarine program and to lift defense spending, and a British general is set to take a senior NATO Joint Force Command post."
+        ] },
+        { "type": "para", "text": "For Washington, the key question is whether a more self-consciously independent British line on trade and Middle East policy erodes the reflexive US–UK alignment of recent years. We assess continuity on Ukraine and NATO is likely in the near term, but expect Burnham to differentiate himself from Washington on tone and on select policy where domestic politics reward it." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, the Central Intelligence Agency, and open sources."
+    },
+    {
+      "headline": "Russia Strikes Odesa Grain Ship as Ukraine Hits Oil and Naval Targets Deep Inside Russia",
+      "blocks": [
+        { "type": "para", "text": "We assess that both sides are intensifying strikes on the other’s economic and logistics infrastructure, with no sign of movement toward talks. On 20 July a Russian strike killed at least 10 crew aboard a Guinea-Bissau-flagged vessel carrying corn near Odesa—part of a campaign that has killed 28 people in the port city this month—a day after Russia launched one of its largest ballistic-missile barrages of the war against Kyiv." },
+        { "type": "bullets", "items": [
+          "Ukraine responded with long-range drone strikes on an oil depot and logistics facilities in the Moscow region, more than 400 kilometers from the border; President Zelensky framed the operations as a proportionate response to Russian strikes on Ukrainian cities.",
+          "Kyiv also reported striking six Russian vessels in the Black Sea and Sea of Azov overnight, extending a sustained campaign against Russia’s shadow tanker fleet and naval logistics that it says has hit well over 100 ships this month.",
+          "The renewed strikes on grain shipping again threaten Black Sea export routes that matter to global food prices and to Ukraine’s wartime economy."
+        ] },
+        { "type": "para", "text": "We expect Russia to keep targeting Odesa’s port infrastructure while Ukraine presses deeper strikes into Russian rear areas; neither campaign appears likely to force the other to the table in the near term, and the escalation raises the risk of miscalculation around third-country flagged shipping." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, and open sources."
+    },
+    {
+      "headline": "Israeli Pullback From First South Lebanon ‘Pilot Zone’ Begins, Testing the Disarmament Framework",
+      "blocks": [
+        { "type": "para", "text": "We assess that the phased Israeli withdrawal in south Lebanon is the most tangible progress yet on the June trilateral framework, but its durability hinges on Hezbollah’s response. US officials said Israel began withdrawing from the first pilot zone and that the Lebanese Armed Forces have begun taking over the villages of Froun, Srifa, and Zawtar al-Gharbiya, where they are to certify the removal of Hezbollah weapons and infrastructure." },
+        { "type": "bullets", "items": [
+          "The move follows a 19 July meeting in Washington at which Secretary of State Rubio praised President Aoun’s push to disarm Hezbollah; the framework trades a phased Israeli pullback for sole LAF security control of vacated areas.",
+          "Hezbollah has rejected the arrangement, insisting any deal be tied to broader US–Iran negotiations—a linkage that, amid the Gulf war, makes full implementation uncertain."
+        ] },
+        { "type": "para", "text": "For Washington, a successful pilot would validate the LAF-first model and preserve a rare regional bright spot at a moment when the wider Middle East is escalating; a Hezbollah provocation or a stalled handover would reopen the Israel–Lebanon front at a dangerous time. We judge the first-zone transfer is likely to proceed, but expect friction as the model is extended northward." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, the Central Intelligence Agency, and open sources."
+    },
+    {
+      "headline": "Settler March to the Gaza Border Presses Netanyahu Over Resettlement",
+      "blocks": [
+        { "type": "para", "text": "We assess that domestic pressure to resettle Gaza is complicating Israeli policy and straining the fragile ceasefire brokered last October. On 20 July hundreds of settlers, government ministers, and lawmakers marched to the Gaza border to demand the return of Israeli settlements, even as Prime Minister Netanyahu publicly condemned settler violence in the West Bank as a “metastasizing cancer.”" },
+        { "type": "bullets", "items": [
+          "Israeli operations in Gaza continued: the IDF said it killed an Islamic Jihad operative in a central-Gaza strike, and Hamas-linked media reported a strike near a hospital in the Jabalia area; large-scale fighting remains paused under the US-brokered truce.",
+          "The resettlement push exposes divisions inside Netanyahu’s coalition and sits awkwardly with US postwar planning for Gaza, which does not envision renewed Israeli settlement."
+        ] },
+        { "type": "para", "text": "We assess the government will avoid formally endorsing resettlement while continuing targeted strikes; for Washington, the episode is a reminder that Israeli domestic politics remain a persistent obstacle to consolidating the ceasefire and advancing any ‘day after’ governance arrangement for Gaza." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, the Central Intelligence Agency, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Afghanistan:</b> Monsoon-driven flash floods struck Nuristan province late on 20 July, killing at least 20 people, injuring some 80, and leaving more than 100 missing around the provincial capital, Parun. The de facto authorities warned the toll is likely to rise as search-and-rescue continues; the disaster underscores Afghanistan’s acute vulnerability to extreme weather and thin response capacity.",
+          "<b>Sudan:</b> A court in Port Sudan sentenced Rapid Support Forces commander Mohamed Hamdan Dagalo and 15 others to death in absentia on 20 July for atrocities in Darfur, as the UN Human Rights Council ordered an inquiry into the RSF’s tightening siege of El-Obeid in North Kordofan, where it warned civilians face a risk of mass atrocities. We assess the ruling is largely symbolic absent enforcement but signals hardening international pressure on the RSF."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, the Defense Intelligence Agency, and open sources."
+    }
+  ]
+}
