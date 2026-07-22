@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-22",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "US Widens Air Campaign Against Iran as Diplomatic Track Stalls",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran conflict is escalating rather than winding down. US forces overnight expanded strikes to a military site near Tabriz, in Iran's northwest — the first reported strike in that area since fighting intensified two weeks ago — even as President Trump publicly discounted near-term negotiations. The week-old memorandum of understanding that briefly halted the fighting has effectively collapsed, with each side accusing the other of violating it. For Washington, the central question is whether an air campaign alone can compel Tehran back to terms, or whether Iranian retaliation and pressure on Gulf shipping pull US forces deeper into a wider regional war." },
+        { "type": "bullets", "items": [
+          "US Central Command's overnight operation — the 11th consecutive round — struck hangars, logistics nodes, and air-defense sites; Iranian state media reported the first strike near Tabriz, widening the campaign's geographic scope.",
+          "Iran claimed retaliatory drone strikes on US Army logistics sites at Camp Doha in Kuwait and, this morning, fired missiles and drones toward Jordan's Aqaba, with explosions heard in nearby Eilat. Jordan said it intercepted the incoming fire and reported no casualties. We judge Tehran is signaling it can hold US and partner facilities at risk across the Gulf.",
+          "Trump said he would \"probably pretty soon\" order a strike on the Pickaxe Mountain underground nuclear site and vowed to make Iran \"pay\" for US casualties; Defense Secretary Hegseth told Congress the war has cost roughly $37.5 billion to date.",
+          "Iran's succession adds uncertainty: Supreme Leader Mojtaba Khamenei, who assumed power after Ali Khamenei was killed in February, has not appeared publicly, and hardline factions in Tehran are resisting any renewed accommodation with Washington."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The Abraham Lincoln and George H.W. Bush Carrier Strike Groups are operating in the Arabian Sea and the wider Fifth Fleet area in support of Operation Epic Fury. NGA assesses from overhead imagery that US naval forces remain concentrated within strike range of Iranian targets. A decision point comes if Trump authorizes a strike on hardened nuclear infrastructure, or if Iranian fire produces US or allied casualties — either could foreclose the diplomatic track entirely." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Houthi Blockade of Saudi Shipping Puts Red Sea Oil Flows at Risk",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Houthis' newly declared naval blockade of Saudi Arabia opens a second front in the Middle East conflict and poses a credible threat to global oil supply, though maritime workarounds are likely to blunt the immediate price impact. The Iran-aligned group said vessels calling at Saudi ports would no longer transit the Bab el-Mandeb safely; tankers began reversing course within hours." },
+        { "type": "bullets", "items": [
+          "Commercial ship-tracking data indicate a Chinese very large crude carrier and Saudi-linked tankers turned back or diverted rather than transit the strait, choosing routes toward the Suez Canal or around the Cape of Good Hope.",
+          "Analysts warn a sustained closure of the Bab el-Mandeb could remove up to roughly 7% of global oil supply and push crude above $115–$120 a barrel; prices rose only modestly to about $89 on the announcement, suggesting markets currently expect rerouting rather than a full supply shock.",
+          "Riyadh can shift some crude to its Persian Gulf terminals and Red Sea-avoiding routes, but Asian refiners face delays of up to a month on affected cargoes.",
+          "Trump downplayed the threat, saying the US has \"had no problem\" with the Houthis — a posture we assess reflects reluctance to open a third simultaneous line of effort while US forces are committed against Iran."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the blockade compounds an already strained energy and shipping picture and hands Tehran a low-cost means of raising the war's economic stakes. What to watch: whether the Houthis actually fire on Saudi-bound traffic — the first such attack would confirm the blockade is more than declaratory and would likely move oil prices sharply." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Trump Approves Saudi Civil-Nuclear Pact Without Enrichment Safeguards",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Trump's approval of a 30-year civil-nuclear cooperation agreement with Saudi Arabia — reportedly omitting the long-standing US bar on domestic uranium enrichment — marks a significant shift in nonproliferation policy and could accelerate a regional nuclear-hedging dynamic. The so-called 123 Agreement, pending since October 2025, would allow US firms to build a Saudi enrichment facility if a joint study finds it warranted." },
+        { "type": "bullets", "items": [
+          "The pact reportedly drops the \"Gold Standard\" no-enrichment condition and leaves IAEA Additional Protocol safeguards to bilateral negotiation, drawing criticism from lawmakers in both US parties.",
+          "Israeli officials, including Avigdor Liberman, warned the deal risks an \"insane nuclear arms race\"; we judge Riyadh's leverage is amplified by its central role in the parallel Red Sea and Iran crises.",
+          "For Washington, the agreement deepens commercial and strategic ties with Riyadh but weakens the US posture on enrichment just as it presses Iran on the same issue — a tension adversaries will exploit rhetorically."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "What to watch: congressional review, and whether the enrichment provision survives in the final signed text or is diluted under domestic and allied pressure." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DOE Office of Intelligence and Counterintelligence, and open sources."
+    },
+    {
+      "headline": "Zelensky Removes Military Chief as Wartime Leadership Shake-Up Widens",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Zelensky's dismissal of Commander-in-Chief Oleksandr Syrskyi — days after firing Defense Minister Mykhailo Fedorov — reflects mounting domestic pressure and is intended to shore up morale, but it injects fresh uncertainty into Ukraine's command at a difficult moment on the front. Zelensky named Joint Forces Commander Mykhailo Drapatyi, 43, widely respected among soldiers and veterans, as successor." },
+        { "type": "bullets", "items": [
+          "The reshuffle followed sustained protests in Kyiv and other cities demanding Syrskyi's removal, an unusual eruption of wartime domestic dissent.",
+          "It came as Russian forces pressed their air campaign: overnight, roughly 58 drones struck multiple regions, hitting an Epicenter shopping center in Sumy and port infrastructure at Odesa and Chornomorsk. Ukraine reported striking a MiG-29 and a Pantsir air-defense system at Khalino airfield in Russia's Kursk region.",
+          "For Washington, churn at the top of Ukraine's defense establishment complicates coordination on weapons deliveries and planning; we expect the administration to watch closely whether Drapatyi steadies the command or the turnover signals deeper political strain in Kyiv."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Manila and Beijing Trade Envoy Summonses After South China Sea Clash",
+      "blocks": [
+        { "type": "para", "text": "We assess that the mutual summoning of ambassadors by the Philippines and China marks a fresh escalation in the South China Sea dispute, though both sides appear for now to be managing it through diplomatic channels. President Marcos summoned China's ambassador in Manila within hours of Beijing summoning the Philippine envoy, each accusing the other of provocation near Second Thomas Shoal (Ren'ai Jiao)." },
+        { "type": "bullets", "items": [
+          "Beijing alleged a \"violent assault\" by Philippine personnel on Chinese law-enforcement forces and repeated demands that Manila remove its grounded warship at the shoal; Manila rejected the characterization.",
+          "The friction comes as Taiwan reports a sharp rise in Chinese vessels around the island — 263 detected in June against 200 in May — part of Beijing's sustained pressure campaign.",
+          "For Washington, the incident again tests the US-Philippine Mutual Defense Treaty, which the US has said covers armed attacks on Philippine forces in the South China Sea. We expect Beijing to keep pressure below the threshold that would trigger treaty obligations."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Lebanon's Aoun Pledges to End Hostility With Israel in White House Visit",
+      "blocks": [
+        { "type": "para", "text": "We assess that Lebanese President Joseph Aoun's White House meeting with President Trump — the first visit by a Lebanese head of state since 2009 — signals Beirut's bid to convert a late-June Israel-Lebanon withdrawal framework into durable de-escalation, contingent on disarming Hezbollah. Aoun said Lebanon would end hostility with Israel \"forever\" and pressed for US help in securing a full Israeli pullout." },
+        { "type": "bullets", "items": [
+          "The June framework ties a phased Israeli withdrawal from \"pilot\" zones in southern Lebanon to disarmament of Hezbollah by the Lebanese Armed Forces; an IDF withdrawal from one pilot area proceeded as Aoun visited.",
+          "Trump voiced optimism about the pullout and said he would be willing to speak with Hezbollah if Beirut asked — an unusual overture. We judge the key obstacle remains whether the LAF can disarm Hezbollah without renewed internal conflict.",
+          "For Washington, a stabilized Lebanon-Israel track would be a rare bright spot amid the Iran war; the principal risk is that Hezbollah, though militarily degraded, resists disarmament and reignites the front."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Sudan:</b> A suspected Rapid Support Forces drone strike on a water hub at Bir Andour, in North Darfur's Tina locality, killed at least 21 civilians and wounded some 30 on 21 July — part of an intensifying RSF drone campaign in the state's far northwest.",
+          "<b>Nigeria:</b> Armed \"bandits\" ambushed traffic on the Gummi-Sokoto highway in Zamfara on 21 July, killing one person and abducting several before troops rescued 11 captives. Mass kidnapping-for-ransom continues to strain security forces across the northwest.",
+          "<b>Turkey:</b> Deposed opposition figure Ozgur Ozel announced he will form a new party to challenge President Erdogan, months after a court removed him as chair of the CHP. Most of the party's 135 lawmakers are expected to follow him, reshaping the opposition ahead of the next election cycle.",
+          "<b>India:</b> Police briefly detained opposition leader Rahul Gandhi and other figures at a New Delhi protest over a medical-exam leak scandal before releasing him the same evening. The student-led movement is among the larger challenges to Prime Minister Modi's government since his 2024 re-election."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
