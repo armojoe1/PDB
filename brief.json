@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-23",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US completes 12th night of strikes; Iran hits bases in Kuwait and Jordan; US toll reaches 16 killed." },
+    { "tag": "ENERGY", "summary": "Houthi Red Sea blockade opens a second chokepoint; Brent near $92 as tankers reverse course." },
+    { "tag": "UKRAINE", "summary": "Zelensky dismisses commander-in-chief Syrskyi after nationwide protests; Drapatyi takes command." },
+    { "tag": "SOUTH CHINA SEA", "summary": "Coast guard clash at Second Thomas Shoal shadows ASEAN ministerial in Manila." },
+    { "tag": "FRANCE", "summary": "Paris becomes first EU state to ban social media for under-15s, setting a continental precedent." },
+    { "tag": "DR CONGO", "summary": "Bundibugyo Ebola toll passes 1,000-case threshold in the fastest-spreading outbreak on record." },
+    { "tag": "NOTES", "summary": "Israel sets October election; Sudan's RSF masses on el-Obeid; EU sea crossings fall 37 percent." }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Fighting Enters Third Week as Both Sides Reject Off-Ramps",
+      "blocks": [
+        { "type": "para", "text": "We assess that the direct US-Iran conflict has settled into a sustained exchange with no near-term off-ramp, after US Central Command completed its 12th consecutive night of strikes and Iran's Islamic Revolutionary Guard Corps responded this morning against US installations in Kuwait and Jordan. Neither capital is signaling readiness to halt, and we judge a negotiated pause is unlikely so long as each side calculates it can absorb the other's blows. The June memorandum of understanding is, for practical purposes, dead; President Trump has publicly declared the ceasefire over." },
+        { "type": "bullets", "items": [
+          "CENTCOM reports the latest wave struck Iranian missile and drone storage, coastal surveillance, and air-defense sites, and describes a renewed maritime interdiction effort against Iranian shipping. We assess the campaign is aimed at degrading Iran's ability to threaten Gulf sea lanes rather than at regime change.",
+          "Iran's overnight salvo hit the Muwaffaq Salti air base in Jordan and facilities in Kuwait; the IRGC framed the strikes as directed at US forces, not host nations. <b>Sixteen US service members have now been killed and more than 430 wounded</b> since fighting resumed, the highest sustained US casualty toll in the region in two decades.",
+          "The George H.W. Bush and Abraham Lincoln Carrier Strike Groups are operating in the Arabian Sea, within range of the theater; open-source tracking places both groups east of the Strait of Hormuz, keeping US airpower outside the strait's most contested waters.",
+          "IAEA verification inside Iran has been suspended since late February, leaving the Community with reduced visibility into the disposition of Iran's enriched-uranium stockpile — a gap that raises the stakes of any miscalculation."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Qatari mediators have traveled to Tehran to probe for de-escalation, and Iran's leadership says it is prepared for \"all-out defense\" if Washington presses further. For Washington, the central question is whether force protection across roughly a dozen exposed bases can be sustained without a broader ground commitment. We expect the next inflection point to be either a mass-casualty strike that forces escalation or a face-saving mediation channel that lets both sides claim de-escalation without conceding terms." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Houthi Red Sea Blockade Opens a Second Chokepoint on Global Oil",
+      "blocks": [
+        { "type": "para", "text": "We assess that Yemen's Houthis have materially widened the war's economic front by declaring a maritime embargo on Saudi oil transiting the Bab el-Mandeb strait, threatening the very corridor Riyadh built to bypass a contested Strait of Hormuz. Enforcement so far is partial, but the announcement alone is reshaping tanker behavior and adds a second chokepoint to an already strained market." },
+        { "type": "bullets", "items": [
+          "Two tankers carrying roughly 2.8 million barrels of Saudi crude from Yanbu — the <i>Rodos</i> and the <i>Xin Long Yang</i> — reversed course in the Red Sea rather than transit south, a concrete sign the threat is pricing into shipping decisions.",
+          "Brent traded near $92 and WTI near $85, up more than $20 on the month; Kpler data show Hormuz crossings falling for a second straight day to a handful, down from 50-70 daily before the June understanding.",
+          "A full closure of Bab el-Mandeb would strand most of Saudi Arabia's westbound exports and cut an estimated 7 percent from global supply, forcing longer hauls around the Cape and tightening an already thin spare-capacity cushion."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the pass-through to US pump prices and headline inflation is the near-term concern, and the blockade complicates any effort to keep Gulf partners aligned while shielding their export revenue. We judge the Houthis probably lack the persistent capacity to seal the strait, but even intermittent interdiction can sustain a war-risk premium. Watch whether Riyadh requests expanded US or coalition escort in the southern Red Sea — a request that would deepen direct US involvement." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Zelensky Ousts Army Chief After Nationwide Protests, in Rare Wartime Reversal",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Zelensky's dismissal of Commander-in-Chief Oleksandr Syrskyi, announced 21 July, reflects genuine political pressure from the largest sustained protests Ukraine has seen during the war — and a notable reversal, given that Zelensky had sided with Syrskyi only days earlier. Major-General Mykhailo Drapatyi, commander of the Joint Forces, replaces him. We judge the move is aimed at defusing domestic unrest rather than at any battlefield failure attributable to the general alone." },
+        { "type": "bullets", "items": [
+          "Daily demonstrations began 16 July after Zelensky ousted the popular reformist defense minister, Mykhailo Fedorov; protesters demanded both Fedorov's reinstatement and Syrskyi's removal. Some senior officers, including a deputy Air Force commander, resigned in sympathy, and the state-aligned United24 paused publishing to join the protests.",
+          "The turmoil at the top comes as the front holds under pressure: independent estimates put Russian gains over the past 30 days at roughly 30 square kilometers, incremental but steady.",
+          "Ukraine's Unmanned Systems Forces reported striking 13 vessels of Russia's shadow fleet in the Azov and Black Seas on 21-22 July, signaling that operational tempo continues despite the leadership shakeup."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington and NATO capitals, the concern is command continuity and political cohesion in a country the US is arming and funding; a mid-war change atop the armed forces carries integration and morale risks even when driven by domestic politics. We expect Drapatyi to prioritize visible stability. A decision point comes if protests persist or spread to broader anti-government demands, which would raise questions about Kyiv's wartime unity heading into the autumn campaign." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Coast Guard Clash at Second Thomas Shoal Shadows ASEAN Talks in Manila",
+      "blocks": [
+        { "type": "para", "text": "We assess that the latest physical confrontation between Chinese and Philippine forces at Second Thomas Shoal — with Manila alleging a Chinese Coast Guard member struck a Philippine sailor with a baton and damaged a navy boat, and Beijing claiming the Filipinos assaulted its personnel first — raises the risk of an incident that could implicate the US-Philippine Mutual Defense Treaty. The clash landed as ASEAN foreign ministers convened in Manila, sharpening the summit's focus on maritime security." },
+        { "type": "bullets", "items": [
+          "ASEAN ministers issued a joint statement calling for an immediate halt to Middle East fighting and the full, safe reopening of the Strait of Hormuz, underscoring how directly the Iran war is felt by energy-importing Asian economies.",
+          "Ministers met PRC Foreign Minister Wang Yi on the code-of-conduct negotiations; officials now expect a finalized text only at the 49th ASEAN Summit in November, with key clauses still unresolved.",
+          "We judge Beijing is calibrating pressure to assert control at contested features while avoiding an incident severe enough to trigger US treaty obligations — a line that grows harder to hold as physical contact becomes routine."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the risk is escalation-by-accident: a Filipino fatality would test the treaty and US credibility across the Indo-Pacific at a moment when US attention and assets are pulled toward the Gulf. We expect continued gray-zone friction rather than open conflict, and will watch whether Manila invokes consultations under the treaty after any injury." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "France Becomes First EU State To Ban Social Media for Under-15s",
+      "blocks": [
+        { "type": "para", "text": "We assess that France's adoption of a blanket ban on social-media use by children under 15 — passed by the National Assembly 279 to 81 on 21 July, hours after Senate approval — sets a continental precedent likely to accelerate a broader European push toward mandatory age verification. It is a flagship initiative of President Macron's second term and the first such national ban in the EU." },
+        { "type": "bullets", "items": [
+          "New accounts face age checks from 1 September, with the restriction extending to existing accounts from 1 January 2027; the law also bars phones in high schools and requires platforms to deploy verification.",
+          "France's Constitutional Council must still review the text before it takes effect, and enforcement will hinge on age-verification methods that remain technically and legally contested.",
+          "We judge other EU governments — several already weighing similar measures — will watch implementation closely; Brussels is separately advancing platform-accountability rules that could converge with national bans."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the significance is regulatory: a maturing European model of hard age-gating raises compliance costs and design pressure for US platforms and feeds the parallel US debate over youth online safety. We expect legal challenges on speech and privacy grounds; the Constitutional Council's ruling is the near-term decision point." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DHS I&A, and open sources."
+    },
+    {
+      "headline": "DR Congo Ebola Outbreak Passes Grim Threshold as Toll Nears 1,000",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Bundibugyo-strain Ebola outbreak in the Democratic Republic of the Congo has become the fastest-spreading on record, with authorities reporting 2,473 cases and 999 deaths as of 20 July — a toll that has effectively crossed the 1,000-death threshold. Because no licensed vaccine or specific therapeutic exists for the Bundibugyo species, containment rests on classic public-health measures under severe strain." },
+        { "type": "bullets", "items": [
+          "The WHO declared the outbreak a Public Health Emergency of International Concern on 17 May; a linked cluster in Uganda now appears contained, with that country beginning its 42-day countdown to declaring its own outbreak over.",
+          "Candidate vaccines and therapeutics are being tested but are not yet deployable at scale, leaving case-finding, isolation, and safe burials as the primary tools against a still-rising curve.",
+          "We judge cross-border spread and health-system overload are the principal escalation risks, particularly given population movement in the affected provinces."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the outbreak is both a humanitarian and a biosecurity concern, and a test of depleted global outbreak-response capacity. We expect mounting pressure for US and multilateral surge support; the near-term indicator to watch is whether the daily case count begins to bend or continues its record pace." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, State, DHS, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>ISRAEL — Election Set, Gaza Toll Mounts.</b> With the Knesset dissolved and an election scheduled for 27 October, Israel enters a campaign season that will complicate the stalled Gaza peace framework. The UN human-rights office reported at least 57 Palestinians killed between 13 and 20 July and warned of possible violations of international humanitarian law. We assess coalition politics will constrain Israeli flexibility on Gaza through the autumn vote." },
+        { "type": "para", "text": "<b>SUDAN — RSF Masses on el-Obeid.</b> After a UN inquiry concluded this month that the Rapid Support Forces committed genocide in el-Fasher, humanitarian agencies warn the paramilitary is concentrating forces around el-Obeid, placing roughly 500,000 people — including some 105,000 already displaced — at risk of a repeat siege. We judge a major assault on el-Obeid would mark a further widening of the war into Sudan's center." },
+        { "type": "para", "text": "<b>EUROPE — Sea Crossings Fall Sharply.</b> Frontex reports irregular EU border crossings down 37 percent in the first half of 2026, with arrivals to Italy off 30 percent; the Western Mediterranean was the only major route to rise. The IOM still recorded roughly 1,400 deaths at sea over the period, a reminder that falling arrivals have not lowered the human cost per crossing." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    }
+  ]
+}
