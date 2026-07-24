@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-24",
+  "cover": false,
+  "toc": [
+    { "tag": "IRAN", "summary": "US strikes for a 13th night as Tehran rejects an Iraqi-carried ceasefire; Trump signals no letup." },
+    { "tag": "RED SEA / ENERGY", "summary": "Houthi strikes on Saudi tankers open a second front; oil tops $100 for the first time since May." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Rubio-Lavrov meet in Manila with no breakthrough as deep-strike exchanges kill at least eight." },
+    { "tag": "CHINA / ASEAN", "summary": "US and China spar over the South China Sea in Manila even as they prep a Xi visit." },
+    { "tag": "GREECE-ISRAEL", "summary": "Athens approves a ~€3.5B Israeli-led air-defense buy, deepening an eastern-Med alignment." },
+    { "tag": "SOUTHERN EUROPE", "summary": "Wildfires kill three firefighters and force mass evacuations across three NATO allies." },
+    { "tag": "NOTES", "summary": "Sudan, the Sahel, and Syria." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Rejects Iraqi-Carried Ceasefire as US Strikes Enter a Third Week",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran air campaign is hardening into a war of attrition with no near-term off-ramp. US Central Command completed a 13th consecutive night of strikes on Iranian targets late on 23 July, hours after Tehran rejected a ceasefire proposal carried to it by Iraqi Prime Minister Ali al-Zaidi and President Trump said Iran \"need[s] more of the same.\" Iranian state media reported at least four killed in the latest wave. We judge that both capitals now see more value in demonstrating resolve than in the terms currently on the table, and that the fighting is likely to continue at its current tempo absent a change in one side's calculus." },
+        { "type": "bullets", "items": [
+          "Tehran's objection is substantive, not merely tactical: Iranian officials cast the offer as a \"temporary deal\" that left control of the Strait of Hormuz unresolved, signaling the strait is now the central bargaining chip rather than a side issue.",
+          "Supreme Leader Mojtaba Khamenei's government is projecting escalation dominance. Senior military adviser Mohsen Rezaei warned that further strikes on Iranian infrastructure would draw a \"severe and escalatory\" response, language we read as deterrent signaling toward the Gulf states as much as Washington.",
+          "As of USNI's most recent Fleet and Marine Tracker (20 July), the Abraham Lincoln and George H.W. Bush carrier strike groups were operating together in the Arabian Sea, giving CENTCOM sustained strike capacity in theater.",
+          "Liaison reporting corroborates that the decision to reject the Iraqi-carried proposal was taken at the level of the Supreme Leader's office, consistent with Tehran's public messaging."
+        ] },
+        { "type": "para", "text": "For Washington, the key question is whether continued strikes degrade Iranian capability faster than they harden Iranian resolve and stress Gulf partners. We expect the next inflection point to be either a demonstrated Iranian move against Gulf energy or shipping infrastructure, or a mediator other than Baghdad — plausibly a Gulf capital or Oman — putting a Hormuz-inclusive framework on the table." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Houthi Strikes on Saudi Tankers Open a Second Front; Oil Tops $100",
+      "blocks": [
+        { "type": "para", "text": "We assess that the conflict is spreading from the Strait of Hormuz to the Red Sea, materially widening the risk to global energy flows. On 23 July, Yemen's Houthis said they struck two Saudi tankers with missiles and drones to enforce a newly declared blockade of Saudi ports — by open reporting the first time since the war began that ship attacks have moved beyond the immediate vicinity of Hormuz. Brent crude topped $100 a barrel for the first time since May. We judge the Houthi action was almost certainly coordinated with, or at minimum sanctioned by, Tehran, and marks a deliberate effort to hold a second chokepoint at risk." },
+        { "type": "bullets", "items": [
+          "With Hormuz already effectively closed — Iranian officials say it will stay shut — the Red Sea had been the principal alternative export route; putting it at risk compounds the supply shock rather than diversifying around it.",
+          "Overhead imagery shows commercial traffic through the Strait of Hormuz sharply reduced, consistent with insurers and operators pulling back from the Gulf.",
+          "We assess the price move reflects a risk premium on transit, not yet a physical shortfall; a sustained loss of Gulf or Red Sea throughput would move prices well above current levels."
+        ] },
+        { "type": "para", "text": "For the United States, the immediate exposure is economic and diplomatic more than military: higher energy prices, pressure on Gulf partners to respond, and demands to re-secure Red Sea shipping lanes. We expect Riyadh to weigh direct retaliation against Houthi launch sites, a step that would further internationalize the conflict. Watch for a Saudi decision point in the coming days." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, DIA, CIA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Rubio-Lavrov Talks in Manila Yield No Breakthrough as Deep Strikes Continue",
+      "blocks": [
+        { "type": "para", "text": "We assess that US-Russia diplomacy on Ukraine remains stalled and that neither Moscow nor Kyiv is under enough pressure to compromise. Secretary of State Rubio and Russian Foreign Minister Lavrov met for roughly half an hour on 23 July on the sidelines of the ASEAN Foreign Ministers' Meeting in Manila. Lavrov reaffirmed what he called Russia's readiness for a \"political and diplomatic settlement,\" referencing proposals from the August 2025 Trump-Putin meeting in Alaska and objecting to continued Western arms for Ukraine; Rubio said the US was \"prepared to play a constructive role.\" No breakthrough emerged, and the positions remain far apart." },
+        { "type": "bullets", "items": [
+          "The battlefield gap the diplomacy has to close is widening in the air, not on the ground. Overnight into 23 July, cross-border strikes killed at least eight — roughly four in Ukraine, four in Russia and Crimea, including a three-year-old in Voronezh — while the front line remained largely static.",
+          "Russia claimed the capture of Bilytske north of Pokrovsk; Ukraine said it repelled 42 assaults across the sector, a pattern consistent with grinding, marginal Russian gains at high cost.",
+          "We judge Moscow's core demand — that Ukraine cede territory — is unchanged, and that Lavrov's warmer register is aimed at Washington's mediation appetite rather than signaling flexibility on terms."
+        ] },
+        { "type": "para", "text": "For Washington, the meeting keeps a channel open without committing the US to a plan. We expect the near-term US focus to stay on managing escalation risk from deepening deep-strike campaigns; a genuine opening would require either a battlefield shift or a US decision to put concrete leverage behind a proposal." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "US and China Spar Over South China Sea in Manila Even as They Prep a Xi Visit",
+      "blocks": [
+        { "type": "para", "text": "We assess that US-China friction over the South China Sea is sharpening in public even as both sides protect a track toward a leaders' summit. At the ASEAN gathering in Manila this week, Secretary Rubio said ASEAN states face \"new and coercive threats\" in the South China Sea and Washington condemned \"dangerous\" Chinese conduct; ASEAN ministers voiced \"serious concern\" over both the maritime disputes and the Middle East war. In a 22 July bilateral, Rubio and Foreign Minister Wang Yi agreed — in Beijing's readout — to \"make sound preparations\" for higher-level exchanges, which we read as groundwork for a Xi Jinping visit to the United States." },
+        { "type": "bullets", "items": [
+          "The contest is increasingly gray-zone and maritime-law-driven: Beijing is normalizing near-continuous China Coast Guard patrols east of Taiwan and around contested features, a campaign Taipei frames as \"lawfare.\"",
+          "On 23 July, Taiwan's Foreign Minister Lin Chia-lung reaffirmed Taipei's South China Sea claims but said Taiwan was not actively asserting them — a calibrated posture that avoids a two-front dispute while Beijing presses.",
+          "We assess the dual-track pattern — coercion in the water, courtesy at the table — is deliberate, letting Beijing preserve summit optics while steadily changing facts on the ground."
+        ] },
+        { "type": "para", "text": "For Washington, the challenge is deterring incremental coercion without derailing the summit track it also wants. We expect Beijing to keep its maritime pressure below the threshold that would force a US or Philippine military response, and to test how much friction the pre-summit period can absorb." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Greece Approves ~€3.5B Israeli-Led Air-Defense Buy, Deepening Eastern-Med Alignment",
+      "blocks": [
+        { "type": "para", "text": "We assess that Greece's decision to build its integrated air defense around Israeli systems deepens an Athens-Jerusalem strategic alignment with real consequences for the eastern Mediterranean balance. On 23 July, Greece's government security council, KYSEA, approved procurement worth up to €3.5 billion ($4 billion) for a multilayer \"Achilles Shield\" — anti-ballistic, anti-aircraft, and counter-drone — built on Rafael and Israel Aerospace Industries radars and interceptors, alongside drones, Embraer C-390 transports, and submarines." },
+        { "type": "bullets", "items": [
+          "The architecture reportedly integrates Rafael's SPYDER, IAI's Barak MX, and David's Sling under a unified command network, with Greek industry taking roughly a quarter of the work.",
+          "We judge the buy is aimed less at any single threat than at closing Greece's layered-defense gap and locking in Israel as a long-term supplier and partner — a hedge that also tightens the Greece-Cyprus-Israel triangle.",
+          "For a NATO member to standardize on Israeli rather than US or Franco-Italian air defense is a notable commercial and political signal about where Athens sees the most capable, available systems."
+        ] },
+        { "type": "para", "text": "For Washington, the alignment is broadly favorable — it strengthens an allied air-defense backbone in a contested theater — but it also cedes ground to Israeli industry in a market US and European firms contest. We expect Ankara to read the move as further Greek-Israeli encirclement and to protest accordingly." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, and open sources."
+    },
+    {
+      "headline": "Wildfires Kill Three Firefighters, Force Mass Evacuations Across Three NATO Allies",
+      "blocks": [
+        { "type": "para", "text": "We assess that a third successive heatwave has pushed southern Europe into one of its worst fire seasons on record, straining the civil-protection capacity of three NATO allies. On 23 July, fires across France, Spain, and Italy killed three firefighters — two in France, battling a fast-moving blaze near Bordeaux, and one in Italy — and forced more than 12,000 people to evacuate; over 20,000 fled parts of southwestern France as flames consumed roughly 2,400 hectares west of Bordeaux." },
+        { "type": "bullets", "items": [
+          "European monitors report the area burned across the EU so far in 2026 already ranks as the second largest in two decades, with the summer only half over.",
+          "The strain is a security issue as much as a humanitarian one: sustained large-scale fire seasons draw down the same national-guard, aviation, and logistics assets allies rely on for defense and crisis response."
+        ] },
+        { "type": "para", "text": "We expect requests for EU civil-protection and mutual aid to rise through the season; the near-term watch item is whether shifting winds threaten major population centers or critical infrastructure." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan.</b> Fighting is escalating around El Obeid in North Kordofan, with the UN's humanitarian chief citing Rapid Support Forces drone attacks on civilians and infrastructure in a 23 July call with the RSF leadership. Separately, Prime Minister Kamil Idris and the African Union's Sudan envoy met in Khartoum to coordinate ceasefire efforts. We assess Kordofan is becoming the war's decisive theater; a fall of El Obeid would open the RSF's path toward the army's core." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Sahel.</b> The Azawad Liberation Front on 23 July ambushed a convoy of Malian troops and Russian Africa Corps fighters near Anéfis in Mali's Kidal region, with security sources reporting Niger provided air support to Bamako. We judge the episode underscores both the durability of the northern insurgency and the operational entanglement of Russian forces in the Sahel juntas' campaigns — a dynamic that gives Moscow influence but also exposure." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Syria.</b> Israeli forces entered the village of al-Samdaniyah al-Sharqiyah in Quneitra province on 23 July, set up a temporary checkpoint, searched residents, and fired a mortar and smoke round before withdrawing; no casualties were reported. We read the incursion as part of Israel's continued freedom-of-action posture in southern Syria rather than a signal of wider escalation." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
