@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-25",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US completes 13th night of strikes; Tehran hits Gulf bases as Trump weighs a wider offensive." },
+    { "tag": "IRAN-NUCLEAR", "summary": "IC assesses Mojtaba Khamenei is more inclined than his father to build a deliverable warhead." },
+    { "tag": "ENERGY", "summary": "Brent tops $100 as Houthi blockade threatens Saudi crude out of the Red Sea." },
+    { "tag": "UKRAINE", "summary": "Ballistic strike near Kyiv kills 10 ahead of a Zelenskyy-Trump meeting Tuesday." },
+    { "tag": "BANGLADESH", "summary": "President Shahabuddin resigns, stripping ousted premier Hasina of her last ally in high office." },
+    { "tag": "SYRIA", "summary": "Guterres makes the first UN chief visit since before the civil war, backing al-Sharaa's transition." },
+    { "tag": "SOUTH CHINA SEA", "summary": "Chinese coast guard water-cannons Philippine ships at Scarborough for a second straight day." },
+    { "tag": "NOTES", "summary": "Assam floods; new US forced-labor tariffs; a second drone downed over Romania." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran War Widens as US Presses Air Campaign and Tehran Strikes Gulf Bases",
+      "blocks": [
+        { "type": "para", "text": "We assess the US-Iran conflict is entering a more dangerous phase. US Central Command completed its 13th consecutive night of strikes on Iran overnight, hitting targets around the Khuzestan oil hub, with Iranian authorities reporting four killed near Ahvaz and explosions on Qeshm Island opposite the Strait of Hormuz. Tehran retaliated this morning with missiles against US military facilities in Bahrain, Kuwait, and Jordan — its broadest strike yet on US basing in the Gulf. We judge the exchange has now settled into a sustained tit-for-tat that both sides are struggling to cap short of a general war." },
+        { "type": "bullets", "items": [
+          "President Trump told <i>Axios</i> he is weighing a resumption of major combat operations — an offensive he described as larger than the earlier \"Operation Epic Fury\" — though we understand no new execute orders have been issued and he continued to leave a diplomatic door open, saying Iran is \"not ready yet\" but that \"we can negotiate.\"",
+          "Tehran rejected a ceasefire proposal carried by Iraqi Prime Minister Ali al-Zaidi; Iran's lead negotiator framed the impasse as one of \"America's outlook,\" not messaging — signaling Iran's new hardline leadership sees little value in talks on current terms.",
+          "The Pentagon revised its official toll of US service members killed from 18 to 14, attributing four earlier deaths to the period covered by the April ceasefire declaration.",
+          "For Washington, the central risk is Gulf spillover: strikes on bases in three partner states raise the odds of casualties that would generate near-irresistible pressure for a larger US response. NSA SIGINT corroborates that this morning's launches were directed from Iranian command elements rather than proxy forces."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On Capitol Hill, the war's authorization is now openly contested. The House voted 214-208 to direct the President to end hostilities with Iran or obtain explicit congressional authorization to continue them, while Senate Republicans blocked a companion measure." },
+        { "type": "bullets", "items": [
+          "The vote is non-binding without Senate action, but it signals eroding bipartisan patience and would complicate a decision to escalate. We expect the war-powers question to sharpen if US casualties rise.",
+          "What to watch: whether Trump orders the larger offensive, and whether Iran's Gulf strikes draw blood at a US facility — either would be the likely trigger for the next rung of escalation."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "US Intelligence Judges Iran's New Supreme Leader More Determined To Build a Bomb",
+      "blocks": [
+        { "type": "para", "text": "We assess Iran's proliferation risk has risen under Supreme Leader Mojtaba Khamenei, who succeeded his assassinated father in March. Press reporting on a US intelligence assessment indicates the IC now judges the younger Khamenei and the hardline circle around him are more inclined than his predecessor to pursue a nuclear weapon — and specifically a miniaturized warhead deliverable on a long-range missile, rather than a crude device." },
+        { "type": "bullets", "items": [
+          "The shift is generational and doctrinal: the elder Khamenei's long-standing fatwa against nuclear weapons was a real constraint on Iranian rhetoric; his son has made no such religious commitment, and Iranian officials and media have grown markedly more open in calling for a deterrent since the strikes began.",
+          "We caution that intent is not capability. Repeated US and Israeli strikes have degraded known enrichment and weaponization infrastructure, and we have no confirmation of a formal weaponization decision — the assessment describes trajectory and disposition, not an imminent device.",
+          "For Washington, this hardens the strategic dilemma at the core of the war: military pressure aimed at preventing a bomb may be strengthening the leadership's determination to acquire one. We judge a covert, dispersed enrichment effort is the most likely path Tehran would choose."
+        ] },
+        { "type": "para", "text": "What to watch: any IAEA finding of undeclared material or activity, and any move by Tehran to formally suspend cooperation or expel inspectors, which would be an early indicator of a weaponization sprint." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Brent Tops $100 as Houthi Red Sea Blockade Threatens Saudi Crude",
+      "blocks": [
+        { "type": "para", "text": "We assess the oil market has repriced a real war premium into Gulf crude. Brent settled above $100 a barrel — its first close over that mark since May and up roughly 40 percent this month — after Yemen's Houthis attacked two Saudi tankers, the <i>Encelia</i> and <i>Layla</i>, and declared a naval blockade on Saudi oil shipments through the Bab el-Mandeb Strait. The Houthis have effectively opened a maritime front in the Iran war." },
+        { "type": "bullets", "items": [
+          "The threat is to flow, not just sentiment: shippers are watching which vessels the Houthis let pass, and a sustained chokehold on Saudi exports through the Red Sea would keep prices elevated and strain the one Gulf producer with meaningful spare capacity.",
+          "A Saudi air-defense battery intercepted two ballistic missiles aimed at oil facilities at Yanbu on the Red Sea coast, indicating the campaign is reaching Saudi infrastructure on land as well as at sea.",
+          "President Trump vowed \"major military punishment\" against the Houthis. We assess renewed US strikes on Yemen are likely, but past campaigns have not durably suppressed the group's anti-shipping capability."
+        ] },
+        { "type": "para", "text": "For Washington, the economic exposure is direct: sustained triple-digit oil would feed US pump prices and inflation into the fall. We expect pressure on Gulf partners and on the strategic reserve if prices hold above $100." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Russian Strike Near Kyiv Kills 10 Days Before a Zelenskyy-Trump Meeting",
+      "blocks": [
+        { "type": "para", "text": "We assess Moscow is intensifying deep strikes even as diplomacy over Ukraine's air defenses accelerates. A Russian ballistic missile struck a site near Kyiv hosting a defense-industry event, killing at least 10 and wounding close to 100 — one day after President Zelenskyy met a Raytheon delegation in Kyiv about co-producing Patriot interceptors. Ukrainian air defenses knocked down most of a mixed drone-and-missile salvo overnight, but the ballistic threat continues to leak through." },
+        { "type": "bullets", "items": [
+          "Zelenskyy is due to meet President Trump in Washington on Tuesday, 28 July, seeking expanded US support — above all air defense — after Trump agreed in principle to license Ukrainian production of Patriot systems.",
+          "Ukraine's SBU struck back overnight, hitting Russian oil refineries, pumping stations, and a radar site in Russia and occupied Crimea — part of a sustained campaign against Russian energy and early-warning nodes.",
+          "Zelenskyy warned that Russia is preparing a large missile barrage within 48 hours and a \"significant\" mobilization wave in the fall, pointing to a Russian intent to press through the winter rather than settle."
+        ] },
+        { "type": "para", "text": "For Washington, Tuesday's meeting is the near-term decision point on how far to go on air defense and co-production. We judge the strike timing is meant to shape that conversation by underscoring Ukraine's interceptor shortfall." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Bangladesh President Resigns, Leaving Ousted Premier Hasina Isolated",
+      "blocks": [
+        { "type": "para", "text": "We assess the resignation of President Mohammed Shahabuddin removes the last senior official aligned with ousted Prime Minister Sheikh Hasina and reshapes the run-up to Bangladesh's political transition. Shahabuddin, 76, stepped down citing a medical condition, submitting his resignation to the parliament speaker nearly two years before his term was due to end and amid mounting opposition pressure for his removal." },
+        { "type": "bullets", "items": [
+          "The presidency is largely ceremonial, but the exit is symbolically significant: it strips Hasina's camp of an ally in high office months ahead of her stated intention to return to Bangladeshi politics.",
+          "We judge the move eases friction between the presidency and the interim governing structure that has run the country since Hasina's fall, and could smooth the path to elections — though a contested succession to the post is a near-term risk."
+        ] },
+        { "type": "para", "text": "For Washington, Bangladesh matters as a 170-million-person state astride Bay of Bengal shipping lanes and a locus of India-China competition. We expect the US to watch whether the transition stays on an electoral track." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Guterres Makes First UN Chief Visit to Syria Since Before the Civil War",
+      "blocks": [
+        { "type": "para", "text": "We assess the UN is moving to anchor Syria's post-Assad transition. Secretary-General Antonio Guterres arrived in Damascus for a three-day visit — the first by a UN Secretary-General since Ban Ki-moon in 2009, before the 2011 war — pledging that \"the UN stands with Syria at this pivotal moment\" and appealing for international support for the transitional government." },
+        { "type": "bullets", "items": [
+          "Guterres is scheduled to meet President Ahmed al-Sharaa and senior officials and to address Syria's newly seated transitional parliament, which held its first session this month — a signal of growing international acceptance of the post-Assad order.",
+          "We judge the visit is intended to marshal reconstruction and humanitarian funding and to press the transitional authorities on inclusion, including women's participation."
+        ] },
+        { "type": "para", "text": "For Washington, the visit advances the normalization track the US has cautiously supported since Assad's December 2024 fall. We expect continued US calibration of sanctions relief against the new government's conduct on minorities and counterterrorism." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "China Water-Cannons Philippine Ships at Scarborough for a Second Day",
+      "blocks": [
+        { "type": "para", "text": "We assess Beijing is again ratcheting gray-zone pressure at Scarborough Shoal. The Philippine Coast Guard reported that Chinese vessels fired water cannon at two of its ships and executed dangerous maneuvers for a second consecutive day — the third such faceoff of the week — as the Philippine ships attempted to deliver fuel and supplies to Filipino fishermen. Manila counted roughly a dozen China Coast Guard ships and several maritime-militia vessels on scene." },
+        { "type": "bullets", "items": [
+          "One Chinese ship closed to within about seven meters of a Philippine vessel before hitting it with water cannon; Beijing rejected the accounts, claiming the Philippine ships intruded into its waters and that its coast guard acted \"with restraint.\"",
+          "We judge the tempo reflects a deliberate Chinese effort to normalize control around the shoal through attrition rather than a single confrontation designed to provoke a clash."
+        ] },
+        { "type": "para", "text": "For Washington, the exposure runs through the US-Philippine Mutual Defense Treaty, which covers armed attacks on Philippine public vessels. We assess China is calibrating to stay below that threshold while steadily raising costs on Manila." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>South Asia — Assam floods:</b> Monsoon flooding along the swollen Brahmaputra in India's Assam state has killed at least 50 people and displaced some 700,000, straining relief capacity in the northeast; further heavy rain is forecast.",
+          "<b>Trade — forced-labor tariffs:</b> New US tariffs of 10 to 12.5 percent took effect on goods from about 60 economies — covering the bulk of US imports — imposed under Section 301 over alleged failure to police forced labor. Partners from Canberra to Brasilia rejected the rationale but signaled they will keep negotiating rather than retaliate; the measures face likely court challenge.",
+          "<b>NATO — Romania:</b> Romania scrambled aircraft and downed a second drone in as many days that had breached its airspace near the Ukrainian border, underscoring continued spillover risk from Russian strikes onto Alliance territory."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury OIA, DIA, and open sources."
+    }
+  ]
+}
