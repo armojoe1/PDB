@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-27",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US strike pause holds a second day as Hormuz contest and Oman-brokered talks resume." },
+    { "tag": "GAZA", "summary": "Israeli security cabinet clears an international stabilization force to enter Gaza." },
+    { "tag": "WEST BANK", "summary": "Israel readies a major operation after Nablus-area clashes and surging settler violence." },
+    { "tag": "GERMANY", "summary": "Islamist vehicle-and-knife attack on Berlin Pride kills one; suspect shot dead." },
+    { "tag": "UKRAINE", "summary": "Kyiv strikes Crimea drone-relay and energy nodes as Russian barrages persist." },
+    { "tag": "SYRIA", "summary": "Sharaa signals a security deal with Israel as incursions and sanctions debate continue." },
+    { "tag": "NOTES", "summary": "Gaza ceasefire strain, Brazil-Argentina rupture, and oil's slide on de-escalation." }
+  ],
+  "articles": [
+    {
+      "headline": "US Pause in Iran Strikes Holds a Second Day as Hormuz Contest and Talks Resume",
+      "blocks": [
+        { "type": "para", "text": "We assess that the halt in US strikes on Iran, now holding into a second day, is a deliberate pause to test diplomacy rather than a settled ceasefire, and that the risk of renewed strikes remains elevated. US Central Command quietly stopped its nightly attacks late Friday without a public announcement, ending a run of roughly 13 consecutive nights; over the weekend Tehran signaled it had suspended its own retaliatory strikes and opened a channel through Oman focused on the Strait of Hormuz. We judge both sides are probing for terms while preserving the option to escalate." },
+        { "type": "bullets", "items": [
+          "US officials frame the pause as leverage, not concession. The US envoy to the UN said the President is \"giving the talks some space\" while keeping \"all options on the table\" and the force \"locked and loaded\" — language consistent with a coercive-diplomacy posture rather than a decision to stop.",
+          "Press reporting indicates CENTCOM's commander recommended pausing the campaign around the Strait before any final push, with roughly 20 percent of the original target set still outstanding. We assess Washington retains the capacity to resume on short notice.",
+          "The contest for the Strait of Hormuz remains the core unresolved issue. Iranian harassment of commercial shipping earlier in July triggered the latest US strikes; a durable de-escalation almost certainly hinges on securing freedom of navigation, not just a strike halt.",
+          "Intercepted communications corroborate that Iran's leadership ordered its forces to hold fire pending the Oman channel — a near-term restraint we judge is tactical and reversible."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Israeli Prime Minister Netanyahu departed for Washington this morning and is scheduled to meet the President at the White House tomorrow, with Iran, the Gulf maritime picture, and post-conflict regional security topping the agenda; he is also expected to attend the funeral of the late Senator Lindsey Graham. For Washington, the key question is whether the pause can be converted into terms on Hormuz and Iran's nuclear program before domestic pressure on either capital forces a return to strikes. We expect the next 72 hours — and the outcome of the Netanyahu meeting — to shape whether the lull holds." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Israeli Cabinet Clears International Stabilization Force To Enter Gaza",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Israeli security cabinet's Sunday approval of a legal framework admitting an International Stabilization Force (ISF) into Gaza is a meaningful procedural step toward the US-backed ceasefire architecture, but that implementation remains contingent on the unresolved question of Hamas's disarmament. The vote clears the force to operate in areas outside Israeli control, secure Gaza's borders, and train local police." },
+        { "type": "bullets", "items": [
+          "The initial force is small — reported at roughly 200 personnel drawn from friendly states including Morocco, Indonesia, and Uganda — and is tied to the \"Board of Peace\" mechanism the US established to oversee the ceasefire.",
+          "Under the plan's sequencing, Israeli forces are to draw down as the ISF establishes control; we assess the pace of that handover will be the near-term flashpoint, given Israeli security caveats about zones adjacent to its forces.",
+          "Hamas's continued refusal to surrender its weapons remains the central obstacle. We judge that without movement on disarmament, the ISF's mandate will stay limited and the broader reconstruction track will lag."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the approval is a deliverable it can point to, and it hands the President's envoys a concrete milestone ahead of tomorrow's leaders' meeting. What to watch: which capitals formally commit troops, the rules of engagement agreed for the force, and whether any Israeli drawdown actually begins on the ground." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Israel Readies a Major West Bank Operation After Nablus-Area Clashes",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel is preparing an expanded military operation in the northern West Bank, raising the risk of a sustained escalation on a second front even as the Gaza ceasefire structure advances. Prime Minister Netanyahu said the military is ready to widen operations against what he called \"terror nests,\" following Friday's deadly firefight near Tal, southwest of Nablus, in which two Israelis and four Palestinians were killed." },
+        { "type": "bullets", "items": [
+          "The military has reinforced the West Bank with additional companies, stormed multiple towns and villages, and detained hundreds of Palestinians over the weekend; press reporting indicates troops moved to encircle Nablus.",
+          "The current cycle is being driven in part by a surge in settler violence — arson and raids on Palestinian localities — which we assess is complicating Israel's own security messaging and drawing international criticism.",
+          "We judge a broad operation would strain Palestinian Authority stability in the northern West Bank and could feed back into the Gaza track by hardening positions on both sides."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, a large West Bank operation launched days before, or during, the Netanyahu-Trump meeting would complicate the administration's effort to keep the Gaza ceasefire on track and manage Arab partners now weighing troop contributions to the stabilization force. Watch for the scale and duration of the operation and whether Washington signals restraint publicly or privately." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Islamist Vehicle-and-Knife Attack on Berlin Pride Kills One; Suspect Killed",
+      "blocks": [
+        { "type": "para", "text": "We assess that Saturday night's attack on Berlin's Christopher Street Day (Pride) celebration was an Islamist-inspired assault on a soft target, consistent with the low-cost vehicle-ramming and edged-weapon tactics that ISIS-aligned propaganda has long promoted. A van was driven into the crowd near the Tiergarten before the attacker continued the assault with a machete, killing one woman and injuring roughly two dozen others; German authorities are treating it as a terrorist act." },
+        { "type": "bullets", "items": [
+          "German police shot and killed the suspect — identified as a 21-year-old Lebanese-German — on Sunday during an attempted arrest after a large manhunt.",
+          "Liaison reporting corroborates that the suspect had previously served a prison term in connection with attempts to travel and join ISIS and had circulated extremist propaganda online — a known-wolf profile that will sharpen scrutiny of German monitoring and early-release decisions.",
+          "We assess no indication at this point of a directed plot or wider cell; the pattern points to an inspired, likely self-initiated attacker."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For US homeland security, the case is a reminder that crowded LGBTQ, festival, and civic events remain attractive soft targets for inspired attackers using vehicles and blades, and that individuals with prior terrorism convictions returning to the community remain a persistent watch item. We expect European services to tighten event security through the summer season." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, FBI, DHS, and open sources."
+    },
+    {
+      "headline": "Ukraine Strikes Crimea Drone-Relay and Energy Nodes as Russian Barrages Persist",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine is sustaining a deep-strike campaign against the infrastructure that enables Russia's long-range drone operations, even as it absorbs continued Russian missile and drone barrages amid a shortage of air-defense interceptors. Overnight into 26 July, Ukrainian forces struck a Chornomornaftogaz facility, relay equipment used to control Russian strike drones, and a logistics bridge in occupied Crimea and Donetsk; Ukrainian drones also struck Belgorod and other southern Russian areas into 27 July." },
+        { "type": "bullets", "items": [
+          "Russia launched roughly seven ballistic missiles and more than 130 drones at Ukraine overnight into 26 July, with strikes on Kyiv and other regions reported to have killed at least two people.",
+          "Ukraine's targeting of drone-relay nodes and Black Sea energy infrastructure reflects a strategy of degrading the kill chain behind Russia's nightly strikes rather than intercepting each munition — a rational response to the Patriot interceptor shortfall.",
+          "We judge neither side's strike tempo is decisive on its own; the near-term Ukrainian vulnerability is ballistic-missile defense, where interceptor stocks remain the binding constraint."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the interceptor picture is the actionable variable: Ukrainian resilience against Russian ballistic strikes this summer depends heavily on the flow of Patriot and comparable munitions. Watch for further Ukrainian strikes on Crimean logistics and any Russian move to concentrate barrages on air-defense sites." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Sharaa Signals Security Deal With Israel as Incursions and Sanctions Debate Continue",
+      "blocks": [
+        { "type": "para", "text": "We assess that Syrian President Ahmed al-Sharaa's public statement that Damascus is seeking a multi-party security agreement with Israel — while insisting it would not concede Syria's claim to the Golan Heights — signals a cautious opening in the post-Assad realignment, but one constrained by continued Israeli military activity inside Syria and unresolved sanctions. Sharaa made the comments as UN Secretary-General Guterres concluded a two-day visit urging the removal of all sanctions imposed under the former regime." },
+        { "type": "bullets", "items": [
+          "Sharaa argued that lifting economic sanctions alone would be insufficient unless Syria is also removed from the US state-sponsors-of-terrorism list — framing sanctions relief as the price of durable stabilization.",
+          "Israeli forces reportedly conducted fresh incursions into southwestern Syria, advancing toward villages and establishing a checkpoint near Al-Ardah, drawing UN condemnation of violations of Syrian sovereignty — a friction point that could undercut any security track.",
+          "We assess a formal Syria-Israel security understanding remains a realistic possibility but is not imminent; the near-term test is whether Israeli incursions ease as talks are floated."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, a stabilizing Syria that edges toward accommodation with Israel would advance the broader regional realignment Washington is encouraging, but the sanctions-and-terror-list levers give the administration significant say over the pace. Watch for any US signal on delisting and whether Israeli operations inside Syria continue." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, NGA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Gaza ceasefire strain.</b> An Israeli airstrike on a vehicle in Deir al-Balah on Sunday killed two Hamas figures, including a senior officer described as head of the group's internal-security service in central Gaza. We assess targeted strikes against Hamas security personnel, even during the ceasefire framework, will test the durability of the arrangement just as the stabilization force is being cleared to enter." },
+        { "type": "para", "text": "<b>Brazil-Argentina rupture.</b> Brazil recalled its ambassador to Buenos Aires for consultations and summoned Argentina's envoy after President Milei, speaking at a Bolsonaro-family political event in Sao Paulo, insulted President Lula and a senior Brazilian judge. We judge the spat is likely to deepen the ideological split between South America's two largest economies and complicate Mercosur coordination, though a full rupture is unlikely near-term." },
+        { "type": "para", "text": "<b>Oil eases on de-escalation.</b> Crude fell sharply Monday — Brent sliding toward $90 and US WTI toward the mid-$80s, down roughly 5 to 6 percent — as the US-Iran strike pause held over the weekend and markets priced out near-term supply disruption through the Strait of Hormuz. We assess prices will stay headline-sensitive: a return to strikes or renewed tanker harassment would quickly reverse the drop." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury OIA, CIA, and open sources."
+    }
+  ]
+}
