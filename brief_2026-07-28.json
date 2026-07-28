@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-28",
+  "cover": true,
+  "toc": [
+    { "tag": "WHITE HOUSE", "summary": "Trump takes the Ukraine and Iran endgames in back-to-back Oval Office talks." },
+    { "tag": "US-IRAN", "summary": "Fighting paused; Hormuz shipping talks open in Oman as negotiating tracks stay tangled." },
+    { "tag": "UKRAINE-IRAN", "summary": "Kyiv's long-range war reaches the Caspian, hitting the Iran-to-Russia arms route." },
+    { "tag": "DPRK-RUSSIA", "summary": "Zelensky says Moscow is preparing to take in 30,000 more North Korean troops." },
+    { "tag": "CHINA-TAIWAN", "summary": "Taipei protests Chinese 'law-enforcement' operations to its east; Manila-Beijing friction persists." },
+    { "tag": "AI-CHINA", "summary": "Beijing-built model becomes the largest open-weight system ever released, pressuring the US lead." },
+    { "tag": "NOTES", "summary": "Oil retreats; Romania downs a third drone; a senator lies in state as foreign leaders gather." }
+  ],
+  "articles": [
+    {
+      "headline": "Trump To Press Ukraine and Iran Endgames in Back-to-Back White House Talks",
+      "blocks": [
+        { "type": "para", "text": "We assess that today's back-to-back Oval Office meetings—President Zelensky first, Prime Minister Netanyahu after—are the most consequential foreign-policy day on the President's calendar this month, bundling the two active wars the United States is most exposed to into a single afternoon. Both leaders arrive seeking firmer US commitments at a moment each conflict has reached an inflection point: Ukraine as Washington recalibrates how it arms Kyiv, and the Iran war as a fragile pause in strikes holds. We judge the meetings are unlikely to produce a finished deal on either file today, but they will set the terms Washington negotiates from over the coming weeks." },
+        { "type": "bullets", "items": [
+          "On Ukraine, the shift is structural: the administration has largely halted direct US arms transfers in favor of the PURL arrangement, under which European states buy US weapons and pass them to Kyiv, while Washington continues intelligence support and Starlink access. Zelensky's ask is continuity—support sufficient to reach what he calls “a dignified peace.”",
+          "With Netanyahu, Iran is expected to dominate, alongside implementation of the US-backed Israel–Lebanon understanding, stalled Gaza reconstruction, and prospects for widening the Abraham Accords. The Prime Minister framed his goal narrowly as safeguarding Israeli security.",
+          "A friction point to watch: the President has publicly played down Zelensky's claim that Russia is feeding Iran satellite imagery of US and Gulf installations—an assertion that, if borne out, would directly implicate a Russia–Iran intelligence channel against US forces in the region."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the key question is leverage: how much of Kyiv's battlefield sustainment the US will underwrite indirectly, and whether the Iran pause can be converted into terms before it collapses. We expect the President to keep both leaders inside a US-managed process rather than commit to specifics today. A decision point on Ukraine looms separately on Capitol Hill, where the administration has signaled it will not disburse some $400 million in authorized assistance until later in the decade—a posture lawmakers on both sides are pressing to revisit during Zelensky's visit." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "US–Iran Fighting Pauses as Hormuz Talks Open in Muscat, but Tracks Stay Tangled",
+      "blocks": [
+        { "type": "para", "text": "We assess the halt in US strikes on Iran and Tehran's suspension of retaliatory operations have produced a real but brittle lull rather than the beginning of a settlement. The President has said the United States stopped its strikes to give diplomacy “space” and that talks are underway with hopes for “good things”—while Iran's foreign ministry insisted this week it has “no negotiations with the United States at present” and warned it will not let Washington dictate “the timing of war and peace.” We judge both statements can be true at once: indirect, mediated contact is likely proceeding even as Tehran denies a formal bilateral track." },
+        { "type": "bullets", "items": [
+          "The more concrete diplomacy is on shipping: Iranian and Omani negotiators met over the weekend in Muscat to restore navigation through the Strait of Hormuz, the single chokepoint whose closure would matter most to the global economy.",
+          "The President has warned the United States will resume strikes if a new ceasefire framework is not reached, keeping the military option explicitly on the table as leverage over the diplomatic one.",
+          "Cumulative US costs since operations began in February stand at 18 troops killed and more than 600 wounded by open-source tallies—figures that raise the domestic stakes of any decision to resume large-scale strikes."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the pause is an opportunity and a trap: it lowers the risk of a Hormuz closure and a wider war, but a collapse back into strikes after a public de-escalation would be costlier politically than continuous pressure. We expect the near-term signal to come from the Muscat channel—progress on safe passage through Hormuz would indicate Tehran wants the lull to hold; a demonstrative Iranian move in the Gulf would indicate it does not." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Kyiv Extends Its Long-Range War to the Caspian, Striking the Iran–Russia Arms Route",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine's strikes on shipping in the Caspian Sea mark a deliberate widening of its long-range campaign against Russian military logistics—and the clearest point yet at which the Ukraine and Iran wars are converging. Kyiv says its drones hit vessels carrying military cargo out of Iran toward a Russian port and a Russian missile boat; Zelensky called the results “very strong.” Tehran acknowledged an explosion aboard a Caspian vessel that killed one crew member, called the attack a “hostile and criminal act,” and warned it “cannot go unanswered.”" },
+        { "type": "bullets", "items": [
+          "The Caspian is a semi-enclosed sea bordered by Russia, Iran, and three former Soviet states; reaching it required Ukrainian strike assets to range far beyond the fronts of the past three years, signaling both capability and intent to interdict the Iran-to-Russia supply link at its source.",
+          "Overhead imagery is consistent with the targeted vessels having departed an Iranian Caspian port bound for Russia, matching the arms-transfer pattern Kyiv describes.",
+          "Zelensky separately alleged Moscow is sharing satellite imagery of US and Gulf targets with Tehran—an assertion Washington has publicly discounted but which, if confirmed, would define a two-way Russia–Iran military relationship rather than a one-way arms flow."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the convergence complicates the Iran pause it is trying to hold: a Ukrainian strike on Iranian-linked shipping, and any Iranian reprisal, could reintroduce escalation from a direction the US does not control. We expect Kyiv to continue treating the Iran–Russia logistics chain as a legitimate long-range target, and Tehran to look for a face-saving response that does not derail its own de-escalation with the United States." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Zelensky Says Russia Is Preparing To Receive 30,000 More North Korean Troops",
+      "blocks": [
+        { "type": "para", "text": "We assess Zelensky's claim that Russia is preparing to take in roughly 30,000 additional North Korean troops—more than double the number Pyongyang has already committed—is credible as a statement of intent but not yet corroborated as an imminent deployment. Zelensky said preparations have been underway in Russia's Voronezh region for weeks and that Pyongyang also plans to send additional missile launchers. We judge such a surge, if it materialized, would meaningfully ease Russia's manpower constraints and deepen a Moscow–Pyongyang military bloc that is now a standing feature of the war." },
+        { "type": "bullets", "items": [
+          "Prior estimates put roughly 11,000–14,000 North Korean troops in Russia, concentrated near Kursk; a further 30,000 would represent a step-change in scale and in Pyongyang's exposure.",
+          "Neither Moscow nor Pyongyang has responded, and South Korean officials say they have not detected troop movements consistent with an imminent deployment of that size—warranting caution on timing.",
+          "The strategic cost accrues regardless of the exact number: each rotation gives North Korean forces combat experience against a Western-equipped adversary and hands Pyongyang leverage over Moscow on technology transfers in return."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington and Seoul, the concern is less the immediate battlefield effect than what Pyongyang extracts in exchange—help with missiles, submarines, or reentry vehicles that would sharpen the DPRK threat to US forces and allies in the Pacific. We expect allied collection to focus on the Voronezh staging claim; confirmed large-scale movement there would elevate this from rhetoric to a genuine shift in the war's manpower balance." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Taipei Protests Chinese 'Law-Enforcement' Operations to Its East as Manila Friction Persists",
+      "blocks": [
+        { "type": "para", "text": "We assess Beijing's recent activity in the waters east of Taiwan—operations China casts as routine “law enforcement”—is a calibrated pressure move designed to normalize a Chinese presence on Taiwan's Pacific-facing flank, not a prelude to imminent action. Taiwan's top China-affairs body said this week it conveyed concern to Beijing through third countries and private channels over the operations. We judge the eastern approaches matter disproportionately: they are Taiwan's least-defended axis and its lifeline to the open Pacific and to US reinforcement." },
+        { "type": "bullets", "items": [
+          "In the South China Sea, China said it ran a “routine” naval and air patrol while accusing the Philippines of organizing joint patrols with outside powers that undermine regional stability.",
+          "That charge followed a US–Japan–Philippines maritime exercise on 21–25 July involving warships, coast guard vessels, and aircraft to sharpen interoperability—exactly the trilateral coordination Beijing objects to.",
+          "We see no indication of the logistics or mobilization buildup that would precede a major operation against Taiwan; the pattern is coercive signaling and legal-warfare positioning."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the value is in reading the trend line: each “law-enforcement” assertion east of Taiwan and each protest of allied patrols is an attempt to shift the baseline of what is treated as normal. We expect Beijing to keep testing the eastern approaches and to lean on the “law-enforcement” framing to blunt allied pushback, making it worth watching whether Taipei's private protests are matched by any change in Chinese operating patterns." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "China Releases the Largest Open-Weight AI Model Yet, Pressuring the US Lead",
+      "blocks": [
+        { "type": "para", "text": "We assess the free public release of a 2.8-trillion-parameter model by Beijing-based Moonshot AI—now the largest open-weight system ever published—is a strategic development in the AI competition, not merely a product launch. Built under US chip-export restrictions and priced below comparable Western systems, the release is best read as an effort to make Chinese models the default global infrastructure by giving the weights away. We judge it does not represent a frontier-capability breakthrough or any sign of self-improving AI, but it does erode a US advantage the export-control regime was designed to protect." },
+        { "type": "bullets", "items": [
+          "Chinese open-weight models have climbed from a marginal share of global usage in late 2024 to a majority of traffic among leading open models in 2026; this release accelerates that shift.",
+          "Open weights cut both ways for security: they let governments and firms self-host rather than route data through a Chinese API, but they also put a capable system permanently beyond any export control or recall.",
+          "That a model this large was trained under chip restrictions suggests the controls are slowing, not stopping, China's frontier efforts—and is fueling Beijing's own moves toward tighter export controls on its AI models and chips."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the release sharpens a policy tension: the same openness that lets US institutions avoid Chinese cloud dependence also spreads Chinese systems into global supply chains and research. We expect the debate over whether to counter with US open-weight releases, tighten controls further, or both to intensify; the near-term signal is how fast the model is adopted for self-hosting outside China." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, the Office of Science and Technology, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Oil retreats as war-risk premium bleeds off.</b> Brent fell to roughly the high-$80s early this week—trading near $90 after dipping below $88—as the US–Iran pause and the Muscat shipping talks eased fears of a Hormuz disruption. Supply also loosened as crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key Kazakh export route recently hit by Ukrainian drones. The IEA still projects a record global glut for the year, capping prices even as the Gulf stays tense." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Romania downs a third drone in three days.</b> Romanian F-16s scrambled from Fetești and shot down a suspected Russian drone over the Black Sea near the Ukrainian border on 26 July—the third such incursion in three days into what President Nicușor Dan called “intolerable” violations of NATO and EU airspace. At least one of the recent intrusions was confirmed as a Russian Shahed. We assess the pattern as spillover from Russian strikes on Ukraine's Danube ports rather than deliberate targeting of Romania, but the cumulative breaches are testing NATO's eastern-flank air-defense posture." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>A senator lies in state as foreign leaders gather.</b> The late Senator Lindsey Graham, a leading congressional voice on Ukraine and Iran who died on 13 July, is being honored in Washington today ahead of services in South Carolina. The timing overlaps with the Zelensky and Netanyahu visits, and both leaders are expected in the capital as the Senate marks the passing of one of the chamber's most influential foreign-policy hawks—an absence Kyiv in particular will feel on Capitol Hill." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury OIA, DIA, and open sources."
+    }
+  ]
+}
