@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-29",
+  "cover": false,
+  "articles": [
+    {
+      "headline": "Iran's Missile Salvo on US Forces Fails; US and Saudi Answer in Iraq",
+      "blocks": [
+        { "type": "para", "text": "We assess Iran's attempted ballistic-missile strike on US forces last evening was meant to restore deterrence during the pause in direct US-Iran strikes; its failure handed Washington and Riyadh the initiative. IRGC forces fired multiple missiles about 1745 ET on 28 July at a US airbase and CENTCOM node in Jordan; US defenses destroyed all, with no US casualties. Within hours, US and Saudi aircraft struck IRGC-linked militia sites in eastern Iraq. We judge the pause is badly strained but not dead." },
+        { "type": "bullets", "items": [
+          "CENTCOM says the strikes answered 30-plus IRGC-directed drone attacks over 72 hours; Iraq's PMF report eight killed. It is Riyadh's first claimed strike in Iraq this war.",
+          "Saudi defenses earlier downed drones aimed at Eastern Province oil sites; Brent rose about 3 percent to near $87.",
+          "The salvo came hours after President Trump hosted PM Netanyahu at the White House. Trump still touts a 'good chance' in Hormuz-focused talks; Tehran denies direct negotiations.",
+          "We see a realistic possibility of further proxy attacks in 24-72 hours; US casualties would likely collapse the pause."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>Also overnight:</b> Ukraine drones hit Russian Caspian shipping carrying Iranian military cargo, killing one sailor Tehran says it will avenge. Britain's new PM Andy Burnham (in office since 20 July) hosted Zelensky at Portsmouth, pledging drone and electronic-warfare support. A magnitude-7.1 quake in Japan's Kumamoto killed at least 13. China sustained coast-guard patrols east of Taiwan. NGA imagery shows North Korea readying a Sohae satellite launch. A returning heat wave forced fresh wildfire evacuations near Bordeaux." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, and open sources."
+    }
+  ]
+}

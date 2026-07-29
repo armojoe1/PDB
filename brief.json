@@ -1,0 +1,154 @@
+{
+  "date": "2026-07-29",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "Iran's Missile Salvo on US Forces Fails; US and Saudi Answer in Iraq",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Iran's attempted ballistic-missile strike on US forces yesterday evening was intended to reestablish deterrence during the current pause in direct US-Iran strikes, and that its complete failure — every missile intercepted — has instead handed Washington and Riyadh both the initiative and the pretext for a joint response. Islamic Revolutionary Guard Corps forces launched multiple ballistic missiles at roughly 1745 ET on 28 July, targeting a US airbase and a CENTCOM node in Jordan; US air defenses destroyed all of them, and no US casualties have been reported. Within hours, US and Saudi aircraft struck IRGC-linked militia sites across eastern Iraq. We judge the pause is now badly strained but not yet dead."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "CENTCOM says US and Saudi fighter aircraft hit \"multiple terrorist logistics and weapons sites\" in eastern Iraq in response to more than 30 IRGC-directed drone attacks over the preceding 72 hours; Iraq's Popular Mobilization Forces report eight members killed and four wounded.",
+            "This is the first strike Riyadh has publicly claimed inside Iraq in the current war and the first US military action during the five-day pause — a signal that the Gulf is prepared to act kinetically alongside US forces against Iranian proxies, not merely defend its own airspace.",
+            "Hours earlier, Saudi air defenses intercepted drones aimed at oil facilities in the Eastern Province, which Riyadh attributed to Iran-backed militias launching from Iraqi territory; Iraqi armed groups condemned the retaliation as a \"dangerous escalation.\"",
+            "NSA SIGINT corroborates that the missile salvo was directed at the IRGC command level, consistent with Tehran's public claim of responsibility.",
+            "The attack came only hours after President Trump hosted Prime Minister Netanyahu at the White House, a meeting the Israeli side called \"one of the best\" the two have had — timing that argues the salvo was a message to both capitals at once."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "The diplomatic track is bruised but breathing. President Trump publicly talked up \"very friendly negotiations\" and a \"good chance\" of progress, with mediated talks reportedly centering on the Strait of Hormuz, even as he repeated a threat to strike Iranian bridges absent a deal; Tehran continues to deny it is holding direct talks with Washington. For the President, the near-term question is whether a failed Iranian salvo makes Tehran more likely to bargain from weakness or more likely to escalate to save face. We assess a realistic possibility of further proxy attacks in the next 24-72 hours as Iran seeks a face-saving demonstration; a strike that produces US casualties would likely collapse the pause and pull US forces back into a sustained campaign."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Carries the War Into the Caspian, Hitting the Russia-Iran Supply Line",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Ukraine's strikes into the Caspian Sea mark a deliberate widening of the war onto the logistics corridor that binds Russia's and Iran's war efforts together, and that they raise the risk of a direct Iran-Ukraine confrontation layered on top of the Russia-Ukraine and US-Iran wars. President Zelensky said Ukrainian forces achieved \"strong long-range results\" in the Caspian, and the Security Service reported drones struck a Russian oil field, a Russian missile boat, and vessels used to move Iranian drones to Russia. Iran says one sailor was killed aboard a commercial vessel and warned the action \"cannot go unanswered.\""
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Kyiv frames the targets as military cargo shipments running from Iran to Russian ports — a claim consistent with the well-documented flow of Iranian one-way attack drones and components northward; open-source imagery indicates the vessels departed an Iranian port before the strikes.",
+            "Foreign Minister Araghchi's demand for restitution signals Tehran is weighing whether to treat Ukraine as a co-belligerent — a step that would further entangle the two theaters and complicate any US-brokered Iran diplomacy.",
+            "Along the front, Russian strikes on eastern localities killed seven people and wounded more than 20, with fatalities reported near the contested town of Kostiantynivka, underscoring that Moscow's tempo has not slackened."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the Caspian strikes are a double-edged signal: they demonstrate Ukrainian reach against the Iran-Russia axis the US also opposes, but they inject Kyiv into the Gulf crisis at a delicate moment for the Iran talks. We expect Tehran's response to stay below the threshold of a direct attack on Ukraine in the near term, favoring rhetoric and legal claims, while it keeps its hands full with the US and Saudi Arabia."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Britain's New Government Signals a Deeper Bet on Kyiv",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Prime Minister Andy Burnham, in office barely a week, is moving to distinguish his government from its predecessor by front-loading support for Ukraine — a choice with direct consequences for allied cohesion and for US-UK coordination on Russia. Zelensky's visit to the naval base at Portsmouth on 27 July was the first by any foreign leader since Burnham took office on 20 July, and the two announced joint drone projects and a British transfer of the intellectual property behind the \"Stone Cloak\" electronic-warfare system, which is designed to jam Russian air defenses and blind drones."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Burnham succeeded Keir Starmer, who resigned as Labour leader and prime minister in June — the UK's seventh premier in a decade — after winning the Makerfield by-election and standing unopposed for the party leadership.",
+            "Kyiv's priority ask is ballistic-missile interceptors to blunt Russia's intensifying strikes; London signaled openness but has not committed specific systems, a gap worth watching.",
+            "The warming London-Kyiv relationship coincides with public friction between Mr. Trump and the new British government, which he has derided in unusually sharp terms — a discordant note for NATO messaging that Moscow will try to exploit."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For the United States, the key question is whether a more forward-leaning UK on Ukraine widens or narrows the space between London and Washington on burden-sharing, AUKUS, and sanctions. We judge Burnham will seek to preserve the core US-UK defense and intelligence relationship even while staking out a more assertive line on Kyiv, but early personal friction with the President is a variable to watch."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Beijing Rehearses a Taiwan Squeeze With Patrols East of the Island",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that China's expanding coast guard and civilian-fleet activity in the waters east of Taiwan is a rehearsal of the maritime pressure Beijing would apply in a blockade or quarantine — an effort to normalize a presence on the island's Pacific side, away from the Strait, where Taiwan's resupply and evacuation routes would run in a crisis. Fresh open-source assessments this week describe repeated \"special maritime law enforcement operations\" through June and July, the first time such patrols have moved east of Taiwan in quick succession."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Taiwan logged 55 sightings of Chinese coast guard and research-vessel activity in June, up from 30 in May, indicating a rising, not episodic, tempo.",
+            "Beijing casts the operations as a lawful response to Japan-Philippines maritime-boundary talks, giving itself a durable pretext to sustain the presence.",
+            "We see no indication yet of the naval mobilization or logistics buildup that would precede an actual blockade; the current activity is coercive signaling meant to erode Taiwan's control of its own approaches over time."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the significance is less any single patrol than the steady establishment of a \"new normal\" that would make a future quarantine look like an extension of routine law enforcement. We expect the pattern to continue and to feature in Taipei's coming defense review; a decision point comes if Chinese vessels begin interdicting or inspecting commercial traffic rather than merely patrolling."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Powerful Quake Strikes Japan's Kyushu; Casualties and Damage Mounting",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that yesterday's magnitude-7.1 earthquake in Kumamoto Prefecture on Kyushu is a significant but manageable disaster for a highly capable ally, with the principal near-term risks being trapped survivors, strong aftershocks, and localized disruption to industry rather than any strategic dislocation. The quake registered the maximum shindo 7 on Japan's intensity scale, collapsed part of an Aeon Mall in Kashima, and — per live reporting — has killed at least 13 people, with others unaccounted for."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Prime Minister Takaichi cited reports of damage to roads, bridges, and buildings along with blackouts and fires; a tsunami advisory was issued and quickly lifted.",
+            "Toyota suspended operations at three Kyushu plants on safety grounds, with restart expected the following day — a short, contained hit to auto supply chains rather than a lasting one.",
+            "We judge Tokyo has the capacity to lead the response without external assistance; any US role would likely be limited and supportive if requested."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "A Returning Heat Wave Reignites the Fight Against Wildfires in France and Spain",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the wildfire crisis across southwestern Europe is straining two key allies' emergency systems and testing EU civil-protection coordination, with a renewed heat wave threatening to undo hard-won containment. French authorities ordered nearly 4,000 more people evacuated from Atlantic-coast tourist areas on 28 July as heat returned to a vast fire west of Bordeaux; cumulative evacuations in the Gironde have reached roughly 220,000, with tens of thousands more displaced in the Landes."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Spain is operating under its first-ever national wildfire emergency, declared last week for the Madrid region, with tens of thousands evacuated or confined and one of the country's largest fires on record burning north of the capital.",
+            "Roughly 93 firefighters have been injured on the French blaze; shelters are running at the Bordeaux exhibition center.",
+            "We see no direct US security equity, but the crisis reinforces a structural strain on European militaries and civil agencies increasingly pulled into climate-driven domestic response."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "<b>North Korea — Satellite launch preparations.</b> Overhead imagery of the Sohae Satellite Launching Ground shows renovated facilities, and we assess Pyongyang may be preparing its first military reconnaissance-satellite launch since 2024. NGA imagery analysis indicates work consistent with launch preparations; a successful orbit would incrementally improve North Korean ISR and is likely to draw condemnation and a UN Security Council session."
+        },
+        {
+          "type": "para",
+          "text": "<b>Energy markets — Crude rebounds on the salvo.</b> Brent rose more than 3 percent to roughly $87 and WTI to about $82 on 28 July after the intercepted Iranian attack, paring a steep three-session slide of about 16 percent — its largest since 2020 — that had followed earlier de-escalation hopes. We assess prices will stay headline-driven and volatile, with the Strait of Hormuz the dominant risk premium; a proxy strike that damages Gulf energy infrastructure would move the market sharply."
+        },
+        {
+          "type": "para",
+          "text": "<b>Iran diplomacy — Talks reportedly center on Hormuz.</b> Mediated contacts are said to focus on Strait of Hormuz transit even as Tehran publicly denies direct negotiations with Washington and demands answers over the sailor killed in the Caspian. We judge the competing narratives are themselves a negotiating tactic; watch for a quiet third-party channel rather than any announced US-Iran meeting."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, NSA, Treasury OIA, INR, and open sources."
+    }
+  ],
+  "emblem": "/home/user/PDB/wh_small.png"
+}
