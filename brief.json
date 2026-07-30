@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-30",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "US completes heavy strikes on the IRGC after Iran's missile attack on Jordan; Tehran vows response." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Largest overnight barrage in weeks; a Russian cruise missile violates Polish airspace." },
+    { "tag": "CHINA-TAIWAN", "summary": "Beijing tightens a maritime squeeze east of Taiwan as Taipei advances its indigenous submarine." },
+    { "tag": "ENERGY-HORMUZ", "summary": "Oil whipsaws; a drone strikes a US-chartered LNG tanker at an Egyptian port." },
+    { "tag": "US-CHINA TECH", "summary": "US bars new Chinese humanoid robots and power inverters on supply-chain security grounds." },
+    { "tag": "JAPAN", "summary": "Deadly Kyushu quake tests Japan's response but spares a key chip cluster." },
+    { "tag": "NOTES", "summary": "Sahel offensive widens; North Korea satellite watch." }
+  ],
+  "articles": [
+    {
+      "headline": "US Completes Heavy Strikes on Iran's IRGC After Missile Attack on Jordan; Tehran Vows Response",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran conflict has re-escalated sharply after a roughly two-week lull, with US forces completing a large wave of strikes against Islamic Revolutionary Guard Corps (IRGC) targets early on 30 July local time in response to Iran's 28 July missile attack on a US base in Jordan. The exchange has collapsed the fragile pause diplomats had sought to preserve, and we judge further Iranian retaliation is likely in the coming days." },
+        { "type": "bullets", "items": [
+          "US Central Command says the strikes hit “dozens” of IRGC targets — command centers, missile and drone facilities, and coastal surveillance and defense systems — with explosions reported at Bandar Abbas and other sites in southern Iran. NSA SIGINT indicates the 28 July attack on Jordan was authorized at the IRGC command level.",
+          "Iran's 28 July barrage — five ballistic missiles aimed at a US base in Jordan — was intercepted by US and Jordanian air defenses with no casualties reported; President Trump said afterward it was “our turn to hit them.”",
+          "Iran's military has vowed a “crushing response” and declared that the “only safe route” for commercial shipping is “one set by Iran,” while its lead negotiator accused Washington of violating the standing memorandum of understanding — signaling that diplomacy has, for now, broken down.",
+          "We judge Tehran retains the capacity for further missile and drone salvos against US forces and Gulf partners, and that the risk of a miscalculation drawing in additional US assets is rising."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Separately, US and Saudi forces conducted joint strikes against Iran-aligned militias in Iraq, and a US-led coalition is coalescing around the Strait of Hormuz." },
+        { "type": "bullets", "items": [
+          "CENTCOM says the combined US-Saudi strikes killed roughly 20 fighters of the Iran-backed Popular Mobilization Forces along with six Iranian advisers, after the militias launched drones at US troops and Saudi oil facilities.",
+          "France, Germany, Italy, Japan, the Netherlands, and the United Kingdom have declared they will contribute to efforts to keep the Strait of Hormuz open — a notable coalescing of partners that strengthens Washington's hand but widens the circle of forces exposed to Iranian reprisal."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Russia Mounts Largest Overnight Barrage in Weeks; Cruise Missile Violates Polish Airspace",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's overnight missile-and-drone barrage into 30 July — among the largest in weeks — is intended to exhaust Ukraine's thinning air defenses and pressure Kyiv ahead of any negotiation, while a cruise missile's brief incursion into NATO territory raises the risk of alliance entanglement." },
+        { "type": "bullets", "items": [
+          "Ukrainian officials report that dozens of ballistic and cruise missiles and hundreds of drones struck cities from Kyiv to Lviv, killing at least eight civilians, including children, and wounding dozens more; casualty figures were still rising at brief time.",
+          "A Russian Kh-101 cruise missile crossed into Polish airspace during the strike, according to Ukraine's foreign minister, prompting Poland to scramble fighter aircraft — the latest in a pattern of NATO airspace violations.",
+          "We judge Moscow is deliberately exploiting Ukraine's critical shortage of Western-supplied interceptors; the tempo of strikes will likely outrun Kyiv's magazine depth absent accelerated resupply.",
+          "For Washington, the airspace violation sharpens the case for expedited Patriot and interceptor deliveries and will likely prompt consultations among NATO's eastern members; a repeat incident on alliance soil would be a decision point."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Beijing Tightens Maritime Squeeze on Taiwan as Taipei Advances Indigenous Submarine",
+      "blocks": [
+        { "type": "para", "text": "We assess that China's expanded coast guard and maritime-agency patrols in the waters east of Taiwan are a deliberate rehearsal of a quarantine-style containment campaign — pressure short of blockade — meant to demonstrate Beijing's capacity to sever the island from outside trade and support." },
+        { "type": "bullets", "items": [
+          "China's Maritime Safety Administration and coast guard have staged repeated patrols and “special maritime law-enforcement operations” east of Taiwan through June and July, extending pressure beyond the Strait to the island's Pacific approaches. Overhead imagery shows the elevated coast guard presence along Taiwan's eastern seaboard.",
+          "Taipei on 29 July sent its first domestically built submarine, the Hai Kun (Narwhal), out of Kaohsiung for renewed sea trials — a milestone in Taiwan's asymmetric deterrent, though the program remains behind schedule.",
+          "We judge Beijing favors gray-zone coercion it can escalate or dial back at will; a coast guard-led “quarantine” is more likely in the near term than an outright military blockade, and it would pose a harder signaling problem for Washington than an obvious act of war."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Oil Whipsaws as Hormuz Traffic Thins and a Drone Strikes a US-Linked LNG Tanker in Egypt",
+      "blocks": [
+        { "type": "para", "text": "We assess that the renewed US-Iran fighting has reintroduced a meaningful risk premium to global energy markets, though physical flows through the Strait of Hormuz have so far continued at reduced levels. A drone strike on a US-chartered gas tanker in Egypt signals that the threat to energy infrastructure is widening beyond the Gulf." },
+        { "type": "bullets", "items": [
+          "Brent crude surged roughly 8 percent on 29 July — briefly to about $90 to $91 a barrel — before easing on 30 July as shipments kept moving; Hormuz transits remain low and some operators are weighing longer routes via the Suez Canal.",
+          "A drone struck the Energos Winter, a floating LNG facility chartered by US-based New Fortress Energy, at Egypt's Damietta port on 29 July, igniting a fire that spread to a second vessel; no party has claimed responsibility, and Egyptian sources have offered conflicting accounts of the cause.",
+          "For Washington, the central risks are a supply shock that reignites inflation and the deliberate targeting of US-owned or US-flagged energy assets; a sustained closure of Hormuz would likely trigger coordinated reserve releases and a larger naval escort mission."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "US Bars New Chinese Humanoid Robots and Power Inverters, Citing Supply-Chain Security",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Federal Communications Commission's move to bar imports of new Chinese-made humanoid and quadruped robots and connected power inverters marks a significant widening of US supply-chain security policy into robotics and grid hardware, and that it will further strain US-China technology ties ahead of a planned leaders' summit." },
+        { "type": "bullets", "items": [
+          "FCC Chairman Brendan Carr announced the measure this week, citing risks that internet-connected robots and inverters could be remotely controlled, used for surveillance, or leveraged in cyberattacks against US critical infrastructure; the rules apply to models not yet authorized for US sale.",
+          "The inverter provision is potentially sweeping given the devices' ubiquity in solar installations, data centers, and household appliances; China holds an estimated 85 percent of the global humanoid-robot market, making the robotics ban as much industrial policy as security policy.",
+          "We judge Beijing will likely protest and may weigh reciprocal measures; the timing complicates preparations for the anticipated Xi-Trump meeting in September, though neither side yet appears to want a rupture before then."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DHS I&A, FBI, NSA, and open sources."
+    },
+    {
+      "headline": "Deadly Kyushu Earthquake Tests Japan's Response but Spares a Key Semiconductor Cluster",
+      "blocks": [
+        { "type": "para", "text": "We assess that the magnitude-7.1 earthquake that struck Kumamoto Prefecture on 28 July — with the death toll climbing to around 30 by 30 July — will strain Japan's disaster response but poses only limited near-term risk to global chip supply, as the region's flagship semiconductor complex escaped structural damage." },
+        { "type": "bullets", "items": [
+          "Rescuers are racing the closing 72-hour survival window at a collapsed Aeon shopping mall in Kashima, where a blast struck roughly 50 minutes after the quake; tens of thousands remain without power or water amid aftershocks and summer heat.",
+          "TSMC confirmed that its Kumamoto JASM fab was structurally unaffected and is gradually restoring operations after a precautionary evacuation; the site accounts for under 3 percent of TSMC capacity, and construction of a second fab was briefly suspended out of caution.",
+          "For Washington, the episode is a reminder of how concentrated advanced-chip production is in seismically active zones; we judge any disruption to leading-edge output will be limited this time, but the underlying vulnerability is structural and worth watching."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sahel — Mali offensive widens.</b> A joint offensive by the Tuareg-led Azawad Liberation Front and the al-Qaeda affiliate JNIM continues to broaden across Mali, straining a government propped up by Russia's Africa Corps. Assessments published on 29 July warn of a deepening quagmire that could draw greater US counterterrorism attention. We judge the security trajectory in the central Sahel is worsening, with the state's grip on the north increasingly tenuous." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>North Korea — satellite watch.</b> Regional assessments suggest Pyongyang may be preparing its first military reconnaissance-satellite launch since 2024. Separately, South Korean President Lee Jae Myung pushed on 29 July to accelerate a trade agreement with the Mercosur bloc and to deepen critical-minerals cooperation. We are watching for a launch window, which would likely draw a coordinated US, Japanese, and South Korean response." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, DIA, INR, and open sources."
+    }
+  ]
+}
