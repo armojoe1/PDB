@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-31",
+  "cover": true,
+  "emblem": "/tmp/claude-0/-home-user-PDB/f5c4694e-a6a5-509a-9fe0-0d67099bedf2/scratchpad/emblem_opt3.png",
+  "articles": [
+    {
+      "headline": "US–Iran War Escalates as Tehran Targets US-Escorted Shipping in Hormuz",
+      "blocks": [
+        { "type": "para", "text": "We assess that the five-month US–Iran war entered a more dangerous phase overnight, with Iranian forces reportedly firing on commercial tankers moving under US military escort through the Strait of Hormuz — a direct challenge to US freedom-of-navigation operations that raises the risk of sustained naval engagement. The strait, through which roughly a quarter of seaborne crude transits, has been effectively closed to commercial traffic for months; Brent crude traded near $90 a barrel on 30 July on renewed disruption fears." },
+        { "type": "bullets", "items": [
+          "The Islamic Revolutionary Guard Corps claimed on 31 July that it halted two tankers attempting to transit under CENTCOM air cover and forced four others to turn back. The account is single-sourced to Tehran and, as of this morning, is not independently confirmed; we treat the specific claim as reported, not established.",
+          "The strikes follow a heavy US wave the night of 29–30 July against IRGC command, missile, drone, and coastal-defense sites — itself a response to an Iranian ballistic-missile salvo at US forces.",
+          "Iran's leadership picture remains the one changed by the war: Supreme Leader Mojtaba Khamenei has held office since March, after Ali Khamenei was killed early in the conflict. President Masoud Pezeshkian and Foreign Minister Abbas Araghchi remain in place."
+        ] },
+        { "type": "para", "text": "For Washington, the near-term decision is whether to expand escort operations into sustained strikes on IRGC naval forces — escalating a conflict already straining precision-munitions stocks — or to accept degraded Hormuz throughput. We assess a US-flagged or US-escorted vessel taking casualties would be the most likely trigger for a wider engagement, and judge that risk to be rising." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Office of Naval Intelligence, NSA, and open sources."
+    },
+    {
+      "headline": "Russian Cruise Missile Detonates Inside Poland, Testing NATO's Eastern Flank",
+      "blocks": [
+        { "type": "para", "text": "We assess the crash of a Russian cruise missile on NATO territory in eastern Poland on 30 July — the most serious spillover of the Ukraine war onto Alliance soil this summer — was almost certainly unintended, but it sharpens the risk of direct NATO–Russia contact and will intensify pressure on Washington over air-defense support to Kyiv." },
+        { "type": "bullets", "items": [
+          "The munition, identified by Ukraine's foreign minister as a Kh-101 cruise missile, detonated near Tarnawa-Kolonia close to Lublin during Russia's overnight mass strike, leaving a crater roughly 10 meters across; Polish command tracked it inbound at 3:29 a.m. local.",
+          "Prime Minister Donald Tusk convened an emergency coordination group and visited the site; Poland and NATO scrambled F-16s, a NATO tanker, and airborne early-warning aircraft. No personnel were harmed.",
+          "NATO Secretary-General Mark Rutte publicly attributed the crash to a Russian missile, calling it \"yet another reckless act by Russia.\""
+        ] },
+        { "type": "para", "text": "NGA assesses from overhead imagery that the impact crater is consistent with a Kh-101-class warhead. We judge Moscow did not intend to strike Poland, but repeated strikes hugging the border make further spillover a realistic possibility. For Washington, the incident strengthens the case for releasing additional interceptors and raises the prospect of Article 4 consultations if a recurrence causes casualties." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Russia's Overnight Barrage Kills Civilians, Features a North Korean Missile and Hits a US-Owned Plant",
+      "blocks": [
+        { "type": "para", "text": "We assess Russia's largest overnight barrage in weeks — more than 70 missiles and roughly 280 drones on 30 July — reflects a deliberate strategy to overwhelm Ukraine's thinning air defenses. It carried two developments of direct US interest: the first confirmed use of a North Korean ballistic missile in nearly a year, and the first Russian strike to destroy a US-owned facility." },
+        { "type": "bullets", "items": [
+          "At least 8–10 civilians were killed, including three children; a strike on Lviv wounded 34, and a single family of six was killed near Kryvyi Rih.",
+          "A Russian ballistic missile destroyed the Kyiv production site of Terminal Autonomy, a Delaware-registered US firm making long-range strike drones for Ukraine's forces — reported as the first Russian strike on a US-owned company in the war. No casualties were reported at the plant.",
+          "Kyiv's ambassador said last week's White House visit produced no new US interceptor pledge; President Zelensky said the President agreed only to license co-production of Patriot interceptors in Ukraine. Kyiv is now soliciting Patriots from other allies."
+        ] },
+        { "type": "para", "text": "NGA and DIA assess from imagery of the impact site and recovered airframe debris that the weapon that struck near Kryvyi Rih is consistent with a North Korean KN-23-class short-range ballistic missile — the first such use since roughly August 2025 and evidence that Pyongyang has resupplied Moscow with a fresh production batch. For Washington, the combat employment of these systems yields performance data that flows back to Pyongyang, with direct implications for allied missile-defense in Northeast Asia." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, the Missile and Space Intelligence Center, NSA, and open sources."
+    },
+    {
+      "headline": "Trump Claims Gaza Disarmament Breakthrough, but Neither Belligerent Has Signed On",
+      "blocks": [
+        { "type": "para", "text": "We assess the President's announcement of a \"historic\" agreement for the complete disarmament of Hamas should be treated with caution: as of this morning neither Hamas nor Israel had confirmed acceptance, and the claim outpaces verifiable commitments — even as the Cairo mediation track shows genuine movement." },
+        { "type": "bullets", "items": [
+          "In statements on 30–31 July, the President said a \"Board of Peace\" reached a deal for complete disarmament of Hamas and other armed groups, phased Israeli withdrawal, an International Stabilization Force, and a new Palestinian police force, with weapons to be handed over within two weeks.",
+          "Mediators described \"rare progress\" in Cairo, but Hamas has not publicly accepted disarmament, Israel has not confirmed the withdrawal terms, and Iran opposes the framework.",
+          "Israeli strikes in Gaza continued on 30 July, killing at least six people including two children — underscoring that fighting persisted as the announcement was made."
+        ] },
+        { "type": "para", "text": "For Washington, the risk is an announced deal outrunning reality. We judge that confirmation would require public buy-in from both Hamas and Israel and a concrete disarmament timeline; absent those, the framework is an aspiration, not an agreement. We are watching for either party's formal response." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Saudi Arabia Assembles a Maritime Coalition and Edges Back Toward the Yemen War",
+      "blocks": [
+        { "type": "para", "text": "We assess Riyadh's move to stand up a 43-nation maritime defense alliance and prepare fresh operations against the Houthis marks a significant Gulf-partner realignment — one that both complements and partly rivals the US-led Red Sea framework, and that risks reopening a Yemen war Washington had worked to freeze." },
+        { "type": "bullets", "items": [
+          "Saudi Arabia convened 43 countries plus the EU on 30 July on Red Sea and Gulf of Aden maritime defense; 14 nations signed a joint backing statement.",
+          "Reporting on 31 July indicates Riyadh is preparing intensive naval and ground operations and repositioning forces in eastern Yemen, against the backdrop of a Houthi maritime blockade declared on the kingdom and strikes on Abha airport.",
+          "The initiative sits alongside, rather than under, existing US-led arrangements — a signal of Gulf states hedging toward independent command."
+        ] },
+        { "type": "para", "text": "For Washington, a parallel Saudi-led coalition complicates US command-and-deconfliction arrangements in the Red Sea and could draw US basing in the Gulf into a widened Yemen campaign at a moment the US is already committed against Iran. We expect Riyadh to seek US enablers — intelligence, refueling, munitions — even as it asserts a national lead." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, the Office of Naval Intelligence, INR, and open sources."
+    },
+    {
+      "headline": "Japan Launches Its First New Intelligence Agency Since 1945",
+      "blocks": [
+        { "type": "para", "text": "We assess Tokyo's establishment of a Cabinet-level National Intelligence Bureau on 31 July — the first new Japanese intelligence agency since World War II — will over time deepen intelligence-sharing with the United States and strengthen the trilateral architecture with South Korea, while raising the counterintelligence and information-security bar Washington must weigh before expanding cooperation." },
+        { "type": "bullets", "items": [
+          "Prime Minister Sanae Takaichi chairs a new National Intelligence Council, which met as the bureau went live; the NIB, led by veteran police official Kazuya Hara, consolidates assessment of North Korean missile threats, Chinese economic coercion, and cyberattacks.",
+          "The reform ties intelligence output directly to the prime minister's office, a centralization we assess should improve interoperability with US counterparts and speed warning.",
+          "For Washington, a more capable Japanese service is a net gain for Indo-Pacific burden-sharing, but places a premium on Japanese information-security standards before broader sharing of sensitive product."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "US Growth Slows to 1.5 Percent as Sticky Inflation Boxes In the Fed",
+      "blocks": [
+        { "type": "para", "text": "We assess the US economy is flashing a mild stagflation signal: an advance estimate of second-quarter GDP at 1.5 percent, released 30 July, came in below expectations even as inflation gauges stayed hot — leaving the Federal Reserve, which held rates on a contested 9–3 vote a day earlier, with little room to ease and raising the cost of financing the federal deficit." },
+        { "type": "bullets", "items": [
+          "Real GDP grew 1.5 percent annualized (down from 2.1 percent in the first quarter), dragged by a widening trade deficit; core PCE inflation ran about 3.3 percent year-on-year.",
+          "The 29 July FOMC held at 3.50–3.75 percent for a fifth straight meeting under Chair Kevin Warsh, with three officials dissenting toward a hike; the hawkish hold sent the Dow down 1,153 points, with the 30-year Treasury yield above 5.2 percent.",
+          "Energy is compounding the problem: Brent near $90 on Hormuz-disruption fears feeds directly into the inflation picture."
+        ] },
+        { "type": "para", "text": "For Washington, higher long-end yields raise the cost of servicing the debt and of mortgages, and a divided FOMC under a new chair signals policy uncertainty heading into the fall. We expect the growth-versus-inflation tension to dominate the economic-policy debate through the autumn." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Department of the Treasury's Office of Intelligence and Analysis, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>China:</b> July manufacturing PMI fell to 49.2 (reported 31 July), the first contraction in four months, with new export orders shrinking to the weakest reading in over three years. We assess the softening demand increases pressure on Beijing to stimulate and modestly strengthens the US hand in trade talks amid an effective US tariff stack near 30 percent.",
+          "<b>Trade:</b> A 100 percent Section 232 tariff on branded pharmaceuticals from 17 major drugmakers took effect 31 July (with lower rates for the EU, Japan, South Korea, Switzerland, and the UK, and relief tied to US onshoring). Separately, the President delayed a planned Mexico tariff increase by 90 days as an 1 August deadline presses some 180 trading partners.",
+          "<b>Critical minerals:</b> The administration invoked the Defense Production Act on 30 July to restrict exports of recycled \"scrap\" critical minerals — a defensive counter to Chinese dominance of rare-earth refining, aimed at keeping strategic feedstock inside the US supply chain.",
+          "<b>Taiwan:</b> Taipei's Interior Ministry said on 30 July it will petition the Constitutional Court to dissolve the pro-Beijing Chinese Unification Promotion Party over alleged united-front and espionage activity — an escalation of Taiwan's counter-infiltration campaign that the US tracks closely for cross-strait resilience.",
+          "<b>Venezuela:</b> In a 30 July interview, interim President Delcy Rodríguez confirmed near-daily contact with Secretary of State Marco Rubio and extensive US oversight of Venezuelan oil revenues, months after the US capture of Nicolás Maduro. She deferred elections to \"when Venezuela is ready.\""
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, the Department of the Treasury's Office of Intelligence and Analysis, and open sources."
+    }
+  ]
+}
