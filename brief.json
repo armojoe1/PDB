@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-01",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "US and Israel Ready Intensified Strikes on Iran's Energy Sector as Tehran Widens Gulf Attacks",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US–Israel campaign against Iran is entering a more punishing phase aimed at Iranian energy infrastructure, even as Tehran expands retaliation against Gulf partners and shipping in the Strait of Hormuz. The conflict, which began with the 28 February strikes on Tehran that killed Supreme Leader Ali Khamenei—succeeded by his son Mojtaba Khamenei—and resumed in early July after a short-lived truce, has now drawn Gulf states directly into the line of fire." },
+        { "type": "para", "text": "President Trump said Friday the United States would \"be hitting them very hard,\" but as of early Saturday had not issued a final execution order, and US Central Command reported no new strikes overnight—leaving a short, still-open window before a decision." },
+        { "type": "bullets", "items": [
+          "Press reporting indicates US and Israeli planners are preparing one of the war's heaviest bombing campaigns against Iranian power plants and refineries, potentially over this weekend; Mr. Trump framed it as a sustained four-to-eight-week effort and cautioned the strikes could still be called off.",
+          "Iran is answering by widening the war to US partners: Kuwait's military intercepted a fresh wave of Iranian drones early Saturday—a day after a strike killed a worker at a Chinese-operated site—and Iran's central military command warned regional states against assisting Washington.",
+          "In the Strait of Hormuz, Iranian forces struck at least one tanker with a drone and declared transit \"not possible\"; US Central Command says the waterway remains open. Brent crude held near $88 after a roughly 20 percent gain in July on the war-risk premium.",
+          "Treasury Secretary Bessent said the United States is moving to seize Iranian assets worldwide, framing the proceeds as ultimately \"for the Iranian people.\""
+        ] },
+        { "type": "para", "text": "For Washington, the central problem is escalation control. We judge that strikes on Iran's energy sector could erode the regime's war-making revenue but would almost certainly provoke broader Iranian attacks on Gulf oil infrastructure and shipping, with immediate consequences for global crude and for the several thousand US personnel and partners across the theater. A decision point comes within days." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, the Office of Intelligence and Analysis at Treasury, and open sources."
+    },
+    {
+      "headline": "Trump's \"Board of Peace\" Announces Hamas Disarmament Framework, but Israel and Hamas Split on Sequencing",
+      "blocks": [
+        { "type": "para", "text": "We assess that the disarmament framework unveiled by the US-led Board of Peace is a genuine diplomatic marker but remains far from implementation, because Israel and Hamas publicly disagree on the issue that has always divided them—what comes first, Israeli withdrawal or Hamas disarmament. As of this morning the deal is announced, not agreed." },
+        { "type": "bullets", "items": [
+          "The 15-point roadmap calls for an immediate halt to operations, an implementation mechanism within 14 days, and a National Committee to govern Gaza and hold all weapons during a phased disarmament, with Israeli withdrawal \"in lockstep with decommissioning\"; one account describes disarmament staged over roughly eight months.",
+          "Hamas negotiator Ghazi Hamad called the terms \"difficult and painful\" and said the group will not begin disarming until Israel halts operations, surges aid, and fully withdraws—insisting an Israeli halt to the fighting is the \"first step.\"",
+          "A senior Israeli official countered that there will be \"no withdrawal from the current line without genuine disarmament of Hamas\"; Prime Minister Netanyahu stayed silent, and National Security Minister Ben-Gvir called the framework \"unacceptable.\"",
+          "Mr. Trump said he has \"an understanding with Israel\" and that \"Israel is very happy,\" while conceding the situation is \"very complex.\""
+        ] },
+        { "type": "para", "text": "We judge the framework is likelier to reshape negotiating leverage than to disarm Hamas on the announced timetable; the near-term test is whether the promised implementation mechanism actually convenes within its 14-day marker. For Washington, delivering even a partial pause would strengthen the administration's regional hand while it presses the war against Iran." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Bureau of Intelligence and Research, DIA, and open sources."
+    },
+    {
+      "headline": "Poland Attributes Cruise-Missile Crash to Russia and Summons Ambassador but Holds Off on Article 4",
+      "blocks": [
+        { "type": "para", "text": "We assess that Warsaw's formal attribution of Wednesday night's missile crash to Russia—and its deliberate decision not to invoke NATO's Article 4—reflects a calculated effort to register the violation firmly while avoiding an escalatory spiral during Russia's largest strike wave on Ukraine in weeks." },
+        { "type": "bullets", "items": [
+          "Polish officials identified the projectile that crashed near Tarnawa-Kolonia, about 90 kilometers inside Poland, as a Russian Kh-101 cruise missile carrying a \"significant\" explosive load; the Foreign Ministry summoned Russia's ambassador and conveyed \"unequivocal condemnation.\"",
+          "The missile was one of some 70 fired in an overnight barrage aimed at Ukraine; a Polish F-16 was scrambled before radar contact was lost. Warsaw assessed that Poland was not the intended target and reported no casualties on its soil.",
+          "NSA SIGINT corroborates that the missile originated with the Russian strike package rather than an errant Ukrainian interceptor.",
+          "NATO Secretary-General Rutte called it \"yet another reckless act by Russia\"; unlike the September 2025 drone incursion, Poland convened allies but declined to trigger Article 4 pending the investigation. Moscow dismissed the reporting as \"irresponsible.\""
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The overnight barrage that carried the missile killed at least nine people across Ukraine and wounded dozens, with a follow-on wave of Shahed-type drones; a strike earlier in the week near Kryvyi Rih killed six members of one family, including three children." },
+        { "type": "bullets", "items": [
+          "Separately, Mr. Trump said Friday the United States \"has not agreed to\" let Ukraine build Patriot interceptors under license—a walk-back from earlier assurances to President Zelensky—calling advanced missile technology \"a hard thing to give away.\" We expect the reversal to complicate Kyiv's air-defense planning as Russian strikes intensify."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, NSA, NGA, DIA, and open sources."
+    },
+    {
+      "headline": "Cyberattacks Strike Water Utilities in Seven States; Officials Weigh a Possible Iranian Hand",
+      "blocks": [
+        { "type": "para", "text": "We assess that the coordinated intrusions into US municipal water systems this week represent a serious threat to critical infrastructure, but attribution remains unresolved: US officials describe \"hallmarks of Iranian meddling\" while cautioning that they have made no formal determination." },
+        { "type": "bullets", "items": [
+          "Hackers breached water utilities in at least seven states—with more than 30 facilities affected in Minnesota—accessing internet-facing controllers, altering passwords and network addresses, and forcing some operators onto boil-water notices and manual operation.",
+          "The FBI and EPA issued a public advisory Thursday; the in-window development is the widening multi-state scope and a sharpening debate over who is responsible.",
+          "A suspected Iranian nexus, if borne out, would fit a pattern of Iranian targeting of industrial control systems and would mark a homeland spillover from the ongoing US–Iran war.",
+          "The incident turned political: President Trump publicly dismissed the Iran link, while Minnesota Governor Walz called it \"what modern warfare looks like.\""
+        ] },
+        { "type": "para", "text": "For Washington, the priority is hardening exposed control systems regardless of attribution. We judge that a formal determination, if it comes, will hinge on forensic indicators still being collected—and we caution that Iran is at this point a suspect, not a confirmed actor." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Cybersecurity and Infrastructure Security Agency, the FBI Intelligence Branch, NSA, and open sources."
+    },
+    {
+      "headline": "Japan Stands Up National Intelligence Bureau, Centralizing Assessment on China and North Korea",
+      "blocks": [
+        { "type": "para", "text": "We assess that Japan's launch of a National Intelligence Bureau on 31 July marks the most significant reorganization of Tokyo's intelligence architecture in decades and signals Prime Minister Takaichi's intent to make Japan a more capable, more independent security actor—a development that on balance serves US alliance interests." },
+        { "type": "bullets", "items": [
+          "The bureau, standing up under the prime minister's office with about 730 staff, consolidates assessment of North Korean missile threats, Chinese economic coercion, and cyberattacks, and feeds a new National Intelligence Council that Ms. Takaichi chaired in its first meeting.",
+          "It is led by veteran police official Kazuya Hara; reporting notes that it launches without its own overseas human-intelligence network, limiting its reach at the outset.",
+          "The move caps Ms. Takaichi's broader security push since she took office in October 2025—a drive that also produced Japan's first ship-launched Tomahawk test this week as Tokyo builds a long-range counterstrike capability."
+        ] },
+        { "type": "para", "text": "For Washington, a better-integrated Japanese intelligence enterprise should improve alliance interoperability and burden-sharing on China and North Korea. The question to watch is how quickly Tokyo builds the independent collection—particularly human and overseas technical—to match its new assessment ambitions." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Mass Breach of Spain's Ceuta Enclave Turns Deadly, Straining Madrid and EU Unity",
+      "blocks": [
+        { "type": "para", "text": "We assess that the largest migrant surge into Spain's North African enclave of Ceuta since 2021 has become a significant security and political shock for Prime Minister Sanchez, with a rising death toll, an army deployment, and allied capitals pressing Madrid for a response." },
+        { "type": "bullets", "items": [
+          "Spanish authorities said tens of thousands attempted the crossing over the week; the confirmed death toll climbed past 60 overnight—reported at 67 by Saturday morning and still rising—with most victims drowning as they tried to swim around the Tarajal breakwater.",
+          "Mr. Sanchez visited Ceuta on Friday, called the crossings a \"violation\" of Spanish sovereignty, and said tens of thousands had already been returned to Morocco; Madrid deployed army units but rejected a national-emergency declaration.",
+          "Open-source and overhead imagery show the scale of the crossings along the frontier and the breakwater.",
+          "European leaders reacted sharply—the Commission's von der Leyen called it \"unacceptable,\" Germany's Merz backed Spain, and Italy's Meloni floated suspending Schengen cooperation."
+        ] },
+        { "type": "para", "text": "We judge the surge is bound up with Spain–Morocco friction, including Madrid's energy courtship of Algeria; Rabat has historically let Ceuta pressure build to signal displeasure. For the United States, the risk is fresh strain on EU cohesion and on a southern-flank partner at a moment when Washington needs European bandwidth on Ukraine and Iran." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Bureau of Intelligence and Research, NGA, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Red Sea — Houthi escalation threat, Saudi coalition.</b> Houthi leader Abdul-Malik al-Houthi threatened Saudi Arabia with \"full escalation\" on Friday, hours before Riyadh announced a new Red Sea maritime-defense coalition to protect shipping—a notable Gulf grouping against Iran-aligned attacks. We expect the move to raise the risk of direct Saudi–Houthi exchanges even as it reassures shippers." },
+        { "type": "para", "text": "<b>Korea — US drone near-shootdown at the DMZ.</b> South Korean forces prepared to fire on an unidentified aircraft near the border and issued shelter notices to civilians before identifying it as a US Marine training drone; Seoul has opened a review of the communications breakdown. The episode underscores alliance coordination gaps along one of the world's tensest frontiers." },
+        { "type": "para", "text": "<b>Sahel — Russia's Africa Corps tied to civilian deaths.</b> Human Rights Watch, in a report released Friday, attributed a 15 June airstrike that killed eight civilians in Mali's Mopti region to Russia's state-run Africa Corps, even as al-Qaeda's JNIM tightens a fuel blockade on Bamako. The findings sharpen scrutiny of Moscow's expanding—and increasingly lethal—security footprint in West Africa." },
+        { "type": "para", "text": "<b>Washington — Senate advances Russia sanctions.</b> A bipartisan sanctions package cleared an early Senate hurdle Friday that could impose secondary tariffs of up to 100 percent on India and China for continued purchases of Russian oil, with Mr. Trump signaling he would sign. We judge that, if enacted, the measure would complicate US ties with New Delhi even as it squeezes Moscow's revenue." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Bureau of Intelligence and Research, the Office of Intelligence and Analysis at Treasury, and open sources."
+    }
+  ]
+}
