@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-02",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "Trump halts planned strikes on Iranian energy sites, citing 'perimeters' of a deal; de-escalation fragile and unverified." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Overnight ballistic-and-drone barrage kills nine in Kyiv as Ukraine's Patriot interceptor stocks run dry." },
+    { "tag": "ISRAEL-GAZA", "summary": "Israeli strikes kill seven days after a US-brokered Hamas disarmament deal, testing its durability." },
+    { "tag": "ENERGY-HORMUZ", "summary": "Tanker seizures and a struck LNG carrier keep Brent near $90; reopening Hormuz is the deal's headline test." },
+    { "tag": "SPAIN-MOROCCO", "summary": "Ceuta breach toll reaches 67; Madrid moves to seal the frontier as most migrants return to Morocco." },
+    { "tag": "RUSSIA", "summary": "Central Moscow restaurant bombing kills three; a senior officer was reportedly the target." },
+    { "tag": "NOTES", "summary": "Colombia bombing; OPEC+ convenes; Cuban grid failure." }
+  ],
+  "articles": [
+    {
+      "headline": "Trump Halts Planned Strikes on Iran, Citing 'Perimeters' of a Deal",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Trump's late-Saturday decision to cancel imminent US-Israeli strikes on Iran's energy infrastructure has pulled the two sides back from the sharpest escalation since the spring, but that the de-escalation is <b>fragile, conditional, and unverified.</b> The reversal came within hours of Pentagon and White House signaling that operations were hours away &mdash; Defense Secretary Hegseth had told reporters the military was &ldquo;locked and loaded&rdquo; and US embassies across the region urged Americans to depart. Trump announced on social media that he was holding off &ldquo;in that the perimeters of a deal has been agreed to,&rdquo; conditioning the pause on a rapid conclusion. We judge the swing from strike-footing to standoff in a single evening reflects brinkmanship as bargaining, not a settled diplomatic breakthrough." },
+        { "type": "bullets", "items": [
+          "<b>Gulf capitals drove the pause.</b> Press reporting indicates Saudi Crown Prince Mohammed bin Salman telephoned the President on Saturday to press for cancellation and a return to talks; other Gulf states, exposed to Iranian counterstrikes on their own energy sites, almost certainly reinforced the message. A sensitive source indicates the intercession was decisive in the final hours.",
+          "<b>The deliverables are the tell.</b> Trump framed the deal as delivering the &ldquo;immediate, complete and total opening of the Strait of Hormuz&rdquo; and an end to &ldquo;Iran's nuclear threat.&rdquo; We assess Hormuz reopening is the near-term, observable test of Tehran's intent; the nuclear language is aspirational and, on past form, the hardest piece to lock down.",
+          "<b>Tehran has not confirmed.</b> As of this morning there was no public response from Iran's leadership under Supreme Leader Mojtaba Khamenei. We judge Iran will bank the pause while extracting sanctions and security terms, and retains the option to resume tanker interdiction if talks stall.",
+          "<b>This ceasefire has broken twice.</b> The April truce and a June memorandum both collapsed &mdash; most recently in July after Iran struck vessels bypassing its preapproved Hormuz corridor. We assess the probability of another breakdown within weeks is a realistic possibility absent a verification mechanism."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the pause buys time but transfers risk onto the details: who verifies Iranian compliance, on what timeline, and what happens to the US force posture &mdash; including carrier and air assets surged to the theater &mdash; if the deal slips. A decision point comes when Tehran either reopens Hormuz in full or does not; that single, observable act will confirm or break the assessment. We expect the next 72 hours to be decisive." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, DIA, NSA, INR, NGA, and open sources.</i>" }
+      ]
+    },
+    {
+      "headline": "Overnight Barrage Kills Nine in Kyiv as Ukraine's Interceptor Stocks Run Dry",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's overnight strike on Kyiv &mdash; roughly 35 missiles and nearly 190 drones that killed at least nine and wounded more than 30 &mdash; is part of a deliberate campaign to overwhelm Ukrainian air defenses at the moment those defenses are most depleted. Ukrainian officials report that only one of some 27 ballistic missiles was intercepted, a hit rate that reflects an acute shortage of US Patriot interceptors rather than a change in Russian accuracy. Moscow's Defense Ministry claimed the barrage targeted &ldquo;military-industrial and logistics&rdquo; sites; open reporting indicates residential districts again bore the damage." },
+        { "type": "bullets", "items": [
+          "<b>The interceptor gap is the story.</b> President Zelensky has said Ukraine has effectively run out of interceptors for its Patriot batteries. We judge Russia is timing mass ballistic salvos to exploit that window, and that without resupply the civilian toll of each raid will climb.",
+          "<b>Tempo is rising.</b> The Kyiv strike followed a barrage two days earlier that killed at least ten. We assess Moscow is sustaining a near-nightly deep-strike rhythm, drawing on replenished stocks &mdash; including North Korean short-range ballistic missiles reintroduced to the arsenal in recent days.",
+          "<b>Ukraine is answering asymmetrically.</b> Kyiv's forces reportedly sank a Rosatom-linked cargo vessel in the Black Sea, extending a strategy of imposing costs on Russian logistics and prestige targets it cannot match salvo-for-salvo."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the immediate question is interceptor resupply: Patriot and associated munitions are the binding constraint on Ukrainian civilian protection, and the decision on releasing or accelerating stocks is now urgent. We expect Kyiv to press hard for emergency deliveries and for European partners to backfill where they can." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources.</i>" }
+      ]
+    },
+    {
+      "headline": "Israeli Strikes Kill Seven, Testing a Freshly Signed Gaza Disarmament Deal",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israeli strikes across Gaza on Saturday, which killed at least seven Palestinians and hit medicine warehouses beside al-Aqsa Martyrs Hospital in Deir al-Balah, are already straining the US-brokered disarmament agreement announced days earlier. Trump's &ldquo;Board of Peace&rdquo; framework calls for Hamas and other factions to surrender weapons to a national committee, with a roadmap due within 14 days and an eventual Israeli withdrawal in favor of an international stabilization force. We judge the deal's core weakness is sequencing: each side conditions its steps on the other moving first." },
+        { "type": "bullets", "items": [
+          "<b>Conditions swallow the commitment.</b> Hamas says it will not disarm unless Israel withdraws and a path to Palestinian statehood is opened &mdash; terms Israel rejects and that Trump's announcement did not mention. We assess the gap between the public deal and the parties' stated conditions is wide enough to stall implementation.",
+          "<b>Strikes during a &lsquo;breakthrough&rsquo; signal distrust.</b> Continued Israeli operations during the announcement window almost certainly reinforce Hamas's demand for guarantees before any handover of heavy weapons.",
+          "<b>Verification is undefined.</b> The framework references an international body to approve the roadmap but leaves enforcement vague. We judge that without a credible monitor, the 14-day clock is likely to slip."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, this is a test of whether a signed framework can survive contact with facts on the ground. We expect the near-term indicator to be whether a written disarmament roadmap actually materializes within the two-week window, or whether the parties revert to conditioning and delay." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, DIA, INR, and open sources.</i>" }
+      ]
+    },
+    {
+      "headline": "Hormuz Tanker Seizures Keep Oil Near $90 as Reopening Becomes the Deal's Test",
+      "blocks": [
+        { "type": "para", "text": "We assess that the near-term credibility of the Iran de-escalation will be read first in the tanker lanes of the Strait of Hormuz, where Iranian interdiction has kept a war-risk premium in crude even as headline diplomacy improves. Iran's Revolutionary Guard said it stopped two tankers attempting to transit under US military escort late in the week, and a Qatari-origin LNG carrier, the <i>Gaslog Shanghai</i>, was among vessels reported struck near the strait. Brent settled near $90 and WTI near $85, with insurers pricing in mine and seizure risk that will not clear on an announcement alone." },
+        { "type": "bullets", "items": [
+          "<b>Reopening is observable; promises are not.</b> Overhead imagery and shipping data show traffic thinned and several vessels turning back after Iranian intervention. We judge a durable rebound in Hormuz transits &mdash; not rhetoric &mdash; is the metric that would confirm Tehran is honoring the pause.",
+          "<b>The Gulf is on air-defense alert.</b> Kuwait reported intercepting Iranian drones entering its airspace, underscoring that Gulf energy infrastructure remains the most exposed target set if talks fail.",
+          "<b>Market cushion is thin.</b> With roughly a fifth of seaborne oil moving through the strait, we assess any renewed closure would spike prices and hand Washington an economic problem on top of a security one."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the energy channel is where a diplomatic win becomes a tangible one. We expect the administration to watch daily transit counts and insurance rates as the real scorecard on the deal, and to keep escort operations in place until flows normalize." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from Treasury OIA, NGA, DIA, and open sources.</i>" }
+      ]
+    },
+    {
+      "headline": "Ceuta Breach Toll Reaches 67 as Madrid Moves To Seal the Frontier",
+      "blocks": [
+        { "type": "para", "text": "We assess that the mass breach of Spain's North African enclave of Ceuta &mdash; in which some 60,000 people surged across the frontier from Morocco between Thursday and Friday, leaving 67 dead by drowning and in a stampede at a breakwater barrier &mdash; is a serious strain on Madrid-Rabat relations and a fresh stress on EU migration politics. Spanish authorities said Saturday the situation had been &ldquo;almost entirely reversed,&rdquo; with most who crossed already returned to Morocco, and announced a 500-meter sea barrier to close the coastal gap." },
+        { "type": "bullets", "items": [
+          "<b>Leverage, not accident.</b> Rabat's control of migratory pressure at Ceuta and Melilla has repeatedly functioned as diplomatic leverage over Madrid; we assess this episode will again put border cooperation and Western Sahara at the center of the bilateral relationship.",
+          "<b>Renewed clashes.</b> Moroccan security forces reportedly confronted further groups attempting to reach Melilla over the weekend, with dozens detained &mdash; an indication the pressure has not fully dissipated.",
+          "<b>EU exposure.</b> We judge the images of mass casualties at an external EU border will sharpen the bloc's migration debate and reinforce pressure for externalized enforcement."
+        ] },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from INR, DHS I&amp;A, and open sources.</i>" }
+      ]
+    },
+    {
+      "headline": "Central Moscow Restaurant Bombing Kills Three; Senior Officer Reportedly the Target",
+      "blocks": [
+        { "type": "para", "text": "We assess &mdash; with the caveat that Russian authorities have released few details and no party has claimed responsibility &mdash; that Saturday evening's bombing at the Balzi Rossi restaurant on Kudrinskaya Square in central Moscow was probably a targeted attack rather than indiscriminate terrorism. Press reporting indicates a woman carrying an improvised device concealed in a gift box detonated it on the veranda after a security guard moved to search her, killing the bomber, the guard, and a patron and wounding roughly 21. Multiple outlets report a senior Russian officer was celebrating a birthday at the venue; we cannot confirm that the officer was killed or present at detonation." },
+        { "type": "bullets", "items": [
+          "<b>Consistent with a pattern.</b> The method &mdash; a close-access device against a specific gathering &mdash; resembles earlier assassinations of Russian military and security figures inside Russia during the war. We assess Ukrainian services are a plausible actor, but the absence of a claim leaves attribution open.",
+          "<b>Domestic-security signal.</b> A successful close-access attack in central Moscow almost certainly embarrasses the security services and will prompt tighter protection around senior officers.",
+          "<b>Handle the target claim carefully.</b> We judge the &ldquo;general's birthday&rdquo; reporting is credible but unconfirmed; the identities of the dead had not been released as of this morning."
+        ] },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, DIA, INR, and open sources.</i>" }
+      ]
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Colombia &mdash; Truck bombing in Cucuta.</b> A truck bomb detonated beside a police station in Cucuta, Norte de Santander, on Saturday, wounding 11 officers and three civilians. We assess the attack fits the pattern of ELN and FARC-dissident violence along the Venezuela border and lands a week before president-elect Abelardo de la Espriella is due to take office on 7 August, sharpening the security backdrop to the transition." },
+        { "type": "para", "text": "<b>Energy &mdash; OPEC+ ministers convene.</b> OPEC+ ministers meet virtually today to set September output. We assess the group is likely to continue its gradual unwinding of cuts, but the Hormuz disruption and the fluid Iran diplomacy give the decision more market weight than usual; watch for any signal that Gulf producers are hedging against renewed supply risk." },
+        { "type": "para", "text": "<b>Cuba &mdash; Grid failure in the west.</b> A partial collapse of Cuba's power grid over the weekend left western provinces, including areas around Havana, without electricity. We judge the recurring failures deepen the island's economic crisis and sustain outward migration pressure that ultimately reaches US shores." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, INR, DHS I&amp;A, Treasury OIA, and open sources.</i>" }
+      ]
+    }
+  ]
+}
