@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-03",
+  "cover": true,
+  "emblem": "/home/user/PDB/emblem_blank.png",
+  "toc": [
+    {
+      "tag": "IRAN",
+      "summary": "Trump halts planned strike; nuclear and Hormuz talks open today."
+    },
+    {
+      "tag": "ISRAEL-GAZA",
+      "summary": "Strikes escalate as Israel balks at the US disarmament framework."
+    },
+    {
+      "tag": "RED SEA",
+      "summary": "Saudi-led 43-nation maritime coalition forms under Houthi blockade."
+    },
+    {
+      "tag": "UKRAINE-RUSSIA",
+      "summary": "Kyiv deepens deep-strike campaign on refineries and a bomber base."
+    },
+    {
+      "tag": "CHINA-TAIWAN",
+      "summary": "Beijing extends coast guard patrols east of Taiwan; US objects."
+    },
+    {
+      "tag": "AI-SECURITY",
+      "summary": "US frontier-AI security framework activates with classified cyber benchmarking."
+    },
+    {
+      "tag": "NOTES",
+      "summary": "OPEC+ September increase; mass-casualty drone strike in Darfur."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Trump Halts Planned Strike on Iran as Nuclear and Hormuz Talks Open Today",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that President Trump's decision to call off a planned military strike on Iran and open negotiations this afternoon has bought a narrow diplomatic window, but Tehran retains meaningful leverage and the risk of a rapid return to confrontation remains elevated. The President said Sunday that Saudi Arabia, the United Arab Emirates, and Qatar had urged Washington to cancel the operation because \"they think there's a deal,\" and framed the talks as aimed first at reopening the Strait of Hormuz and then at Iran's nuclear program."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Trump said he called off what he described as \"the biggest attack since World War II,\" citing a plea from Tehran and requests from Gulf partners; US forces remain on alert pending the talks.",
+            "He said a deal on Hormuz is \"imminent\" and predicted a follow-on nuclear agreement, but set no deadline and did not name the venue; Qatar and Pakistan are reported to be mediating.",
+            "Secretary of State Rubio indicated Washington judges Iran more willing to negotiate over both its nuclear file and the strait following recent US actions.",
+            "We assess the central obstacle will be verification: an announced framework can move quickly, but durable limits on enrichment and a reliable reopening of Hormuz would take far longer to stand up."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the near-term stakes are as much economic as strategic. Crude closed near $85 a barrel after a July gain of more than 20 percent, its strongest month since March, driven largely by the Hormuz closure and Gulf risk premium. We judge a credible move to reopen the strait would ease that premium quickly; a collapse of the talks would reverse it just as fast. The decision point comes this week — whether an interim Hormuz understanding materializes, and whether Iran accepts intrusive verification on the nuclear track."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Israeli Strikes Escalate as Netanyahu Balks at US-Brokered Disarmament Framework",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the US-brokered framework President Trump has hailed — under which Hamas reportedly agreed to disarm — is at serious risk, and that Israel is signaling it is not prepared to implement the version made public. Prime Minister Netanyahu's office said Israel had conveyed \"comments and concerns\" and that the public text \"does not reflect Israel's positions,\" even as Israeli strikes on Gaza killed at least 18 people on Sunday, the highest daily toll in weeks."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Strikes hit Gaza City, Deir al-Balah, and Khan Younis; medics' tallies ranged from roughly 13 to 19 dead across the day.",
+            "Netanyahu's spokesman set the bar at \"genuine, verifiable and irreversible\" demilitarization and objected to Qatari and Turkish roles in verifying compliance, and to whether collected weapons would be destroyed rather than stored.",
+            "Israeli intelligence assesses Hamas has continued recruiting and rearming since the October ceasefire; liaison reporting corroborates that rebuilding has continued despite reduced violence.",
+            "A member of Netanyahu's security cabinet publicly rejected any halt to operations and argued Israel — already controlling an estimated 70 percent of the Strip — should take it fully."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, its signature diplomatic initiative now hinges on bridging the verification gap between a Hamas that says it will disarm and an Israel that doubts it will. We expect continued strikes near-term and assess the framework will not be implemented without additional US guarantees on enforcement. Watch whether Israel pauses operations as a signal of good faith."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Saudi-Led Maritime Coalition Forms as Houthi Blockade Chokes the Red Sea",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that a new Saudi-led maritime coalition marks a significant, Gulf-driven realignment to secure the Bab al-Mandeb, the Red Sea, and the Gulf of Aden after Houthi forces imposed a blockade on the kingdom. The grouping is notable for being regionally led rather than US-flagged, and for pulling together an unusually broad set of Muslim-majority and littoral states."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Riyadh convened representatives of 43 of 51 invited states plus the EU in late July; 14 signed a founding statement, among them Pakistan, Turkey, Egypt, Jordan, and Djibouti.",
+            "Saudi Arabia will host the coalition's permanent headquarters, joint command, and operations center as founding and leading state.",
+            "The Houthis imposed the blockade on 20 July — after oil traffic was diverted to the Red Sea when the Strait of Hormuz closed — have threatened tolls on shipping through Bab al-Mandeb, and vowed \"full escalation\" in response.",
+            "Open-source vessel-tracking shows transits through Bab al-Mandeb sharply reduced, consistent with the diversion and the threat environment."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For the United States, a capable regional coalition could ease the escort burden CENTCOM and Combined Maritime Forces have carried, but a parallel command structure also raises deconfliction and interoperability questions. We expect Washington to seek a supporting rather than leading role. The near-term test is whether the coalition can deter Houthi tolling without a wider clash."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, DIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Deepens Strike Campaign on Russian Refineries and a Strategic Bomber Base",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Ukraine's overnight long-range strikes on 2 August sustain a deliberate campaign to degrade Russia's energy revenue and strategic-aviation infrastructure, even as Moscow's ground offensive stalls. Kyiv's military intelligence and defense forces reported hitting the Saratov oil refinery, the Engels strategic air base, and an oil depot in Kaluga Oblast, among other targets."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Ukrainian reporting indicates the ELOU-AVT-6 primary processing unit at the Saratov refinery — capacity roughly 7 million tonnes a year — was set ablaze.",
+            "Engels hosts Tu-95MS and Tu-160 bombers Russia uses to launch cruise-missile salvos against Ukraine; a fire was reported at the base.",
+            "Overhead imagery is consistent with fire damage at the Saratov complex, matching Ukrainian battle-damage claims.",
+            "Independent conflict trackers assess Russia's spring-summer offensive has made no operationally significant gains roughly two and a half months in, while Moscow exploits Ukraine's Patriot interceptor shortage with large ballistic and drone strikes on Kyiv Oblast."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the campaign raises Russian fuel and refining costs and complicates its long-range strike operations, reinforcing the case that air-defense resupply — Patriot interceptors in particular — is Kyiv's binding constraint. We expect Russian retaliation against Ukrainian energy and grid targets in the coming days."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "China Extends Coast Guard Patrols East of Taiwan; US Calls Activity 'Deeply Destabilizing'",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Beijing is working to normalize a law-enforcement presence in waters east of Taiwan to assert jurisdiction across the Western Pacific — coercion deliberately kept below the threshold of armed force. A China Coast Guard formation intensified patrols there over the past several days, and Taipei deployed vessels to monitor them."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The US called the patrols \"deeply destabilizing\" and urged Beijing to end its pressure campaign against Taipei.",
+            "The activity extends a pattern Beijing began in June with its first \"law enforcement operation\" east of the island, which officials in the region describe as an attempted \"new normal.\"",
+            "Taiwan's Coast Guard Administration characterized the patrols as \"fake law enforcement, real expansion of power\"; National Security Council chief Joseph Wu called for a coordinated regional response.",
+            "We see the eastern approaches as significant because they rehearse encirclement and test allied reactions on the side of the island facing the Pacific and US reinforcement routes."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the question is whether allies — Japan and the Philippines in particular — coordinate a common response to gray-zone activity that stops short of provoking a crisis. We expect Beijing to sustain and gradually widen the patrols rather than escalate abruptly."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from ONI, DIA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "US Frontier-AI Security Framework Activates, Adding Classified Cyber Benchmarking",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the activation this weekend of the US voluntary pre-release review framework for frontier AI models — the mechanism directed under the June executive order and due to stand up by 1 August — is a modest but strategically meaningful step to give the government early insight into advanced models' cyber capabilities. This is a governance and access measure, not evidence of a capability jump; we see no indication of recursive self-improvement."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Developers are asked to submit cutting-edge models to federal agencies roughly 30 days before public release for voluntary security review.",
+            "The framework establishes a classified benchmarking process for advanced cyber capabilities, led by NSA with Treasury and CISA roles.",
+            "The measure follows warnings from allied intelligence services that AI models capable of materially uplifting cyber operations are \"months away.\"",
+            "Because participation is voluntary, we assess the government's leverage is limited near-term and depends on industry uptake."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the value is pre-emptive: identifying exploitable weaknesses before a capable model ships, in a race where China is fielding its own frontier systems. Watch whether uptake is broad enough to be meaningful and whether pressure builds to make elements mandatory."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, DHS (CISA), OSTP, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "<b>OPEC+ eases the taps for September.</b> Producers meeting virtually on 2 August agreed a further output increase of roughly 188,000 barrels per day for September, unwinding more of their voluntary cuts. The move lands against a July in which crude rose more than 20 percent — its strongest month since March — on the Hormuz closure and Red Sea disruption. We assess the increase is calibrated to defend market share and cool prices without collapsing them, and that the geopolitical risk premium, not the quota, will drive prices near-term."
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "<b>Mass-casualty drone strike in Darfur.</b> At least 37 people were killed in a drone strike on a court in North Darfur, per Sudanese reporting, the latest in a war that has produced repeated attacks on civilian sites. We assess the strike fits the pattern of intensifying long-range attacks by the warring parties and reinforces the case that Sudan's conflict remains among the world's most lethal, with limited prospect of near-term de-escalation."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, State INR, DIA, and open sources."
+    }
+  ]
+}
