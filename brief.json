@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-04",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Trump pauses strikes as Tehran pursues a separate Hormuz arrangement through Oman; oil falls." },
+    { "tag": "RED SEA", "summary": "Saudi-led maritime coalition takes shape as the Houthi blockade throttles Bab el-Mandeb traffic." },
+    { "tag": "ISRAEL-GAZA", "summary": "Fresh Israeli strikes imperil the fragile Hamas disarmament framework ahead of a cabinet session." },
+    { "tag": "CHINA-PHILIPPINES", "summary": "PLA surges bombers and an amphibious group to Scarborough Shoal and threatens Manila." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Russia sustains its overnight drone campaign as Ukraine's interceptor stocks thin." },
+    { "tag": "ISRAEL", "summary": "A public civil-military rupture over the West Bank command exposes strain at the top of Israel's defense establishment." },
+    { "tag": "NOTES", "summary": "US-Japan yen intervention; Pentagon hands off the Ukraine assistance command; famine warning in Sudan." }
+  ],
+  "articles": [
+    {
+      "headline": "Trump Pauses Iran Strikes as Tehran Seeks Separate Hormuz Deal Through Oman",
+      "blocks": [
+        { "type": "para", "text": "We assess that the pause President Trump ordered on 2 August has, for now, arrested the slide toward a broader US-Iran war over the Strait of Hormuz, but that the underlying crisis remains unresolved and highly reversible. The President said he called off a planned strike on Iranian energy infrastructure after appeals from Saudi Arabia, the United Arab Emirates, Qatar, and Iran itself; Brent crude fell roughly 5 percent on 3 August, to about $84 a barrel, on the news. We judge the de-escalation is tactical on both sides rather than a settlement." },
+        { "type": "bullets", "items": [
+          "Tehran continues to deny it is negotiating with Washington. Foreign Minister Abbas Araghchi says talks are instead with <b>Oman</b> and are in their \"final stages\" on a temporary maritime route through Hormuz &mdash; one in which Iran would control inbound traffic and Muscat would clear outbound vessels after notifying Tehran.",
+          "We assess Iran's aim is to preserve the appearance of sovereign control over the strait while avoiding the economic strangulation and military escalation a full closure would invite. An Omani-brokered corridor lets Tehran claim it, not Washington, sets the terms of passage.",
+          "The arrangement, if concluded, would reopen the chokepoint without a direct US-Iran accord &mdash; leaving the nuclear file untouched and the ceasefire that collapsed in June unrestored.",
+          "Domestic pressure on Araghchi is building: press reporting indicates lawmakers in Tehran are assembling grounds to seek his impeachment, which we assess reflects hardliner resistance to any accommodation, even an indirect one."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the central question is whether an Oman-mediated corridor genuinely restores the free flow of oil or simply institutionalizes Iranian leverage over a waterway that carries roughly a fifth of global crude. NSA reporting corroborates that the decision to hold the strike was taken at the most senior level in response to Gulf-partner appeals. We expect the next inflection point to be whether Iran actually permits normal transit once a deal is announced; renewed harassment of shipping, or a lapse in the talks, would likely reopen the case for US strikes on short notice." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NSA, DIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Saudi-Led Maritime Coalition Takes Shape as Houthi Blockade Throttles the Red Sea",
+      "blocks": [
+        { "type": "para", "text": "We assess that Saudi Arabia's push to stand up a multinational maritime coalition marks a significant regional realignment, driven by a Houthi campaign that has effectively closed the southern Red Sea to Saudi-linked shipping. Riyadh convened representatives of roughly 50 states, and the Saudi Defense Ministry says 14 have affirmed support &mdash; among them Turkey, Egypt, Pakistan, Jordan, Bahrain, Qatar, Djibouti, and Somalia &mdash; to secure the Bab el-Mandeb Strait, the Red Sea, and the Gulf of Aden." },
+        { "type": "bullets", "items": [
+          "The trigger is Iran's Yemeni proxy: after Riyadh rerouted crude to Red Sea ports to bypass the Hormuz crisis, the Houthis declared a \"maritime ban\" on Saudi tankers on 20 July and have since struck several vessels, including the tankers <i>Encelia</i> and <i>Layla</i>, with missiles and drones.",
+          "The blockade is biting. Transit through Bab el-Mandeb has fallen to its lowest level in months &mdash; on some days only a handful of cargo vessels &mdash; as insurers and operators steer clear of Saudi-associated cargoes.",
+          "The bloc's composition is as notable as its mission: it aligns Sunni Arab states with Turkey and Pakistan in a Saudi-led security structure that operates alongside, but separate from, the US Fifth Fleet.",
+          "Two consequential holdouts &mdash; Oman and the UAE &mdash; underscore the limits. Muscat is protecting its mediator role between Riyadh and the Houthis and between Washington and Tehran; Abu Dhabi retains its own differences with Riyadh over Yemen."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, a capable Gulf-Arab maritime coalition could ease pressure on US naval assets stretched across two chokepoints at once, but a parallel Saudi-led structure also dilutes Washington's role as the region's security guarantor. Overhead imagery shows Saudi tankers diverting and holding off Red Sea ports rather than running the strait. We expect the coalition's credibility to hinge on whether it can actually escort and defend shipping; absent that, it risks becoming a declaratory body while the Houthis continue to set the terms in the Bab el-Mandeb." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, State INR, and open sources."
+    },
+    {
+      "headline": "Fresh Israeli Strikes Imperil the Fragile Gaza Disarmament Framework",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel's intensified strikes in Gaza over the past 24 hours have cast serious doubt on the disarmament-and-withdrawal framework the White House touted last week, and that the plan's near-term survival is uncertain. Israeli strikes killed at least 18 Palestinians across Gaza City, Deir al-Balah, and Khan Younis on 2&ndash;3 August &mdash; the highest daily toll in weeks &mdash; even as Hamas has conditionally agreed to disarm." },
+        { "type": "bullets", "items": [
+          "The sequencing is the sticking point: Israel insists on \"genuine\" Hamas disarmament <i>before</i> it withdraws from the current \"yellow line,\" while Hamas and mediators read the framework as reciprocal and phased.",
+          "The Israeli government is divided. National Security Minister Itamar Ben-Gvir has called the plan \"unacceptable,\" and Prime Minister Netanyahu's security cabinet was set to convene to weigh the agreement and the parallel Iran tensions.",
+          "The monitoring body established under the plan &mdash; the so-called Board of Peace &mdash; has urged de-escalation, and the US envoy team says it is \"working around the clock\" to keep the framework alive.",
+          "Israeli public opinion is souring on the war's stated aims: a poll released 3 August found 62 percent of Israelis believe Netanyahu's promised \"total victory\" will never be achieved."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the risk is that a US-branded framework collapses in public, damaging the Administration's credibility as broker just as it leans on the same Gulf partners over Hormuz. We assess the coming cabinet decision is the key variable: a move to condition or delay withdrawal would likely stall implementation, while continued strikes at this tempo make it harder for Hamas to sell disarmament to its own ranks." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Beijing Surges Bombers to Scarborough Shoal and Threatens Manila",
+      "blocks": [
+        { "type": "para", "text": "We assess that China's weekend show of force around Scarborough Shoal is a calibrated escalation meant to punish Manila for its latest legal move and to normalize a heavier PLA presence at the disputed feature, short of seizing it. The PLA Southern Theater Command surged an amphibious group and maritime-strike aircraft to the shoal, roughly 120 nautical miles off Luzon, and paired the drills with a threat of a \"head-on blow\" against the Philippines." },
+        { "type": "bullets", "items": [
+          "Open-source reporting indicates the sortie included at least two H-6K bombers armed with supersonic YJ-12 anti-ship cruise missiles and a KJ-500 early-warning aircraft &mdash; a package tailored to signal an anti-ship strike capability against Philippine or allied vessels.",
+          "The immediate trigger was Manila's deposit of a nautical chart with the United Nations formalizing baselines around Scarborough Shoal, which Beijing calls \"illegal and invalid.\" Taiwan, which also claims the feature, restated its own competing claim.",
+          "Manila is contesting Beijing's account. Philippine maritime officials say their forces observed Chinese vessels in the area but did not detect the navy-air combat drills China advertised, calling those claims \"not credible\" &mdash; a reminder that both sides are waging an information fight alongside the maritime one."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, the episode tests the US-Philippine Mutual Defense Treaty at a moment when US naval attention is fixed on the Middle East. We judge Beijing is probing for daylight between Washington and Manila and calibrating to stay below the threshold that would trigger a treaty response. We expect continued gray-zone pressure &mdash; coast guard and \"law enforcement\" operations rather than overt seizure &mdash; with the risk of miscalculation rising each time bombers and warships crowd the same water." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, Navy intelligence, INR, and open sources."
+    },
+    {
+      "headline": "Russia Sustains Overnight Drone Campaign as Ukraine's Interceptors Thin",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia is maintaining a high-tempo nightly strike campaign designed to exhaust Ukraine's air defenses and grind down civilian morale, and that Ukraine's thinning interceptor stocks are the more consequential trend line than any single night's damage. Overnight into 4 August, Russia launched some 136 drones; Ukraine reported downing 117, with lethal leakers striking Sumy and Mykolaiv." },
+        { "type": "bullets", "items": [
+          "Casualties from the latest wave: three killed in a strike on a residential complex in Sumy, and one killed with seven wounded in a drone attack on Mykolaiv. Earlier on 3 August, a strike on a gas station near Kryvyi Rih killed three, including a child.",
+          "The interceptor math is the concern. On 1 August, Russia put 27 ballistic missiles over Kyiv and Ukraine downed only one, citing interceptor shortages &mdash; a gap that ballistic threats exploit far more than slower drones.",
+          "Ukraine continues to hit back asymmetrically: Kyiv says its <i>Magura</i> naval drone struck Russian ground targets in Crimea for the first time, extending the reach of a system built to sink ships."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the binding constraint on Ukraine's defense is increasingly the supply of high-end interceptors, especially against ballistic missiles &mdash; a decision point that recurs each time stocks draw down. We expect Russia to keep pressing the nightly campaign through the summer to maximize pressure ahead of any diplomatic opening, betting that Ukraine cannot sustain the current intercept rate without additional Western air-defense munitions." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Public Civil-Military Rupture Over the West Bank Strains Israel's Defense Establishment",
+      "blocks": [
+        { "type": "para", "text": "We assess that Defense Minister Israel Katz's extraordinary public clash with the Israeli military over the West Bank command has exposed real strain at the top of Israel's defense establishment and strengthened the hand of the far right at a delicate moment for US-brokered diplomacy. Katz announced on live television that he was replacing the Israel Defense Forces' Central Command chief, Major General Avi Bluth, then reversed himself the next day after meeting settler leaders, with the IDF stating Bluth remains in his post." },
+        { "type": "bullets", "items": [
+          "The episode &mdash; a minister announcing the removal of a serving general on air, without notifying the army chief, then backtracking &mdash; is a striking breach of Israel's civil-military norms and drew condemnation from the opposition and celebration on the settler right.",
+          "It unfolds against a broader push to expand operations and settlement in the West Bank, and amid reported friction between the political leadership and Central Command over how far to escalate there.",
+          "We assess the reversal reflects the leverage of settler and far-right constituencies over the governing coalition, whose support Netanyahu needs to survive politically."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, turbulence in the Israeli chain of command and an emboldened annexationist wing complicate an already fragile Gaza framework and raise the risk of a West Bank flare-up that the United States would be pressed to manage. We judge the immediate damage is to the professional standing and predictability of Israel's defense leadership &mdash; a factor US commanders weigh in day-to-day coordination." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>United States/Japan &mdash; Rare joint yen intervention.</b> Tokyo and Washington confirmed on 3 August a coordinated foreign-exchange intervention &mdash; the first joint action by the two governments since 2011 &mdash; to buy yen and curb what officials called \"disorderly\" currency movements. The yen had weakened to about 163.7 per dollar, near a four-decade low, before strengthening to roughly 157.6. Treasury Secretary Scott Bessent and Japanese Finance Minister Satsuki Katayama both confirmed the move and signaled readiness to act again. We assess the intervention is as much a political signal of US-Japan alignment as a market operation, and that its durability depends on the underlying rate and trade dynamics driving yen weakness." },
+        { "type": "para", "text": "<b>NATO/Ukraine &mdash; Pentagon to hand off the aid command.</b> Reporting this week indicates the Pentagon will relinquish leadership of the Security Assistance Group-Ukraine in Wiesbaden, Germany &mdash; which coordinates weapons deliveries, training, and logistics &mdash; to a NATO ally over roughly a year, while keeping a US deputy through European Command. Officials frame it as long-planned \"burden-shifting\" consistent with the National Defense Strategy. We assess the practical effect is modest in the near term but signals a continued US intent to move the coordinating role onto European allies." },
+        { "type": "para", "text": "<b>Sudan &mdash; Famine warning amid the El-Obeid siege.</b> Relief organizations warn that parts of Sudan face imminent famine, with an estimated 500,000 people trapped under a Rapid Support Forces siege at El-Obeid and cholera spreading among displaced populations. The humanitarian trajectory continues to worsen with limited international attention; we flag it as a slow-moving crisis with potential to generate new displacement and regional spillover." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, DIA, State INR, CIA, and open sources."
+    }
+  ]
+}
