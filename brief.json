@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-05",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Mediators near an interim deal to reopen the Strait; we judge any understanding will be narrow and reversible." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Deep-strike exchange kills at least nine; neither side signals de-escalation." },
+    { "tag": "ISRAEL-GAZA", "summary": "Netanyahu conditions further pullback on Hamas disarmament, slowing the Board of Peace plan." },
+    { "tag": "ISRAEL-WEST BANK", "summary": "Israel widens its northern operation as settler violence turns on a senior IDF commander." },
+    { "tag": "CHINA-TAIWAN", "summary": "Han Kuang war games open with first-ever drills to disperse arms production." },
+    { "tag": "GLOBAL ENERGY", "summary": "Oil falls on Hormuz optimism even as US inflation runs at a three-year high." },
+    { "tag": "NOTES", "summary": "Sudan's El-Obeid siege; a cyber threat roundup; Europe's fire-and-heat crisis." }
+  ],
+  "articles": [
+    {
+      "headline": "Mediators Near Interim Deal To Reopen Hormuz; We Judge Any Understanding Will Be Narrow and Reversible",
+      "blocks": [
+        { "type": "para", "text": "We assess that Oman- and Qatar-brokered talks to restore safe transit through the Strait of Hormuz are closer to an interim arrangement than at any point since the waterway was disrupted this summer, but we judge that a limited, reversible understanding on shipping is far more likely than a durable settlement of the underlying US-Iran confrontation. As of this morning the parties had not closed the deal." },
+        { "type": "bullets", "items": [
+          "Secretary of State Rubio said on 4 August that talks between Iran and Oman on the strait had made progress &ldquo;but not finality yet,&rdquo; while Treasury Secretary Bessent told CNBC there was &ldquo;a chance we may have a deal today or tomorrow.&rdquo; Qatar said an interim proposal had been drafted; Qatar, Oman, and Pakistan are carrying messages between Washington and Tehran.",
+          "President Trump again held off on strikes to preserve the diplomatic track, saying he wanted to give Tehran &ldquo;every last chance before decapitation.&rdquo; We count this as at least the fifth threat-then-standdown cycle since April, a pattern that has repeatedly moved markets without resolving the dispute.",
+          "Markets read the signals as de-escalatory: Brent fell more than 4 percent to below $80 a barrel on 4 August. We assess prices remain a live barometer of the talks and would spike again on any renewed incident in or near the strait.",
+          "For Washington, the near-term question is whether an understanding covers only the safety of transit or also creates a channel on the larger nuclear file. A decision point comes if Tehran conditions transit guarantees on sanctions relief."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The nuclear file remains the more consequential and less tractable problem. We assess the IAEA still has no meaningful access to Iran's declared stocks, leaving the Agency&mdash;and us&mdash;without independent visibility into material of direct weapons relevance." },
+        { "type": "bullets", "items": [
+          "The IAEA has been without access to Iran's declared inventories since inspectors withdrew after the June 2025 strikes&mdash;now well over a year. The roughly 440 kilograms of uranium enriched to 60 percent that Iran had amassed before those strikes remains unaccounted for in Agency reporting, and the status of the underground facility Iran declared at Isfahan is unverified.",
+          "We judge a shipping deal would not by itself constrain enrichment or restore inspections; conflating the two would be a mistake. What to watch: any Iranian offer to readmit inspectors, which would be the first real signal of a broader opening.",
+          "Liaison reporting corroborates that Omani intermediaries relayed Washington's latest terms to Tehran this week."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, NSA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Long-Range Strikes Between Russia and Ukraine Intensify; Neither Side Signals De-escalation",
+      "blocks": [
+        { "type": "para", "text": "We assess that the deep-strike war between Russia and Ukraine escalated further overnight, with the exchange killing at least nine people, and that Kyiv's campaign against Russian logistics and refining is maturing even as Moscow sustains a record pace of missile and drone attacks. We see no indication either side intends to ease in the near term." },
+        { "type": "bullets", "items": [
+          "Ukrainian drones struck warehouse and energy targets deep inside Russia early on 4 August. A strike on a Wildberries logistics warehouse in the Moscow region killed five and wounded about ten, part of a wider set of overnight attacks; the Syzran refinery in Samara Oblast was reported burning. Overhead imagery shows fresh fire damage consistent with a refinery strike.",
+          "Russian strikes killed at least four in Ukraine, including three at a gas station in Shyroke, Dnipropetrovsk Oblast&mdash;among them a rescue worker and his eight-year-old son. Moscow also said it targeted Ukrainian cargo shipping in the Black Sea, keeping pressure on Kyiv's export corridor.",
+          "The tempo is the story: Russia set wartime records in July, launching 381 missiles of all types&mdash;an average of just over 12 a day, the highest monthly total and daily rate of the full-scale war.",
+          "For Washington, the pace continues to draw down Ukrainian air-defense interceptor stocks, and Kyiv's strikes on refining could begin to bite Russian fuel output. We expect both trends to sharpen allied debate over resupply and over secondary pressure on buyers of Russian crude."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Israel Conditions Further Gaza Pullback on Hamas Disarmament, Slowing the Board of Peace Plan",
+      "blocks": [
+        { "type": "para", "text": "We assess that Prime Minister Netanyahu's insistence on 4 August that Israel will not withdraw beyond its current lines in Gaza until Hamas is &ldquo;completely disarmed&rdquo; hardens Israel's position and pushes the second phase of the October 2025 framework toward stalemate. We judge implementation is likely to slip absent renewed US pressure on the sequencing." },
+        { "type": "bullets", "items": [
+          "Netanyahu said Israel has not agreed to the Board of Peace's disarmament plan and would not pull back until Hamas lays down its weapons. Reporting indicates the Board of Peace, after meeting him, shifted its terms so that any IDF pullback beyond the Yellow Line would follow&mdash;not precede&mdash;disarmament.",
+          "The dispute is now over sequencing: who moves first, disarmament or withdrawal. We assess that ordering, more than the end-state, is the binding constraint on the transition to a vetted Palestinian administration.",
+          "Domestic pressure is building. Opposition figure Naftali Bennett accused Netanyahu of having &ldquo;given the Qataris the keys to Gaza&rdquo; and of giving up on defeating Hamas. In Gaza, continued Israeli strikes have left many skeptical the roadmap will hold.",
+          "For Washington, the standing up of the US-backed Board of Peace is the mechanism at risk. What to watch: whether the administration leans on Israel over sequencing or on Hamas's guarantors&mdash;Qatar, Egypt, Turkey&mdash;to compel disarmament."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Israel Widens West Bank Operation as Settler Violence Turns on a Senior Commander",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel is expanding a self-described &ldquo;significant counterterrorism operation&rdquo; in the northern West Bank, effectively besieging Nablus, even as a surge in settler violence&mdash;now aimed by name at a senior Israeli commander&mdash;exposes an internal rift over the campaign. We judge the operation raises the risk of a sustained second front that would compete with Gaza for IDF attention." },
+        { "type": "bullets", "items": [
+          "Overnight on 4 August, settlers set vehicles ablaze near Talfit and Jalud, south of Nablus, and left graffiti reading &ldquo;Revenge&rdquo; and &ldquo;Avi, go home&rdquo;&mdash;an apparent threat against Central Command chief Major General Avi Bluth, a striking sign of settler defiance of the military.",
+          "The Israeli military has reinforced the northern West Bank ahead of the operation, redeploying troops from Gaza and southern Lebanon, with at least five companies sent into the area and Nablus largely sealed. The current wave follows deadly clashes near the town of Tal on 24 July.",
+          "For Washington, settler attacks on Palestinians and now on Israeli commanders complicate US messaging on the Gaza transition and on West Bank stability. We expect continued friction between the government and the security establishment over how hard to press the campaign."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Taiwan Opens Han Kuang War Games With First-Ever Drills To Disperse Arms Production",
+      "blocks": [
+        { "type": "para", "text": "We assess that Taiwan's 42nd Han Kuang exercise, which opens today and runs through 14 August, is being pitched squarely at resilience and endurance rather than set-piece defense, and that its new focus on protecting and dispersing defense manufacturing reflects a sober reading of how a Chinese campaign would try to strangle the island's war economy. We judge the drills signal resolve and preparation, not a change in the near-term threat picture." },
+        { "type": "bullets", "items": [
+          "For the first time, the exercise will rehearse relocating weapons production lines&mdash;including from the military's 202nd Arsenal in Taipei&mdash;and converting civilian factories to military use, to sustain output if China strikes supply hubs.",
+          "The scenario has Beijing using ostensibly routine military drills to mask preparations for an invasion, prompting Taiwan's forces to raise readiness and run rapid-response drills&mdash;a direct answer to the gray-zone pressure Taipei has faced.",
+          "The exercise lands as Taiwan's legislature has approved some $25 billion in additional defense spending through 2033, underscoring a shift toward a protracted-war footing.",
+          "For Washington, Taipei's emphasis on industrial survivability and stockpiles aligns with US urging to prepare for a prolonged fight and to harden critical nodes. We expect Beijing to answer with stepped-up air and naval activity and sharp rhetoric during the drill window; the key indicator to watch is whether PLA activity exceeds its now-routine pressure pattern."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Oil Falls on Hormuz Optimism Even as the Gulf Shock Keeps US Inflation Elevated",
+      "blocks": [
+        { "type": "para", "text": "We assess that energy markets are pricing in a partial easing of the Gulf crisis&mdash;crude fell sharply on 4 August on signs of a Hormuz transit deal&mdash;but that the inflationary aftershock of this summer's supply disruption is still working through the US economy, keeping price pressures the President's economic team must weigh against a slowing outlook." },
+        { "type": "bullets", "items": [
+          "Brent dropped more than 4 percent to below $80 on 4 August on progress toward reopening the strait. The move partly unwinds spikes seen when tankers were attacked and Washington pulled a sanctions waiver on Iranian oil earlier in the summer.",
+          "Supply is also loosening from the producer side: OPEC+ agreed on 2 August to a further output increase for September, continuing the unwind of its voluntary cuts.",
+          "Even so, the earlier energy shock pushed US headline inflation to a multiyear high, complicating monetary policy and leaving the Federal Reserve balancing price stability against growth. We assess sustained relief depends on the Hormuz understanding actually holding.",
+          "For Washington, a durable reopening would ease a politically sensitive inflation problem; a collapse in the talks would send prices&mdash;and pump costs&mdash;back up quickly. The near-term signal to watch is whether the interim proposal is announced and whether transit volumes recover."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan &mdash; RSF tightens the noose on El-Obeid.</b> We assess the Rapid Support Forces are moving toward a decisive assault on El-Obeid, the North Kordofan capital and a hub linking Darfur to the Nile Valley, with roughly half a million people trapped and the city encircled on three sides while RSF drones interdict the eastern approaches. The UN has warned of an impending humanitarian catastrophe. The threat comes days after an RSF-area drone strike on 2 August killed at least 35 at a traditional court in Garra al-Zawaya, North Darfur. We judge a fall of El-Obeid would extend RSF control across Kordofan and deepen Sudan's partition." },
+        { "type": "para", "text": "<b>Cyber &mdash; ransomware surge and a Chinese mobile campaign.</b> Open reporting indicates the INC ransomware operation has accelerated since the start of August, with hundreds of listed victims and suspected exploitation of newly disclosed vulnerabilities; a breach of the UK's Police National Legal Database is reported to have exposed contact data on more than 100,000 police and justice personnel. Separately, a Chinese-speaking actor is running a campaign against Apple iOS devices using a leaked exploit kit. We assess the mix underscores persistent criminal and state-linked pressure on Western networks; none of the incidents so far indicates a strategic-level compromise." },
+        { "type": "para", "text": "<b>Europe &mdash; fire and heat strain the continent.</b> Greece is battling wind-driven wildfires west of Athens that have destroyed more than 100 homes and forced fresh evacuations; France is guarding a large burn scar and Spain's major fires have stopped advancing. The season follows record heat and drought&mdash;England and Wales recorded their driest July in nearly two centuries. We assess the strain is primarily a civil-protection and economic burden for now, with limited direct security implications, but it is compounding energy and water stress across southern Europe." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, DHS I&amp;A, and open sources."
+    }
+  ]
+}
