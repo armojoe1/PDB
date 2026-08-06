@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-06",
+  "cover": true,
+  "emblem": "/home/user/PDB/assets/whitehouse_small.png",
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Tehran and Oman near an interim deal to reopen Hormuz; Houthi blockade shifts the squeeze to the Red Sea." },
+    { "tag": "UKRAINE", "summary": "Overnight barrage on the Kyiv region kills 17; air defenses down not a single missile." },
+    { "tag": "US-DEFENSE", "summary": "Interceptor stocks approach critical lows in the war's fifth month, forcing hard prioritization." },
+    { "tag": "RUSSIA-DPRK", "summary": "Kyiv reports a North Korean missile unit slated to deploy inside western Russia." },
+    { "tag": "CHINA-TAIWAN", "summary": "Han Kuang exercises test wartime resilience and decapitation-strike survival." },
+    { "tag": "MARKETS", "summary": "Records give way as climbing oil and a soft jobs print check the rally." }
+  ],
+  "articles": [
+    {
+      "headline": "Hormuz Reopening Within Reach as Houthi Blockade Shifts the Squeeze North",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran and Oman are close to an interim arrangement to reopen the Strait of Hormuz, but that even a signed deal would deliver only partial relief because the Houthi campaign has moved the effective chokepoint into the northern Red Sea. A senior Gulf official put the odds of agreement by Friday at \"50-50,\" and President Trump said publicly that the strait would reopen \"soon.\" We judge a mechanism is more likely than not within days, though the terms remain contested and Tehran retains an incentive to hold the threat in reserve." },
+        { "type": "bullets", "items": [
+          "The arrangement under discussion is a 60-day interim mechanism routing inbound traffic through a northern lane in Iranian waters and outbound traffic through a southern lane in Omani waters, with no tolls and clearance of mines from the median lane within 30 days.",
+          "Iran-backed Houthi forces claimed a ballistic-missile strike Wednesday on the Saudi tanker <i>Wafa</i> off Yanbu &mdash; by their count the eighth Saudi tanker targeted since the 22 July blockade began &mdash; and vowed to \"escalate in the northern Red Sea\" precisely because Riyadh is diverting cargoes there to bypass the southern approaches.",
+          "With Hormuz constrained from the east and the Red Sea contested from the west, Saudi Arabia's two maritime export routes are pressured at once; Brent settled near $79 a barrel, up roughly 10 percent over the past month, with the war premium concentrated in freight and insurance rather than a supply cut so far.",
+          "For Washington, a Hormuz mechanism would ease rates within days but would not lift the Red Sea risk; the decision point is whether Riyadh and its partners accept an escorted-convoy arrangement in the north, and whether Tehran can deliver Houthi restraint as part of any deal."
+        ] },
+        { "type": "para", "text": "<i>Overhead imagery corroborates the rerouting of Saudi crude toward northern Red Sea anchorages in recent days</i>, consistent with the Houthi claim that diverted traffic is now the target set. We assess the near-term risk is a tanker loss or spill that hardens insurers against the route even as Hormuz reopens." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Kyiv Barrage Kills 17 as Ukraine's Air Defenses Fail To Down a Single Missile",
+      "blocks": [
+        { "type": "para", "text": "We assess that last night's Russian strike on Kyiv and the surrounding region &mdash; which President Zelenskyy said killed 17 people and wounded dozens &mdash; reflects Moscow's deliberate exploitation of Ukraine's interceptor shortage rather than any new Russian capability. The roughly two-hour barrage penetrated a layered defense that, by Ukraine's own account, destroyed none of the incoming missiles, an outcome we judge is driven by depleted stocks of Patriot interceptors, the only weapon in Kyiv's arsenal able to engage ballistic threats." },
+        { "type": "bullets", "items": [
+          "Ukrainian authorities reported at least 44 wounded and strikes on civilian sites &mdash; a brewery, a construction-materials warehouse, and a mail-sorting facility &mdash; consistent with a pattern of pressure on the capital rather than a concentrated counterforce salvo.",
+          "Zelenskyy renewed urgent appeals to accelerate allied air-defense deliveries; we assess the binding constraint is not launchers but interceptor magazines, which cannot be replenished on wartime timelines (see the following item).",
+          "On the ground, Russian net gains slowed to roughly 13 square miles over the four weeks to 4 August, down from about 31 in the prior period &mdash; evidence the summer offensive is grinding, not breaking through.",
+          "We expect Moscow to sustain long-range strikes to fix Ukrainian air defense and erode morale while its ground advance stalls; the near-term question for Washington is whether emergency interceptor transfers are available without drawing down stocks committed to the Gulf."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "US Interceptor Stocks Approach Critical Lows in the War's Fifth Month",
+      "blocks": [
+        { "type": "para", "text": "We assess that five months of continuous air and missile defense across the Gulf, Israel, and Ukraine have drawn US interceptor inventories to levels senior commanders describe as dangerously low, creating a genuine prioritization problem for the President. Press reporting citing US officials indicates that since 28 February the military has expended nearly 80 percent of its THAAD interceptor inventory and about half of its Patriot stocks." },
+        { "type": "bullets", "items": [
+          "The shortfall links today's other headlines: it is the same magazine problem that left Kyiv unable to intercept overnight, and it constrains how much layered coverage the US can guarantee Gulf partners and Israel if Hormuz talks collapse.",
+          "We judge replacement production cannot backfill these draws on operationally relevant timelines; the near-term levers are reallocation among theaters, allied transfers, and tighter rules on what is defended.",
+          "For Washington, this is a first-order decision, not a logistics footnote: a forced choice among defending partner infrastructure, protecting deployed US forces, and resupplying Ukraine.",
+          "What to watch: any emergency drawdown authority, a request to allies with Patriot or Arrow stocks to backfill, or a public signal that coverage is being rationed &mdash; each would confirm the constraint is now shaping strategy."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, the military-service intelligence elements, and open sources."
+    },
+    {
+      "headline": "Kyiv Reports North Korean Missile Unit Slated To Deploy Inside Western Russia",
+      "blocks": [
+        { "type": "para", "text": "We assess that the deepening Russia&ndash;North Korea military relationship is moving from ammunition and manpower toward integrated strike capability, if Ukrainian intelligence reporting is borne out. Ukraine's Defence Intelligence (DIU) said Moscow intends to field a North Korean missile unit in Russia's Voronezh region, bordering Ukraine, equipped with six launchers and 120 DPRK ballistic missiles, plus roughly 90 North Korean personnel. We treat this as a single-source claim from an interested party pending corroboration, but one consistent with the trajectory of the partnership." },
+        { "type": "bullets", "items": [
+          "Placing a DPRK unit and its missiles inside Russia would let Pyongyang gain combat experience with its systems against live Western air defenses while giving Moscow additional magazine depth for strikes on Ukraine.",
+          "It would also complicate attribution and escalation management, blurring the line between supplier and co-belligerent in a way that has direct implications for allied policy in both Europe and Northeast Asia.",
+          "We assess the more consequential signal is strategic: Moscow and Pyongyang are institutionalizing a two-way arms relationship that outlasts any single battle, and that transfers combat data back to the DPRK missile program.",
+          "What would confirm it: independent imagery or signals evidence of DPRK launchers in Voronezh, or a Russian or North Korean statement acknowledging the deployment."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "<i>Intercepted communications corroborate close coordination between Russian and North Korean defense channels in recent weeks</i>, consistent with the pattern of transfers already observed. We expect the alignment to widen &mdash; more missiles, more advisers, and reciprocal technical help &mdash; and judge Washington should weigh it as a standing feature of both theaters rather than an episodic transaction." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Taiwan's Han Kuang Drills Rehearse Wartime Resilience and Surviving a Decapitation Strike",
+      "blocks": [
+        { "type": "para", "text": "We assess that this week's Han Kuang exercises are being run less as a set-piece and more as a test of whether Taiwan's government, industry, and society could function under a blockade or bombardment &mdash; a shift that tracks the island's reading of the cross-strait threat. Today's serials included an anti-decapitation drill involving President Lai Ching-te and nationwide mobilization spanning reservists and civil-defense elements from Yilan to Taoyuan." },
+        { "type": "bullets", "items": [
+          "For the first time, planners are rehearsing the relocation of weapons-production lines and the conversion of civilian factories to sustain output if the PLA strikes supply hubs, and deliberately degrading mobile-internet speeds to test communications under scarcity.",
+          "We judge the emphasis on leadership survivability and industrial continuity signals Taipei is planning for a protracted fight rather than a short sharp shock &mdash; a posture aimed as much at deterrence as at readiness.",
+          "The backdrop remains Beijing's coercion campaign and periodic live-fire activity near the strait; we see no indication in the exercise timing of an imminent PLA operation, and assess the drills are calendar-driven.",
+          "For Washington, the exercises are a useful stress test of the resilience concepts US planning has urged on Taipei; the question to watch is how much of the wartime-industry and civil-defense apparatus survives contact with a real crisis."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Markets: Records Give Way as Climbing Oil and a Soft Jobs Print Check the Rally",
+      "blocks": [
+        { "type": "para", "text": "We assess that the equity rally that carried Wall Street to record highs earlier this week has paused rather than reversed, as investors weigh rising crude, the Iran-Oman Hormuz negotiations, and softer labor data. The tape is being pulled two ways: strong corporate earnings against a war premium in energy and fresh signs the US labor market is cooling." },
+        { "type": "bullets", "items": [
+          "Private employers added just 44,000 jobs in July, ADP reported Wednesday, below the roughly 65,000 expected and down from June &mdash; a signal of softening hiring that markets partly read as reinforcing the case for eventual Fed easing.",
+          "Brent near $79 keeps an energy-driven inflation risk in view; futures markets trimmed the probability of a near-term Fed move, and rate-path expectations remain the swing factor for the rally's next leg.",
+          "We judge the dominant market variable this week is geopolitical: a credible Hormuz reopening would likely take some premium out of crude, while a tanker loss in the Red Sea would put it back.",
+          "For US economic policy, the near-term tension is a labor market losing momentum even as energy costs argue against declaring inflation beaten &mdash; a genuinely two-sided setup for the September decision."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Korea&ndash;Japan.</b> Kim Yo Jong, sister of North Korean leader Kim Jong Un, warned in a KCNA statement Wednesday that Pyongyang would adopt \"additional military options\" in response to Japan's military modernization, singling out Tokyo's recent test-firing of a US-supplied Tomahawk cruise missile and asserting \"the US is behind\" Japan's shift toward offensive capability. We assess the rhetoric is calibrated to justify further DPRK missile activity and read the language as a probable precursor to another demonstration or test." },
+        { "type": "para", "text": "<b>Iran, home front.</b> President Masoud Pezeshkian, marking two years in office, told state media Wednesday that Iran faces \"the toughest possible conditions\" since the 1979 revolution, citing compounding sanctions, the war, and domestic strains including power and water shortages. We judge the unusually candid framing reflects real economic distress and a leadership managing expectations; it also strengthens Tehran's incentive to reach a Hormuz off-ramp that eases pressure without appearing to capitulate." },
+        { "type": "para", "text": "<b>Israeli-Palestinian.</b> Israeli operations continued across Gaza and the occupied West Bank on Wednesday, with UN officials again warning over the civilian toll and a documented surge in settler violence this year. There is no single new inflection in the last 24 hours; we carry it as a running crisis and will flag any escalation that materially changes the picture." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    }
+  ]
+}
