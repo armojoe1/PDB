@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-07",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Tehran and Oman near a limited transit deal as Trump plays down munitions strain." },
+    { "tag": "SAUDI ARABIA", "summary": "Riyadh warns of imminent coordinated Houthi and Iraqi-militia strikes on energy sites." },
+    { "tag": "SUNNI BLOC", "summary": "Ankara, Riyadh, and Islamabad sign a mutual-defense pact under the shadow of the Iran war." },
+    { "tag": "UKRAINE", "summary": "Kyiv's interceptor shortage deepens as the Iran war pulls US air-defense stocks east." },
+    { "tag": "DPRK", "summary": "Pyongyang fires a short-range ballistic missile ahead of US-ROK exercises." },
+    { "tag": "GAZA-ISF", "summary": "Uganda clears troops for the Gaza stabilization force, widening the coalition." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran-Oman Transit Deal Nears as US Downplays Munitions Strain",
+      "blocks": [
+        { "type": "para", "text": "We assess that Tehran is close to a limited, time-bound understanding with Oman on a single transit corridor through the Strait of Hormuz, a partial de-escalation that would ease pressure on global energy flows without resolving the underlying conflict. Iranian officials stress the arrangement is not a full reopening of the waterway; press reporting indicates the proposed route would run for only two to four months and remains in final drafting. We judge Tehran is using the corridor talks to buy relief from US strikes while preserving the option to re-escalate." },
+        { "type": "bullets", "items": [
+          "Brent traded near <b>$75</b> a barrel Thursday after three sessions of declines, as markets priced in the prospect of restored flows; we assess prices remain highly sensitive to any breakdown in the corridor talks or a fresh strike.",
+          "President Trump on 6 August said the United States holds \"massive amounts\" of munitions and could sustain the campaign, pushing back on reporting that Pentagon precision-weapons stocks have been drawn down. We assess the stockpile strain is real but not yet operationally limiting.",
+          "Qatar publicly pressed for freedom of navigation and a consensus regional arrangement, reflecting Gulf unease that a bilateral Iran-Oman deal could set precedents over a strait that carries roughly a fifth of world seaborne oil."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the near-term question is whether a narrow transit deal holds long enough to stabilize energy markets before the next incident. We expect Tehran to keep the corridor deliberately fragile as leverage. A decision point comes if Iranian-aligned forces strike shipping or Gulf infrastructure while talks continue, which would likely collapse the understanding and reintroduce a war-risk premium into oil." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Saudi Arabia Braces for Coordinated Strikes on Its Energy Backbone",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran-aligned forces are positioning for coordinated, multi-axis attacks on Saudi Arabia from Yemen and Iraq, and that Saudi and partner intelligence judge civilian and economic sites — including energy infrastructure, ports, and airports — to be the likely targets. A Houthi attack on southern Najran Province on 6 August wounded 11 civilians, which we read as a probing strike ahead of a larger effort." },
+        { "type": "bullets", "items": [
+          "Saudi officials say they anticipate near-simultaneous strikes from the north and south by Iraqi militias and the Houthis, operating under IRGC direction; intercepted communications corroborate coordination at the command level.",
+          "The coalition spokesman confirmed the Najran casualties included Saudi, Yemeni, Egyptian, and Pakistani nationals, underscoring the cross-border spillover risk to Gulf economies and expatriate labor.",
+          "We assess a successful strike on Saudi export or processing infrastructure would spike oil prices and could pull US air and missile-defense assets further into the theater, compounding the interceptor strain elsewhere."
+        ] },
+        { "type": "para", "text": "For Washington, the key risk is a repeat of the 2019 Abqaiq shock under far tenser conditions. We expect Riyadh to lean on US and partner missile defense and to press for pre-emptive strikes on launch sites in Iraq and Yemen; a major hit on energy infrastructure would be the most likely trigger for direct US re-engagement." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Ankara, Riyadh, and Islamabad Sign Mutual-Defense Pact",
+      "blocks": [
+        { "type": "para", "text": "We assess that the joint defense agreement signed 7 August by Turkey, Saudi Arabia, and Pakistan marks a significant consolidation of Sunni-power security cooperation and a hedge by three US partners against the volatility of the Iran war. The pact builds on the September 2025 Saudi-Pakistan mutual-defense agreement and establishes a structured framework for joint exercises, defense-industrial production, technology transfer, and intelligence sharing." },
+        { "type": "bullets", "items": [
+          "The agreement was formalized among Saudi Crown Prince Mohammed bin Salman, Turkish President Erdogan, and Pakistani Prime Minister Shehbaz Sharif, capping nearly a year of negotiations that accelerated as the Iran war exposed Gulf vulnerabilities.",
+          "Regional commentary is already branding the grouping an \"Islamic NATO\"; we judge that characterization overstates its current integration but understates its trajectory, particularly Pakistan's nuclear status and Turkey's defense-industrial base.",
+          "New Delhi is watching warily given the Pakistan dimension; we assess the pact complicates US efforts to keep its partners aligned individually rather than in blocs Washington does not shape."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, the realignment is double-edged: it distributes deterrence burden among capable partners but creates a coordination center outside US control and could entangle nuclear-armed Pakistan in Gulf contingencies. We expect Washington to seek quiet reassurance on the pact's scope while watching whether it extends to nuclear guarantees — the development that would most change the regional balance." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine's Interceptor Shortage Deepens as Air War Escalates",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's air defenses are being progressively overwhelmed as Russia sustains large-scale nightly barrages and Kyiv's stock of Patriot interceptors — its only weapon able to engage Russian ballistic missiles — runs critically low. President Zelensky said on 6 August that allies have delivered only about a third of the air-defense missiles supplied over the same period last year, a shortfall he tied directly to the diversion of US munitions to the Iran war." },
+        { "type": "bullets", "items": [
+          "An overnight barrage on the Kyiv region earlier this week killed 17 and penetrated defenses almost entirely, a pattern we assess Moscow is deliberately exploiting while interceptor supply lags.",
+          "Ukraine continues deep strikes in response, hitting Russian oil-refining capacity more than 1,300 kilometers inside Russia; we judge these raise Moscow's costs but do not offset the defensive gap over Ukrainian cities.",
+          "Ukrainian military intelligence reports a North Korean missile unit deploying to western Russia with as many as 120 ballistic missiles and six launchers, which we assess would further strain Kyiv's interceptor math if committed."
+        ] },
+        { "type": "para", "text": "For Washington, the Iran war and the Ukraine air defense crisis are now competing for the same scarce interceptors and production lines. We expect Kyiv to intensify appeals for Patriot missiles and for European buys of US systems; the decision point is whether the US prioritizes replenishing Ukraine or the Gulf as stocks tighten." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "North Korea Tests Short-Range Missile Ahead of US-ROK Drills",
+      "blocks": [
+        { "type": "para", "text": "We assess that North Korea's launch of a short-range ballistic missile on 6 August, fired from the Wonsan area toward the sea, was a calibrated signal timed to the approach of the annual US-South Korea military exercises later this month. It was Pyongyang's first ballistic launch since late June. State media showed leader Kim Jong Un observing and calling for a more \"deadly and destructive offensive posture.\"" },
+        { "type": "bullets", "items": [
+          "We judge the launch is consistent with Pyongyang's established pattern of protesting the summer drills rather than a signal of imminent escalation; overhead imagery shows no unusual activity at strategic sites.",
+          "The test comes as North Korea deepens its military partnership with Russia, supplying artillery, troops, and — per Ukrainian reporting — missiles for use against Ukraine, giving Pyongyang combat feedback on its systems.",
+          "We assess the Russia relationship is accelerating DPRK missile production and could shorten its path to fielding more reliable, longer-range systems."
+        ] },
+        { "type": "para", "text": "For Washington and Seoul, the near-term watch item is whether Pyongyang follows the exercises with a larger provocation — a longer-range test or a satellite launch. We expect continued short-range testing as a floor, with the Russia pipeline the more consequential long-term concern." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Uganda Clears Troop Deployment for Gaza Stabilization Force",
+      "blocks": [
+        { "type": "para", "text": "We assess that Uganda's parliamentary approval on 6 August to deploy troops to the International Stabilization Force for Gaza modestly widens the coalition behind the US-brokered post-war plan and reflects continued, if halting, momentum toward standing up the force. The 20,000-strong, UN-mandated force stems from the October 2025 Israel-Hamas agreement and is slated to be led by US Major General Jasper Jeffers under the Trump administration's \"Board of Peace\" framework." },
+        { "type": "bullets", "items": [
+          "Uganda joins Morocco, Kosovo, Albania, and Kazakhstan among states publicly committing forces; we assess troop generation remains the plan's central bottleneck.",
+          "Key questions unresolved include command relationships, rules of engagement on Hamas disarmament, and whether major Muslim-majority states will contribute — all of which we judge will shape the force's credibility.",
+          "We assess sustained US political investment will be required to convert pledges into deployed, capable units on a workable timeline."
+        ] },
+        { "type": "para", "text": "For Washington, each new troop pledge strengthens the plan's viability but also deepens US ownership of its outcome. We expect continued incremental commitments; the decisive test is whether the force can deploy with a mandate robust enough to enforce disarmament without becoming a target." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>United States — Fauci contempt vote.</b> A Senate panel voted 6 August to hold former NIAID director Anthony Fauci in contempt of Congress, escalating a long-running oversight fight. We assess the move is primarily political and carries limited near-term legal consequence, but signals continued institutional friction over pandemic-era decisions." },
+        { "type": "para", "text": "<b>DR Congo — Ebola.</b> An Ebola outbreak in the Democratic Republic of the Congo continues to outpace the response, aid officials report. We assess the outbreak remains geographically contained for now but judge weak surveillance and access constraints raise the risk of wider spread; it warrants close monitoring for regional and travel implications." },
+        { "type": "para", "text": "<b>Thailand — shooting.</b> A shooting was reported 7 August in Nonthaburi Province, near Bangkok. Details were still emerging at brief time; we see no current indication of a terrorism nexus and assess it most likely a criminal or personal-dispute incident pending official confirmation." },
+        { "type": "para", "text": "<b>Global public health — mRNA flu vaccine.</b> US regulators approved the first mRNA-based influenza vaccine, cleared for the coming flu season. We flag it as a strategically relevant demonstration of the rapid mRNA platform that underpins US biodefense and pandemic-response capacity." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DHS I&A, and open sources."
+    }
+  ]
+}
