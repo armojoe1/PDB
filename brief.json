@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-08",
+  "cover": true,
+  "toc": [
+    { "tag": "SAUDI-TURKEY-PAKISTAN", "summary": "Trilateral 'Makkah' mutual-defense pact links a NATO member, a nuclear power, and the top oil exporter." },
+    { "tag": "US-RUSSIA", "summary": "Senate passes the Graham Russia-Iran sanctions act, 86-11, with up to 100% secondary tariffs." },
+    { "tag": "IRAN-HORMUZ", "summary": "Tehran hardens transit terms as an Oman-brokered deal to reopen the strait stalls; oil holds in the low $80s." },
+    { "tag": "YEMEN", "summary": "Houthis pre-empt a Saudi-backed offensive with strikes on Marib and Hadramout; Riyadh warns it will respond." },
+    { "tag": "GAZA", "summary": "The Board of Peace envoy presses Netanyahu for a 14-day pause; the coalition right pushes back." },
+    { "tag": "COLOMBIA", "summary": "De la Espriella is sworn in in Cali, swinging Bogota sharply right and threatening the peace framework." },
+    { "tag": "NOTES", "summary": "Ukraine strikes Russian refineries; Zelensky heads to Belgrade; Israeli forces exit a West Bank camp." }
+  ],
+  "articles": [
+    {
+      "headline": "Saudi Arabia, Turkey, and Pakistan Sign Mutual-Defense Pact, Reshaping the Gulf's Security Map",
+      "blocks": [
+        { "type": "para", "text": "We assess that the trilateral mutual-defense treaty signed in Mecca on 7 August is a strategically significant realignment that binds a NATO member, a nuclear-armed state, and the world's largest crude exporter into a single collective-defense commitment, and reflects a deliberate Gulf hedge against reliance on the United States as the sole security guarantor. Crown Prince Mohammed bin Salman, President Erdogan, and Prime Minister Shehbaz Sharif signed the \"Makkah Joint Defense Agreement\" at Al-Safa Palace, declaring that an armed attack on any one of the three \"shall be regarded as an attack against them all.\"" },
+        { "type": "bullets", "items": [
+          "The pact extends to Turkey the bilateral Saudi-Pakistan mutual-defense agreement concluded in September 2025, and follows this year's Israel-Iran war and the still-unresolved standoff over the Strait of Hormuz, which we judge sharpened Riyadh's appetite for a broader deterrent framework.",
+          "The most consequential ambiguity is nuclear: the treaty text is silent on whether Pakistan's arsenal extends a deterrent umbrella to Saudi Arabia. We assess Riyadh will let that ambiguity stand deliberately, as a signal to Iran, rather than seek an explicit nuclear guarantee that would trigger proliferation alarms.",
+          "For Turkey, a NATO member is now party to a mutual-defense commitment outside the Alliance and alongside a nuclear power, a first that we expect will draw scrutiny in Brussels and Washington over Article 5 interoperability and end-use assurances on US-origin systems."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the pact is double-edged: it pools the capabilities of three partners the United States arms and trains, but it also institutionalizes a security architecture in which US participation is optional. We expect the near-term US interest to be understanding the pact's command arrangements and any classified annexes; the key question is whether the three intend an operational alliance with combined planning, or primarily a political-deterrent signal. A decision point comes if a member invokes the clause during a future Iran, Israel, or India contingency." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Senate Passes Graham Russia-Iran Sanctions Act; Secondary-Tariff Authority Now Goes to the House",
+      "blocks": [
+        { "type": "para", "text": "We assess the Senate's 86-11 passage on 7 August of the \"Lindsey O. Graham Sanctioning Russia and Iran Act of 2026\" gives the President broad new economic leverage over Moscow, but the bill's most far-reaching feature, discretionary secondary tariffs of up to 100 percent on states that keep buying Russian energy, points its pressure squarely at China and India and will test the administration's willingness to absorb the trade fallout. The measure, named for the South Carolina senator who died in July and whose sister Darline Graham now fills his seat, cleared with a bipartisan supermajority and moves to the Republican-controlled House." },
+        { "type": "bullets", "items": [
+          "The core mechanism is indirect: rather than sanctioning Moscow alone, it authorizes punitive tariffs on third countries importing Russian oil and gas, chiefly Beijing and New Delhi, making it as much a China-and-India instrument as a Russia one.",
+          "The tariff provisions are the likeliest friction point in the House, where members of both parties have flagged the inflation and supply-chain costs; we judge passage probable but not assured, and the final text may soften the mandatory triggers into presidential discretion.",
+          "Because the authorities are discretionary, their bite depends on the President's evolving posture toward the war. We assess Moscow will read enactment primarily as a signal of US intent and watch whether the tariff triggers are actually pulled before adjusting its own calculus."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the bill hands the executive a lever it can hold in reserve during any negotiating track with Moscow, but using it against China and India would carry costs the administration has so far been reluctant to bear. We expect the next signal to be how quickly the House schedules the measure and whether the White House lobbies to preserve maximum presidential discretion over the tariff switch." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, INR, and open sources."
+    },
+    {
+      "headline": "Iran Hardens Hormuz Transit Terms as Oman-Brokered Reopening Stalls",
+      "blocks": [
+        { "type": "para", "text": "We assess that Tehran is using the Oman-mediated talks to reopen the Strait of Hormuz to lock in de facto recognition of Iranian control over passage, and that a full return to prewar freedom of navigation remains unlikely in the near term. Iranian officials said on 6-7 August that the emerging arrangement, under which ships would enter the Gulf via an Iranian-controlled route and exit through one policed by Oman, will not fully reopen the waterway until the US naval blockade of Iranian ports is lifted." },
+        { "type": "bullets", "items": [
+          "Tehran's proposed conditions are far-reaching: barring US and Israeli-flagged vessels, requiring compensation from states it deems hostile, and levying penalties reported at roughly 20 percent of cargo value for violations, terms Washington and the Gulf states reject as incompatible with freedom of navigation.",
+          "Markets are treating the risk as contained but real: Brent held in the low-to-mid $80s through 7 August, firming modestly on the transit uncertainty rather than spiking, which we read as a bet that some workable arrangement will emerge.",
+          "Overhead imagery indicates commercial tanker throughput remains well below prewar levels, consistent with shippers awaiting clarity before committing to the corridor."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the danger is a precedent in which a chokehold on 20 percent of seaborne oil is administered on Tehran's terms. We assess the US will keep freedom-of-navigation as its red line and treat any Iranian move to formalize a toll-and-vetting regime as unacceptable; a decision point comes if Iran attempts to enforce the vetting conditions against a US-linked hull." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Office of Naval Intelligence, NGA, and open sources."
+    },
+    {
+      "headline": "Houthis Pre-empt a Saudi-Backed Offensive With Major Strikes in Marib and Hadramout",
+      "blocks": [
+        { "type": "para", "text": "We assess the Houthi missile-and-drone assault on Yemeni government positions on 7 August marks a deliberate escalation aimed at disrupting a Saudi-backed force buildup before it could launch, and raises the risk of a wider ground campaign and renewed direct Houthi-Saudi exchanges. Yemen's government said the strikes on camps and units across Marib and Hadramout killed at least 30 personnel; Houthi military spokesman Yahya Saree said the group hit what it detected as preparations for an offensive." },
+        { "type": "bullets", "items": [
+          "The strikes carried a civilian toll, killing two and wounding 14 in displacement areas and neighborhoods around Marib, and Saudi Arabia reported more than 10 civilians wounded across the border in Najran.",
+          "A source close to the Saudi military said the coalition would not \"stand idly by,\" signaling Riyadh may resume a more active role after a long period of restraint; the UN warned Yemen is edging toward a broader conflict.",
+          "We judge the timing is tied to the region's wider tension following the Israel-Iran war, with Tehran's Yemeni partner demonstrating it can still open a front and complicate Saudi security even as Riyadh knits together its new defense bloc."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, a reignited Yemen front threatens Red Sea shipping and Saudi territory at the same moment the Gulf's security alignments are in flux. We expect the next indicator to be whether the Saudi-backed forces proceed with their offensive or hold; a Saudi decision to strike back inside Houthi-held territory would mark the clearest break from the recent lull." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, NGA, and open sources."
+    },
+    {
+      "headline": "Board of Peace Envoy Presses Netanyahu for a Two-Week Pause as Coalition Right Resists",
+      "blocks": [
+        { "type": "para", "text": "We assess that the push by Board of Peace High Representative Nickolay Mladenov, who met Prime Minister Netanyahu in Jerusalem on 7 August, to secure a temporary halt to Israeli strikes and targeted killings is intended to open a 14-day window to implement the next phase of the US-backed disarmament and postwar-governance framework for Gaza, but that Israeli coalition politics make even a short pause difficult. Mladenov pressed for the halt as a precondition for the negotiating track; right-wing coalition members reacted sharply." },
+        { "type": "bullets", "items": [
+          "Coalition critics argue that suspending targeted operations would let armed factions regroup, a line that we assess constrains Netanyahu's room to agree to a pause without concessions that shore up his right flank.",
+          "On the ground the framework is contested from the other side as well: Hamas urged attacks on figures in the Israeli-backed armed groups operating in Gaza, underscoring how fragile the postwar security arrangements remain.",
+          "We judge the pause is achievable but likely to be partial and conditional, tied to reciprocal steps and to the standing up of the international stabilization force that several states, including Uganda, have signaled they may join."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the pause is the gate to the entire postwar sequence it has invested in; without it the disarmament-and-governance phase cannot begin. We expect the key near-term signal to be whether Netanyahu can deliver even a limited, time-boxed halt over his coalition's objections." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Colombia Swears In De la Espriella, Swinging Bogota Sharply Right and Straining the Peace Framework",
+      "blocks": [
+        { "type": "para", "text": "We assess that the inauguration of Abelardo de la Espriella on 7 August marks a decisive rightward turn in Colombian politics that will strengthen near-term US-Colombia cooperation on security and counternarcotics, while putting the country's fragile peace framework with armed groups under new strain. In a break with more than a century of tradition, he was sworn in outside Bogota, at a venue in Cali, and has vowed a hard line against armed and criminal groups." },
+        { "type": "bullets", "items": [
+          "The event doubled as a gathering of the region's right: Argentina's Milei, Chile's Kast, Ecuador's Noboa, and Spain's King Felipe VI attended, signaling a bloc of like-minded governments that we assess will coordinate more closely on security and migration.",
+          "De la Espriella's promised crackdown on armed groups and his skepticism of the outgoing government's 'total peace' approach raise the risk of renewed confrontation with the ELN and dissident factions; we judge a period of testing and possible violence is likely as those groups gauge the new posture.",
+          "His pledge to rein in public debt and reverse predecessor Petro's agenda points to a sharp economic-policy reversal that we expect will be welcomed by markets and by Washington."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, a hard-line, US-aligned government in Bogota is an opportunity to deepen counternarcotics and security cooperation, but the unwinding of the peace framework could generate instability on Colombia's periphery. We expect early signals in how the new government handles ceasefire arrangements with armed groups in its first weeks." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the DEA Office of National Security Intelligence, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Ukraine strikes deep at Russian refining as Moscow presses Pokrovsk.</b> Ukrainian drones struck the Yaroslavl and Bashneft-Novoil refineries, the latter in Bashkortostan roughly 1,500 km from the front, part of a sustained campaign against Russian energy infrastructure. Overnight into 7 August Russia launched some 147 Shahed-type drones, of which Ukraine downed 114. We assess Russian forces are prioritizing the Pokrovsk-Dobropillia axis with the aim of encircling Ukraine's fortified belt from the southwest." },
+        { "type": "para", "text": "<b>Zelensky to visit Serbia.</b> President Zelensky travels to Belgrade today, his first visit since Russia's 2022 invasion, an unusual outreach to a government that has resisted aligning with Western sanctions on Moscow. We judge Kyiv is working to shore up wavering partners as the sanctions and battlefield picture shifts." },
+        { "type": "para", "text": "<b>Israeli forces withdraw from West Bank camp after two-day raid.</b> Israeli troops pulled out of the Qalandiya refugee camp and Kafr Aqab near Jerusalem on 7 August after a two-day operation; the Palestinian Authority reported 51 injuries. The raid underscores continued friction in the West Bank even as diplomacy over Gaza's postwar phase proceeds." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    }
+  ]
+}
