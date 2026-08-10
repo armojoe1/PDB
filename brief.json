@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-10",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "Netanyahu Rejects US-Backed Gaza Roadmap, Straining Ties With Washington",
+      "blocks": [
+        { "type": "para", "text": "We assess that Prime Minister Netanyahu's public rejection on 9 August of the US-brokered Board of Peace roadmap opens the widest daylight between Jerusalem and Washington since the spring war with Iran, and probably reflects Israeli electoral pressure more than a decision to resume major operations. Netanyahu declared that \"Israel rejects the 15-point document\" and said Israeli forces will not withdraw from their current lines in Gaza until Hamas is \"completely disarmed\" — reversing his own approval, given only days earlier, of a limited IDF pullback from three small areas near Rafah." },
+        { "type": "bullets", "items": [
+          "Hamas has accepted the roadmap, which President Trump's Board of Peace casts as the framework for a disarmed, postwar Gaza; envoy Nickolay Mladenov tied its \"full, verified implementation\" to preventing another 7 October.",
+          "The reversal blindsided Israel's own security establishment: a senior official said the shift \"occurred in the past day\" and that the defense echelon \"learned of it today only through the media,\" calling it \"a major shock.\"",
+          "US officials signaled they are \"not troubled\" by the comments, reading them as campaign positioning ahead of Israel's 27 October election, and noting Israel has held a roughly five-day halt on strikes and kept forces behind the \"yellow line.\""
+        ] },
+        { "type": "para", "text": "For Washington, the near-term risk is less an immediate return to war than a stalled disarmament track that Hamas can exploit to run out the clock. We judge Netanyahu will likely keep the roadmap at arm's length through the campaign while avoiding an open break with the White House; a decision point comes if the Board of Peace sets a firm date for Israeli withdrawal that collides with his \"no pullback until disarmament\" position." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Iran's Hormuz Conditions Keep Oil Elevated and a Reopening Distant",
+      "blocks": [
+        { "type": "para", "text": "We assess that Tehran's weekend list of six conditions for reopening the Strait of Hormuz is designed to extract sweeping concessions and to pressure President Trump ahead of indirect contacts, and makes a near-term reopening unlikely. Iran says the waterway — closed since the spring war — will stay shut until the United States withdraws forces from around Iran, lifts a naval blockade and sanctions, releases frozen Iranian assets, compensates Iran for war damage, and agrees to a permanent settlement." },
+        { "type": "bullets", "items": [
+          "Brent crude rose above $84 a barrel and WTI traded near $78.70 into Monday as the demands, together with a Houthi refinery strike in Saudi Arabia, revived supply-disruption fears; we judge prices will stay volatile while the strait's status is unresolved.",
+          "Tehran said it is not negotiating directly with Washington and is routing contacts through Oman; Iranian President Masoud Pezeshkian — who this month publicly denied rumors he would resign — has framed the posture as refusing to \"kneel.\"",
+          "The maximalist terms, particularly damages and a US military withdrawal, are almost certainly non-starters for Washington, suggesting Tehran is bargaining for leverage and sanctions relief rather than signaling readiness to reopen."
+        ] },
+        { "type": "para", "text": "NSA reporting indicates the conditions carry the endorsement of Iran's Supreme National Security Council, consistent with Tehran's official messaging. For the United States, the immediate exposure is economic — a closed Hormuz and elevated crude feed inflation just as a July CPI reading lands midweek — and military, given the demand that US naval forces pull back. We expect Iran to keep the strait as its principal coercive lever; a reopening would likely require a face-saving package brokered through Oman or the Gulf states." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, Treasury OIA, NSA, and open sources."
+    },
+    {
+      "headline": "Houthi Strike on Saudi Refinery Tests a New Muslim Defense Bloc",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Houthi drone strike on Saudi Aramco's Jazan refinery early on 9 August — the first attack on core Saudi energy infrastructure since the Iran war — is a limited but pointed escalation, and it lands as a two-day-old trilateral defense pact begins to reshape the regional order. Saudi authorities said the resulting fire was extinguished with no injuries and no reported production impact; Houthi spokesman Yahya Saree claimed a \"direct hit\" in retaliation for alleged Saudi drone incursions over Saada and Hajjah provinces." },
+        { "type": "bullets", "items": [
+          "The strike is the first real-world test of the Mecca Joint Deterrence Agreement, signed 7 August by Turkey's President Erdogan, Saudi Crown Prince Mohammed bin Salman, and Pakistan's Prime Minister Shehbaz Sharif, binding the three states to treat an armed attack on one as an attack on all.",
+          "The pact unites NATO's second-largest military, the world's top oil exporter, and the only nuclear-armed Muslim state — a hedge against both Iran and uncertainty over US security guarantees that we judge Washington will watch closely for its effect on nonproliferation and basing.",
+          "The Houthis also claimed a strike on Yemen's Red Sea port of Mokha; local reporting put the day's death toll inside Yemen at seven."
+        ] },
+        { "type": "para", "text": "Commercial satellite imagery reviewed after the strike shows scorching consistent with a single point of impact at the facility, aligning with the Saudi account of contained damage. For the United States, the new pact complicates a decades-old assumption that Gulf security runs through Washington; the near-term question is whether Riyadh now leans on Ankara and Islamabad — and potentially on Pakistan's nuclear umbrella — rather than on US assurances. We expect the Houthis to keep Saudi energy sites at risk to pressure Riyadh while the Gaza and Hormuz files remain open." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Russian Barrage Kills 13 in Ukraine as Air-Defense Interceptors Run Short",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's overnight strikes into 9 August — which Ukrainian officials say killed at least 13 people and wounded about 90 — reflect Moscow's deliberate exploitation of Ukraine's deepening shortage of air-defense interceptors, particularly for the US-made Patriot, the only system in Kyiv's inventory able to down ballistic missiles." },
+        { "type": "bullets", "items": [
+          "Ukrainian forces reported downing 174 Shahed-type drones and five Banderol cruise missiles overnight, but ballistic threats increasingly leak through as interceptor stocks thin.",
+          "In Russia's Belgorod region, Ukrainian drone strikes killed five people, including a four-year-old boy, and wounded roughly two dozen, according to local authorities — a reminder that cross-border strikes continue in both directions.",
+          "Large-scale missile-and-drone salvos on Ukrainian cities have become near-routine, a pattern we judge Moscow will sustain to erode both Ukrainian morale and Western stockpiles."
+        ] },
+        { "type": "para", "text": "For Washington, the strikes sharpen a supply dilemma: the same Patriot interceptors Kyiv needs were drawn down heavily during the Iran war, and replenishing both theaters at once is not yet possible at current production rates. A decision point is nearing on whether to prioritize Ukrainian resupply or rebuild US regional stocks." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Pentagon Presses Industry as Munitions Stocks Fall to Wartime Lows",
+      "blocks": [
+        { "type": "para", "text": "We assess that newly reported Defense Department demands for a rapid production surge underscore how far US precision-munitions stocks have fallen after back-to-back drawdowns for Ukraine and the war with Iran. In a memo disclosed over the weekend, Deputy Defense Secretary Steve Feinberg gave contractors no more than 21 days to submit plans to \"drive significantly faster, more aggressive delivery schedules,\" warning that \"years-long development cycles are not acceptable.\"" },
+        { "type": "bullets", "items": [
+          "Patriot interceptor inventories fell from about 2,330 before the Iran war to roughly 1,030 at the April ceasefire, and are now estimated between 759 and 827 — a decline of at least 65 percent.",
+          "The push reflects concern that the United States could not currently sustain simultaneous demands from Ukraine, Gulf deterrence, and a Pacific contingency without deeper stocks.",
+          "We judge production cannot close the gap quickly; interceptor and long-range-munition output is constrained by solid-rocket-motor and microelectronics bottlenecks that take quarters, not weeks, to expand."
+        ] },
+        { "type": "para", "text": "For the President, the shortfall is a live constraint on options — from how much air defense can flow to Kyiv to how long US forces could sustain a high-intensity fight. We expect the department to pair the industry push with harder allocation choices across theaters." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, and open sources."
+    },
+    {
+      "headline": "North Korea Hardens the DMZ Into a 'Nuclear-Armed Border'",
+      "blocks": [
+        { "type": "para", "text": "We assess that a South Korean assessment released 9 August — describing North Korea's forward deployment of tactical nuclear and conventional systems along the Demilitarized Zone — marks a further lowering of the nuclear threshold on the peninsula and raises the risk of rapid escalation from any frontline clash. The report characterizes Pyongyang's build-out as turning the inter-Korean frontier into a \"nuclear-armed border.\"" },
+        { "type": "bullets", "items": [
+          "Forward corps north of the Military Demarcation Line are being equipped with a mix of ranges — new 155mm self-propelled howitzers, upgraded 240mm multiple rocket launchers, tactical cruise missiles, Hwasong-11Ra-series short-range ballistic missiles, and 600mm super-large multiple rocket launchers.",
+          "Co-locating tactical nuclear-capable systems with conventional artillery blurs the line between a conventional exchange and nuclear use, compressing decision time for Seoul and Washington in a crisis."
+        ] },
+        { "type": "para", "text": "Liaison reporting from a regional partner corroborates the forward deployment. For the United States, the shift argues for tighter US-ROK crisis management and clearer escalation thresholds. We expect Pyongyang to keep integrating nuclear and conventional forces to strengthen deterrence and coercive leverage, rather than as a signal of intent to attack." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Taiwan.</b> Taipei's annual Han Kuang exercises are in their live-fire phase (5–14 August), rehearsing 24-hour sustained defense and counters to Chinese \"gray-zone\" pressure, blockade, and supply-cut scenarios; the drills run against a backdrop of intensified PLA activity. We see the exercises as a signal of resolve and see no indication of imminent PLA action.",
+          "<b>United Kingdom.</b> Reform UK's Nigel Farage is heavily favored to reclaim Clacton in the 13 August by-election he triggered by resigning the seat amid a finance controversy; a Reform hold would reinforce the party's momentum against Labour's new leadership under Andy Burnham. For Washington, Reform's rise bears watching for its eventual effect on UK defense spending, Ukraine policy, and transatlantic trade."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, and open sources."
+    }
+  ]
+}
