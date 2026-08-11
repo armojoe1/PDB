@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-11",
+  "cover": true,
+  "emblem": "/tmp/claude-0/-home-user-PDB/aa4353ff-4bde-5a3b-8b03-57c15148a80d/scratchpad/whitehouse_small.png",
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Tehran hardens its terms and Washington shifts to economic pressure as a hardline leadership shuffle takes hold." },
+    { "tag": "ISRAEL-US", "summary": "Netanyahu's rejection of the US Gaza plan opens the sharpest public rift with Trump of the war." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Ukraine's deep-strike campaign hits Russia's 11th major refinery as mid-year truce efforts collapse." },
+    { "tag": "GULF-SOUTH ASIA", "summary": "A new Saudi-Pakistan-Turkey defense pact reshapes the region's alignments." },
+    { "tag": "SYRIA-RUSSIA", "summary": "A recast basing deal preserves a reduced Russian foothold on the Mediterranean." },
+    { "tag": "CHINA-TAIWAN", "summary": "Taipei throttles its own networks in its largest-ever civil-military defense drill." },
+    { "tag": "NOTES", "summary": "Yemen, Colombia security assistance, and oil markets." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Hardens Hormuz Terms as Washington Shifts to Economic Pressure",
+      "blocks": [
+        { "type": "para", "text": "We assess that the standoff over the Strait of Hormuz is settling into a prolonged contest of attrition rather than moving toward early resolution. On 10 August, President Trump added a new condition to any talks, demanding that Iran pay compensation for past “misdeeds”—including damage in Lebanon and Gaza—after Tehran insisted that US reparations and a full lifting of the naval blockade are preconditions for reopening the waterway. We judge both sides are digging in: Washington is signaling it will let economic pressure work rather than mount new strikes, while Tehran has a political incentive to prolong negotiations to extract concessions." },
+        { "type": "bullets", "items": [
+          "US Central Command reports its blockade has now redirected 55 commercial vessels as of Sunday, up from 35 on 2 August; Treasury has imposed its eighth Iran-related sanctions package of 2026, targeting Tehran's “shadow-banking” network under the “maximum pressure” campaign.",
+          "Iran is close to an arrangement with Oman to manage traffic through the strait, but Foreign Minister Araghchi says that alone will not reopen it absent US concessions—leaving Hormuz effectively closed to the ships Tehran bars.",
+          "Brent crude traded near $88 a barrel this morning after rising about 5 percent in the prior session; prices remain below the summer's peaks above $100, giving Washington room but leaving global supply exposed to any miscalculation at sea.",
+          "For the President, the central question is whether sustained economic pressure forces Iranian flexibility before a maritime incident forces a military choice. We expect Tehran to keep the strait as leverage while stringing out the Oman track."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Iran's national-security leadership is consolidating in a hardline direction. On 9–10 August, Supreme Leader Mojtaba Khamenei named Mohsen Rezaei—a former Revolutionary Guard commander—as secretary of the Supreme National Security Council, replacing Mohammad Bagher Zolghadr, and appointed six senior military officers to key posts." },
+        { "type": "bullets", "items": [
+          "Rezaei, who led the IRGC through much of the Iran–Iraq war, brings a combative posture to the body that manages the Hormuz crisis; we assess the reshuffle strengthens the security establishment's hand over pragmatists.",
+          "Zolghadr had held the post only since March, when his predecessor Ali Larijani was killed in an Israeli strike; the churn reflects continuing disruption at the top of Iran's system since Ali Khamenei's assassination in February and Mojtaba's succession in March.",
+          "We judge the appointments make a near-term compromise on Hormuz less likely, not more."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Netanyahu's Rejection of US Gaza Plan Opens Rare Public Rift",
+      "blocks": [
+        { "type": "para", "text": "We assess that Prime Minister Netanyahu's public rejection of the US-backed 15-point Gaza plan has produced the sharpest open rift with President Trump of the war, though both leaders are working to contain it. On 9 August Netanyahu declared, “Israel rejects the 15-point document,” insisting the IDF will not withdraw until Hamas is “genuinely disarmed”; on 10 August Trump said only that he had a “good response” and that “the relationship is very good.”" },
+        { "type": "bullets", "items": [
+          "The dispute turns on sequencing: the US plan has Hamas begin surrendering weapons as Israel halts strikes and pulls back, while Netanyahu demands disarmament first—a gap that has stalled implementation of the framework that ended major combat and freed the remaining hostages.",
+          "Domestic politics are in play. With Israeli elections set for 27 October and his coalition's majority at risk, Netanyahu has incentives to resist US pressure to withdraw and to reaffirm his hard line publicly.",
+          "For Washington, the rift complicates the “Board of Peace” reconstruction effort in which Trump has invested prestige. We assess Trump will press Netanyahu privately while avoiding a public breach before the Israeli vote."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Deepens Long-Range Strikes on Russian Refining as War Reintensifies",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's long-range drone campaign against Russian energy infrastructure has reached a new depth and tempo, and that this year's intermittent truce efforts have fully collapsed. On 10 August, Ukrainian drones struck the TANECO refinery at Nizhnekamsk in Tatarstan—roughly 1,200 kilometers from the border—killing at least 13 people, including a child and several Uzbek nationals, and wounding dozens more." },
+        { "type": "bullets", "items": [
+          "With the Nizhnekamsk strike, all eleven of Russia's largest refineries have now been hit at least once; TANECO processes about 340,000 barrels a day, and repeated strikes are straining domestic fuel supply and export revenue.",
+          "The exchange is intensifying both ways. Russia said it downed roughly 396 drones overnight across some 15 regions, including the Moscow region and Crimea, while its own overnight strikes hit Kyiv, Zaporizhzhia, Kherson, and Sumy, causing fires and power outages.",
+          "NGA assesses from overhead imagery that fires burned at the TANECO complex following the strike, consistent with a significant processing outage.",
+          "For Washington, the campaign reinforces the pressure logic behind the Sanctioning Russia Act the Senate passed 86–11 on 7 August. We judge Kyiv will keep prioritizing refineries to raise the war's economic cost on Moscow; a negotiated pause looks unlikely near-term."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "New Saudi-Pakistan-Turkey Defense Pact Reshapes the Region's Alignments",
+      "blocks": [
+        { "type": "para", "text": "We assess that the trilateral Mecca Joint Defence Agreement—signed 7 August by Saudi Arabia, Pakistan, and Turkey—marks a significant realignment in the Islamic world, extending a mutual-defense commitment under which an attack on one is treated as an attack on all three. Turkish officials said on 8 August the pact “is not aimed at Iran,” even as its architects begin courting new members; the days since have made clear it is more than symbolic." },
+        { "type": "bullets", "items": [
+          "The agreement builds on the September 2025 Saudi–Pakistan mutual-defense pact and folds in NATO member Turkey; it pairs Pakistan's nuclear arsenal and manpower, Saudi financing, and Turkey's expanding defense industry.",
+          "It comes against the backdrop of the Iran war that began in February and renewed Saudi–Houthi fighting in Yemen; Egypt is described as a “natural partner” expected to join once technical issues are resolved.",
+          "For the United States, the bloc cuts both ways. It could stabilize Gulf security and share burdens, but a Pakistani nuclear umbrella extended to Riyadh raises proliferation and escalation questions, and deeper Turkish–Saudi coordination could complicate US freedom of action. We assess Washington will seek quiet clarity on the pact's scope—above all any nuclear dimension."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Syria and Russia Recast Basing Deal, Preserving a Reduced Moscow Foothold",
+      "blocks": [
+        { "type": "para", "text": "We assess that the memorandum Damascus and Moscow reached over the weekend preserves a diminished but durable Russian military presence on Syria's Mediterranean coast. Under the deal, which ends 18 months of talks, Syria's government takes civilian control of the Hmeimim airbase and the commercial berth at Tartus, while the core military facilities become joint “training and qualification” centers, with the transition to be completed within three months." },
+        { "type": "bullets", "items": [
+          "The arrangement lets President Ahmed al-Sharaa's government assert sovereignty after Assad's ouster while keeping a working channel to Moscow; Syria's foreign minister inspected the sites on Sunday.",
+          "For Russia, retaining even reduced access to Tartus and Hmeimim sustains its only warm-water Mediterranean naval foothold and its logistics bridge to Africa—an outcome Washington and NATO had hoped Assad's fall would foreclose.",
+          "Damascus continues to press Moscow to extradite Assad, who remains in Russia. We assess Russia will trade economic and diplomatic support for continued basing, and that the foothold will remain a point of US–Russia friction in the eastern Mediterranean."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Taiwan Throttles Its Own Networks in Largest-Ever Defense Drill",
+      "blocks": [
+        { "type": "para", "text": "We assess that Taiwan's 42nd Han Kuang exercise, running 5–14 August, reflects a serious effort to harden civilian resilience against a Chinese blockade or invasion—most notably by deliberately slowing mobile networks for the first time to rehearse communications under wartime degradation. On 10 August, authorities throttled mobile service across 14 administrative regions." },
+        { "type": "bullets", "items": [
+          "This year's drill fully integrates civil-defense exercises with the military maneuvers for the first time and tests 24-hour sustained operations and responses to Chinese “gray-zone” coercion short of open war.",
+          "Basic mobile calls continued while data was constrained; ATMs, traffic signals, landlines, and fixed internet were unaffected, and southern Taiwan was exempted to protect financial trading.",
+          "The exercise lands amid Taipei's proposed multiyear special budget for domestic drones and broader regional signaling—Japan's recent Tomahawk test and Philippine moves at Scarborough Shoal. For Washington, Taiwan's resilience push is a welcome hedge as planning attention centers on 2027. We judge Beijing will cast the drills as provocation while sustaining its own pressure operations."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Yemen:</b> Houthi forces struck the Red Sea port city of Mocha on 9 August, killing seven—three civilians and four military personnel—and wounding about 30, as fighting with Saudi-backed government forces intensifies. The strike is a reminder that the Red Sea threat to shipping persists alongside the Hormuz crisis.",
+          "<b>Western Hemisphere:</b> The State Department on 9 August pledged $1 billion in security assistance to Colombia's new president, Abelardo de la Espriella, tied to anti-cartel operations and a “Shield of the Americas” partnership—an effort to lock in a cooperative government in a pivotal counternarcotics partner.",
+          "<b>Energy:</b> Global oil markets remain on edge. Brent held near $88 a barrel this morning after a roughly 5 percent jump, with traders pricing in a prolonged Hormuz standoff even as prices stay below the summer's highs.",
+          "<b>North Korea:</b> Ukrainian intelligence says a North Korean missile brigade—reportedly as many as 120 ballistic missiles and six launchers—is deploying to Russia's Voronezh region, which would put DPRK systems and crews directly into the European war for the first time. Final terms are to be set at Moscow–Pyongyang talks in September."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, INR, NGA, and open sources."
+    }
+  ]
+}
