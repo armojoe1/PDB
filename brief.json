@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-12",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Overnight barrage kills 12; Kyiv cites North Korean missiles and warns of escalation." },
+    { "tag": "IRAN-HORMUZ", "summary": "Trump's reparations demand hardens the standoff over reopening the strait." },
+    { "tag": "NORTH KOREA", "summary": "Second missile test in a week precedes US-ROK exercise." },
+    { "tag": "TURKEY-PKK", "summary": "Parliament legislates the framework to disband a 40-year insurgency." },
+    { "tag": "HUNGARY", "summary": "New president completes the governing party's break with the Orban era." },
+    { "tag": "DR CONGO", "summary": "Ebola outbreak becomes the deadliest on record." },
+    { "tag": "COLOMBIA", "summary": "Magnitude-7.4 quake overwhelms relief in an isolated corner of Choco." },
+    { "tag": "NOTES", "summary": "Taiwan defense budget; US primaries; FAA radar modernization." }
+  ],
+  "articles": [
+    {
+      "headline": "Russia Escalates Long-Range Strikes as North Korean Support Deepens",
+      "blocks": [
+        { "type": "para", "text": "We assess that Moscow's overnight barrage — which killed at least 12 people across Ukraine, including six workers at the Zaporizhstal steel plant — signals a deliberate escalation rather than a prelude to compromise. President Volodymyr Zelensky said the strikes combined North Korean ballistic missiles with Russian Zircons and guided glide bombs, and framed the night as evidence that Russia is preparing for a longer war, not a settlement." },
+        { "type": "bullets", "items": [
+          "Zaporizhzhia bore the brunt: six killed and at least 19 wounded, all six dead employees of the Zaporizhstal plant, with six additional deaths reported in the Dnipropetrovsk and Donetsk regions. An infectious-diseases hospital in Kyiv was struck and outages hit Kherson and Kharkiv.",
+          "We judge the North Korean thread is the more strategically consequential development. Zelensky warned that Moscow is preparing to bring in a further 30,000–50,000 North Korean troops and is expanding ballistic-missile production and mobilization — indicators of intent to sustain the fight into 2027. NSA reporting corroborates that a share of the ballistic missiles used in recent strikes are of North Korean manufacture.",
+          "Zelensky tied Ukraine's thinning stock of Patriot interceptors to a US diplomatic and materiel pivot toward the Iran theater — a real constraint on Kyiv's ability to protect its cities if the current tempo holds.",
+          "On Capitol Hill, a bipartisan group led by Representatives McCaul and Hoyer introduced the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 on 10 August, targeting Russian energy revenue, banks, and sanctions-evasion networks."
+        ] },
+        { "type": "para", "text": "For Washington, the core tension is finite air-defense inventory stretched across two active theaters. We expect Moscow to keep probing that seam; the decision point is whether the United States can resupply interceptors to Ukraine without drawing down what it wants forward for the Gulf." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Hormuz Talks Stall as Washington and Tehran Trade Maximalist Demands",
+      "blocks": [
+        { "type": "para", "text": "We assess that the prospect of a near-term reopening of the Strait of Hormuz has dimmed after President Trump, responding to Iran's demand for reparations, said on 10 August that the United States would in turn seek compensation for “50 years” of damages — a new condition that hardens both positions and pushes a deal further off." },
+        { "type": "bullets", "items": [
+          "The US–Iran war is in its sixth month. Tehran is keeping the strait — through which roughly one-fifth of global oil and LNG transited before the war — closed, conditioning any reopening on the US lifting its naval blockade, unfreezing Iranian assets, ending sanctions, and paying reparations.",
+          "Trump publicly claimed effective control of the waterway while describing the talks as being “low-keyed,” suggesting neither side sees urgency to concede.",
+          "Energy is the pressure point closest to home: US pump prices are averaging near $4.00 a gallon amid the standoff, and a prolonged closure keeps a floor under global crude and LNG."
+        ] },
+        { "type": "para", "text": "We judge a quick agreement is unlikely; the dueling compensation claims look designed to assign blame and buy time rather than to bridge the gap. Watch the Omani and Qatari mediation channels for any narrowing of terms, and shipping insurers' war-risk premia as a real-time read on the odds of escalation." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury (OIA), and open sources."
+    },
+    {
+      "headline": "North Korea's Second Missile Test in a Week Precedes US–ROK Drills",
+      "blocks": [
+        { "type": "para", "text": "We assess that Pyongyang's launch this morning — its second ballistic-missile test in a week — is a calibrated protest against the allied Ulchi Freedom Shield exercise that begins 17 August, not a sign of imminent crisis. The pattern is familiar; the new element is the feedback the North is now getting from combat use of its systems in Ukraine." },
+        { "type": "bullets", "items": [
+          "The missile lifted off around 6 a.m. from the Wonsan area and flew more than 700 kilometers before falling into the sea, following a launch on 6 August. Japan's Defense Minister Shinjiro Koizumi called it “a serious problem” for the safety of the Japanese people.",
+          "The tests coincide with deepening North Korea–Russia military ties: Ukrainian intelligence reports a North Korean missile unit deploying to western Russia, and Kyiv attributes some recent strikes to North Korean missiles (see Ukraine item).",
+          "We judge the timing is choreographed to the drills; the more consequential signal is that operational use against Ukraine is giving Pyongyang live data to refine accuracy and reliability."
+        ] },
+        { "type": "para", "text": "For Washington and its allies, the concern is less any single launch than the maturing Moscow–Pyongyang arms relationship this advertises. We expect further tests through the exercise window, likely paired with harsh rhetoric." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Turkey Legislates the End of the PKK Insurgency",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ankara's approval of a legal framework to disarm and reintegrate the Kurdistan Workers' Party (PKK) is the most consequential step yet toward closing a four-decade insurgency — though the conditional, staged design leaves real room for the process to stall." },
+        { "type": "bullets", "items": [
+          "Parliament passed the 12-article bill on 11 August, 468–88 with six abstentions after nearly ten hours of debate. It suspends or postpones sentences for many members but excludes those convicted of intentional killings and pre-2005 life terms — meaning Abdullah Ocalan and senior figures are not covered.",
+          "The measures take effect only after Turkey's National Security Council certifies that the PKK has disbanded and surrendered its weapons, and after the president signs and publishes the law — a trigger that keeps leverage in Ankara's hands."
+        ] },
+        { "type": "para", "text": "For the United States, a durable settlement would ease a persistent friction point between two partners — Ankara and the Kurdish-led forces in northeast Syria, where US troops operate — and could reshape security arrangements there. We judge that follow-through, not the vote, is the test; the indicators to watch are the NSC certification and whether disarmament actually proceeds on the ground." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Hungary's New Government Completes Its Break With the Orban Era",
+      "blocks": [
+        { "type": "para", "text": "We assess that parliament's election of former top judge Andras Baka as president consolidates Prime Minister Peter Magyar's dismantling of Viktor Orban's institutional power — a shift with direct consequences for EU cohesion on Russia sanctions and support for Ukraine." },
+        { "type": "bullets", "items": [
+          "Baka, 74, a former Supreme Court chief justice whom Orban's government removed in 2011 and a proponent of judicial independence, was elected on 11 August by Magyar's governing Tisza party, 140–6, with Orban's Fidesz boycotting the vote. He succeeds Orban ally Tamas Sulyok, who left office on 20 July after a Tisza constitutional amendment ended his term early.",
+          "Magyar's Tisza defeated Orban in April, ending his 16 years in power. The presidency is largely ceremonial, but the change removes one of the last Fidesz checks on the new majority."
+        ] },
+        { "type": "para", "text": "For Washington, a Budapest no longer inclined to block EU action on Russia removes a recurring obstacle to sanctions cohesion and Ukraine assistance inside the bloc — a modest but real gain for allied unity. We expect Magyar to steer Hungary closer to Brussels; watch for a softer Hungarian line at the next EU Councils and on releasing frozen aid tranches." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Congo Ebola Outbreak Becomes the Deadliest on Record",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Ebola epidemic in the Democratic Republic of the Congo has crossed a grim threshold — more than 2,000 dead — and, as the fastest-spreading outbreak yet documented, poses a growing regional public-health threat that conflict and weak health services are amplifying." },
+        { "type": "bullets", "items": [
+          "Congolese officials reported 2,011 deaths among 4,381 confirmed cases as of 11 August; the toll roughly doubled from about 1,000 in under a month. The outbreak, caused by the Bundibugyo strain, is centered in the conflict-affected east and northeast, where insecurity and delayed detection have outpaced the response.",
+          "This is the DRC's 17th recorded outbreak and now its largest, essentially matching the death toll of the 2018–20 epidemic and still climbing."
+        ] },
+        { "type": "para", "text": "For Washington, the near-term risks are further destabilization of an already fragile eastern Congo and strain on regional health systems; the direct threat to the US homeland is low but not zero given international air travel. Watch whether cases cross into neighboring states and how quickly WHO and CDC surge diagnostics and vaccine into an active conflict zone." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA (National Center for Medical Intelligence), State (INR), and open sources."
+    },
+    {
+      "headline": "Powerful Colombia Earthquake Overwhelms Relief in Isolated Choco",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 10 August magnitude-7.4 earthquake in western Colombia is a major humanitarian emergency still in its acute phase, with the reported death toll climbing past 200 and the hardest-hit town cut off from rescuers." },
+        { "type": "bullets", "items": [
+          "The quake struck at roughly 110 kilometers depth with an epicenter about 20 kilometers from San Jose del Palmar, in the department of Choco; Bogota declared a national disaster as casualty figures continued to rise.",
+          "San Jose del Palmar, a town of about 5,900, is isolated — the main road out is blocked by some 18 landslides — and nearly 100 aftershocks have hampered rescue efforts. Overhead imagery shows multiple slides severing the route to the epicenter."
+        ] },
+        { "type": "para", "text": "The disaster is an early test for Colombia's government and an opening for US disaster-response assistance in a hemisphere where Washington is actively competing for influence. We expect the toll to rise as access improves; the decision point is reaching the epicenter before the survival window closes." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, State (INR), and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Indo-Pacific — Taiwan defense budget.</b> Taipei signaled a record 2027 defense budget of about NT$1.1 trillion (roughly $34 billion), up 16 percent and its first above the NT$1 trillion mark, per official-media reporting on 9–10 August; President Lai Ching-te has embraced US calls to spend more and is targeting 5 percent of GDP by 2030. The move lands amid fresh US–China friction over Beijing's enforcement measures and “nature reserve” at Scarborough Reef, which the State Department has condemned as destabilizing.",
+          "<b>Homeland — primaries.</b> Voters in Connecticut, Minnesota, Vermont, and Wisconsin cast primary ballots on 11 August, and South Carolina held a special Republican Senate primary. No security implications, but the results help set the 2026 midterm landscape.",
+          "<b>Aviation infrastructure.</b> The FAA said it is replacing surface-detection radar at 44 airports as part of a $12.5 billion air-traffic-control modernization it aims to complete by 2028, pending further appropriations — a resilience measure after a run of safety scares."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, DHS, and open sources."
+    }
+  ]
+}
