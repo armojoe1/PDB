@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-13",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Blockade standoff hardens; Tehran keeps the strait shut and warns it can prolong the war." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv damages four warships at Novorossiysk, pressing the Black Sea Fleet's last stronghold." },
+    { "tag": "DPRK", "summary": "Second ballistic launch in a week ahead of allied drills." },
+    { "tag": "UNITED KINGDOM", "summary": "Clacton by-election tests a weakened Starmer government." },
+    { "tag": "CHINA-PHILIPPINES", "summary": "Beijing threatens Filipino nationals as sea friction persists." },
+    { "tag": "ISRAEL-WEST BANK", "summary": "IDF surges troops against settler violence; Gaza strikes continue." },
+    { "tag": "NOTES", "summary": "Colombia quake; Russia's Pacific drills; oil markets." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Holds Hormuz Shut as US Blockade Standoff Hardens",
+      "blocks": [
+        { "type": "para", "text": "We assess that the confrontation over the Strait of Hormuz has settled into a dangerous stalemate that neither Washington nor Tehran can end on its current terms, keeping roughly a fifth of seaborne oil and LNG hostage to the standoff. President Trump's public claim of \"total control\" of the waterway through the US \"Wall of Steel\" blockade overstates conditions on the water: Iran's Persian Gulf Strait Authority stated on 12 August that the strait \"remains blocked and will not be reopened until Iran's conditions are accepted,\" and commercial traffic data support Tehran's version more than the President's." },
+        { "type": "bullets", "items": [
+          "Vessel throughput fell back to near three-month lows on 13 August after a brief uptick, well below the 100-plus transits a day recorded before the war; we judge the strait is effectively closed to normal commercial shipping regardless of which side's narrative prevails.",
+          "Tehran signaled it can outlast US pressure, warning that continued fighting could \"prolong\" the war. We assess Iran sees the closure as its principal coercive lever and will keep it in place to extract sanctions and blockade relief rather than trade it cheaply.",
+          "The June memorandum of understanding that briefly paused fighting has collapsed; US and Iranian forces have traded strikes around the strait since July, and the US reimposed its blockade of Iranian ports to tighten economic pressure.",
+          "US naval forces enforcing the blockade are operating across the Gulf of Oman and the northern Arabian Sea, within strike range of the Iranian coast; the risk of a miscalculation involving a commercial hull or a third-country tanker is elevated."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the core problem is that the pressure campaign and the closure are now mutually reinforcing: the blockade denies Iran port revenue, but Iran's counter-closure keeps a war-risk premium in oil and hands Tehran leverage over the global economy. We expect the next inflection point to be either a negotiated de-escalation formula that lets both sides claim a reopening, or a kinetic incident at sea that forecloses talks. NSA reporting corroborates that the decision to keep the strait closed is being directed at the senior leadership level in Tehran, not by local commanders." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, the Office of Naval Intelligence, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Ukraine Damages Four Warships at Novorossiysk, Pressing Russia's Last Black Sea Sanctuary",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's overnight strike on Novorossiysk on 12 August marks a meaningful step in its campaign to deny Russia a safe harbor for the Black Sea Fleet, though the damage appears short of crippling. Kyiv's General Staff said a combined package of jet-powered strike drones, domestically built Neptune anti-ship missiles, and naval drones damaged four warships in port — the Project 11356 frigates Admiral Makarov and Admiral Essen, the Buyan-M small missile ship, and the patrol ship Vasily Bykov." },
+        { "type": "bullets", "items": [
+          "Overhead imagery indicates the vessels were struck at their moorings; we assess the damage is significant but not catastrophic, with no confirmed sinkings or major fires as of this morning.",
+          "The strike also hit oil and grain terminals at the port and briefly disrupted export handling; Russian regional authorities reported repelling several hundred drones overnight, and drone debris in a residential area killed an eight-year-old child.",
+          "Novorossiysk had become the fleet's principal refuge after Ukrainian strikes made Sevastopol untenable. We judge Kyiv is deliberately eroding that last sanctuary to reopen the northwestern Black Sea and complicate Russian missile employment.",
+          "The port strike follows deep-strike drone attacks on Russian refining in Tatarstan and other interior regions on 10 August, part of a sustained Ukrainian effort to pressure Russian energy revenue and logistics."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the operation underscores that Ukraine retains the initiative in the maritime and long-range strike domains even as Russia grinds forward on land. President Zelensky, who publicly insisted Kyiv still has \"a plan\" to end the war on its terms, is signaling resolve amid stalled diplomacy. We expect Moscow to respond with intensified strikes on Ukrainian ports and energy infrastructure; the demonstrated reach against Novorossiysk will further constrain how far forward Russia is willing to base high-value units." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, the Office of Naval Intelligence, INR, and open sources."
+    },
+    {
+      "headline": "North Korea's Second Launch in a Week Signals Displeasure Ahead of Allied Drills",
+      "blocks": [
+        { "type": "para", "text": "We assess that Pyongyang's ballistic missile launch on 12 August — its second in under a week — is a calibrated protest against upcoming US–South Korea military exercises rather than a prelude to a crisis. South Korea's Joint Chiefs reported the missile flew roughly 690 kilometers to a maximum altitude of about 90 kilometers before falling outside Japan's exclusive economic zone." },
+        { "type": "bullets", "items": [
+          "The launch continues a tempo that resumed in early August after a lull since April, and is timed to the allied combined exercise Pyongyang routinely characterizes as rehearsal for invasion.",
+          "The flight profile is consistent with a short-range system aimed at the South and US forces there; we see no indication this was a test of a longer-range or strategic capability.",
+          "We judge the pattern is designed to pressure Seoul and Washington, reassure domestic and military audiences, and advance operational testing under the cover of a political grievance."
+        ] },
+        { "type": "para", "text": "For Washington, the near-term risk is not the individual launch but the potential for escalation around the exercise window, when the North's rhetoric and activity typically peak. We expect additional launches or artillery activity through the drills and will watch for any shift toward systems that would signal a genuine change in intent." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "UK By-Election Tests a Weakened Starmer Government",
+      "blocks": [
+        { "type": "para", "text": "We assess that today's parliamentary by-election in Clacton is a meaningful stress test for a British government already weakened by an internal Labour revolt, with implications for the durability of Prime Minister Keir Starmer's leadership. The contest was triggered by Reform UK leader Nigel Farage's resignation of the seat — announced amid scrutiny of his personal finances and allegations over undeclared gifts — which he is now re-contesting." },
+        { "type": "bullets", "items": [
+          "Starmer's position has been eroded since Labour's poor May local-election results, when more than 90 Labour MPs called on him to resign or set a departure timetable and several ministers, including the health secretary, quit.",
+          "A strong Reform result would reinforce the narrative of a fracturing center-left and increase pressure inside Labour over its leadership and direction; a weaker one would give Downing Street breathing room.",
+          "We judge the more consequential variable for Washington is not this single seat but whether the cumulative pressure forces a leadership change in London over the coming months."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, continuity in London underwrites the closest of the allied relationships — intelligence sharing, AUKUS, support to Ukraine, and defense spending trajectories. We assess a change of Prime Minister or a lurch in British politics would not sever those ties but could slow decisions and inject uncertainty into UK positions on Ukraine and European defense at a delicate moment. The decision point to watch is the parliamentary mood in the autumn, not tonight's count alone." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Beijing Threatens Filipino Nationals as South China Sea Friction Persists",
+      "blocks": [
+        { "type": "para", "text": "We assess that China is broadening its coercion of the Philippines from the maritime domain into economic and consular pressure, raising the stakes in a dispute that directly implicates the US–Philippine alliance. In Senate testimony on 13 August, a Philippine anti-organized-crime official said Beijing had threatened to arrest Filipino workers in China unless Manila released 69 Chinese nationals detained in a May raid on a steel plant over immigration, labor, and environmental violations." },
+        { "type": "bullets", "items": [
+          "The threat extends a pattern of leverage: earlier reporting indicated Chinese authorities were weighing a crackdown on undocumented Filipinos and trade curbs in response to the same case.",
+          "It lands against continued friction at sea, where Chinese and Philippine vessels clashed repeatedly around Scarborough Shoal and Second Thomas Shoal in recent weeks and Beijing conducted air and naval drills near Scarborough in early August.",
+          "We judge Beijing is testing whether combined maritime, economic, and consular pressure can compel Manila to soften its posture without triggering a US response under the Mutual Defense Treaty."
+        ] },
+        { "type": "para", "text": "For Washington, the episode is a reminder that gray-zone coercion of a treaty ally increasingly runs through non-military channels that fall below the threshold of armed attack. We expect Manila to internationalize the dispute and seek allied backing; the question for Washington is how to demonstrate support for Filipino nationals and sovereignty claims without handing Beijing a pretext to escalate." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Israel Surges Troops Against Settler Violence in the West Bank",
+      "blocks": [
+        { "type": "para", "text": "We assess that a spike in Israeli settler violence in the West Bank is straining the Israeli military and complicating the fragile post-ceasefire environment in Gaza. On 12 August the IDF deployed an infantry battalion to the village of Qusra to check settler attacks on Palestinians and placed an additional battalion on standby — an unusually direct commitment of force against settlers." },
+        { "type": "bullets", "items": [
+          "The move follows repeated confrontations in which troops struggled to clear settler outposts erected near Palestinian homes, and demolitions and arrests that have deepened tensions.",
+          "In Gaza, Israeli strikes continued under the October 2025 ceasefire; a strike in the north on 12 August killed a person Israel identified as a Hamas militant, while Hamas has dissolved its Gaza government but refused to disarm."
+        ] },
+        { "type": "para", "text": "For Washington, sustained settler violence risks the political durability of the Gaza ceasefire framework and complicates efforts to stand up credible Palestinian governance. We expect continued low-level Israeli operations in both theaters and will watch whether the government's willingness to confront settlers holds or buckles under coalition pressure." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Colombia — earthquake toll passes 200.</b> The death toll from the 10 August magnitude-7.4 earthquake in western Colombia — the strongest to strike the country this century — rose above 220 by 12 August as rescuers struggled to reach the epicenter, with damage across Cali, Pereira, Manizales, and Quibdó and dozens of collapsed buildings. We assess the disaster will absorb Bogotá's attention and generate requests for international assistance; it is a humanitarian, not a security, event, but bears on regional stability and US assistance posture." },
+        { "type": "bullets", "items": [
+          "<b>Russia — Pacific Fleet drills conclude.</b> President Putin observed the finale of a major Pacific Fleet exercise — some 60 ships, submarines, and support vessels and more than 13,000 personnel — from the cruiser Varyag near Sakhalin on 12–13 August, warning that NATO is \"creeping into\" the Pacific and that Moscow would \"respond in kind\" if Western states seize Russian merchant ships. We read the messaging as aimed simultaneously at Washington, Tokyo, and the Hormuz vessel-seizure dispute.",
+          "<b>Energy — war premium holds.</b> Brent crude held near $89 a barrel on 12 August as hopes for a US–Iran deal to reopen Hormuz faded; we assess a geopolitical risk premium will persist in oil as long as the strait standoff continues, with upside risk on any escalation at sea."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, the Office of Naval Intelligence, Treasury OIA, and open sources."
+    }
+  ]
+}
