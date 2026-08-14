@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-14",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Ukrainian deep strikes hit the Novorossiysk naval base and a Bashkortostan refinery; grain exports halt and wheat futures jump." },
+    { "tag": "UKRAINE-DIPLOMACY", "summary": "Moscow signals it will talk only on the new US proposals and names Witkoff and Kushner; Kyiv presses for more Patriots." },
+    { "tag": "RUSSIA-JAPAN", "summary": "Putin's first-ever visit to the Kuril Islands draws a formal protest from Tokyo." },
+    { "tag": "NORTH KOREA", "summary": "Pyongyang's second missile launch in a week comes days before US-ROK exercises." },
+    { "tag": "ISRAEL-GAZA", "summary": "Israel resumes targeted killings in Gaza as Netanyahu rebuffs the latest US plan." },
+    { "tag": "IRAN", "summary": "A carrier swap and a hardening blockade keep the US-Iran standoff on a slow boil; oil probes $90." },
+    { "tag": "AI-CYBER", "summary": "Taiwan discloses a near-autonomous, AI-run intrusion into government networks." },
+    { "tag": "NOTES", "summary": "German counterintelligence warning; secondary-tariff clock on Russian-oil buyers." }
+  ],
+  "articles": [
+    {
+      "headline": "Ukraine's Deep Strikes on Novorossiysk and the Volga-Urals Escalate the Economic War",
+      "blocks": [
+        { "type": "para", "text": "We assess that Kyiv's overnight strikes on the Black Sea port of Novorossiysk and on refining infrastructure deep inside Russia mark a deliberate widening of Ukraine's campaign against the revenue and logistics that sustain Moscow's war effort. Ukrainian officials say the coordinated strike — using drones, cruise missiles, and uncrewed surface vessels — damaged four warships at the Novorossiysk naval base and halted work at two of Russia's largest grain-export terminals. The combination of a hardened naval base and a critical export node in a single night is the most consequential Ukrainian long-range operation in weeks." },
+        { "type": "bullets", "items": [
+          "Kyiv's General Staff identified the damaged vessels as the Grigorovich-class frigates <b>Admiral Makarov</b> and <b>Admiral Essen</b>, the Buyan-M–class corvette <b>Buyan-M</b>, and the patrol ship <b>Vasily Bykov</b>. Overhead imagery is consistent with fire damage to warships pierside at Novorossiysk.",
+          "Russian officials reported three killed, including an eight-year-old, and 24 injured; industry sources said two grain terminals stopped loading. Because Russia is the world's largest wheat exporter, Chicago wheat futures rose roughly 3 percent — a signal that the market now prices in Ukrainian reach against Russian export infrastructure.",
+          "The same window saw Ukrainian strikes some 1,300 km from the border on the Gazprom Neftekhim Salavat refining complex in Bashkortostan, part of a sustained effort to degrade Russian fuel output and hard-currency earnings.",
+          "For Washington, the operation underscores both Ukraine's growing long-range strike capacity and the risk of second-order shocks to global food and energy prices that ripple well beyond the theater."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "We judge that Moscow will retaliate against Ukrainian ports and energy nodes and will press to restore grain throughput quickly, but that repeated strikes on Novorossiysk — which also handles Kazakh crude via the CPC consortium — carry escalation potential with third parties. We are watching for a Russian mass missile-and-drone response and for any disruption to CPC flows." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Moscow Narrows the Terms for Talks as Kyiv Presses Allies for Air Defense",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Kremlin is using conditional openness to negotiations to shape the diplomatic track on its own terms rather than to signal readiness for compromise. A senior Russian parliamentary figure said Moscow is prepared to resume talks only on the basis of the new US proposals and voiced no objection to meeting US envoy Steve Witkoff and presidential adviser Jared Kushner — an attempt to keep the channel bilateral with Washington and marginalize Kyiv and Europe." },
+        { "type": "bullets", "items": [
+          "The framing — talk to the United States, about the US plan — is consistent with Moscow's preference to negotiate over Ukraine rather than with it, and to extract sanctions relief while battlefield operations continue.",
+          "President Zelensky again pressed for additional Patriot interceptors, noting Russia is firing roughly twice as many ballistic missiles per month as in 2025; Polish officials signaled possible transfers 'in the coming days.'",
+          "On Capitol Hill, two senior Democratic senators pressed the administration on why fresh sanctions on entities aiding Russian sanctions evasion have been paused even as talks have not produced results — a reminder that the pressure track and the diplomatic track are in visible tension."
+        ] },
+        { "type": "para", "text": "For Washington, the decision point is whether to trade sanctions momentum for a process Moscow may be using to buy time. We expect the Kremlin to keep the Witkoff-Kushner channel open while conceding little on territory, and to test whether Patriot resupply to Kyiv slows." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, INR, Treasury OIA, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Putin's First Kuril Islands Visit Signals Hardening Toward Tokyo",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Putin's first visit to the Kuril Islands — the Moscow-held Pacific chain Japan claims as its Northern Territories — is a calculated signal that the Kremlin has written off near-term rapprochement with Tokyo and intends to consolidate its position in the Far East. Putin toured Iturup, meeting the regional governor and visiting a fish-processing plant, a hospital, and a school, according to Russian state media." },
+        { "type": "bullets", "items": [
+          "Prime Minister Sanae Takaichi called the visit 'absolutely unacceptable' and 'incompatible with the Japanese position on the Northern Territories'; Tokyo lodged a formal protest and summoned the Russian envoy.",
+          "The trip lands weeks after Japan's 2026 Defense White Paper described the regional balance as tilting toward China and flagged deepening Russia-China-North Korea coordination — a characterization Moscow appears to be answering with a show of sovereignty.",
+          "We judge the visit is aimed as much at Beijing and Pyongyang as at Tokyo: a demonstration that Russia remains a resident Pacific power even as its forces are committed in Ukraine."
+        ] },
+        { "type": "para", "text": "For the United States, the episode further forecloses any wedge between Moscow and Beijing and reinforces Tokyo's incentive to deepen defense ties with Washington. We expect Japan to respond with rhetoric and closer alignment rather than material countermeasures." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, DIA, INR, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "North Korea's Second Launch in a Week Precedes US-South Korea Exercises",
+      "blocks": [
+        { "type": "para", "text": "We assess that Pyongyang's short-range ballistic missile launch — its second in under a week and, by Seoul's count, its eleventh of 2026 — is a calibrated protest against the allied Ulchi Freedom Shield exercise set to begin 17 August, not a precursor to broader escalation. The missile was fired toward the sea; South Korea's national security council called the launches 'acts of provocation.'" },
+        { "type": "bullets", "items": [
+          "The pace of testing is consistent with Kim Jong Un's directive earlier this year to sharply increase ballistic- and cruise-missile production, and with an effort to normalize a higher tempo of launches.",
+          "The launches coincide with a deepening Russia–North Korea military relationship. Ukrainian intelligence reports a North Korean missile unit — potentially operating up to 120 ballistic missiles and six launchers — is deploying to Russia's western Voronezh region. Liaison reporting corroborates a North Korean presence forming in the area.",
+          "We judge Pyongyang gains combat feedback on its KN-23/KN-24 systems from their use against Ukraine, improving a threat aimed squarely at South Korea and Japan."
+        ] },
+        { "type": "para", "text": "For Washington and Seoul, the near-term risk is a further launch or a heightened rhetorical posture timed to the exercise. We expect provocations to continue through the drill window and then subside." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from DIA, NSA, INR, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Israel Resumes Targeted Strikes in Gaza as Netanyahu Rebuffs the Latest US Plan",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel's resumption of targeted killings in Gaza, after roughly ten days of curbed operations, reflects friction between Prime Minister Netanyahu's government and Washington over the terms of a durable settlement rather than a decision to reopen full-scale combat. An Israeli drone strike killed a Hamas commander in northern Gaza — the first announced targeted strike since 3 August — and separate strikes killed civilians, the first fatalities since the pause." },
+        { "type": "bullets", "items": [
+          "Mr. Netanyahu has publicly rejected the administration's latest Gaza framework this week, even as US officials signaled they would give him messaging latitude if Israel keeps strikes limited.",
+          "In the West Bank, Israeli settlers besieged Palestinian homes in Qusra for several days; Israeli troops intervened only briefly before attackers returned, and Israel deployed additional forces to restore order.",
+          "The October 2025 ceasefire — which freed the remaining hostages and stood up a technocratic Palestinian committee — remains formally in place, but the resumption of strikes shows how fragile the arrangement is."
+        ] },
+        { "type": "para", "text": "For Washington, the challenge is to preserve the ceasefire's gains while managing an Israeli government resistant to the next phase. We expect low-level strikes to continue and the US-Israel gap over a political endgame to persist." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from CIA, DIA, INR, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Carrier Swap Underscores a Grinding US Pressure Campaign Against Iran",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US pressure campaign against Iran — combining sanctions with a naval interdiction posture in and around the Gulf — has settled into a war of attrition that neither side is positioned to end quickly. Reporting indicates Tehran is taking well-worn measures to keep its economy functioning just enough to outlast the campaign, while shipping through the Strait of Hormuz has thinned and oil briefly touched $90 a barrel for the first time in two weeks before easing." },
+        { "type": "bullets", "items": [
+          "The Pacific-based carrier <b>USS George Washington</b> has departed Southeast Asia and is transiting west to relieve the <b>USS Abraham Lincoln</b>, which has been at sea more than 240 days amid reports of supply and crew-welfare strain — leaving the Western Pacific without a US carrier for an interval.",
+          "The Lincoln's record deployment illustrates the cost of sustaining two-carrier presence in the region and the strain on a force stretched across theaters.",
+          "We judge Tehran will avoid a direct clash with US naval forces while using proxy and gray-zone tools to raise costs and keep oil markets on edge."
+        ] },
+        { "type": "para", "text": "For Washington, the pull of forces toward the Gulf reopens risk in the Indo-Pacific and hands Beijing a talking point about US overextension. We are watching Hormuz traffic and tanker insurance rates as the clearest near-term barometers of escalation." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from DIA, NGA, Navy intelligence, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, Navy intelligence, and open sources."
+    },
+    {
+      "headline": "Taiwan Discloses a Near-Autonomous, AI-Run Intrusion Into Government Networks",
+      "blocks": [
+        { "type": "para", "text": "We assess that Taiwan's disclosure of an 'abnormal,' AI-assisted intrusion into government systems is an early, credible example of adversaries using off-the-shelf AI agents to run a cyber operation at machine speed with minimal human direction — a capability shift with direct national-security weight. Taipei says the intrusion began 20 July and that the attackers chained together open-source AI agents to build a tool that behaved like a coordinated hacking team, adapting mid-operation without human intervention." },
+        { "type": "bullets", "items": [
+          "Over roughly four days the automated tooling mapped 21 government systems, compromised at least 85 user accounts, and exfiltrated more than 2,500 personnel records before expanding to Taiwan's nuclear-safety regulator and several energy companies.",
+          "Taipei has not formally attributed the operation, but the targeting and tradecraft point to a China-nexus actor; independent researchers describe it as among the first near-autonomous AI attacks on a government target.",
+          "The significance is less the volume of data than the automation: AI agents lower the skill and manpower needed to run a persistent intrusion and compress the timeline defenders have to respond."
+        ] },
+        { "type": "para", "text": "For the United States, the episode is a warning that agentic AI is moving from demonstrations into live state-linked operations. We judge similar tooling will proliferate quickly and expect it to be turned against US government and critical-infrastructure networks; the near-term priority is detection tuned to machine-speed, adaptive intrusions." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from NSA, CISA/DHS I&amp;A, CIA, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, CISA/DHS I&amp;A, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Germany / Influence.</b> German counterintelligence has warned of a coordinated, Russia-linked influence campaign aimed at deepening social divisions ahead of regional elections next month, in which the far-right is expected to make gains. We assess the effort is consistent with Moscow's standard playbook of amplifying existing fault lines rather than manufacturing new ones, and bears watching as a template for interference in other allied votes." },
+        { "type": "para", "text": "<b>Sanctions / Energy.</b> The clock continues toward secondary tariffs on major buyers of Russian crude, with steep additional US duties on Indian goods tied to Russian-oil purchases set to take effect later this month. We judge the measure will pressure New Delhi's calculus on Russian barrels but risks straining a partnership Washington values in its competition with China." },
+        { "type": "para", "text": "<i>Prepared by ODNI with reporting from INR, Treasury OIA, FBI, and open sources.</i>" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury OIA, FBI, and open sources."
+    }
+  ]
+}
