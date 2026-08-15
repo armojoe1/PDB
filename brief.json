@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-15",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Washington signals an open-ended blockade and 'unprecedented' economic isolation of Iran." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv declares a southern salient cleared; Moscow spurns a ceasefire a year after Anchorage." },
+    { "tag": "CHINA-TRADE", "summary": "A White House report casts China's transshipment network as a strategic-economic threat and names allies." },
+    { "tag": "AI-CYBER", "summary": "Researchers disclose the first near-autonomous AI cyberattack on a government, against Taiwan." },
+    { "tag": "RUSSIA-NATO", "summary": "Warsaw says it foiled a Russia-directed plot to kill a US citizen on allied soil." },
+    { "tag": "ENERGY", "summary": "Oil supply outlook cut to a yearly low as the Hormuz deadlock feeds through to prices." },
+    { "tag": "NOTES", "summary": "North Korea, Gaza, and an Indonesian earthquake." }
+  ],
+  "articles": [
+    {
+      "headline": "United States Signals Open-Ended Coercion of Iran as Hormuz Blockade Hardens",
+      "blocks": [
+        { "type": "para", "text": "We assess the Administration has committed to an open-ended coercion campaign against Iran rather than a near-term negotiated exit from the Strait of Hormuz crisis. On 14 August, Defense Secretary Hegseth said the Navy can sustain the blockade “indefinitely” by rotating ships in and out, and Treasury Secretary Bessent warned of financial measures aimed at “economic isolation like the world has never seen.” Taken together, the messaging indicates Washington intends to force Tehran to reopen the strait on US terms, and is prepared to absorb a prolonged standoff to do it." },
+        { "type": "bullets", "items": [
+          "Traffic through Hormuz has collapsed — press reporting put transits at roughly eight vessels on Tuesday, against a recent average near a dozen and 130–140 before the war — and Iranian crude exports have effectively halted since the July blockade began, a near-total chokehold on Tehran's principal revenue stream.",
+          "We judge Bessent's “economic isolation” language points to a secondary-sanctions escalation; the likeliest next targets are the remaining buyers of Iranian oil, the insurers and intermediaries that enable them, and the “shadow fleet” moving sanctioned barrels.",
+          "Ceasefire diplomacy has floundered, and we assess neither capital yet sees an off-ramp it can sell at home — raising the risk that a boarding, a mining attempt, or a miscalculation in the strait escalates the confrontation."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The USS George Washington is transiting toward the US Central Command area to relieve the USS Abraham Lincoln, on station more than 250 days and without a port call for some 200 — an endurance strain the Navy is now working to relieve. Overhead imagery confirms the relief is underway. For Washington, the central risk is that an indefinite blockade quietly converts a coercion campaign into a war of attrition with global energy costs; a genuine decision point comes if Tehran moves to contest the strait directly rather than wait Washington out." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, the Office of Intelligence and Analysis at Treasury, and open sources."
+    },
+    {
+      "headline": "Kyiv Declares Southern Salient Cleared as Moscow Spurns a Ceasefire",
+      "blocks": [
+        { "type": "para", "text": "We assess Ukraine's announced clearing of a Russian salient in Dnipropetrovsk is a genuine but localized tactical success that does not, by itself, alter the war's overall trajectory. President Zelensky said on 14 August that Ukrainian forces had retaken roughly 745 square kilometers across 26 settlements. The timing is pointed — it comes a year to the day after the Anchorage summit, which produced no settlement — and Moscow responded by rejecting a ceasefire outright and threatening tougher strikes." },
+        { "type": "bullets", "items": [
+          "Kyiv claims about 10,000 Russian casualties in the operation, a figure we cannot independently verify and treat as a Ukrainian estimate; the recapture itself is corroborated by multiple outlets.",
+          "Russian long-range fires are intensifying: Ukrainian military intelligence reports ballistic-missile launches climbed to 198 in July, the year's high, sustaining pressure on Ukrainian cities and the power grid as heating season nears.",
+          "A Russian drone strike killed a woman and a nine-year-old child in Sumy overnight — consistent with a campaign we assess is aimed at civilian morale and infrastructure rather than front-line gains."
+        ] },
+        { "type": "para", "text": "For Washington, the anniversary is a reminder that Russia's maximalist aims are unchanged and that battlefield momentum remains incremental on both sides. We expect Moscow to keep trading territory for time while betting on Western fatigue; the indicator to watch is whether Russia again concentrates strikes on the energy grid before winter." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "White House Report Recasts China's 'Transshipment' Network as a Strategic-Economic Threat",
+      "blocks": [
+        { "type": "para", "text": "We assess a new White House report, released 13–14 August under the title “The Great Transshipment Scam,” elevates tariff circumvention from an enforcement nuisance to a framed strategic-economic problem. It alleges Chinese exporters have built a “shadow” re-export network spanning more than 40 countries — including treaty ally South Korea — that costs the United States an estimated $19–26 billion a year in lost duties." },
+        { "type": "bullets", "items": [
+          "The named waypoints run across Southeast Asia — Vietnam, Malaysia, Thailand, Cambodia, Indonesia, the Philippines — plus India and South Korea; goods are lightly finished, repackaged, or relabeled to disguise their Chinese origin before entering the US market.",
+          "Naming partners and a treaty ally as facilitators carries diplomatic risk: we judge Seoul and several ASEAN capitals are likely to push back, which could complicate US efforts to align them against Beijing on trade and technology.",
+          "Customs and Border Protection is deploying machine-learning tools — analyzing container markings, packaging patterns, and X-ray imagery for origin mismatches — signaling this is a prelude to tougher enforcement, not merely a diagnosis."
+        ] },
+        { "type": "para", "text": "For Washington, the report likely presages new origin-verification demands or penalties on transit hubs. The key question is whether that pressure pushes those hubs toward US-led supply-chain arrangements or, resented as coercion, nudges them back toward Beijing." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Office of Intelligence and Analysis at Treasury, CIA, INR, and open sources."
+    },
+    {
+      "headline": "Researchers Disclose First Near-Autonomous AI Cyberattack on a Government",
+      "blocks": [
+        { "type": "para", "text": "We assess a campaign against Taiwanese government networks, disclosed by security researchers this week, is an early but credible demonstration of AI agents running a largely autonomous cyber operation — a development with real implications for the offense-defense balance. We are deliberate about the calibration: this is a documented use of agentic tooling to compress an intrusion, not evidence of a broader step-change in machine intelligence." },
+        { "type": "bullets", "items": [
+          "Per the researchers, open-source agent frameworks ran autonomous “learning cycles” that mapped some 21 government systems, cracked roughly 85 accounts, and exfiltrated about 2,500 personnel records over four days in July; the intrusion reached Taiwan's nuclear-safety regulator and several energy firms.",
+          "Attribution points to a China-linked actor, but Taipei has not confirmed it; we assess the salient point is the tradecraft — autonomy at machine speed and scale — which holds regardless of sponsor.",
+          "Collection indicates the operators leaned on commodity, open-source tooling rather than bespoke implants, which lowers the barrier to entry and means lesser actors could field similar capability."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The disclosure lands as Taiwan runs its annual Han Kuang defense drills, sharpening the island's focus on the full spectrum of coercion. For Washington, the case is a warning that agentic tools shorten the path from reconnaissance to compromise; we expect accelerated interest across state cyber programs and would watch for copycat use against US critical infrastructure." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the National Security Agency, the Cybersecurity mission of DHS's Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Warsaw Says It Foiled a Russia-Directed Plot To Kill a US Citizen on Allied Soil",
+      "blocks": [
+        { "type": "para", "text": "We assess Poland's disclosure — that its services, with US help, disrupted a Russia-directed plot to murder a US-Ukrainian dual national in Warsaw — marks a notable escalation in Moscow's sabotage-and-assassination campaign across Europe. Prime Minister Tusk called it the first Russian attempt to kill a US citizen on the territory of a NATO ally." },
+        { "type": "bullets", "items": [
+          "A suspect Warsaw says was recruited by Russian intelligence was detained on 7 August in a joint operation involving Poland's Internal Security Agency, the police, and US services; he faces three months' pre-trial custody, and the target's identity has been withheld.",
+          "The case fits a two-year pattern of GRU-linked arson, sabotage, and murder-for-hire plots across Europe; we assess Moscow is deliberately probing the threshold that stays below the line of open conflict.",
+          "Liaison reporting corroborates that the tasking traced back to Russian services — consistent with the Polish account and with prior disrupted operations on the continent."
+        ] },
+        { "type": "para", "text": "For Washington, an attempted hit on a US national on allied soil is a direct challenge that will invite pressure for a firm response and for closer US–Polish counterintelligence coordination. The indicator to watch is whether the United States chooses to attribute publicly and pair that with new costs on Russian intelligence networks in Europe." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the FBI Intelligence Branch, INR, and open sources."
+    },
+    {
+      "headline": "Oil Supply Outlook Cut to a Yearly Low as the Hormuz Deadlock Drags On",
+      "blocks": [
+        { "type": "para", "text": "We assess the Hormuz closure is now feeding through to global energy fundamentals, not just headlines. The International Energy Agency cut its 2026 supply outlook to the year's lowest, and OPEC trimmed its demand forecast for a fourth straight month, while crude climbed on the US signal that the blockade could run “indefinitely.” For the United States, the exposure is chiefly to prices and inflation rather than a physical shortfall." },
+        { "type": "bullets", "items": [
+          "Brent rose about 1.8% to roughly $88.6 a barrel and US crude about 2% to roughly $82.9 on 14 August, leaving both on track for weekly gains near 4%; the IEA now projects a 4.3 million-barrel-per-day supply decline this year, some 600,000 deeper than a month ago.",
+          "The physical hit is concentrated on Iranian barrels and Hormuz throughput; spare OPEC+ capacity and non-OPEC supply still cushion the balance, but we assess the geopolitical risk premium is rising and would spike on any tanker incident in the strait.",
+          "The Administration has said it will accept higher pump prices as the cost of pressuring Tehran; we judge Strategic Petroleum Reserve releases and pressure on domestic and allied producers are the likeliest near-term levers to cap prices."
+        ] },
+        { "type": "para", "text": "A decision point comes if prices break decisively higher or a supply scare forces the issue; the near-term signal to watch is whether OPEC+ moves to fill the gap or holds output to defend price." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Department of Energy's Office of Intelligence and Counterintelligence, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>North Korea.</b> Pyongyang launched its 11th ballistic missile of 2026 on 12 August — its second in a week — as Seoul and Washington prepare to open the Ulchi Freedom Shield exercise on 17 August. We assess further launches or escalatory rhetoric are likely around the drills, which the North frames as an invasion rehearsal; the risk to watch is a larger provocation timed to the exercise.",
+          "<b>Gaza.</b> The IDF said it killed a Hamas commander in an airstrike in Khan Younis on 13 August amid deadlocked diplomacy. The Trump-backed “Board of Peace” 15-point plan remains stalled after Prime Minister Netanyahu's refusal to withdraw before Hamas fully disarms; we see no near-term breakthrough, though US envoy Jared Kushner is expected in the region.",
+          "<b>Indonesia.</b> A magnitude-7.7 earthquake struck off eastern Indonesia on 15 August, killing at least 20 people and damaging buildings, with aftershocks continuing. We see no indication yet of a request for US assistance; the humanitarian picture is still developing as of this morning."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, NGA, and open sources."
+    }
+  ]
+}
