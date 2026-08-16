@@ -1,0 +1,101 @@
+{
+  "date": "2026-08-16",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "US tightens the blockade as strikes on shipping mount and oil pushes back above $88." },
+    { "tag": "ISRAEL-LEBANON", "summary": "Deadliest strikes since the truce test a fragile US-mediated framework." },
+    { "tag": "UKRAINE", "summary": "A domestic long-range strike reaches Russia's space-rocket industry at Samara." },
+    { "tag": "KOREA", "summary": "Allied drills open amid North Korean threats and a deepening Russia tie." },
+    { "tag": "SUDAN", "summary": "War reheats across Kordofan and Darfur as the east-west split hardens." },
+    { "tag": "INDONESIA", "summary": "A magnitude-7.7 quake off Flores kills dozens; response under way." },
+    { "tag": "NOTES", "summary": "Red Sea, DR Congo Ebola, and the Taiwan Strait." }
+  ],
+  "articles": [
+    {
+      "headline": "US Presses Iran With a Tightened Blockade as Hormuz Strikes Mount and Oil Climbs",
+      "blocks": [
+        { "type": "para", "text": "We assess the US–Iran conflict, now in its sixth month, is settling into a war of attrition centered on the Strait of Hormuz, with neither Washington's blockade nor Tehran's harassment of shipping showing signs of easing. In the past 24 hours additional vessels were struck in and around the strait, transit volumes fell to a fraction of normal, and Brent crude pushed back above $88 a barrel — underscoring that the standoff's principal near-term cost to the United States and its partners is economic, not yet a wider regional war." },
+        { "type": "bullets", "items": [
+          "Press reporting and UKMTO advisories indicate an “unknown projectile” struck a bulk carrier in the strait on 15 August, a day after two Abu Dhabi National Oil Company tankers were hit; industry counts roughly 56 vessels damaged since the war began, and only about 150 ships transited the waterway in the past week — a small fraction of the normal flow.",
+          "Defense Secretary Pete Hegseth reiterated that US forces can sustain the naval blockade of Iranian ports “indefinitely,” and the President said publicly he intends to bring Hormuz under effective US control “pretty soon.” We judge the rhetoric is meant to signal resolve; the blockade itself remains fully in force.",
+          "Iranian Foreign Minister Abbas Araghchi blamed Washington for the renewed violence and said “new paths” will be needed for a durable settlement — language we read as leaving the door open to talks while refusing to concede on the blockade.",
+          "To ease strain on the force, the Navy is rotating the carrier George Washington from the South China Sea to relieve the Abraham Lincoln, at sea more than 260 days amid deteriorating shipboard conditions. The swap preserves a continuous carrier presence but thins US naval weight in the Western Pacific in the interim — a tradeoff we assess Beijing is watching."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Separately, Treasury Secretary Scott Bessent previewed what he called an unprecedented campaign of “economic isolation” against Iran, with specific measures expected in the coming week. We assess the aim is to pair the physical blockade with financial strangulation to force Tehran's capitulation; for Washington the key risk is to allies and to global energy markets if the strait stays closed into the autumn. A decision point comes if Iran concludes the economic damage is survivable and settles in for a longer siege." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Office of Naval Intelligence, Treasury's Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Deadliest Israel-Hezbollah Exchange Since the Truce Tests a Fragile Framework",
+      "blocks": [
+        { "type": "para", "text": "We assess that an escalating exchange of fire along the Israel-Lebanon border over the past day is the most serious challenge yet to the US-mediated framework that has held, unevenly, since late 2025, and that the risk of a broader flare-up is rising even though neither side appears to want full-scale war." },
+        { "type": "bullets", "items": [
+          "Lebanese authorities report Israeli strikes killed at least 11 people early 16 August — seven, including three children, in Ansar near Nabatieh, and at least four in Deir al-Zahrani, with 17 wounded. Israel said the strikes retaliated for a Hezbollah attack that seriously wounded three Israeli soldiers in the south.",
+          "Hezbollah called the strikes a violation that will be “met with what they deserve.” We assess the language signals intent to respond but not necessarily to trigger all-out escalation; the group remains constrained by Lebanon's economic collapse and the heavy degradation it suffered in 2024.",
+          "For Washington, the danger is that a tit-for-tat cycle unravels the disarmament-and-withdrawal sequencing the framework depends on and pulls the Lebanon front back into the orbit of the wider Iran confrontation. We expect intensified US and French diplomacy to try to cap the exchange before it compounds."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine's Long-Range Strikes Reach Russia's Space-Rocket Industry",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's 15 August strike on the Progress Rocket Space Center in Samara — nearly 900 kilometers from the border — marks a notable extension of Kyiv's domestically built long-range strike capability and is aimed at Russia's military-space and satellite-production base, not only its energy and defense plants." },
+        { "type": "bullets", "items": [
+          "President Zelensky confirmed Ukrainian forces used domestically produced Flamingo (FP-5) cruise missiles against the Samara complex — the only Russian facility serially assembling Soyuz-2 launch vehicles used to orbit military satellites and the “Rassvet” low-orbit constellation, Moscow's answer to Starlink. Regional officials acknowledged a large fire and two injured; Kyiv reported a parallel strike on the Savasleyka airbase.",
+          "Overhead imagery shows extensive fire damage across the plant's assembly area, consistent with a successful strike on production infrastructure.",
+          "Russia pressed its own long-range campaign overnight, launching roughly 150 Shahed-type drones and loitering munitions across Ukraine; local authorities reported an infant killed and dozens wounded. Both sides are deepening, not winding down, deep-strike operations even as diplomatic contacts continue.",
+          "For Washington, the strike shows Ukraine's indigenous missile programs maturing to ranges that let Kyiv hold strategic Russian industry at risk without US-provided systems — easing one source of escalation friction with Moscow while raising others. We expect Russia to intensify strikes on Ukrainian energy infrastructure as winter approaches."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "US-South Korea Drills Open Amid North Korean Threats and a Deeper Russia Tie",
+      "blocks": [
+        { "type": "para", "text": "We assess the allied Ulchi Freedom Shield exercise, set to begin 17 August, will draw sharp North Korean rhetoric and probably a missile launch or other demonstration, but not a deliberate military clash. The more consequential thread is how Pyongyang's battlefield experience alongside Russia is now shaping both its capabilities and allied planning." },
+        { "type": "bullets", "items": [
+          "The 11-day exercise involves about 18,000 South Korean troops plus US forces and personnel from other UN Command states, and folds in “lessons learned from recent conflicts.” Pyongyang has condemned it as a rehearsal for “aggressive war” and warned of an “overwhelming” response.",
+          "Ukrainian officials report North Korea is moving as many as 120 ballistic missiles to Russia's Voronezh region — a claim we cannot independently confirm, but one consistent with the established pattern of DPRK arms transfers and the two states' deepening alignment.",
+          "The drills coincide with talks on transferring wartime operational control to Seoul. We judge the alliance is deliberately signaling readiness while managing the risk that a North Korean provocation during the exercise window forces a response. Watch for a launch in the opening days."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Sudan's War Reheats Across Kordofan and Darfur",
+      "blocks": [
+        { "type": "para", "text": "We assess that fighting between the Sudanese Armed Forces and the Rapid Support Forces has intensified sharply across Kordofan, Darfur, and Blue Nile over the past several days, hardening the country's east-west partition and deepening one of the world's worst humanitarian crises with no negotiated off-ramp in sight." },
+        { "type": "bullets", "items": [
+          "The RSF launched a large-scale ground assault — reportedly more than 250 combat vehicles — on Jebra Sheikh in North Kordofan, astride the El Obeid–Omdurman export route; the army said it repelled the attack and forced a withdrawal toward Darfur. Drone strikes over the past two days hit Omdurman, Khartoum North, El Obeid, Atbara, and Ad Damar.",
+          "In the west, an army-led counteroffensive has made gains around Bir Saliba, near el-Geneina — the RSF's last major West Darfur stronghold — the first sustained pressure on the paramilitaries there since their documented atrocities in el-Fasher.",
+          "For Washington, the trajectory matters for regional stability, migration flows, and the contest for influence among Gulf states and Russia backing rival sides. We see no near-term prospect of a ceasefire; the likeliest path is continued attritional fighting along the new front lines."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Powerful Quake Off Eastern Indonesia Kills Dozens as Response Begins",
+      "blocks": [
+        { "type": "para", "text": "We assess that the magnitude-7.7 earthquake that struck off Flores Island in eastern Indonesia early 15 August has killed at least 47 people, and that the toll will likely rise as assessments reach outlying areas. Indonesian authorities are leading the response." },
+        { "type": "bullets", "items": [
+          "The quake struck at about 5:58 a.m. local time, centered roughly 68 kilometers north-northwest of Ende in East Nusa Tenggara province. Damage reporting remains incomplete, and aftershock and localized-tsunami risk persists.",
+          "For Washington the event is primarily humanitarian, but it also bears on a key Indo-Pacific partner; the United States and regional militaries maintain standing disaster-response mechanisms that could be offered. We expect Jakarta to manage the response largely on its own and to request outside help selectively."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Red Sea.</b> Houthi forces fired at least six ballistic missiles at the Yemeni port of Mokha in recent days, part of a barrage of more than 25 missiles that killed seven people — a reminder that the Bab al-Mandeb remains a second maritime chokepoint under fire even as attention centers on Hormuz.",
+          "<b>DR Congo.</b> The World Health Organization now assesses the Ebola outbreak in the DRC began in February, before its formal declaration, with some early cases initially attributed to malaria and typhoid — pointing to a longer undetected chain of transmission and complicating containment.",
+          "<b>Taiwan Strait.</b> Taiwan reported 11 PLA aircraft and eight naval vessels operating around the island in the 24 hours to 16 August, seven of the aircraft crossing the median line — routine in scale but a steady baseline of pressure Beijing sustains regardless of the diplomatic calendar."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, DHS I&A, and open sources."
+    }
+  ]
+}
