@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-17",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv's largest drone barrage guts a Moscow-region logistics hub as Russia strikes Ukrainian industry; a drone is downed over Romania." },
+    { "tag": "IRAN-HORMUZ", "summary": "Talks to reopen the Strait stall; Washington readies an 'unprecedented' economic-isolation package aimed at Tehran's evasion networks." },
+    { "tag": "ISRAEL-LEBANON", "summary": "The deadliest strikes since the June truce kill a senior Hezbollah Radwan commander." },
+    { "tag": "GAZA", "summary": "Kushner shuttles between Hamas and Netanyahu to salvage Trump's roadmap as eight states fault Israel." },
+    { "tag": "NORTHEAST ASIA", "summary": "Trump orders US-ROK exercises cut as Japan edges away from its non-nuclear taboo." },
+    { "tag": "WESTERN HEMISPHERE", "summary": "The US moves its counter-narcotics strike campaign from sea to land across Latin America." },
+    { "tag": "NOTES", "summary": "Sudan's Kordofan siege; a major quake in Colombia; a Russian reconnaissance probe over the Baltic." }
+  ],
+  "articles": [
+    {
+      "headline": "Kyiv Shifts Its Deep Strikes Toward Russia's Economy in Largest Barrage Yet",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's overnight drone barrage against the Moscow region &mdash; among the largest of the war &mdash; reflects a deliberate move to hold Russia's economic and logistics infrastructure at risk rather than a change in the front-line military balance, which remains largely static. Kyiv launched roughly 600 drones toward the capital region into the early hours of 16 August; Moscow's mayor reported more than 200 downed, and the strike gutted the largest logistics hub of the e-commerce giant Wildberries, a 250,000-square-meter complex at Podolsk." },
+        { "type": "bullets", "items": [
+          "Ukrainian forces have now halted operations at seven of Wildberries' ten largest distribution centers. Wildberries and Ozon together account for an estimated 8.5 percent of Russian GDP, and we judge Kyiv is deliberately imposing diffuse economic costs it calculates Moscow cannot easily defend.",
+          "Russia struck back across Ukraine on 16 August, killing at least seven people and wounding some 51, hitting a steel plant and setting a landmark Kyiv book market ablaze &mdash; consistent with Moscow's sustained targeting of Ukraine's defense-industrial base and civilian morale.",
+          "A NATO fighter on air-policing duty over Romania downed a drone that entered allied airspace near Galati early 16 August &mdash; the fourth this year; NATO assesses it was probably Russian. We judge these incursions are unintentional spillover rather than deliberate escalation, but they keep the risk of a miscalculation on the Alliance's eastern flank elevated.",
+          "Overhead imagery shows fire and widespread structural collapse across the Podolsk complex, corroborating claims that the hub was rendered inoperable."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the barrage underscores that neither capital sees a reason to compromise: US-brokered contacts remain stalled, and both sides are investing in strikes designed to raise the other's costs through the autumn. We expect Kyiv to keep expanding its target set deeper inside Russia, and Moscow to answer with mass strikes on Ukrainian industry. A decision point comes only if either side's air-defense stocks or long-range munitions are drawn down faster than they can be replaced." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Hormuz Talks Stall as Washington Prepares 'Unprecedented' Economic Isolation of Tehran",
+      "blocks": [
+        { "type": "para", "text": "We assess that negotiations to fully reopen the Strait of Hormuz have hardened into a stalemate and that the United States is preparing to escalate on the economic track rather than the military one. Nearly six months into the conflict that began on 28 February, Tehran continues to condition any reopening on the lifting of the US naval blockade, while Washington insists the Strait reopen first &mdash; leaving roughly a fifth of the world's seaborne oil trade choked and US pump prices above four dollars." },
+        { "type": "bullets", "items": [
+          "Treasury Secretary Scott Bessent has signaled the administration will roll out this week a package he casts as unlike anything previously used to isolate a country economically. We judge the intent is to move beyond company-level sanctions to the financial and shipping intermediaries &mdash; potentially including Chinese banks and yuan-denominated oil payments &mdash; that sustain Iran's crude exports.",
+          "Targeting those networks would mark a significant escalation with second-order risk: it would test Beijing directly and could invite Chinese countermeasures, making this as much a US-China question as a US-Iran one.",
+          "Oil held roughly flat on 16 August, which we read as the market pricing continued stalemate rather than either a breakthrough or a fresh shock; a collapse in talks or a strike on shipping would move prices sharply.",
+          "Financial reporting indicates Tehran is still moving oil through third-country intermediaries despite the blockade, the very channels the coming measures are designed to sever."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The USS Abraham Lincoln Carrier Strike Group remains on station in the region, sustaining the naval presence enforcing the blockade after some nine months at sea. The key question for Washington is whether escalating financial pressure brings Tehran to trade a reopening for blockade relief, or hardens its refusal &mdash; and whether allies and China absorb or resist the secondary effects." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Office of Naval Intelligence, Treasury's Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Israeli Strikes on Lebanon, Deadliest Since June Truce, Kill Senior Hezbollah Commander",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel's 16 August strikes in southern Lebanon &mdash; the deadliest since the sides agreed a ceasefire in early June &mdash; mark a sharp escalation in a slow-burning cycle that risks pulling the front back toward open conflict. Lebanese authorities reported 11 killed, including three children at Ansar village; the Israeli military said it struck a Radwan Force headquarters and killed a battalion commander it named, part of a stated campaign to prevent Hezbollah's reconstitution near the border." },
+        { "type": "bullets", "items": [
+          "Israel cast the strikes as retaliation for Hezbollah explosive drones that it says wounded three of its troops inside the so-called security zone &mdash; an action-reaction sequence that has steadily eroded the June understanding.",
+          "Signals intelligence corroborates that the strike killed a senior Radwan Force commander, consistent with Israel's claim and Lebanese casualty reporting.",
+          "We judge Hezbollah is probing Israeli tolerance while avoiding a full confrontation it is ill-positioned to win; Israel, in turn, is signaling it will strike preemptively regardless of the truce."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The timing matters: with the US-Iran war unresolved, Tehran retains an incentive to keep Israel's northern front active as leverage. We expect continued Israeli strikes and episodic Hezbollah harassment; the truce likely holds in name, but the trendline is toward more lethal exchanges, and a mass-casualty event on either side could break it." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Kushner Shuttles Between Hamas and Netanyahu to Salvage Trump's Gaza Roadmap",
+      "blocks": [
+        { "type": "para", "text": "We assess that US envoy Jared Kushner's back-to-back engagements &mdash; a rare meeting with Hamas's leader in Egypt on 16 August and talks with Prime Minister Netanyahu today &mdash; are a concerted effort to keep the President's 15-point roadmap alive after Israel rejected key elements last week. The plan sequences a ceasefire, Hamas disarmament, a phased Israeli withdrawal, an interim Palestinian administration, an international security force, reconstruction, and a path toward Palestinian statehood." },
+        { "type": "bullets", "items": [
+          "Hamas reaffirmed its acceptance of the roadmap's second phase and pressed mediators to compel Israeli compliance; Netanyahu has called central provisions &mdash; above all any path to a Palestinian state &mdash; unacceptable.",
+          "Eight states &mdash; Saudi Arabia, Egypt, Jordan, Qatar, the UAE, Turkey, Pakistan, and Indonesia &mdash; issued a joint statement faulting Israel for obstructing the plan. We judge this Arab-Islamic alignment is meant to shift US pressure onto Israel and give Washington cover to lean on Netanyahu.",
+          "Sporadic Israeli strikes continue to kill Palestinians despite the October 2025 ceasefire, keeping the underlying truce fragile even as diplomacy proceeds."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Today's Kushner-Netanyahu meeting is the near-term decision point. The bind for Washington is structural: the President's plan requires the one concession &mdash; movement toward statehood &mdash; that Israel's governing coalition is least able to grant. We assess a full collapse is less likely than a face-saving partial understanding on phase-two mechanics that defers the political core." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Trump Orders US-South Korea Exercises Cut as Allies Weigh Their Own Deterrence",
+      "blocks": [
+        { "type": "para", "text": "We assess that the President's order to substantially scale back joint exercises with South Korea &mdash; announced on 16 August, as the annual Ulchi Freedom Shield drills began &mdash; injects fresh uncertainty into alliance management in Northeast Asia at a moment when both Seoul and Tokyo are reassessing their security bets. The President called the drills costly and needlessly hostile to a North Korea he described as respectful, and reporting ties the move in part to friction over Seoul's posture on Iran." },
+        { "type": "bullets", "items": [
+          "The 11-day exercise, involving some 18,000 South Korean troops, began as scheduled on 17 August; Seoul's Joint Chiefs said it is proceeding as planned, leaving unclear what a scaled-down version will mean in practice.",
+          "Pyongyang had already warned of an 'overwhelming' response and branded US-ROK-Japan cooperation a 'nuclear alliance.' We judge North Korea will read any US drawdown as vindication of pressure and is likely to sustain its record-setting 2026 missile-testing tempo.",
+          "We assess the episode will feed allied doubts about the constancy of US extended deterrence &mdash; doubts that shape hedging decisions in both Seoul and Tokyo."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Those doubts are visible in Tokyo. In his 15 August war-anniversary address, Prime Minister Takaichi departed from the customary language of 'deep remorse,' and she has pointedly declined to reaffirm Japan's three non-nuclear principles ahead of a planned revision of its core national-security documents. We do not assess Japan is moving toward nuclear weapons, but the erosion of a decades-old taboo, coupled with US signals on Korea, is exactly the kind of allied recalibration Washington should watch." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "US Extends Its Counter-Narcotics Strike Campaign From Sea to Land in Latin America",
+      "blocks": [
+        { "type": "para", "text": "We assess that the administration is significantly expanding its military role in the Western Hemisphere, moving a year-old campaign of lethal strikes on suspected drug vessels &mdash; which has killed hundreds off the Caribbean and Pacific coasts &mdash; onto land. Defense Secretary Hegseth said Colombia, Guatemala, and Honduras have agreed to permit joint US operations against criminal groups on their soil, following Ecuador, which began such missions in March; Guatemala publicly denied any such agreement." },
+        { "type": "bullets", "items": [
+          "Colombia's new, US-aligned president, Abelardo de la Espriella, who took office this month, has raised the prospect of US forces joining strikes against armed groups including the ELN &mdash; a marked break from his predecessor's posture.",
+          "Mexico's President Sheinbaum, while cooperating on security, continues to resist any US military role on Mexican soil, underscoring the sovereignty frictions the expansion is generating across the region.",
+          "We judge the shift raises significant legal and escalation questions &mdash; over the lawfulness of lethal strikes on suspected traffickers and the risk of drawing US forces into entrenched internal conflicts."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the campaign offers visible pressure on trafficking networks but at rising diplomatic cost and with an uncertain endgame. We expect further basing and operating arrangements with willing governments, continued pushback from Mexico and skeptical partners, and growing congressional scrutiny of the authorities underpinning the strikes." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, DEA's Office of National Security Intelligence, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan:</b> The Rapid Support Forces have turned increasingly to drones in North Kordofan after losing the Omdurman&ndash;el-Obeid supply route to the army in late July, even as roughly half a million people remain trapped in el-Obeid and the UN warns of an impending humanitarian catastrophe. We assess the army retains momentum in Darfur, but el-Obeid is shaping up as the next major set-piece battle, with civilians most at risk." },
+        { "type": "para", "text": "<b>Colombia:</b> A magnitude-7.4 earthquake struck the western Choco region on the morning of 16&ndash;17 August, with damage still being assessed. The tremor hits a partner where Washington is simultaneously deepening a military counter-narcotics role, and a significant disaster-response demand could complicate that agenda." },
+        { "type": "para", "text": "<b>Baltic:</b> Poland scrambled F-16s to intercept a Russian Il-20 reconnaissance aircraft operating over the Baltic with its transponder off and no filed flight plan &mdash; the latest in a run of Russian probes along NATO's eastern flank that, together with the Romanian drone incident, keeps allied air defenses on heightened alert." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
