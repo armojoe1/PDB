@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-18",
+  "cover": true,
+  "emblem": "/home/user/PDB/emblem_small.png",
+  "cover_pdf": "/root/.claude/skills/synced/daily-pdb/assets/cover.pdf",
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "US-Iran negotiating window lapses at 60 days; Trump threatens Oman as the strait standoff hardens." },
+    { "tag": "GAZA", "summary": "Kushner and Netanyahu lock in disarmament-before-withdrawal sequencing for Trump's 20-point plan." },
+    { "tag": "LEBANON", "summary": "Deadliest Israeli strikes since the June truce follow a Hezbollah drone attack on IDF troops." },
+    { "tag": "UKRAINE", "summary": "Kyiv mounts one of the war's largest drone barrages; Russia answers with deadly strikes." },
+    { "tag": "DPRK-RUSSIA", "summary": "Kim and Putin deepen alignment as a North Korean missile unit moves into western Russia." },
+    { "tag": "ISRAEL-POLITICS", "summary": "Likud primary opens a campaign that will decide whether the Gaza plan's government survives." },
+    { "tag": "NOTES", "summary": "Ceuta migrant surge; Taiwan cash-handout budget; Yemen presses the Houthis." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Talks Lapse at 60-Day Mark; Trump Threatens Oman as Hormuz Standoff Hardens",
+      "blocks": [
+        { "type": "para", "text": "We assess that the expiry of the 60-day US-Iran negotiating window on 17 August, with no agreement on reopening the Strait of Hormuz, has restored a geopolitical risk premium to global oil and raised the odds of renewed direct US-Iranian exchanges over the coming weeks. President Trump publicly warned he would strike Oman &mdash; the US partner mediating the talks &mdash; if it &ldquo;gets in the way&rdquo; of a Hormuz deal, signaling Washington&rsquo;s readiness to use force to keep the strait open. We judge neither side wants a return to the intense strikes of the spring, but the lapse narrows the diplomatic off-ramps." },
+        { "type": "bullets", "items": [
+          "Iranian and Omani officials say a &ldquo;transit-route map&rdquo; for Hormuz shipping has been agreed in principle, but no final, signed arrangement &mdash; and no joint statement &mdash; has emerged; we assess the remaining gap is over inspection and escort rights, not the route itself.",
+          "Tehran, under Supreme Leader Mojtaba Khamenei and President Masoud Pezeshkian, continues to condition full reopening on sanctions relief and compensation, terms Washington has rejected; the June ceasefire remains formally in place but has been repeatedly violated at sea.",
+          "Crude carried a renewed risk premium, with Brent near $89 a barrel on 17 August after a 5%-plus weekly gain driven by attacks on tankers and a Saudi refinery; markets are pricing episodic interdiction, not a full closure, which remains unlikely given the cost to Iran itself.",
+          "The USS George Washington is transiting to Central Command to relieve the USS Abraham Lincoln, sustaining continuous carrier coverage in the theater as the deadline passes."
+        ] },
+        { "type": "para", "text": "For Washington, the decision point is whether to escort commercial tankers through Hormuz under fire. We assess a US-led convoy operation is the most likely next step if Iranian interdictions resume, and that a further round of Treasury sanctions is the near-term response short of strikes." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "US and Israel Agree Hamas Must Disarm Before Any IDF Pullback in Gaza",
+      "blocks": [
+        { "type": "para", "text": "We assess that Monday&rsquo;s talks in Jerusalem between Prime Minister Netanyahu and White House envoy Jared Kushner have hardened the sequencing of President Trump&rsquo;s 20-point Gaza plan around a single condition &mdash; full Hamas disarmament and the demilitarization of Gaza before any Israeli redeployment &mdash; lowering the near-term likelihood of an IDF withdrawal while preserving the ceasefire. Kushner assured Netanyahu the IDF will not be compelled to leave until Hamas disarms; the two also agreed no reconstruction begins until then." },
+        { "type": "bullets", "items": [
+          "Under the emerging arrangement, Hamas is to hand its weapons directly to a US force for destruction supervised by US Gen. Jasper Jeffers; a &ldquo;Board of Peace&rdquo; that includes former UK Prime Minister Tony Blair and veteran diplomat Nickolay Mladenov is to steward governance and reconstruction.",
+          "The framework followed Kushner&rsquo;s rare 16 August meeting with a Hamas delegation in Cairo; Hamas has publicly committed to &ldquo;fully disarm&rdquo; and halt tunnel-building and rearmament, but has not begun handovers.",
+          "An IDF tank was struck by a Hamas explosive device in southern Gaza over the weekend, which Israel called a ceasefire violation &mdash; a reminder that spoilers on either side can unravel the plan.",
+          "We judge the sequencing gives Hamas little incentive to disarm quickly and Israel little reason to move first; implementation will likely be slow and contested, with the ceasefire holding but fraying."
+        ] },
+        { "type": "para", "text": "For Washington, the test is whether a US-supervised disarmament mechanism can be stood up before an incident forces Israel&rsquo;s hand. We expect the coming weeks to turn on the mechanics of weapons handover and the composition of an international stabilization force." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Deadliest Israeli Strikes in Lebanon Since June Truce Follow Hezbollah Drone Attack",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel&rsquo;s 17 August strikes in south Lebanon &mdash; which Lebanese authorities say killed 11 and wounded at least 19 &mdash; are the most lethal exchange since the June ceasefire and raise the risk of a broader Hezbollah-Israel escalation even as Washington presses a parallel disarmament track. Netanyahu cast the strikes as retaliation for a Hezbollah explosive-drone attack that seriously wounded three soldiers of the IDF&rsquo;s Yahalom combat-engineering unit on 16 August." },
+        { "type": "bullets", "items": [
+          "The strikes hit Ansar and Deir ez-Zahrani in the Nabatieh district; the IDF said it had killed senior Hezbollah commander Abu Hassan Alaa in the south the previous day.",
+          "We judge Hezbollah is testing the truce&rsquo;s limits while avoiding a full war it is not postured to win; a realistic possibility is a further tit-for-tat exchange before both sides step back.",
+          "The flare-up complicates the US effort to consolidate the Lebanon ceasefire and to keep Iran&rsquo;s regional partners quiet while the Hormuz standoff plays out."
+        ] },
+        { "type": "para", "text": "We expect Washington to lean on Beirut and Paris to restrain Hezbollah and on Israel to keep its response calibrated; the thing to watch is whether either side&rsquo;s next strike hits north of the Litani or into the Bekaa, which would signal a widening." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Mounts One of the War's Largest Drone Barrages; Russia Answers With Deadly Strikes",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine&rsquo;s overnight barrage of 15-16 August &mdash; Russia&rsquo;s Defense Ministry claimed 822 drones downed, with roughly 600 tracked toward Moscow &mdash; reflects a maturing Ukrainian deep-strike campaign built to impose costs on Russia&rsquo;s capital region and logistics even as the front lines stay largely static. At least six people were killed inside Russia; Russian strikes the same night killed at least seven in Ukraine." },
+        { "type": "bullets", "items": [
+          "Ukrainian drones struck a Wildberries logistics hub near Moscow and towns in Rostov, damaging a rail station and homes and killing five; an 83-year-old man died in the Moscow region. NGA assesses from commercial satellite imagery that the strikes caused localized but real disruption to rail and warehousing nodes.",
+          "Russian missiles killed two in Kryvyi Rih and one in Sumy and hit a major steel plant overnight; both sides are trading deep strikes rather than seeking a battlefield breakthrough.",
+          "A BBC/Mediazona tally released 18 August has now confirmed by name 239,354 Russian military dead since February 2022 &mdash; a floor, not a ceiling, and a marker of the war&rsquo;s attritional cost."
+        ] },
+        { "type": "para", "text": "For Washington, the barrage underscores Kyiv&rsquo;s growing indigenous strike capacity and the diminishing returns of Russia&rsquo;s air war. We expect long-range exchanges to intensify into the fall, with Russian energy and logistics infrastructure the likely Ukrainian focus." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Kim and Putin Deepen Alignment as North Korean Missile Unit Moves Into Western Russia",
+      "blocks": [
+        { "type": "para", "text": "We assess that the reaffirmation of the Moscow-Pyongyang partnership over the 15-16 August Korean Liberation Day exchanges &mdash; in which Kim Jong Un pledged &ldquo;unconditional&rdquo; support for Russia&rsquo;s policies and Putin hailed an &ldquo;unprecedentedly high&rdquo; comprehensive strategic partnership &mdash; is being matched by concrete military integration that increasingly bears on both the Ukraine war and Northeast Asian security. Ukrainian military intelligence reports a North Korean missile unit of roughly 90 personnel is deploying to Russia&rsquo;s Voronezh region, to be folded into the 112th Missile Brigade with as many as 120 ballistic missiles and six launchers." },
+        { "type": "bullets", "items": [
+          "Pyongyang has already supplied Russia millions of artillery rounds, thousands of troops, and successive batches of KN-23 and KN-24 missiles; the new deployment would put North Korean crews closer to the fight. Liaison reporting corroborates the deepening munitions pipeline.",
+          "North Korea has conducted roughly 11 ballistic-missile launches in 2026, and Kim has ordered a 2.5-fold increase in missile output; we judge the war is serving as a live proving ground for DPRK systems and crews.",
+          "The alignment erodes US and allied sanctions leverage over both states and accelerates DPRK capability; we expect deeper technology transfer &mdash; air defense, missiles, and possibly submarine and satellite know-how &mdash; to be the axis&rsquo;s next frontier."
+        ] },
+        { "type": "para", "text": "For Washington, the practical consequence is a Russia better supplied for a long war and a North Korea gaining hard capability the US cannot easily sanction away. We expect Seoul and Tokyo to press for a firmer allied response, including on extended deterrence." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, NSA, and open sources."
+    },
+    {
+      "headline": "Netanyahu's Likud Holds Primary as October Election Looms Over the Gaza Plan",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 17 August Likud primary &mdash; which set the party&rsquo;s Knesset slate ahead of Israel&rsquo;s 27 October general election &mdash; opens a campaign season that will help decide whether the government now negotiating the US-backed Gaza plan survives to implement it. Turnout was a low 53%, a possible sign of base fatigue after a punishing year of war on several fronts." },
+        { "type": "bullets", "items": [
+          "Netanyahu is campaigning on the Gaza framework and the war&rsquo;s security gains; his bloc has been under pressure in polling, and we judge the coalition&rsquo;s durability through October is not assured.",
+          "For Washington, continuity matters: the Trump plan&rsquo;s disarmament-first sequencing depends on an Israeli government willing to hold the line; a change of government, or a hard-right partner&rsquo;s defection, could reopen the terms.",
+          "We expect Gaza, the Lebanon flare-up, and the Iran war to dominate the campaign; the key thing to watch is whether Netanyahu&rsquo;s partners stay in line as the disarmament timeline slips."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Spain-Morocco.</b> Moroccan forces turned back hundreds of migrants who tried to rush the fence into the Spanish enclave of Ceuta on 16-17 August. The episode is a reminder that Rabat&rsquo;s border cooperation remains a live lever in EU-Morocco relations and, indirectly, in Madrid&rsquo;s domestic politics.",
+          "<b>Taiwan.</b> President Lai Ching-te&rsquo;s government proposed a NT$235.7 billion (about $7.4 billion) line in next year&rsquo;s budget to fund a NT$10,000 cash payment to every citizen, citing continued growth &mdash; a fiscal-political move as Taipei simultaneously works to lift defense spending under sustained Chinese pressure.",
+          "<b>Yemen/Red Sea.</b> Forces of Yemen&rsquo;s internationally recognized government are intensifying operations against the Houthis, part of the wider push to reopen Red Sea and Bab al-Mandeb shipping lanes disrupted during the Iran war. We assess durable reopening still hinges on the Hormuz outcome and on curbing Iranian resupply."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    }
+  ]
+}
