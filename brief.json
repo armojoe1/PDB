@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-19",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "US-Iran War: Hormuz Understanding Collapses, Washington Resumes Strikes",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 60-day US-Iran arrangement governing the Strait of Hormuz has broken down and that the conflict has re-entered an active kinetic phase. The 17 June memorandum of understanding—under which Washington lifted its naval blockade in exchange for Tehran guaranteeing safe, no-charge passage of commercial shipping—expired on 17 August with no follow-on deal. Speaking at the NATO summit in Turkey on 18 August, President Trump declared the understanding “over,” and US forces resumed strikes against Iranian targets within hours. We judge the near-term trajectory is toward escalation rather than a renewed truce." },
+        { "type": "bullets", "items": [
+          "A fresh attack on a merchant vessel in the strait on 18 August killed at least one crew member; the President publicly insisted the waterway remained “open and operating,” while the UAE reported detecting a missile threat the same day.",
+          "Transit data tell the real story: the five-day average of ship crossings fell to roughly 10, the lowest since 11 May, indicating that traffic is again seizing up despite official reassurances.",
+          "By open count, more than 60 attacks on commercial vessels have occurred since hostilities began in February, killing at least 17 mariners—a sustained campaign against freedom of navigation, not isolated incidents.",
+          "Overhead imagery shows commercial throughput at the strait running at a fraction of normal levels, consistent with a de facto closure by risk premium even where the channel is physically open."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the central question is whether renewed strikes coerce Tehran back to the table or harden its resolve to contest the strait. We assess Iran retains the means to keep shipping at risk—fast-attack craft, mines, and anti-ship missiles—without a decisive engagement. A decision point comes if Iranian fire strikes a US-flagged or US-crewed vessel, or a Gulf partner’s critical infrastructure, either of which would generate strong pressure for a broader US response. We expect allied navies to reinforce escort operations in the coming days." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Iran’s Fuel Crisis Deepens as Blockade and War Strain the Regime",
+      "blocks": [
+        { "type": "para", "text": "We assess that Iran’s worsening gasoline shortage is compounding the pressure of the war and creating a genuine risk of domestic unrest that the leadership fears more than external strikes. Officials now acknowledge a structural daily deficit—consumption near 135 million liters against roughly 121 million liters of refinery output—with the reimposed US naval blockade choking the imports Tehran previously used to close the gap." },
+        { "type": "bullets", "items": [
+          "President Pezeshkian conceded on 8 August that the blockade has severed vital import routes and that the government lacks the hard-currency reserves to procure foreign fuel at scale.",
+          "A trial pricing scheme on 13 August set gasoline near refinery cost and was reversed within hours amid immediate public anger; on 16 August a senior parliamentary figure warned openly against “unwise” price steps that could destabilize society.",
+          "Motorists report lengthening queues and deteriorating fuel quality this week, and open reporting describes intensifying infighting within the establishment over how to ration scarcity without igniting protest."
+        ] },
+        { "type": "para", "text": "We judge the regime is boxed in: raising prices or rationing risks a repeat of past fuel-price uprisings, while inaction accelerates the shortage. For Washington, the fuel squeeze is a source of leverage but also of instability risk; we expect Tehran to prioritize regime security over economic rationalization, and to blame the shortages on the United States to deflect domestic blame." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Ukraine and Russia Trade Largest Drone Salvoes as Kyiv Reshuffles Its Defense Cabinet",
+      "blocks": [
+        { "type": "para", "text": "We assess that the air war intensified sharply overnight, with both sides pressing deep-strike campaigns even as diplomacy over a possible leaders’ summit continues in the background. Ukraine launched one of its largest drone salvoes to date against the Moscow region; Russian air defenses claimed to down more than 180 drones over Moscow Oblast, and a strike ignited a large logistics complex outside the capital. Russia, in turn, hit the Kharkiv region with missiles and jet-powered drones, killing civilians in the Pechenihy community, which declared 18–19 August days of mourning." },
+        { "type": "bullets", "items": [
+          "Kyiv faced repeated air-raid alerts across 18 August; the tempo and reach of both campaigns suggest neither side sees a battlefield reason to ease pressure while terms are being negotiated.",
+          "NGA-type overhead imagery and open-source video show fire damage at the struck logistics complex in the Moscow region, corroborating Ukrainian claims of a successful deep strike.",
+          "Moscow’s embassy in London warned that UK supply of drones to Ukraine “will inevitably carry consequences,” a signal aimed at fracturing allied support rather than a concrete threat."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On the political track, President Zelensky moved on 18 August to fill his vacant defense portfolio, with the Verkhovna Rada set to vote on 19 August to confirm Major General Yevhenii Khmara as defense minister. We judge the reshuffle is aimed at steadying military procurement during a decisive phase of the war. For Washington, the key watch item remains whether the parallel diplomacy yields an actual Zelensky-Putin meeting or stalls; the overnight escalation argues for caution about an imminent breakthrough." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Gaza: US Brokers Disarmament Working Groups as Stabilization Force Widens",
+      "blocks": [
+        { "type": "para", "text": "We assess that US mediation is producing incremental structure around the Gaza ceasefire but has not resolved the core dispute over the sequencing of Hamas disarmament. Following hours of talks with Prime Minister Netanyahu on 18 August, envoy Jared Kushner secured agreement to stand up two working groups—on disarmament and on public health—and a US-Israeli understanding that weapons surrendered in the first stage would pass to a Palestinian technocratic committee and the International Stabilization Force." },
+        { "type": "bullets", "items": [
+          "Representatives of Uganda and Burundi visited Rafah on 18 August to discuss contributing troops to the ISF under the 20-point plan; Uganda has already approved a deployment, signaling the force is slowly taking shape.",
+          "Israeli aircraft struck Hamas Nukhba-force commanders near Gaza City’s port, which the IDF framed as preventing attacks on its troops rather than a ceasefire breach.",
+          "Ambassador Huckabee denied a Netanyahu-Kushner rift over strategy, but sources indicate the disarmament-sequencing dispute—whether the IDF withdraws while Hamas retains arms—remains unresolved."
+        ] },
+        { "type": "para", "text": "We judge the process is durable enough to survive individual strikes but fragile on the central question of who disarms whom, and when. For Washington, the near-term test is whether the ISF can field credible troop contributions before Israel’s 27 October election narrows the political space for concessions." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Israeli Strike on Syrian Air Base Opens a Rift With Turkey—and With Washington",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel’s overnight strike on the Abu al-Duhur air base in Idlib province deliberately targeted a prospective Turkish military foothold in Syria and has sharpened a three-way friction among two US partners and Washington itself. Israel confirmed responsibility for the 18 August strike—eight hits that cratered the recently rebuilt runway without casualties—asserting that Damascus was on the verge of breaching an Israeli-Syrian security “status quo” by permitting Turkish forces to deploy." },
+        { "type": "bullets", "items": [
+          "Turkey rejected the Israeli account and condemned the strike, calling for Israel to be held accountable; the Syrian government blamed Israel directly.",
+          "US envoy Tom Barrack publicly labeled the strike an “unnecessary escalation,” a rare on-record US rebuke of Israel that underscores Washington’s stake in preventing an Israeli-Turkish clash inside Syria.",
+          "The timing is pointed: the strike landed as President Trump attended a NATO summit hosted by Turkey, complicating US efforts to stand up an Israel-Turkey-Syria deconfliction mechanism."
+        ] },
+        { "type": "para", "text": "We judge Israel intends to enforce red lines against any foreign military presence it views as threatening, even at the cost of friction with Ankara and Washington. For the United States, the risk is a collision between two partners in a theater where US forces still operate; we expect Washington to press hard for the deconfliction channel to prevent recurrence." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, CIA, and open sources."
+    },
+    {
+      "headline": "North Korea Sustains Missile Tempo as Allied ‘Ulchi Freedom Shield’ Drills Begin",
+      "blocks": [
+        { "type": "para", "text": "We assess that Pyongyang is using the start of the US-South Korea Ulchi Freedom Shield exercise—running 17–27 August—to justify a continued cadence of missile launches, its 2026 total already reaching at least eleven suspected ballistic tests. An unusual departure worth watching: North Korea’s military has largely withheld its customary post-launch commentary and technical detail, and Kim Jong Un has been comparatively silent, fueling analyst speculation about internal priorities or a shift toward operational, rather than demonstrative, testing." },
+        { "type": "bullets", "items": [
+          "The most recent launch flew from the Wonsan area more than 700 km before falling into the sea; Seoul’s national security council condemned the tests as provocations and urged an immediate halt.",
+          "Ukrainian military-intelligence reporting indicates a North Korean missile unit is deploying to western Russia, potentially fielding scores of ballistic missiles and launchers for strikes on Ukraine—evidence the Pyongyang-Moscow axis is deepening.",
+          "Kim Yo-jong has threatened “additional military options” after Japan test-fired a US-made Tomahawk, linking the peninsula’s tempo to broader regional militarization."
+        ] },
+        { "type": "para", "text": "We judge the drills will draw further launches over the exercise window. For Washington, the more consequential signal is the DPRK-Russia military relationship, which is converting sanctioned missile production into combat use and battlefield feedback—an accelerant to North Korea’s program that outlasts any single exercise cycle." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Energy and markets.</b> Oil jumped on the Hormuz escalation—Brent pushing above $91 a barrel—while US equity futures fell and bond yields rose on 18 August, tightening financial conditions just as the Federal Reserve’s Jackson Hole symposium approaches late this week. We assess commodity-driven cost pressure, not fresh inflation data, is now the main upside risk markets are pricing; Chair Warsh’s remarks are the key near-term catalyst." },
+        { "type": "para", "text": "<b>Gulf.</b> Houthi forces reportedly targeted Saudi oil refineries, and the UAE announced a suspension of all trade with Iran—both signals that Gulf partners are hardening against Tehran as the war widens. We judge further Gulf economic decoupling from Iran is likely." },
+        { "type": "para", "text": "<b>China-Taiwan.</b> Taipei continues to flag PRC interference in its 2026 local elections, citing fabricated polling and disinformation aimed at the Kaohsiung mayoral race. We assess Beijing is treating the local ballots as a low-cost proving ground for influence techniques it would scale in a future high-stakes contest." },
+        { "type": "para", "text": "<b>Syria deconfliction.</b> Beyond the Idlib strike, the United States is working to establish a standing Israel-Turkey-Syria mechanism to prevent inadvertent clashes; we assess progress will be slow while Israeli and Turkish objectives in Syria remain fundamentally at odds." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, CIA, INR, NSA, and open sources."
+    }
+  ]
+}
