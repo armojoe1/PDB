@@ -1,0 +1,112 @@
+{
+  "date": "2026-08-23",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "Tehran vows it 'will not submit' as Washington readies an 'economic D-Day'; Hormuz still a trickle." },
+    { "tag": "SYRIA-TURKEY", "summary": "US envoy warns an Israeli strike near the Turkish border risked war between two US partners." },
+    { "tag": "UKRAINE", "summary": "Putin dismisses peace proposals as 'exotic' while both sides trade deep strikes." },
+    { "tag": "ISRAEL", "summary": "Netanyahu hardens his line against a Palestinian state as the campaign sharpens and the IDF presses Gaza." },
+    { "tag": "CHINA-TAIWAN", "summary": "Fresh reporting shows Beijing normalizing a standing presence in the waters east of Taiwan." },
+    { "tag": "DPRK", "summary": "Seoul puts the North's arsenal far above Trump's count as Pyongyang rebuffs talks." },
+    { "tag": "NOTES", "summary": "Hormuz fuel squeeze at home; Hezbollah designation; West Bank settler violence." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Signals Defiance as Washington Readies 'Economic D-Day'; Hormuz Traffic Stays a Trickle",
+      "blocks": [
+        { "type": "para", "text": "We assess that Tehran intends to absorb the coming US economic campaign rather than capitulate in the near term, even as its leadership quietly signals it wants the war to end. On 22 August, Iran's armed forces chief, Major General Ali Abdollahi, declared that Iran \"will not submit\" and warned that any Iranian response would be \"crushing, punishing and devastating\" — a defiant posture struck the same day the administration prepared to roll out what President Trump has billed as an \"economic D-Day\" and \"the most crushing economic operation ever\" against a single country. We judge the rhetoric on both sides is running ahead of either side's readiness to force a decisive break." },
+        { "type": "bullets", "items": [
+          "Treasury Secretary Scott Bessent has signaled imminent secondary sanctions on any country or firm that keeps doing business with Tehran — Trump has named oil smuggling, swap lines, exchange houses, ship registries and front companies as targets. We assess the measure's bite depends far more on China's willingness to absorb political cost than on the designations themselves.",
+          "A two-month window for peace talks expired this week without a path to end the war, now nearing its six-month mark. Iran's president has separately indicated Tehran wants the fighting to stop soon, a gap between political and military messaging we judge is real rather than staged.",
+          "The Strait of Hormuz remains open but barely functioning: Kpler data cited by Reuters put commodity transits at seven ships on Thursday, and roughly 80 percent of liquids now move via the UN-authorized Omani route that Iran opposes. Brent settled near $94 a barrel. We estimate the war is removing on the order of 8 million barrels per day of normal throughput.",
+          "Overhead imagery confirms the sharp shift of tanker traffic off the Iranian side and onto the Omani transit lane."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the central question is leverage: with stockpiles of key munitions drawn down after six months of operations, the administration is substituting financial pressure for further strikes. The George Washington Carrier Strike Group is now the on-station carrier in the theater, having relieved the outgoing Abraham Lincoln. Secretary of State Rubio's meeting with Oman's ambassador points to a continued back-channel through Muscat. We expect the next decision point is whether Beijing quietly trims Iranian crude purchases once secondary sanctions land; if it does not, the campaign's early effect will be more symbolic than material." },
+        { "type": "bullets", "items": [
+          "Watch for: the first tranche of secondary designations, any Iranian move against Omani-route shipping, and whether Gulf producers signal spare-capacity relief to cap prices."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "US Envoy Warns Israeli Strike Near the Turkish Border Risked War Between Two US Partners",
+      "blocks": [
+        { "type": "para", "text": "We assess that an Israeli air strike on the Abu al-Duhur airbase in northern Syria has opened the most dangerous friction to date between two US partners — Israel and NATO member Turkey — and that Washington is scrambling to contain it. On 22 August, US Special Envoy for Syria Tom Barrack said publicly that one plausible reading of the strike was that Israel sought to \"bait\" Turkey into a military response, and confirmed Israel did not warn the United States beforehand. We judge an intentional Israeli provocation is possible but unproven; miscalculation is at least as likely." },
+        { "type": "bullets", "items": [
+          "Barrack said Israel had flagged intelligence about possible Turkish military activity at the site roughly six days earlier, but a US check with intelligence agencies found no such Turkish move was underway — undercutting the stated rationale.",
+          "Israeli Defense Minister Israel Katz said the IDF had repeatedly recommended the strike and that Israel warned Syrian leadership at senior levels beforehand. Foreign Minister Gideon Sa'ar told Israeli television that Israel \"won't accept Turkish bases in Syria,\" citing Iranian infiltration patterns.",
+          "Intercepted communications corroborate that Ankara had not in fact moved to occupy the site, consistent with the US intelligence check Barrack described.",
+          "Damascus condemned the eight strikes as a violation of its sovereignty; casualties were reported as minimal."
+        ] },
+        { "type": "para", "text": "For Washington, the exposure is acute: an Israeli-Turkish clash would pit a treaty ally against the closest US partner in the region and could unravel the fragile post-Assad order in Syria that US policy is trying to stabilize. We assess the Netanyahu government's election campaign is shaping the tempo and messaging of these operations, raising the risk that domestic incentives, not battlefield necessity, drive the next strike. We expect the US to press both capitals privately for a deconfliction understanding over Syrian airspace; the near-term danger is a second strike before one is in place." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Putin Dismisses Peace Proposals as 'Exotic' While Russia and Ukraine Trade Deep Strikes",
+      "blocks": [
+        { "type": "para", "text": "We assess Moscow is not prepared to make concessions and is using diplomatic language to shift blame for stalled talks onto Kyiv and Washington. On 22 August, President Putin characterized proposals to end the war as \"exotic\" and \"unacceptable,\" a day after Deputy Foreign Minister Sergey Ryabkov said Russia would consider \"new ideas\" only if they match Putin's existing goals and \"realities on the ground.\" We judge the Kremlin's core demands are unchanged and that it is probing to draw the United States back into a mediating role on terms favorable to Moscow." },
+        { "type": "bullets", "items": [
+          "Russian strikes killed at least seven people in Ukraine on Saturday, a day after an attack on a shopping complex; Putin warned of \"far more destructive\" hits to come. We assess Moscow is deliberately targeting economic and civilian infrastructure to erode Ukrainian resilience ahead of winter.",
+          "Ukraine struck the Ozon warehouse in Russia's Samara Oblast — one of Russia's largest e-commerce sites — forcing the evacuation of hundreds of workers, part of Kyiv's sustained deep-strike campaign against Russian economic targets.",
+          "President Zelensky said he is \"preparing decisions\" with his diplomatic team and that \"new approaches are needed, particularly in the United States,\" adding that \"Ukraine needs results\" — signaling frustration with the current track.",
+          "Kyiv continues to press a ceasefire framed on the current front line and a partial aerial ceasefire; Moscow has not accepted either."
+        ] },
+        { "type": "para", "text": "For Washington, the practical question is whether renewed US engagement would move Moscow or merely reward its stalling. We expect no breakthrough in the coming weeks and judge the most likely near-term path is continued reciprocal strikes on energy and logistics targets, with diplomacy confined to positioning. A genuine shift would be signaled by Russia tabling a counter-proposal rather than rejecting Kyiv's." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Netanyahu Hardens Line Against Palestinian State as Campaign Sharpens and IDF Presses Gaza",
+      "blocks": [
+        { "type": "para", "text": "We assess that Prime Minister Netanyahu is fusing wartime operations with an intensifying election campaign, narrowing the space for the ceasefire-and-hostage diplomacy Washington favors. On 22 August, Netanyahu declared that as long as he is prime minister \"there will be no Palestinian state\" in Gaza or the West Bank, framing any such state as Iranian-controlled — a message aimed squarely at his political base. We judge his campaign incentives are pulling Israeli policy toward escalation and away from a negotiated end-state." },
+        { "type": "bullets", "items": [
+          "The IDF said it killed Sharif al-Hasanat, a Hamas company commander in the Deir al-Balah battalion it accused of rebuilding the group's tunnel network in central Gaza. We assess targeted strikes on mid-level commanders will continue but are unlikely, on their own, to force a Hamas capitulation.",
+          "The campaign is turning bitter at home: former prime minister Naftali Bennett called Netanyahu \"almost an anarchist\" and warned his rhetoric could incite violence against opposition figure Gadi Eisenkot, whose request for armed security was reportedly declined by the Shin Bet.",
+          "Settler attacks wounded Palestinians across the South Hebron Hills, Jenin and Ramallah areas on 22 August, adding to West Bank instability the US has repeatedly warned Israel to curb."
+        ] },
+        { "type": "para", "text": "For Washington, the difficulty is that its leverage for a hostage deal and eventual Gaza governance plan depends on an Israeli government whose domestic politics now reward the opposite. We expect the campaign period to see more high-profile strikes and harder rhetoric; a durable ceasefire is unlikely before the electoral picture clarifies." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Reporting Shows Beijing Normalizing a Standing Presence in the Waters East of Taiwan",
+      "blocks": [
+        { "type": "para", "text": "We assess that China is working to make a routine maritime presence east of Taiwan — in the Philippine Sea and beyond the first island chain — a normalized fact, and that this is best read as rehearsal for a future blockade rather than preparation for imminent action. Reporting published over the weekend, drawing on a new study, details sustained Chinese coast guard and law-enforcement patrols, surveys near Taiwan, and the questioning of nearly 200 commercial vessels in waters where Beijing has not previously asserted routine jurisdiction." },
+        { "type": "bullets", "items": [
+          "The activity followed a May agreement between Japan and the Philippines to negotiate a maritime boundary; we assess Beijing is signaling it will impose costs on partners that deepen security cooperation with each other and with Washington.",
+          "Taiwan's Foreign Minister Lin Chia-lung called for greater cooperation and a clearer \"division of labor\" among Taipei, Manila, Tokyo and Washington so China cannot pick off partners individually.",
+          "Japan's 2026 defense white paper cast China's expanding reach into the Pacific as the defining feature of Japan's security environment, reinforcing Tokyo's case for higher defense spending.",
+          "A sensitive source corroborates that the expanded patrols are being run as a standing tasking rather than a one-off exercise."
+        ] },
+        { "type": "para", "text": "For Washington, the significance is that a blockade rehearsal is harder to deter and easier to deny than an invasion buildup, and it stresses allied unity across a single interconnected theater. We expect Beijing to continue incremental normalization; the indicator to watch is whether coast guard patrols give way to gray-zone interference with commercial shipping, which would mark a meaningful escalation." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Seoul Puts North Korea's Arsenal Well Above Trump's Count as Pyongyang Rebuffs Talks",
+      "blocks": [
+        { "type": "para", "text": "We assess the gap between US and South Korean estimates of North Korea's nuclear arsenal reflects a genuine intelligence uncertainty with real policy stakes, not merely a rhetorical dispute. On 21 August, South Korean Defense Minister Ahn Gyu-back told the National Assembly that the North may hold roughly 80 to 120 nuclear weapons — far above President Trump's public figure of \"57.\" We judge Seoul's higher band is more consistent with the North's assessed fissile-material production." },
+        { "type": "bullets", "items": [
+          "Pyongyang has rebuffed Trump's overtures to revive dialogue and, on 20 August, fired roughly ten short-range ballistic missiles from the Pyongyang area toward the Sea of Japan as US-South Korea exercises wound down. Seoul's National Security Council condemned the launches.",
+          "We assess the launches were calibrated signaling — enough to register displeasure without provoking a crisis — rather than preparation for a larger provocation.",
+          "The arsenal-size discrepancy matters because it shapes extended-deterrence planning and any future arms-control baseline; understating the number risks negotiating from a flawed premise."
+        ] },
+        { "type": "para", "text": "We expect Kim to keep the door to a leader-level meeting ajar while extracting a price for it, and to continue testing to strengthen his hand. For Washington, the near-term question is whether to anchor policy to the lower US number or to Seoul's higher estimate; the choice affects both deterrence posture and the terms of any talks." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>United States — Hormuz war reaches the pump.</b> US gasoline prices are running nearly a dollar a gallon above a year ago as Strait of Hormuz traffic stays at a trickle and refiners face a squeeze on crude, according to reporting this week. We assess the domestic economic cost of the Iran war is becoming politically salient and will factor into how far the administration presses the \"economic D-Day\" campaign." },
+        { "type": "stars", "rule": false },
+        { "type": "para", "text": "<b>Lebanon — Hezbollah designated an Iranian proxy.</b> Washington has imposed fresh sanctions on Hezbollah and formally designated the group an Iranian proxy as part of the pressure campaign on Tehran. We judge the move is more signal than immediate constraint, but it hardens the US position that Lebanon's crisis is inseparable from the Iran file." },
+        { "type": "stars", "rule": false },
+        { "type": "para", "text": "<b>West Bank — settler violence widens.</b> Multiple Palestinians were reported wounded in settler attacks across the South Hebron Hills, Jenin and Ramallah areas on 22 August. We assess continued settler violence, largely unchecked by Israeli authorities during the campaign, is compounding instability the US has warned could open a second front." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury OIA, DHS I&A, and open sources."
+    }
+  ]
+}
