@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-24",
+  "cover": false,
+  "emblem": "assets/blank.png",
+  "articles": [
+    {
+      "headline": "President's Daily Brief — 24 August 2026",
+      "blocks": [
+        { "type": "para", "text": "<b>Iran — ‘Economic D-Day.’</b> We assess Washington’s 23 August move to open its sweeping sanctions campaign shifts pressure on Iran from military to economic strangulation; the central risk is miscalculation over the Strait of Hormuz. Treasury Secretary Bessent signaled near-total trade cutoff, asset freezes, and secondary sanctions on any party still dealing with Tehran. Roughly 8 million bpd of Gulf output remains shut in. Tehran is split—President Pezeshkian says Iran “cannot continue with war forever,” while hardliners vow to “neutralize” the campaign and again threaten Hormuz; parliament on 23 August advanced strait transit “service fees.” The UAE, pre-war Iran’s top supplier, has cut trade with Tehran." },
+        { "type": "para", "text": "<b>Ukraine — Independence Day strikes; talk of a deal.</b> Overnight on the 24 August holiday, Russia launched some 72 drones and a ballistic missile at about 10 sites; a jet-powered drone hit a Chernihiv high-rise, strikes hit Odesa, and three were killed near Kharkiv. Kyiv’s deep strikes ignited a large warehouse fire in Krasnodar and hit an Ozon hub in Dagestan. Zelensky said on 23 August that Ukraine and the US “agree on key ideas to end the war”; Moscow insists on terms matching Putin’s goals. Kyiv finalized drone-production deals with Norway and Finland." },
+        { "type": "para", "text": "<b>Israel — Gaza strikes; Syria back-channel.</b> The IDF said it killed Hamas commander Ismail Abu Ful in Maghazi on 23 August; PM Netanyahu ordered the military to “do everything” after incendiary kites reached the Nahal Oz area. The Mossad chief met Syria’s foreign minister to defuse tensions after recent Israeli airstrikes—an unusual direct contact Washington should watch for de-confliction." },
+        { "type": "para", "text": "<b>Energy — oil premium bites allies.</b> Brent held near $97 on the throttled strait; US pump prices sit near $4.09/gal. In a 23 August letter, finance ministers of Germany, Italy, Austria, Poland and Portugal—plus Spain—urged Ireland’s EU presidency to weigh a bloc-wide windfall tax on oil-company profits, a fiscal fight that could divert bandwidth from the sanctions coalition." },
+        { "type": "para", "text": "<b>US–Canada — trade war escalates.</b> After talks failed on 21 August, PM Carney announced on 22 August that Canada will impose tariffs from 8 September on US steel, dairy, appliances, farm equipment, pulp and paper, and electronics—matching new US 50% tariffs “dollar for dollar,” complicating the USMCA review." },
+        { "type": "para", "text": "<b>North Korea — summit courtship, cool reply.</b> The President reiterated on 23 August that he expects to meet Kim this year; Pyongyang signals it won’t grant a summit “photo op” and insists US “hostile policy” is unchanged, having fired about 10 short-range missiles earlier in the week. We judge a meeting is possible but not imminent." },
+        { "type": "para", "text": "<b>Notes.</b> Germany is seeking extradition from Croatia of a second Nord Stream sabotage suspect, a Ukrainian diver; Zelensky again denied any state role. A landslide at Conakry’s largest landfill killed roughly 30 in Guinea. A Hungarian Air Force Gripen crashed near Szolnok after an air show." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, Treasury OIA, and open sources."
+    }
+  ]
+}

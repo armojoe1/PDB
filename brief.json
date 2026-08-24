@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-24",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "Washington opens an “economic D-Day” sanctions campaign as Hormuz stays throttled and Tehran splits over talks." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Moscow marks Ukraine’s Independence Day with drone and missile strikes as Kyiv and Washington claim convergence on a deal." },
+    { "tag": "ISRAEL-GAZA", "summary": "Israel kills a Hamas commander and warns of escalation over Gaza kite launches; a Syria back-channel opens." },
+    { "tag": "GLOBAL ENERGY", "summary": "Crude holds near $97 and six EU states press for a windfall tax as the war’s oil premium bites allies." },
+    { "tag": "US-CANADA", "summary": "Ottawa readies dollar-for-dollar retaliatory tariffs after weekend trade talks collapse." },
+    { "tag": "NORTH KOREA", "summary": "Trump reaffirms he will meet Kim this year; Pyongyang signals it will not supply the photo op." },
+    { "tag": "NOTES", "summary": "Nord Stream arrest, a Guinea landfill disaster, and a Hungarian Gripen crash." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran: ‘Economic D-Day’ Campaign Opens as Tehran Divides Over Talks",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Administration’s move on 23 August to begin rolling out its “economic D-Day” sanctions campaign marks a deliberate shift from military pressure to economic strangulation of Iran, and that its central risk lies less in Tehran’s formal capitulation than in a miscalculation over the Strait of Hormuz. Treasury Secretary Scott Bessent signaled the opening of what officials have billed as the most sweeping economic operation ever directed at a single state—near-total trade cutoff, asset freezes, and, most consequentially, secondary sanctions on any government, bank, port, or airline that keeps doing business with Iran." },
+        { "type": "bullets", "items": [
+          "The package targets the machinery of evasion the President named publicly—“oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies”—and pairs sanctions with a partial naval squeeze on Iranian oil exports; roughly 8 million barrels per day of Gulf output remains shut in.",
+          "Collection on Iran’s sanctions-evasion finance networks indicates Tehran is already pre-positioning front companies and alternative payment channels, consistent with its response to prior pressure cycles.",
+          "Tehran is not united. President Masoud Pezeshkian has said publicly that Iran “cannot continue with war forever,” a rare crack that we judge reflects genuine friction between negotiation-minded officials and hardliners who vow to “neutralize” the economic war and have again threatened Hormuz.",
+          "The UAE—before the war Iran’s largest source of imports—has suspended trade and financial dealings with Tehran, giving the secondary-sanctions threat early teeth among Gulf partners."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The pressure point is the strait. Iran’s parliament on 23 August advanced legislation to impose transit “service fees” on shipping through Hormuz, and Tehran is coordinating with Oman on a passage arrangement even as it warns neighbors against joining the US campaign. US forces are facilitating limited nightly transits—roughly half of pre-war volumes—but the waterway remains materially throttled." },
+        { "type": "para", "text": "For Washington, the near-term question is second-order effects: whether secondary sanctions splinter allied and Asian buyers rather than isolating Iran, and whether an Iranian move to tax or interdict traffic triggers a fresh naval clash. We assess Tehran probably prefers coercive nuisance over closing the strait outright, which would invite direct US retaliation—but the risk of escalation by incident is real while both sides remain deadlocked with no diplomatic off-ramp in view." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Russia Marks Ukraine’s Independence Day With Strikes as Kyiv and Washington Claim Convergence",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia’s overnight strikes on Ukraine’s 24 August Independence Day were calibrated as political signaling—timed to the holiday and aimed at logistics, energy, and morale rather than a single decapitation strike—and that they land against an unusually active diplomatic backdrop, with Kyiv and Washington both claiming movement toward a framework to end the war." },
+        { "type": "bullets", "items": [
+          "Ukraine’s Air Force reported Russia launched some 72 drones and a ballistic missile overnight, striking about 10 locations; air defenses downed roughly 48 drones, with a jet-powered drone hitting a high-rise in central Chernihiv and further strikes on Odesa warehouses and energy sites.",
+          "A Russian strike killed three people in a Kharkiv suburb; Kyiv put Russian losses over the prior day at some 1,490 troops.",
+          "Ukraine pressed its deep-strike campaign, hitting major Ozon logistics warehouses inside Russia—igniting a large warehouse fire in Krasnodar and striking a hub in Dagestan. Overhead imagery shows extensive fire damage at the targeted sites."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On the diplomatic track, President Zelensky said on 23 August that Ukraine and the United States “agree on key ideas to end the war,” even as Moscow reiterated it will consider only terms matching President Putin’s goals and “realities on the ground.” Kyiv also moved to lock in its drone-industrial base, finalizing a production deal with Norway and an arrangement under which Finland would supply the bulk of jointly produced drones." },
+        { "type": "para", "text": "For Washington, the gap between rhetoric and terms is the tell: we judge the parties remain far apart on territory and security guarantees, and that Russia’s holiday strikes were meant to signal it negotiates from strength. The near-term watch is whether US-brokered “key ideas” survive contact with Moscow’s maximalism—or become the pretext for the next escalation." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Israel Kills Hamas Commander, Warns of Escalation Over Gaza Kite Launches",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel is signaling a fresh intensification in Gaza—pairing a targeted killing with public threats over a low-tech incendiary threat—while quietly working a channel to keep tensions with the new authorities in Damascus from boiling over." },
+        { "type": "bullets", "items": [
+          "The IDF said it killed Hamas commander Ismail Abu Ful in the Maghazi camp on 23 August and struck weapons-manufacturing sites; Palestinian media reported casualties from strikes in the Khan Younis and az-Zawayda areas.",
+          "Prime Minister Netanyahu and Defense Minister Katz ordered the military to “do everything” against incendiary-kite launches after at least four kites reached the Nahal Oz area; Hamas dismissed them as “children’s toys.” We judge the rhetoric is being used to justify wider evacuations and strikes.",
+          "In the West Bank, Israeli forces detained a 16-year-old over a stabbing near al-Auja and made further arrests around Ramallah, including two suspects it linked to ISIS."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Separately, the Mossad chief met Syria’s foreign minister to defuse tensions after recent Israeli airstrikes—an unusual, direct contact that we assess reflects both sides’ interest in managing, not resolving, a volatile new relationship. For Washington, the Syria channel is the item to watch: it bears directly on de-confliction, the fate of US forces in the east, and whether Israel and Damascus can avoid a wider clash." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Oil Holds Near Highs as Six EU States Push a Windfall Tax on the War Premium",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Iran war’s energy shock is now generating durable second-order strains inside the Western alliance—squeezing consumers, lifting refiner margins, and prompting European governments to reach for windfall taxation, a fiscal fight that will complicate coordinated pressure on Tehran." },
+        { "type": "bullets", "items": [
+          "Brent held near $97 a barrel into the weekend, elevated by the throttled Strait of Hormuz; the IEA notes roughly 8 million barrels per day of Gulf output remains shut in, and OPEC cannot meaningfully add barrels until flows normalize.",
+          "US pump prices remain painful—the national average sat near $4.09 a gallon—keeping energy inflation a live political problem for the Administration.",
+          "In a letter dated 23 August, finance ministers of Germany, Italy, Austria, Poland and Portugal, plus Spain’s economy minister, urged Ireland’s EU presidency to put a bloc-wide windfall levy on oil-company profits on next month’s Dublin agenda; the push was launched by German Finance Minister Lars Klingbeil."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the read-through is twofold: sustained high crude complicates the secondary-sanctions squeeze by raising the cost to buyers of cutting Iranian barrels, and an intra-EU fight over taxing energy majors risks diverting European bandwidth from the sanctions coalition. We expect the windfall-tax idea to advance slowly against industry and member-state resistance, but its emergence signals how far the war’s economic fallout has spread beyond the Gulf." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "US-Canada Trade War Escalates as Ottawa Readies Retaliatory Tariffs",
+      "blocks": [
+        { "type": "para", "text": "We assess that the collapse of weekend US-Canada trade talks and Ottawa’s move to retaliate mark a sharp deterioration in one of Washington’s closest economic relationships, with implications for the continental supply chain and the future of the USMCA pact." },
+        { "type": "bullets", "items": [
+          "After talks failed late on 21 August, Prime Minister Mark Carney announced on 22 August that Canada will impose tariffs from 8 September on US steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics—pledging to match Washington “dollar for dollar.”",
+          "The retaliation follows new US tariffs—reported at 50 percent on affected goods—that took effect at midnight, hardening a dispute that both sides had tried to settle before the deadline.",
+          "The standoff complicates the scheduled review of the US-Mexico-Canada Agreement and injects fresh uncertainty into cross-border manufacturing, autos, and metals."
+        ] },
+        { "type": "para", "text": "For Washington, the friction is largely self-generated and carries domestic cost—higher input prices for US manufacturers and farm-state exposure to Canadian countermeasures. We expect Ottawa to hold the 8 September date as leverage while keeping a narrow path to a deal open; the decision point is whether the two sides can de-escalate before the tariffs compound." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Trump Reaffirms He Will Meet Kim This Year; Pyongyang Withholds the Photo Op",
+      "blocks": [
+        { "type": "para", "text": "We assess that the President’s renewed public commitment to meet Kim Jong Un before year’s end is running into a cool North Korean response, and that Pyongyang is likely to extract—or demand—concessions before granting any summit." },
+        { "type": "bullets", "items": [
+          "The President reiterated on 23 August that he expects to meet Kim “later this year,” which would be their fourth meeting and first since he returned to office; no date or venue has been set.",
+          "North Korean officials, including Kim Yo Jong, have signaled they will not simply hand Washington a summit “photo op” and insist US “hostile policy” is unchanged, even after the President ordered a scaled-back Ulchi Freedom Shield exercise with Seoul.",
+          "Pyongyang underscored the point earlier in the week with a salvo of about 10 short-range ballistic missiles—routine coercive signaling timed to the allied drills."
+        ] },
+        { "type": "para", "text": "For Washington, the risk is a summit pursued for its optics that legitimizes Pyongyang’s expanding arsenal without constraining it. We judge a meeting is possible but not imminent, and would likely be preceded by weeks of proxy signaling over agenda and sanctions relief." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Europe — Nord Stream probe widens.</b> German prosecutors are pursuing extradition from Croatia of a second suspect, a Ukrainian diver identified only as Vladimir Z., in the September 2022 Nord Stream pipeline sabotage. President Zelensky on 23 August again denied any Ukrainian state role. We assess the case will keep straining Kyiv-Berlin ties at a delicate moment for Western unity on the war." },
+        { "type": "bullets", "items": [
+          "<b>Guinea — landfill disaster.</b> A landslide at Conakry’s largest landfill killed roughly 30 people, according to the government—the latest deadly failure of overstretched urban infrastructure in the Sahel-adjacent capital.",
+          "<b>Hungary — Gripen crash.</b> A Hungarian Air Force Gripen fighter crashed near Szolnok following an air show; the loss of a frontline jet is a modest but notable readiness hit for a NATO member on the alliance’s eastern flank."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    }
+  ]
+}
