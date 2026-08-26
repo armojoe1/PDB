@@ -1,0 +1,112 @@
+{
+  "date": "2026-08-26",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "Sanctions blitz meets Iranian defiance as Pakistani mediation reports progress." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "UK-French move to localize Storm Shadow output in Ukraine draws sharp Kremlin reaction." },
+    { "tag": "SYRIA", "summary": "Washington lifts Syria's terrorism designation, opening a path to reintegration." },
+    { "tag": "ISRAEL-GAZA", "summary": "Fragile ceasefire strained by a kite standoff and a Netanyahu assassination claim." },
+    { "tag": "US-CANADA", "summary": "Trump sets 50 percent auto and steel tariffs as trade talks collapse." },
+    { "tag": "DRC", "summary": "Eastern Congo Ebola outbreak becomes the deadliest on record." },
+    { "tag": "NOTES", "summary": "Pacific boat strike resumes; Haiti massacre; peacekeepers killed in South Sudan." }
+  ],
+  "articles": [
+    {
+      "headline": "Iran Sanctions Blitz Meets Defiance as Pakistani Mediation Reports Progress",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Treasury's newly unveiled <b>“Operation Economic Outcast”</b> marks a deliberate escalation of economic pressure on Tehran, but that it is unlikely on its own to force a decision as long as the parallel mediation track remains alive. Treasury Secretary Scott Bessent rolled out the campaign on 24 August, casting it as an “economic D-Day” intended to sever Iran's remaining financial lifelines; over the following day Iran answered with defiance while Pakistani interlocutors reported movement toward salvaging the stalled June framework. The two tracks are now running at once, and we judge the next week will show which one Washington means to lead with." },
+        { "type": "bullets", "items": [
+          "The opening tranche designated roughly 60 entities, individuals, and vessels across multiple jurisdictions and expanded secondary-sanction categories to cover aviation, gold, shipping, digital assets, and technology. Bessent characterized it as a “warning shot” and signaled that a designation targeting a <i>major financial institution</i> would follow by week's end — a sequencing choice we read as leaving room for negotiation.",
+          "Tehran's response was uniformly hostile in public. Iran's economy minister branded the measures an “economic terrorist attack,” and a senior Revolutionary Guard commander threatened “heavy blows” to US interests; Iranian port authorities separately blacklisted dozens of tankers. We assess this rhetoric is calibrated for a domestic and regional audience and does not, by itself, signal an imminent kinetic response.",
+          "Treasury financial-intelligence reporting indicates the designated network spans front companies and facilitators in several jurisdictions, consistent with the pattern of evasion seen since the naval blockade began."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On the diplomatic track, Pakistan's army chief, Field Marshal Asim Munir, and Interior Minister Mohsin Naqvi held a day of talks in Tehran on 24 August — Munir's third visit this year — meeting President Masoud Pezeshkian, Foreign Minister Abbas Araghchi, and the Supreme National Security Council secretary. On 25 August, Islamabad reported “significant progress” toward reviving the 17 June Islamabad memorandum, the 14-point framework meant to end hostilities and reopen the Strait of Hormuz that unraveled amid the continued US blockade and renewed strikes on Iran's southern coast." },
+        { "type": "bullets", "items": [
+          "For Washington, the key question is whether the sanctions escalation is being used to strengthen the mediators' hand or to foreclose the talks. We judge the former is more likely given the deliberately staged rollout.",
+          "A decision point comes with the promised financial-institution designation: naming a major bank — particularly one tied to a third country — would test allied and partner tolerance for secondary sanctions and could stall the Pakistani channel. We expect Gulf capitals to press quietly for restraint."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Office of Intelligence and Analysis at Treasury, INR, and open sources."
+    },
+    {
+      "headline": "UK-French Decision To Localize Storm Shadow Production in Ukraine Draws Sharp Kremlin Reaction",
+      "blocks": [
+        { "type": "para", "text": "We assess that the British and French decision to help Ukraine build its own long-range cruise missiles is a strategically significant step that, over time, would loosen the supply constraints that have limited Kyiv's deep-strike campaign — and that Moscow understands this. Meeting with the “Coalition of the Willing” in Kyiv on 24 August, UK Prime Minister Andy Burnham authorized the missile-maker MBDA to release classified technical data on British-made components of the SCALP/Storm Shadow to Ukraine, with British and French firms to support local assembly lines. President Zelensky confirmed the arrangement on 25 August." },
+        { "type": "bullets", "items": [
+          "Indigenous production, once stood up, would let Ukraine sustain long-range strikes without waiting on Western stockpile-release decisions — the constraint that has most often throttled the campaign. We assess the practical effect is months away, not immediate, given the work required to establish protected production.",
+          "The Kremlin reacted within hours. Spokesman Dmitry Peskov called the plan “extremely negative” and said Russian forces were already working to identify the intended production sites — an explicit signal that any facilities will be priority targets. We judge Russia will attempt to strike them before they reach output.",
+          "Ukrainian deep strikes continued in parallel: power was repeatedly cut across parts of occupied Crimea on 25 August amid reported Ukrainian attacks, and Ukrainian drones struck Russian refining and defense-industrial targets earlier in the week. NGA imagery confirms fire damage at the Afipsky refinery struck in that series."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the move underscores how far European partners are now willing to go to underwrite Ukraine's strike capacity independent of US decisions, even as it deepens the risk of Russian escalation against the supply chain. We expect Moscow's next step will be intensified intelligence collection and strikes aimed at the production effort, and possibly fresh warnings framed as responses to “Western escalation.”" }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Washington Lifts Syria's Terrorism Designation, Opening a Path to Reintegration",
+      "blocks": [
+        { "type": "para", "text": "We assess that the rescission of Syria's designation as a state sponsor of terrorism removes one of the last major legal barriers to Damascus's return to the international financial system and accelerates a strategic realignment in the Levant that works against residual Iranian and Russian influence — while carrying real risk given the new government's origins. The State Department formalized the step on 24 August, ending a designation in place for nearly 47 years, after the President notified Congress in July and a 45-day review elapsed." },
+        { "type": "bullets", "items": [
+          "In tandem, Washington revoked the terrorist designation of Hay'at Tahrir al-Sham, the group whose leadership now heads Syria's post-Assad transitional government — the legal predicate for normalizing official contact and enabling investment.",
+          "The change chiefly unlocks access to banks, correspondent relationships, and foreign investment long foreclosed by the designation. We assess Gulf states and Turkey are best positioned to move first.",
+          "Washington retained targeted sanctions tied to Assad-era figures, Captagon trafficking, chemical-weapons proliferation, and human-rights abuses, preserving leverage over specific actors even as the sovereign designation falls."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For the United States, the calculated bet is that anchoring Damascus to Western finance and Gulf capital pulls it away from Tehran and Moscow. The risk is that a government rooted in a former jihadist movement proves an unreliable partner. We judge the next indicators to watch are Damascus's handling of remaining foreign fighters, its cooperation on chemical-weapons accounting, and whether reconstruction financing actually materializes." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the Office of Intelligence and Analysis at Treasury, NSA, and open sources."
+    },
+    {
+      "headline": "Fragile Gaza Ceasefire Strained by Kite Standoff and Netanyahu Assassination Claim",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Gaza ceasefire in place since October 2025 remains intact but is under visible strain, and that the international Board of Peace overseeing it is now publicly disciplining both parties — an unusual step that signals real concern about escalation. The immediate friction is a low-level but symbolically charged dispute over incendiary kites and balloons launched from Gaza, set against continued Israeli strikes." },
+        { "type": "bullets", "items": [
+          "Israeli officials ordered forces to respond “forcefully” after roughly a dozen kites and several balloons crossed from Gaza this month; the military itself reported no dangerous payloads and assessed the launches were likely a Hamas probe to gauge Israel's response.",
+          "In a rare public warning on 25 August, the Board of Peace — the oversight body chaired by President Trump — told Israel to confine its fire to “genuine” threats while insisting Hamas halt all militant activity, including kite-flying. We read the two-sided rebuke as an attempt to keep a minor provocation from spiraling.",
+          "Israeli strikes over the prior day killed several Palestinians, including children, according to local reporting — the kind of incident the Board's warning was aimed at curbing."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Separately, Prime Minister Netanyahu claimed in an Israeli television interview that Iran had “tried to murder one of my sons,” without offering specifics or a timeline; the assertion could not be independently corroborated. We assess the claim, whatever its basis, hardens Israeli threat perceptions of Tehran at a moment when the US is calibrating its own pressure-and-mediation approach to Iran, and bears watching for its effect on Israeli decision-making." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "US-Canada Trade War Escalates as Trump Sets 50 Percent Auto and Steel Tariffs",
+      "blocks": [
+        { "type": "para", "text": "We assess that the decision to impose 50 percent tariffs on Canadian automobiles, auto parts, and steel materially escalates the trade confrontation with a treaty ally and largest-tier trading partner, with consequences for integrated North American supply chains and for allied cohesion on other files. The President announced the measures on 24 August, to take effect 1 January 2027, after bilateral talks collapsed." },
+        { "type": "bullets", "items": [
+          "The action roughly doubles the current 25 percent auto rate, extends 50 percent tariffs to auto parts for the first time, and layers onto steel that already faces a 50 percent levy; vehicles built in the United States are exempt. The deferred start date leaves a negotiating window before the tariffs bite.",
+          "We assess Ottawa is likely to prepare retaliatory measures and to seek relief through the North American trade agreement's mechanisms, while pressing to reopen talks before year-end.",
+          "For the US economy, the near-term effect is limited by the 2027 start, but the measures raise the prospect of higher vehicle prices and supply-chain disruption and complicate cooperation with Ottawa on defense, energy, and border issues."
+        ] },
+        { "type": "para", "text": "The broader risk for Washington is that hard economic pressure on a close ally spills into other areas where Canadian cooperation matters — from continental defense to critical minerals. We expect the interval before January to be used for renewed negotiation, and judge a partial deal remains a realistic possibility." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Office of Intelligence and Analysis at Treasury, INR, CIA, and open sources."
+    },
+    {
+      "headline": "Ebola Outbreak in Eastern Congo Becomes the Deadliest on Record",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Ebola epidemic in the eastern Democratic Republic of the Congo is now the largest and fastest-growing on record and is not yet under control, posing a mounting humanitarian and regional health-security threat. The past week has been the deadliest of the outbreak, and cumulative deaths have climbed past 2,600 with more than 5,500 confirmed cases, concentrated in Ituri province." },
+        { "type": "bullets", "items": [
+          "Response efforts are hampered by the same insecurity that plagues the mineral-rich east, where armed groups operate and displacement is widespread — conditions that let the virus outpace containment. We assess case counts are likely undercounts given access gaps.",
+          "International agencies are racing to field vaccine and therapeutic support, but the outbreak's spread across multiple health zones is straining the response. We judge continued cross-zone transmission the most important near-term indicator.",
+          "The epicenter's proximity to Uganda and to a conflict theater involving external actors raises the risk of cross-border spread and of the outbreak intersecting with the region's security crises."
+        ] },
+        { "type": "para", "text": "For Washington, the outbreak is both a humanitarian priority and a biosecurity concern; the practical questions are whether responders can secure access in contested areas and whether vaccine supply can be scaled fast enough to bend the curve. We expect the coming weeks to be decisive." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the National Center for Medical Intelligence, CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>US resumes lethal strikes on suspected drug vessels.</b> US Southern Command carried out a strike on a vessel in the eastern Pacific on 24 August, killing two, the first such strike in more than two months. Officials have not released evidence the boat was carrying narcotics. We note the campaign's cumulative toll now stands at more than 220 killed across roughly 67 strikes, and that a Pentagon watchdog review of the targeting process remains open — a persistent legal and oversight vulnerability." },
+        { "type": "stars", "rule": true },
+        { "type": "para", "text": "<b>Gang massacre near Port-au-Prince kills 47.</b> Armed men attacked Kenscoff, in the hills above Haiti's capital, in an overnight assault reported on 24–25 August, killing at least 47 people and kidnapping more than 50 — among the largest mass abductions in recent memory. The attack punctures a fragile perception that security was improving and is likely to intensify pressure for a more capable international response." },
+        { "type": "stars", "rule": true },
+        { "type": "para", "text": "<b>Two UN peacekeepers killed in South Sudan ambush.</b> Unidentified gunmen ambushed a UN mission patrol in Jonglei state on 24 August, killing two Ethiopian peacekeepers and wounding several others. The UN noted such attacks may constitute war crimes. We assess the incident underscores the deteriorating security environment as South Sudan's political transition remains stalled." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, INR, and open sources."
+    }
+  ]
+}
