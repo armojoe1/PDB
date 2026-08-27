@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-27",
+  "classification": "TOP SECRET//NOFORN",
+  "short_classification": "TOP SECRET",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "Iran's Concealment of Its Wounded Successor Deepens Command Uncertainty",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the top of Iran's clerical leadership remains in an unresolved crisis six months after US and Israeli strikes killed Supreme Leader Ali Khamenei and gravely wounded his son and successor, Mojtaba Khamenei. In an interview on 26 August, President Trump publicly stated that Mojtaba is alive but “very seriously wounded,” describing injuries to the left side of his body — the first senior US characterization of the successor's condition. Tehran has neither confirmed nor denied the account, and Mojtaba has not appeared in public since his elevation. We judge the regime is deliberately obscuring the state of its paramount leader; whether he is convalescing or incapacitated, the concealment itself is a signal of the fragility at the apex of the Iranian system."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The characterization rests on a single US source and should be treated as <i>reported</i>, not confirmed: we have no independent open-source verification of Mojtaba's condition, and Iranian state institutions continue to issue guidance in his name without recent imagery of him.",
+            "A prolonged vacuum — or a contested succession playing out behind the scenes among the IRGC, the Assembly of Experts, and rival clerical factions — raises the risk of miscalculation, freelancing by hardline commanders, and slower, less coherent decisions on the war and the nuclear file.",
+            "For Washington, the central question is who actually controls escalation decisions in Tehran today. A regime unable to present a functioning Supreme Leader is both less predictable and, potentially, more open to a negotiated off-ramp."
+          ]
+        },
+        { "type": "stars" },
+        {
+          "type": "para",
+          "text": "The war that began with the 28 February strikes has not formally ended, and the Strait of Hormuz remains the principal friction point. We expect Tehran to keep the leadership question opaque for as long as it can; a verified public appearance by Mojtaba — or, conversely, a move to name a new Supreme Leader — would be the clearest indication of which way the succession is breaking."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "CIA Director's Unannounced Moscow Visit Signals a Push To End the Ukraine War",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that CIA Director John Ratcliffe's unannounced 25 August visit to Moscow — the highest-level Trump administration contact with Russia since January — reflects a deliberate US effort to test, through intelligence channels, whether a negotiated end to the Ukraine war is achievable. The Kremlin confirmed on 26 August that Ratcliffe met his Russian intelligence counterparts; spokesman Dmitri Peskov said President Putin was briefed but did not attend. President Trump played the trip down as “sort of semi-routine” while allowing that “something might come out of it.”"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Washington notified Kyiv in advance and asked Ukraine to suspend strikes on Moscow, St. Petersburg, and several northern regions for the duration of the visit — a request Kyiv appears to have honored, indicating close US–Ukraine coordination around the outreach.",
+            "Intelligence-channel diplomacy lets both sides explore terms deniably, below the threshold of a formal summit. We judge this is an exploratory probe rather than evidence a deal is near; the gap between Russian and Ukrainian positions remains wide.",
+            "For the President, the value is optionality — a back channel that can be dialed up or shut down. The risk is that Moscow uses the contact to buy time or to split Washington from Kyiv and its European partners."
+          ]
+        },
+        { "type": "stars" },
+        {
+          "type": "para",
+          "text": "We will watch for follow-on contacts, any reciprocal Russian travel to a third country, and whether the pause in Ukrainian deep strikes holds or lapses — a lapse would suggest the channel has stalled."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Hamas Accepts Disarmament in Principle, but the Gaza Plan Stalls on Sequencing",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the US-backed Board of Peace's stabilization plan for Gaza has reached its most fragile point since the ceasefire took hold, even as it records a notable concession from Hamas. Briefing the UN Security Council on 26 August, High Representative Nickolay Mladenov said Hamas and the armed factions have agreed for the first time to surrender their weapons and transfer full civilian and security authority to the National Committee administering Gaza — but he warned that the process has stalled over how it would be carried out, telling the Council that Gaza “does not have another catastrophe left in it.”"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The core dispute is sequencing: Hamas insists on a phased, reciprocal process tied to Israeli withdrawal, while Israel demands that disarmament come first. Neither side trusts the other to move first, and near-daily Israeli strikes continue.",
+            "Implementation lags the paper commitments — Mladenov acknowledged Hamas has not fully ceased military activity: fighters still carry weapons, tunnel work continues, and aid convoys face obstruction.",
+            "Because the Board of Peace is a US-run body, its success or failure is a direct US equity. We judge the plan can hold only if Washington brokers a credible sequencing formula and sustains pressure on both Israel and Hamas."
+          ]
+        },
+        { "type": "stars" },
+        {
+          "type": "para",
+          "text": "A verified, supervised handover of even one category of heavy weapons would be the first hard evidence the plan is moving from principle to practice; continued strikes and stalled talks point the other way."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Trump Ties Saudi Civil-Nuclear Pact to Israel Normalization in Bid To Revive the Abraham Accords",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the administration's decision to send a 30-year US–Saudi civil-nuclear agreement to Congress, while explicitly conditioning it on Saudi normalization with Israel, is a calculated attempt to use nuclear cooperation as leverage to expand the Abraham Accords. Submitted on 25 August, the agreement — reached in July — would let US firms export civilian nuclear technology and build AP1000 reactors, a multibillion-dollar project centered on Westinghouse. Congress has 90 legislative days to reject it, or it takes effect automatically."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The linkage is both the point and the obstacle: Riyadh has long tied normalization to a credible path to Palestinian statehood, which the current Israeli government opposes. We judge the condition makes near-term Saudi accession unlikely absent movement on the Palestinian file.",
+            "Nonproliferation critics note the pact does not bar Saudi uranium enrichment or reprocessing — the two routes to a weapon — and warn it could erode the region's proliferation baseline, particularly with Iran's program degraded but not eliminated.",
+            "For Washington, the prize is a strategic realignment locking Saudi Arabia into a US-led nuclear supply chain against Chinese and Russian vendors; the risk is enabling enrichment-capable infrastructure in a volatile region."
+          ]
+        },
+        { "type": "stars" },
+        {
+          "type": "para",
+          "text": "We will watch Congress for a resolution of disapproval and whether the administration adds enrichment and reprocessing safeguards to broaden support."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from State (INR), Energy (OICI), CIA, and open sources."
+    },
+    {
+      "headline": "Iran-Oman Corridor Talks Ease Hormuz Fears as OPEC and IEA Cut Demand Outlooks",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the risk premium on Gulf oil is easing as Iran and Oman advance a proposal to reopen safe transit through the Strait of Hormuz, which has been largely closed since the 28 February outbreak of the US–Israel air war on Iran. Muscat's foreign minister said he is “hopeful” the two governments will soon formalize a phased framework for a temporary shipping corridor and joint mine-clearing. Combined with downgraded demand forecasts, the reporting pushed crude lower, with Brent near $86 and WTI near $81 a barrel on 26 August."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Both OPEC and the IEA cut their 2026 demand-growth forecasts this week — OPEC to 580,000 barrels per day, down from 780,000 — reinforcing a softer price path even with Gulf supply still constrained.",
+            "Transit remains far below normal: open-source tracking shows roughly 130 ships a day moving through the strait against a pre-crisis norm well above 200, and any corridor would depend on Iranian restraint holding.",
+            "The George Washington Carrier Strike Group is operating in the Arabian Sea, having relieved the Abraham Lincoln, keeping US strike and escort capacity on station near the chokepoint."
+          ]
+        },
+        { "type": "stars" },
+        {
+          "type": "para",
+          "text": "For Washington, a formalized and durable corridor would relieve allied economies and blunt one of Iran's principal escalation levers; whether the arrangement survives first contact with a Gulf incident is the variable to watch."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury (OIA), NGA, CIA, and open sources."
+    },
+    {
+      "headline": "Russia Preserves Its Mediterranean Foothold in Deal With Post-Assad Syria",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Moscow has secured continued access to its two strategic Mediterranean bases in Syria — the Tartus naval facility and Hmeimim air base — on reduced terms, preserving a power-projection foothold it had appeared at risk of losing after Bashar al-Assad's fall. In a 26 August call, President Putin and Syrian President Ahmed al-Sharaa endorsed implementation of a 9 August memorandum that converts both sites into joint training and capacity-building centers, with Syria taking over their civilian functions."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The arrangement caps roughly 18 months of negotiations that began when al-Sharaa's forces ousted Assad in December 2024, forcing the Kremlin to bargain with the government that defeated its former client.",
+            "Retaining Tartus and Hmeimim sustains Russian naval access to the Mediterranean and a logistics hub for operations across Africa and the eastern Mediterranean — a strategic outcome Washington and NATO had hoped to deny.",
+            "Overhead imagery indicates Russia has drawn down but not eliminated its presence at both sites, consistent with a reorganized, smaller footprint rather than a withdrawal."
+          ]
+        },
+        { "type": "stars" },
+        {
+          "type": "para",
+          "text": "For the United States, the deal shows that even a diminished Russia can adapt to hold strategic access; the open question is what political and economic concessions Damascus extracted in exchange."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Shorter developments from the past 24 hours that we are tracking:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "<b>Nepal.</b> Flash floods and landslides along the Nepal–China border have killed at least 160 people, with more than 680 reported missing as of 27 August — among the deadliest events of the monsoon season. The UN is mobilizing assistance and rescue crews have pulled dozens from the debris.",
+            "<b>AI and compute.</b> Nvidia reported quarterly revenue of about $96.2 billion — more than double a year earlier — with data-center sales near $89 billion, underscoring that AI-infrastructure demand, and the compute advantage it confers, remains concentrated in US hyperscalers. We flag it for its strategic-economic weight, not as a security event in its own right.",
+            "<b>Homeland and technology.</b> Meta agreed to pay up to $18 billion to settle claims by US state attorneys general over harms to minors, and will impose teen usage limits and stronger age verification — the largest such settlement to date and a marker of how governments are moving to regulate large platforms."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from open sources."
+    }
+  ]
+}
