@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-28",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Kyiv sets a wartime record for air-raid alerts as Russia sustains its strategic air campaign." },
+    { "tag": "IRAN-HORMUZ", "summary": "CENTCOM declares the Strait of Hormuz transit lanes clear of Iranian mines; US keeps heavy force on station." },
+    { "tag": "IRAN-PRESSURE", "summary": "Washington leans toward maximum sanctions over a deal; Tehran signals via Doha that pressure will not work." },
+    { "tag": "GULF-SECURITY", "summary": "Kuwait and Pakistan sign a defense protocol, extending a widening web of Gulf–South Asia pacts." },
+    { "tag": "ISRAEL-SYRIA", "summary": "Israeli shelling near the Syrian border for a second night draws a US call for de-escalation." },
+    { "tag": "US-CANADA", "summary": "A fresh tariff threat and a provocative renaming strain ties with a core ally." },
+    { "tag": "NOTES", "summary": "Sudan's pound hits a record low; Mladic dies in The Hague; Trump plays down a Russian move on NATO." }
+  ],
+  "articles": [
+    {
+      "headline": "Kyiv Endures Record Day of Air Alerts as Russia Presses Its Strategic Air Campaign",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's day-long bombardment of Kyiv on 27 August — which produced 13 separate air-raid alerts, the most the capital has recorded in a single day since the February 2022 invasion — reflects a deliberate effort to exhaust Ukrainian air defenses and civilian morale through sustained volume, not a shift toward a new offensive. The barrage continued past midnight into 28 August, with explosions again reported over the city around 12:30 a.m." },
+        { "type": "bullets", "items": [
+          "Ukraine's Air Force reported downing seven Iskander-M or North Korean-supplied KN-23 ballistic missiles and intercepting the bulk of roughly 140 drones, most aimed at Kyiv; at least seven people were injured and a warehouse in the Darnytskyi district caught fire. Explosions were also reported in Odesa and Zaporizhzhia.",
+          "The single-day alert record — surpassing the 12 alerts of 1 March 2022 — is itself the signal: Moscow is layering ballistic, cruise, and drone salvos through the day to saturate a defense grid that performs well against any single stream but is strained by simultaneity.",
+          "The recurring appearance of KN-23-type missiles is consistent with the deepening Russia–North Korea supply relationship and, we judge, gives Pyongyang continued live-fire feedback on its ballistic systems — a secondary cost the US should weigh in the Ukraine file."
+        ] },
+        { "type": "para", "text": "For Washington, the near-term question is munitions math: whether the pace of Patriot and other interceptor deliveries keeps ahead of Russia's ability to reconstitute and mass strike packages. We expect Moscow to continue the tempo through the autumn to pressure Kyiv ahead of any negotiation, while avoiding the concentrated logistics buildup that would precede a renewed ground push." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "US Declares Hormuz Transit Lanes Clear of Iranian Mines but Keeps Heavy Force on Station",
+      "blocks": [
+        { "type": "para", "text": "We assess that US Central Command's 28 August declaration that the internationally recognized transit routes in the Strait of Hormuz are \"free of Iranian sea mines\" marks a consolidation of US control over the waterway rather than an end to the confrontation with Tehran. CENTCOM commander Admiral Brad Cooper said the lanes were cleared using Navy divers, explosive-ordnance teams, and joint air power, and that a large US force remains in the theater to keep them open." },
+        { "type": "bullets", "items": [
+          "Overhead imagery confirms the internationally recognized transit lanes are clear of the moored contacts observed earlier in the campaign.",
+          "Commercial traffic is recovering but remains a fraction of pre-war throughput — roughly 10 to 15 vessels a day against the more than 20 million barrels of crude that transited daily before hostilities — keeping upward pressure on energy risk premia even as physical flows resume.",
+          "Reporting indicates Qatar and Iran have discussed a temporary joint navigational corridor through the strait, a face-saving mechanism that could lower the risk of miscalculation without either side conceding its position."
+        ] },
+        { "type": "para", "text": "For the President, the decision point is duration: sustaining a large surface and mine-countermeasure presence in a contested strait is costly and exposes US ships to Iranian anti-ship fires. We judge Tehran retains the capacity to reseed mines or harass shipping, so \"open\" is a condition the US must actively maintain, not a settled outcome." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Washington Leans Toward Maximum Pressure as Tehran Signals Diplomacy on Its Own Terms",
+      "blocks": [
+        { "type": "para", "text": "We assess that the administration is tilting toward a maximum-sanctions posture rather than a renewed understanding with Iran, and that Tehran — while keeping a diplomatic channel open through Doha — is not prepared to negotiate from a position it reads as capitulation. The gap between the two tracks is widening even as both sides avoid closing the door entirely." },
+        { "type": "bullets", "items": [
+          "The White House has signaled that new measures could reach Chinese banks that continue to handle Iranian oil revenue — a step that would fold the Iran file into US–China financial competition and test Beijing's willingness to absorb secondary-sanctions risk to sustain Tehran.",
+          "Iranian Foreign Minister Abbas Araghchi, after meeting Qatar's prime minister on 27 August, said diplomacy could resume only once Washington accepts that \"pressure doesn't work\" and moves to \"build trust\" and \"acknowledge our rights\" — a formulation that preserves the channel while rejecting preconditions.",
+          "Hardline voices in Israel, including a former Mossad director, publicly argued this week for continuing to strike Iran \"until the regime falls,\" underscoring that a maximalist regime-change current persists among close US partners even as the shooting phase has ebbed."
+        ] },
+        { "type": "para", "text": "We judge the more consequential variable is Beijing: if the US moves against Chinese financial institutions, the Iran question becomes a direct US–China friction point with implications well beyond the Gulf. A realistic possibility is a prolonged standoff — sanctions tightening without a deal, and intermittent diplomacy through Gulf intermediaries — rather than either a settlement or a return to open conflict in the near term." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, the Treasury Office of Intelligence and Analysis, NSA, and open sources."
+    },
+    {
+      "headline": "Kuwait–Pakistan Defense Protocol Extends a Widening Web of Gulf–South Asia Pacts",
+      "blocks": [
+        { "type": "para", "text": "We assess that the joint defense and military-cooperation protocol Kuwait and Pakistan signed in Islamabad on 27 August is a modest but telling addition to a fast-thickening lattice of Gulf–South Asia security arrangements, driven by Gulf states' search for hedges amid regional volatility and by Pakistan's effort to monetize its military as a security exporter. Liaison reporting corroborates that the protocol's operational-coordination provisions run to training, capacity-building, and border management." },
+        { "type": "bullets", "items": [
+          "The \"Protocol Agreement 2026,\" signed by the two defense ministers, deepens a 2023 cooperation framework and lands weeks after Pakistan joined a separate mutual-defense understanding with Saudi Arabia and Turkiye — a pattern of overlapping, Pakistan-anchored security ties across the Gulf.",
+          "For Gulf capitals wary of both Iran and the reliability of outside guarantors, these bilateral pacts are a diversification play; for Islamabad, they convert manpower and expertise into influence, aid, and access.",
+          "The arrangements stop well short of a bloc, but the cumulative effect is a Gulf security architecture in which Pakistan is an increasingly load-bearing node — a development the US should track for its bearing on basing, arms flows, and crisis alignment."
+        ] },
+        { "type": "para", "text": "For Washington, the item is a reminder that partners are building their own webs beneath the US security umbrella. We expect this minilateral layering to continue, and it warrants watching for whether any of these pacts acquire real operational teeth or a nuclear dimension." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, CIA, INR, and open sources."
+    },
+    {
+      "headline": "Israeli Shelling Near the Syrian Border for a Second Night Draws a US Call for De-escalation",
+      "blocks": [
+        { "type": "para", "text": "We assess that repeated Israeli artillery fire into southern Syria — a hill near Beit Jinn, roughly 10 kilometers from the border, was shelled for a second consecutive night on 27 August — reflects Israel's continued forward posture in the post-Assad security vacuum rather than a decision to escalate against Damascus. US officials publicly urged both sides toward de-escalation and \"peaceful solutions.\"" },
+        { "type": "bullets", "items": [
+          "Israeli forces have held a string of posts inside Syria since the Assad government fell in December 2024, and periodic shelling and ground incursions have become a recurring feature of the frontier; no casualties were reported from the latest fire.",
+          "The friction runs against a tentative diplomatic track: Israeli and Syrian officials, including intelligence-channel contacts, have met in recent weeks to try to manage tensions, and Washington rescinded Syria's state-sponsor-of-terrorism designation on 24 August as part of a cautious opening to Damascus.",
+          "For the US, the tension is between backing a fragile Syrian transition it is trying to bring in from the cold and accommodating an ally's insistence on freedom of action along its northern border."
+        ] },
+        { "type": "para", "text": "We judge the most likely path is continued low-level Israeli strikes paired with quiet de-confliction, absent a triggering incident. A decision point would come if Israeli fire caused significant Syrian casualties, which could force Damascus to respond and put the nascent US–Syria opening at risk." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Fresh Tariff Threat and a Provocative Renaming Strain Ties With Canada",
+      "blocks": [
+        { "type": "para", "text": "We assess that the administration's latest moves toward Canada — a threat of \"substantial\" new tariffs on Canadian automobiles, paired with an executive order renaming Lake Ontario \"Lake America\" — will further sour relations with a core treaty ally and trading partner, and that Ottawa will respond firmly but seek to avoid a full rupture. Prime Minister Mark Carney publicly rejected the renaming." },
+        { "type": "bullets", "items": [
+          "Auto tariffs would strike at the deeply integrated North American vehicle supply chain, raising costs on both sides of the border and inviting Canadian retaliation and legal challenge under the existing trade framework.",
+          "The symbolic provocation compounds the economic one: for a government in Ottawa already managing domestic pressure to stand up to Washington, high-profile slights narrow the room for accommodation.",
+          "We judge the practical risk is less an immediate trade war than steady erosion of the reflexive cooperation the US relies on from Canada — on continental defense, border management, and critical minerals."
+        ] },
+        { "type": "para", "text": "For Washington, the cost is strategic goodwill with the ally whose cooperation it most takes for granted. We expect Ottawa to pair measured countermeasures with continued engagement, betting that the economic logic of integration ultimately reasserts itself." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan | Currency at a record low.</b> The Sudanese pound sank to an all-time low on the parallel market on 27 August, reaching about 6,400 to the dollar after the central bank loosened rules on how commercial banks set exchange rates. We assess the move — intended to narrow the gap between official and black-market rates — is more likely in the near term to accelerate the currency's slide, deepening an economic crisis driven by the ongoing civil war and dwindling reserves." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>The Hague | Mladic dies in custody.</b> Ratko Mladic, the former Bosnian Serb military commander convicted of genocide and crimes against humanity for atrocities including the 1995 Srebrenica massacre, died on 27 August in the UN detention unit in The Hague while serving a life sentence. The residual war-crimes mechanism has ordered an inquiry into the circumstances, routine for a death in custody. His passing closes a defining chapter of the Balkan wars and is likely to prompt competing commemorations across the region." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>United States | Trump plays down NATO risk.</b> President Trump said publicly that Russian President Putin \"is not going to be attacking\" NATO territory — a reassurance that sits awkwardly beside allied anxieties over Russian intent and its intensifying strikes on Ukraine. We judge the remark is aimed as much at domestic and negotiating audiences as at allied capitals, several of which continue to plan against precisely the contingency the President discounted." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, the Treasury Office of Intelligence and Analysis, and open sources."
+    }
+  ]
+}
