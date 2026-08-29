@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-29",
+  "cover": true,
+  "toc": [
+    { "tag": "CHINA", "summary": "Xi removes his two top generals from the Central Military Commission, gutting the body." },
+    { "tag": "VENEZUELA-ENERGY", "summary": "Trump claims majority control of 65 billion barrels as the Iran war strains oil supply." },
+    { "tag": "IRAN-ISRAEL", "summary": "War hits six months; Israel keeps striking over US objections as Treasury adds sanctions." },
+    { "tag": "UKRAINE", "summary": "Kyiv lands deep strikes on Engels and a Volga refinery; Russia hits a Kyiv-region logistics node." },
+    { "tag": "RUSSIA-STRATEGIC", "summary": "Moscow test-fires a mobile Yars ICBM from Plesetsk amid the standoff." },
+    { "tag": "NORWAY", "summary": "King Harald V dies at 89; Haakon VIII accedes in a NATO ally." },
+    { "tag": "NOTES", "summary": "Nepal-China glacial flood; Korea trilateral drills; South Africa's ICJ dossier." }
+  ],
+  "articles": [
+    {
+      "headline": "Xi Purges His Two Top Generals, Hollowing Out the Central Military Commission",
+      "blocks": [
+        { "type": "para", "text": "We assess that the removal of Vice Chairman Zhang Youxia and Joint Staff chief Liu Zhenli from the Central Military Commission (CMC) marks the most consequential turn yet in Xi Jinping's decade-long purge of the People's Liberation Army — and, on its face, a striking display of Xi's willingness to cut down even his closest military lieutenants. China's parliament standing committee stripped both men of their CMC seats on 28 August, citing \"serious violations of discipline and law,\" the Party's standard euphemism for corruption and disloyalty." },
+        { "type": "bullets", "items": [
+          "Zhang, until now China's highest-ranking uniformed officer and long seen as personally close to Xi, was the CMC's number-two; Liu oversaw combat planning as head of the Joint Staff Department. Both had been under investigation since at least January.",
+          "The two removals leave the seven-seat CMC with only two publicly known members — Xi himself and anti-corruption enforcer Zhang Shengmin — an extraordinary hollowing-out of the body that runs the world's largest military.",
+          "We judge the purge is more likely a consolidation of loyalty than a sign of instability at the top: a PLA Daily editorial framed the pair as having \"undermined the system of ultimate responsibility resting with the CMC chairman\" — that is, with Xi personally."
+        ] },
+        { "type": "para", "text": "For Washington, the near-term signal is mixed. A leadership churning through its senior-most commanders is one distracted by internal control, but repeated purges also degrade command cohesion and complicate any high-end contingency — including over Taiwan — as new officers rotate in without their predecessors' experience. Liaison reporting is consistent with the removals having been settled at the leadership level well before Friday's public announcement." },
+        { "type": "bullets", "items": [
+          "We expect further removals: with the Joint Staff and the CMC vice-chairmanship now open, the reshuffle is probably not finished, and additional flag officers tied to the two men are at elevated risk.",
+          "A decision point to watch is whom Xi elevates to fill the vice-chairmanship — the choice will signal whether he prizes political reliability or operational competence as tensions with the US and around Taiwan persist."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Trump Claims Control of Venezuelan Reserves To Blunt an Oil Squeeze From the Iran War",
+      "blocks": [
+        { "type": "para", "text": "We assess that the oil arrangement President Trump announced on 28 August — which he billed as \"the biggest oil deal in world history,\" giving a US-led venture majority rights over more than 65 billion barrels of Venezuelan reserves — is driven less by long-term energy strategy than by the immediate need to offset supply lost to the six-month war with Iran and the near-closure of the Strait of Hormuz." },
+        { "type": "bullets", "items": [
+          "As described by the White House, the deal covers development of 17 fields and gives the US side roughly 55 percent of output plus rights to buy crude at cost; Trump credited Secretary of State Rubio, Defense Secretary Hegseth, and Venezuelan acting President Delcy Rodríguez as negotiators.",
+          "The announcement follows the US military operation last winter that captured then-president Nicolás Maduro to face narcoterrorism charges and installed a more pliant government in Caracas — the political groundwork that made majority control negotiable.",
+          "The backdrop is a genuine supply crunch: with Hormuz throughput sharply reduced, the US Strategic Petroleum Reserve fell below 300 million barrels in early August, down more than 100 million since January."
+        ] },
+        { "type": "para", "text": "For Washington, the economic logic is real but the payoff is slow. Venezuelan heavy crude requires years and tens of billions in investment to lift meaningfully, so the deal does little for pump prices this autumn even as it hands Trump a political win. We judge the more durable effect is strategic: a deeper US commercial and security stake in Venezuela, and a template for resource leverage that Beijing and Moscow will read as coercive." },
+        { "type": "bullets", "items": [
+          "Legal and sovereignty challenges are likely, and any future government in Caracas could contest terms struck under the current arrangement — a standing political risk for the venture.",
+          "We expect near-term oil relief to depend far more on whether the Hormuz corridor reopens than on Venezuelan barrels; the Iran-Oman revenue-sharing talks over the strait remain the variable to watch."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury OIA, DIA, and open sources."
+    },
+    {
+      "headline": "Iran War Reaches Six Months as Israel Keeps Striking Over US Objections",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Israeli war against Iran, which reached its six-month mark on 28 August with no end in sight, is entering a phase of friction between Washington and Jerusalem over tempo and targeting. The same day, the Israel Defense Forces announced fresh strikes killing Hamas and Palestinian Islamic Jihad operatives in Gaza — explicitly continuing operations despite US calls to pause them." },
+        { "type": "bullets", "items": [
+          "The IDF said Friday's strikes killed a Hamas commander who took part in the 7 October 2023 attack and a Palestinian Islamic Jihad surveillance chief; a separate drone strike in Jenin killed the head of Hamas activity in that West Bank camp.",
+          "Treasury announced new sanctions targeting Hong Kong-based entities and individuals linked to Iran's Bank Melli, extending a financial-pressure campaign the administration is running in place of renewed negotiations.",
+          "Iran's supreme leader, who has kept a low profile since being wounded in an Israeli strike earlier in the war, issued a statement urging authorities to avoid \"discouraging\" language and protect \"social cohesion\" — signs, we judge, of leadership sensitivity to domestic strain."
+        ] },
+        { "type": "para", "text": "For Washington, the gap with Israel is the near-term problem: US pressure to ease Gaza operations is meant to preserve fragile ceasefire coordination and allied buy-in, and Israeli defiance risks fraying both. NSA reporting is consistent with the Gaza strikes being ordered through the Israeli military chain rather than reflecting any US sign-off." },
+        { "type": "bullets", "items": [
+          "The economic tail of the war remains the biggest strategic cost — constrained Hormuz shipping, elevated crude prices, and a drawn-down US reserve — which is precisely what the Venezuela oil deal is meant to ease.",
+          "We expect the coming days to test whether the US can restrain Israeli targeting without a public rupture; a visible break would embolden Tehran and complicate any path to a settlement."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Lands Deep Strikes on a Bomber Base and a Volga Refinery as Russia Hits Kyiv-Region Logistics",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's overnight long-range strikes into Russia — reaching the Engels strategic-bomber base and an oil refinery in Yaroslavl region, some 300 kilometers northeast of Moscow — reflect a maturing deep-strike campaign aimed at Russia's air-launched cruise-missile capacity and its refining throughput, the two pressure points Kyiv can reach without Western permission constraints." },
+        { "type": "bullets", "items": [
+          "President Zelensky said Ukrainian forces struck a Tu-95MS missile carrier at Engels, the Yaroslavl refinery, and targets in the Black Sea; Ukraine's Unmanned Systems Forces separately reported hitting energy nodes in occupied Donetsk, Luhansk, Zaporizhzhia, and Crimea over 26–28 August.",
+          "Russia struck logistics and warehouse facilities in Kyiv region overnight, sparking fires and forcing the temporary closure of a main highway linking the capital with western Ukraine — a reminder that Moscow retains the ability to disrupt Ukrainian rear-area supply.",
+          "We judge the Engels strike, if damage to the bomber is confirmed, matters beyond symbolism: Tu-95s are a core platform for Russia's standoff cruise-missile salvos against Ukrainian cities and grid."
+        ] },
+        { "type": "para", "text": "For Washington, the campaign shows Kyiv can still impose costs deep inside Russia despite battlefield attrition, strengthening its hand ahead of any negotiation. Overhead imagery is consistent with fresh damage at Engels; battle-damage assessment is still being refined." },
+        { "type": "bullets", "items": [
+          "We expect Russia to respond with another mass drone-and-missile barrage against Ukrainian energy infrastructure as autumn approaches, continuing the reciprocal strikes on power and refining.",
+          "The near-term indicator to watch is refinery downtime: sustained Ukrainian hits on Russian refining would tighten Moscow's fuel supply and domestic prices heading into winter."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, and open sources."
+    },
+    {
+      "headline": "Russia Test-Fires a Mobile Yars ICBM in a Deliberate Signal Amid the Standoff",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's 28 August combat-training launch of a mobile intercontinental ballistic missile from Plesetsk Cosmodrome to the Kura range on Kamchatka — a flight of more than 6,700 kilometers — was a routine-format test carrying a deliberate signaling message, timed to project strategic resolve while Moscow is pressed in Ukraine and courted over energy diplomacy." },
+        { "type": "bullets", "items": [
+          "The Defense Ministry said a road-mobile launcher battery redeployed to a remote site before firing and that the system met all flight parameters; footage is consistent with the RS-24 Yars, though Moscow did not name the missile.",
+          "The launch fits an established pattern of solid-fuel mobile ICBM tests rather than a departure, and we have no indication it presages a change in Russia's nuclear posture or alert level.",
+          "We judge the intended audiences are both external — the US and NATO — and domestic, reinforcing an image of undiminished strategic capability despite the war's costs."
+        ] },
+        { "type": "para", "text": "For Washington, the test is more messaging than warning, but it underscores that Russia continues to modernize and exercise its mobile deterrent even under strain. We expect Moscow to keep pairing conventional setbacks with periodic strategic-forces demonstrations." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, Space Force Intelligence, and open sources."
+    },
+    {
+      "headline": "Norway's King Harald V Dies at 89; Haakon VIII Accedes in a Key NATO Ally",
+      "blocks": [
+        { "type": "para", "text": "We assess the death of Norway's King Harald V on 28 August, after 35 years on the throne, is a moment of national mourning with negligible effect on policy continuity in a close NATO ally. The 89-year-old monarch — Europe's oldest — died at Oslo's Rikshospitalet while being treated for a blood disorder and was immediately succeeded by his son, now King Haakon VIII." },
+        { "type": "bullets", "items": [
+          "The Norwegian monarchy is constitutional and ceremonial; defense, energy, and foreign policy rest with the elected government, so the succession does not alter Oslo's NATO commitments, support for Ukraine, or its role as a major gas supplier to Europe.",
+          "Haakon has served as regent during his father's periods of ill health and is a known, stable quantity to allied capitals; we judge the transition will be smooth and the state funeral a venue for allied condolence diplomacy."
+        ] },
+        { "type": "para", "text": "For Washington, the practical significance is limited but worth noting: Norway anchors NATO's northern flank, monitors Russian naval activity in the High North, and has become an indispensable European energy supplier since 2022. Continuity there is a quiet asset." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Nepal–China border: glacial-flood toll climbs, Americans among the missing.</b> Nepali police put the death toll at more than 600 by Saturday morning, with roughly 2,500 people still unaccounted for on both sides of the border — including dozens of foreign nationals, among them US tourists — after a glacial collapse triggered catastrophic flash flooding on 26–27 August. Authorities are monitoring a newly formed lake amid fears of a second surge. We judge the disaster carries a US consular and assistance dimension and adds strain to an already tense Kathmandu-Beijing dynamic over trans-border river management." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>US, South Korea, and Japan set trilateral drills as friction simmers.</b> The three allies announced the \"Freedom Edge\" exercise for 9–11 September, focused on countering North Korean missile and nuclear threats, days after another DPRK ballistic-missile launch. The move comes amid public US irritation that Seoul declined to assist in the Iran war. We assess the drills reaffirm trilateral cohesion, but the friction bears watching as Trump signals interest in reviving summitry with Kim Jong Un." },
+        { "type": "stars" },
+        { "type": "para", "text": "<b>South Africa presses its ICJ case against Israel.</b> Pretoria's dossier documenting alleged Israeli non-compliance with the World Court's provisional measures in Gaza drew fresh international attention over the weekend. The filing has no near-term enforcement teeth but sustains legal and diplomatic pressure on Israel and, by extension, on Washington as its principal backer." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, and open sources."
+    }
+  ]
+}
