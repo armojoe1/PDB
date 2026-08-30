@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-30",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Deadliest strike of 2026 near Kyiv caps a third night of drone barrages." },
+    { "tag": "US-RUSSIA DIPLOMACY", "summary": "A CIA back-channel to Moscow produces a summit offer Putin is likely to spurn." },
+    { "tag": "IRAN-GULF", "summary": "Tehran presses Gulf 'unity' as the Strait of Hormuz stays effectively shut." },
+    { "tag": "EURASIA/SCO", "summary": "Xi, Putin, and Modi gather in Bishkek in a show of anti-Western alignment." },
+    { "tag": "NEPAL-CHINA", "summary": "A Himalayan glacial collapse kills hundreds along the Nepal-Tibet border." },
+    { "tag": "FRANCE", "summary": "The budget season reopens a path to another government crisis." },
+    { "tag": "NOTES", "summary": "Gaza, Sudan, and a typhoon in eastern China." }
+  ],
+  "articles": [
+    {
+      "headline": "Russia's Deadliest Strike of 2026 Near Kyiv Points to Sustained Escalation",
+      "blocks": [
+        { "type": "para", "text": "We assess that the overnight Russian strike on an ammunition warehouse at Myla, in Kyiv's Bucha district — which detonated stored shells and mines and killed at least 37 people, the war's deadliest attack this year — reflects a deliberate effort to intensify pressure on Ukraine's rear and civilian morale even as Washington probes for a diplomatic opening. Ukrainian authorities are treating the destruction of roughly 50 homes and an elder-care facility as compounded by “criminal negligence” in siting munitions near housing, and prosecutors have opened an investigation." },
+        { "type": "bullets", "items": [
+          "The strike capped a third consecutive night of near-continuous drone barrages on Kyiv (29–30 August) and surpasses the 31 killed in the 2 July strike, previously the year's deadliest.",
+          "Kyiv's Presidential Office warns Moscow plans to mobilize some 600,000 recruits across 2026–27 (about 300,000 this year), signaling Russia is resourcing for a long war rather than a settlement.",
+          "Air-raid alerts and secondary fires stretched across much of the country, part of a broadening campaign against Ukraine's western approaches."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the strike sharpens the gap between an intensifying air campaign and the administration's push for talks (see following item). We judge Moscow sees little cost in continuing to fight while it bargains, and we expect further mass strikes intended to pressure Kyiv from a position of battlefield leverage." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "CIA Back-Channel to Moscow Yields a Summit Offer Putin Is Likely To Spurn",
+      "blocks": [
+        { "type": "para", "text": "We assess that DCIA Ratcliffe's undisclosed visit to Moscow this week — during which, per multiple reports, he floated a Trump–Putin–Zelensky trilateral to end the war and warned Russia against widening the conflict toward NATO — represents a genuine US effort to reopen mediation, but one Putin is likely to rebuff on current terms. Ukrainian President Zelensky, briefed by US officials on Friday, has signaled willingness to meet and countered with Kyiv rather than Moscow; the Kremlin says Ratcliffe did not meet Putin and has rejected prior trilateral proposals." },
+        { "type": "bullets", "items": [
+          "The trip was aimed partly at testing whether Russia's intelligence chiefs could nudge Putin back toward US-mediated talks; spokesman Peskov declined to say whether the agenda included Ukraine or Iran.",
+          "Zelensky has publicly pressed Putin to agree to a trilateral and rejected an invitation to travel to Moscow, proposing Kyiv instead — leaving Putin as the obstacle to a meeting Washington and Kyiv both say they want.",
+          "The deadly strike near Kyiv the same night underscores that Moscow perceives little cost in fighting while it talks."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "A decision point comes if Putin names conditions rather than simply declining. Absent fresh battlefield or sanctions pressure, we judge Moscow probably calculates that delay favors it — making a near-term trilateral unlikely without a change in the war's trajectory." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Tehran Presses Gulf Realignment as the Strait of Hormuz Stays Shut",
+      "blocks": [
+        { "type": "para", "text": "We assess that Supreme Leader Mojtaba Khamenei's written appeal urging Gulf rulers to identify their “real enemy” and unite in “mutual defense” — issued for Islamic Unity Week — is a bid to convert Iran's post-war leverage over the Strait of Hormuz into durable political influence over the Arab Gulf. It lands as the IRGC announces an agreement with Oman apportioning the strait's waters and revenues, and as the waterway remains effectively closed to routine commercial traffic near its sixth month, with the IRGC Navy asserting transit control and US Central Command insisting it stays open." },
+        { "type": "para", "text": "Mojtaba Khamenei succeeded his father, Ali Khamenei, who was killed in the spring US–Israeli strikes; President Pezeshkian and the IRGC have backed the succession." },
+        { "type": "bullets", "items": [
+          "Transit has collapsed — only a handful of ships have moved on recent days against a norm near 85 per day — and Tehran conditions reopening on the US lifting its naval blockade, dropping oil sanctions, and unfreezing Iranian assets.",
+          "Both OPEC and the IEA have cut their 2026 oil-demand forecasts citing the closure; Brent has held in the high-$80s, a soft price that masks real supply-route risk.",
+          "Open-source vessel-tracking and commercial satellite imagery show tankers continuing to reroute around the Gulf and Red Sea rather than run the strait."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the sharper risk is a durable Iran–Oman condominium over Hormuz that normalizes Tehran's veto on Gulf shipping. We expect Gulf capitals to resist the “unity” framing quietly while hedging in public; watch whether any Gulf government endorses it openly — a signal Iran's coercion is translating into political gains." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Eurasian Powers Gather in Bishkek in a Show of Alignment Against US Pressure",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 25th-anniversary Shanghai Cooperation Organization summit opening 31 August in Bishkek — drawing some 20 heads of state, including Xi, Putin, and Modi — is choreographed less to produce binding decisions than to project a coordinated non-Western front at a moment of intense US tariff and sanctions pressure. India's decision to send Modi and hold a bilateral with Putin, despite US friction over New Delhi's Russian-oil purchases, is the signal to watch." },
+        { "type": "bullets", "items": [
+          "Modi–Putin talks are set to focus on trade rebalancing, energy, and defense; the two governments are targeting $100 billion in trade by 2030 via the North–South Transport Corridor and the Chennai–Vladivostok route.",
+          "Xi and Putin are slated to meet 31 August; Beijing is again expected to press SCO financial architecture, including a development bank, to blunt Western leverage.",
+          "Modi and Pakistan's Prime Minister Shehbaz Sharif will share the stage — a reminder the bloc papers over deep rivalries and rarely agrees on substance."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the optics matter more than any communique: US tariff pressure is nudging India visibly closer to the Russia–China axis it has long hedged against. We judge concrete deliverables will be modest; the durable risk is strategic drift, not a new treaty." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Himalayan Glacial Collapse Kills Hundreds Along the Nepal–Tibet Border",
+      "blocks": [
+        { "type": "para", "text": "We assess that the catastrophic flood on the Nepal–China frontier — triggered when part of a glacier near the Langtang Lirung peak sheared away and displaced an estimated 100 million cubic meters of ice, rock, and debris — has become one of 2026's deadliest natural disasters, with Nepal's toll at roughly 752 dead and about 2,500 missing and at least 16 killed on the Chinese side. Four days on, rescuers are still reaching cut-off valleys, and the count is likely to rise." },
+        { "type": "bullets", "items": [
+          "A landslide-dammed barrier lake near the border overtopped but is reported stable by Chinese authorities; a renewed breach is the principal near-term hazard.",
+          "Destroyed bridges, roads, and communications are hampering relief and obscuring the true casualty figure.",
+          "The event fits a pattern of accelerating glacial-lake and ice-avalanche hazards across the high Himalaya, with implications for cross-border water and hydropower infrastructure."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The disaster is a humanitarian emergency in a strategically sensitive borderland where Chinese and Indian influence compete. We expect Beijing to lead the visible response on its side of the frontier; the near-term risk to watch is a second surge if the barrier lake fails." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "France's Budget Season Reopens a Path to Another Government Crisis",
+      "blocks": [
+        { "type": "para", "text": "We assess that the reopening of France's budget fight — as Prime Minister Lecornu returns from the summer with a 2027 draft built from deliberately “reversible” measures, an agricultural rescue plan, and a sick-leave reform — sets up another test of a minority government that survived two no-confidence votes to pass the 2026 budget only by invoking Article 49.3 and suspending pension reform. Polling shows the governing Ensemble–MoDem–Les Républicains bloc well short of a majority as the far right and left maneuver toward 2027." },
+        { "type": "bullets", "items": [
+          "Lecornu's survival still hinges on Socialist forbearance; another 49.3-and-censure cycle is a realistic possibility this autumn.",
+          "Fiscal room is thin — Paris is targeting a deficit near 5% of GDP — constraining defense and Ukraine-related spending."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, French political fragility bears on EU fiscal cohesion, defense budgets, and sanctions and Ukraine unity. A government collapse ahead of the 2027 presidential race would inject fresh uncertainty into the European pillar of allied policy. Watch the autumn budget votes." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Gaza.</b> Israeli strikes killed at least three Palestinians on 29 August despite the US-brokered ceasefire in force since last October; the IDF said it killed a Hamas commander “planning attacks” who was sheltering near a hospital in Deir al-Balah. The truce holds but is fraying, with more than 1,300 Palestinians reported killed since it began and disarmament talks stalled.",
+          "<b>Sudan.</b> Mass graves holding roughly 25 civilians reportedly executed by the Rapid Support Forces were uncovered at Kurmuk in Blue Nile state — the latest evidence of RSF atrocities as the civil war grinds on and displacement worsens.",
+          "<b>China.</b> Typhoon Dolphin made landfall in eastern China, forcing the evacuation of roughly one million people and the cancellation of some 1,300 flights from Shanghai, compounding a week of deadly flooding across the region."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
