@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-01",
+  "cover": true,
+  "toc": [
+    { "tag": "SCO-EURASIA", "summary": "Bishkek Declaration caps SCO summit as Beijing and Moscow deepen alignment; India hedges." },
+    { "tag": "US-IRAN", "summary": "Fighting reignites in the Strait of Hormuz; oil rises and Trump threatens Kharg." },
+    { "tag": "UKRAINE-POLAND", "summary": "Russia sustains Kyiv strikes; Poland probes sabotage at a key drone plant." },
+    { "tag": "LEBANON", "summary": "Government presses Hezbollah disarmament plan against the group's refusal." },
+    { "tag": "HIMALAYA", "summary": "Glacial flood toll passes 680, thousands missing, some 90 Americans among them." },
+    { "tag": "FRANCE", "summary": "Lecornu government reconvenes under strain from cyberattacks and a contested budget." },
+    { "tag": "NOTES", "summary": "Venezuela oil, Mali fuel blockade, Iceland's EU referendum." }
+  ],
+  "articles": [
+    {
+      "headline": "SCO Summit Yields Bishkek Declaration as Beijing and Moscow Deepen Anti-Western Alignment",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 26th Shanghai Cooperation Organisation summit, which closed in Bishkek on 1 September with the signing of the Bishkek Declaration, marks another incremental step in Beijing's and Moscow's effort to institutionalize a China-centered Eurasian bloc as a counterweight to the US-led order &mdash; even as the grouping's internal frictions continue to limit how much strategic weight it can actually carry. Marking the SCO's 25th anniversary under Kyrgyzstan's rotating chairmanship, roughly 20 leaders endorsed a raft of cooperation programs; the more consequential signal for Washington is the recurring optics of Xi, Putin, and Modi convening together." },
+        { "type": "bullets", "items": [
+          "Meeting on the margins on 31 August, President Xi and President Putin reaffirmed what Xi called an increasingly \"solid\" Russia&ndash;China partnership. We judge the optics are calibrated to project resilience amid Western pressure and Moscow's fifth year of war in Ukraine.",
+          "The declaration and accompanying documents lean toward connectivity and security &mdash; a 2026&ndash;2030 \"Green Technology Corridor,\" a ports-and-logistics roadmap, expanded counter-narcotics coordination, and a new Universal Centre for Countering Security Challenges. Over time, this institutional plumbing could erode the reach of Western-led standards and sanctions regimes.",
+          "Prime Minister Modi used a bilateral with Putin to press for an end to the war, telling him \"every single day spent in war pushes humanity back.\" We assess New Delhi is deliberately hedging &mdash; banking the SCO's multipolar messaging while signaling to Washington and Europe that it does not endorse Moscow's war aims."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the trend line matters more than any single deliverable: the SCO is becoming a standing venue where Beijing convenes middle powers on its terms, with Iran now inside the tent and India kept close. We expect Beijing's next move to be pushing connectivity and payment arrangements that reduce members' exposure to the dollar and to secondary sanctions. A decision point for US strategy is whether India can be kept oriented toward the Quad and Western technology partnerships even as it banks SCO membership." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "US&ndash;Iran Fighting Reignites in the Strait of Hormuz, Lifting Oil and Raising Escalation Risk",
+      "blocks": [
+        { "type": "para", "text": "We assess that the exchange of fire between US and Iranian forces around the Strait of Hormuz over 30&ndash;31 August has ended a roughly month-long lull and returns the six-month conflict to a more dangerous footing, with a realistic possibility of further tit-for-tat strikes on energy infrastructure in the coming days. US forces struck two Iranian launchers on Larak Island after officials assessed the Islamic Revolutionary Guard Corps was preparing to fire rocket-delivered sea mines into the waterway; Tehran retaliated with ballistic missiles against US bases in Jordan and the UAE." },
+        { "type": "bullets", "items": [
+          "Jordanian forces reported intercepting several missiles. We judge Tehran's retaliation was calibrated to demonstrate resolve without inflicting mass US casualties, consistent with its pattern of managed escalation.",
+          "President Trump publicly warned he would \"hit them hard\" and signaled Iran's Kharg Island oil terminal as a possible target &mdash; a step that, if executed, would sharply raise the risk to the roughly one-fifth of the world's seaborne oil that transits the strait and could invite a broader Iranian closure attempt.",
+          "A supertanker was reported struck by naval mines while transiting the strait; Brent and WTI rose on the order of 2&ndash;3 percent across Monday and Tuesday. We assess markets are pricing episodic disruption rather than a sustained closure &mdash; a judgment that would change quickly if Kharg is hit."
+        ] },
+        { "type": "para", "text": "NSA reporting corroborates that the mine-laying preparations were directed at the IRGC Navy command level. For Washington, the immediate task is deterring a strike on Kharg that neither side may be able to control; we expect continued low-level exchanges, with the freedom of navigation of Gulf shipping and US force protection in Jordan and the Gulf the key variables to watch." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Russia Sustains Strikes on Kyiv as Poland Probes Sabotage at a Key Drone Plant",
+      "blocks": [
+        { "type": "para", "text": "We assess Russia is maintaining pressure on Ukrainian cities while a parallel campaign of suspected sabotage against European defense-industrial sites continues &mdash; two strands of the same effort to degrade Ukraine's war capacity and test NATO's resolve. Renewed Russian air attacks on Kyiv overnight into 1 September wounded at least four people, including two children, in the capital's Solomianskyi district, according to city military authorities." },
+        { "type": "bullets", "items": [
+          "The overnight barrage fits a sustained pattern of strikes on the capital region. We judge Moscow's intent is to exhaust air defenses and pressure civilian morale ahead of autumn, not to achieve a decisive battlefield effect."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Separately, Polish prosecutors on 31 August opened a terrorism investigation into a fire at a WB Electronics facility in Skar&#380;ysko-Kamienna &mdash; Poland's largest drone maker and a supplier to both Warsaw and Kyiv. Investigators are examining whether a foreign intelligence service deliberately set the blaze." },
+        { "type": "bullets", "items": [
+          "Officials described the fire as quickly contained, with damage estimated at least 15 million zloty, and the company says it can resume production. We assess the more important signal is the targeting of a NATO member's defense-industrial base.",
+          "The incident fits a broader pattern of sabotage across Europe that Western services attribute to Russian intelligence. Attribution in this case is not yet established, and we treat it as reported rather than confirmed.",
+          "For Washington and NATO, the episode sharpens the question of how to deter gray-zone attacks below the Article 5 threshold. We expect allied counter-intelligence coordination to intensify, and further incidents are likely."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, INR, FBI, and open sources."
+    },
+    {
+      "headline": "Lebanon's Government Presses Hezbollah Disarmament as Tensions Sharpen",
+      "blocks": [
+        { "type": "para", "text": "We assess Lebanon's drive to bring all arms under state control is entering its most contentious phase, with the government advancing a phased plan to disarm Hezbollah against the group's flat refusal &mdash; a confrontation that carries real risk of internal crisis but, for now, is being managed through negotiation rather than force. The dispute came to a head around 31 August as the cabinet took up the Lebanese Armed Forces' disarmament roadmap." },
+        { "type": "bullets", "items": [
+          "Parliament Speaker Nabih Berri, a Hezbollah ally, signaled on 31 August that Shia parties are willing to discuss the group's weapons but only within a \"calm and consensual\" dialogue &mdash; language we read as an effort to slow-roll rather than accept disarmament.",
+          "Hezbollah has condemned the decision as a \"grave sin\" and vowed to ignore it, with an allied figure warning Lebanon risks a \"ball of fire.\" We assess the group will not voluntarily surrender its strategic arsenal absent sustained external pressure and security guarantees.",
+          "For Washington, state monopoly over arms in Lebanon is a stated US and Israeli objective, and progress bears directly on the durability of the Israel&ndash;Lebanon calm. We expect incremental LAF deployment south of the Litani to be the near-term test; a breakdown of dialogue would raise the risk of renewed Israeli military action."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Himalayan Glacial Flood Toll Passes 680 With Thousands Missing, Including Americans",
+      "blocks": [
+        { "type": "para", "text": "We assess the glacial outburst flood that struck the Nepal&ndash;Tibet border region on 26 August has become one of the deadliest Himalayan disasters in years, with the humanitarian and consular dimensions still expanding six days on. As of 31 August, authorities had recovered at least 682 bodies and more than 3,000 people remained missing across the border zone; roughly 90 Americans are reported among the missing." },
+        { "type": "bullets", "items": [
+          "The disaster began when a glacier collapse sent a surge of ice, water, and debris down Himalayan river valleys, burying villages and destroying roads, bridges, and hydropower plants; more than 7,500 people have been rescued, including over 200 foreign nationals.",
+          "NGA assesses from satellite imagery that a barrier lake formed by the debris continues to threaten downstream communities, complicating rescue and raising the risk of a secondary surge.",
+          "China and Nepal have resumed joint search operations. For Washington, the priority is consular support and accounting for US citizens; we assess demand for US and allied disaster-response assistance is likely to grow if the barrier lake gives way."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, INR, and open sources."
+    },
+    {
+      "headline": "France's Government Reconvenes Under Strain From Summer Cyberattacks and a Contested Budget",
+      "blocks": [
+        { "type": "para", "text": "We assess Prime Minister Lecornu's minority government returns from the summer politically exposed, caught between a wave of cyberattacks on state institutions and a 2027 budget fight that could again threaten its survival &mdash; a combination that bears on France's fiscal credibility and on the reliability of a pivotal US ally. A 31 August cabinet meeting was devoted largely to the new school year and to reviewing summer breaches affecting the tax authority and the Education Ministry." },
+        { "type": "bullets", "items": [
+          "We judge the cyber intrusions against public institutions will reinforce French and EU attention to state-network resilience; the breaches' authorship is not publicly established.",
+          "The government's central challenge remains the 2027 Finance Bill, due late September. With no stable majority, we assess passage will require concessions and could trigger renewed no-confidence pressure.",
+          "For Washington, French political stability underpins EU cohesion on Ukraine, defense spending, and sanctions. We expect Paris to prioritize budget survival over new initiatives this autumn; a government collapse would be the development to watch."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, NSA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Venezuela &mdash; Oil.</b> Venezuelan crude exports rose roughly 28 percent in August, per industry tracking, even as Washington moves to consolidate the control over Venezuela's reserves it announced on 28 August. We assess the near-term market effect is modest, but the arrangement, if implemented, could gradually reshape Western Hemisphere supply and US inventory dynamics." },
+        { "type": "para", "text": "<b>Sahel &mdash; Mali.</b> A fuel blockade imposed by the al-Qaeda-linked group JNIM continues to choke southern Mali, with hundreds of tanker trucks destroyed on routes from coastal neighbors. We judge the blockade is straining the junta and could deepen fuel and food shortages, extending the region's instability." },
+        { "type": "para", "text": "<b>Iceland &mdash; EU.</b> Icelandic voters narrowly rejected reopening EU accession talks, roughly 53 percent to 47 percent, a setback for a government that had framed the vote as decisive. We assess concern over fishing sovereignty drove the result; Iceland's Euro-Atlantic and NATO roles are unaffected." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury OIA, and open sources."
+    }
+  ]
+}
