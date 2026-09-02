@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-02",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "US widens strikes on Iran after a failed Hormuz mining attempt; escalation risk rising." },
+    { "tag": "ENERGY", "summary": "Brent nears a six-week high as Hormuz fighting threatens energy flows." },
+    { "tag": "SCO", "summary": "Bishkek summit stages a US-independent bloc, with Iran's president at the table." },
+    { "tag": "UKRAINE", "summary": "Russia sustains mass strikes on Kyiv as its battlefield gains stay marginal." },
+    { "tag": "GAZA", "summary": "Israeli raid captures a senior Hamas figure as the Gaza City offensive deepens." },
+    { "tag": "US-FUNDING", "summary": "House clears a stopgap to avert an October shutdown before the midterms." },
+    { "tag": "NOTES", "summary": "Cross-Strait pressure; a US homeland political-violence case advances." }
+  ],
+  "articles": [
+    {
+      "headline": "US Widens Strikes on Iran After Failed Hormuz Mining Attempt; Escalation Risk Rising",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US strikes overnight into 1 September mark a deliberate widening of the six-month campaign against Iran rather than a one-off reprisal, and that the risk of further tit-for-tat escalation around the Strait of Hormuz is rising. President Trump said the strikes &mdash; which he called &ldquo;large and powerful&rdquo; &mdash; answered a failed Iranian attempt to mine the strait and to strike US forces at bases in Jordan. US forces hit dozens of Islamic Revolutionary Guard Corps targets, including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities, and for the first time applied a &ldquo;tanker-for-tanker&rdquo; policy against Iranian state-owned oil vessels." },
+        { "type": "bullets", "items": [
+          "Jordan reported intercepting 13 Iranian ballistic missiles, downing 10; three fell in remote areas with no casualties, and sirens sounded in Mafraq and Aqaba. Kuwait and Bahrain activated air defenses against Iranian drones &mdash; an unusually wide spillover onto Gulf partners that we assess Tehran intends as a coercive signal.",
+          "Iranian authorities said two people were killed and others wounded when a home hosting a wedding was struck. We judge civilian-casualty claims, reported but not independently confirmed, will feature heavily in Tehran&rsquo;s messaging and at the United Nations.",
+          "The war dates to the 28 February US&ndash;Israeli strikes that killed Supreme Leader Khamenei; an April ceasefire collapsed in July when Iran resumed attacks on commercial shipping, and open hostilities resumed on 1 September. We assess Tehran&rsquo;s decentralized missile-and-proxy strategy is designed to impose costs on shipping and on US partners while avoiding a decisive engagement it would lose.",
+          "NGA assesses from overhead imagery that several of the struck coastal-missile and radar sites near the strait sustained significant damage.",
+          "For Washington, the key question is whether striking Iranian state tankers deters further mining or instead pushes Tehran toward a broader effort to close Hormuz. We expect continued Iranian harassment of shipping and see a realistic possibility of strikes reaching deeper into Gulf-partner territory; a decision point comes if Iran attempts to mine the strait again or inflicts US casualties."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, CENTCOM, and open sources."
+    },
+    {
+      "headline": "Oil Nears Six-Week High as Hormuz Fighting Threatens Energy Flows",
+      "blocks": [
+        { "type": "para", "text": "We assess the latest fighting has re-injected a war-risk premium into oil markets, with Brent trading near $95 a barrel &mdash; its highest in nearly six weeks &mdash; after rising about 5% on the US strikes. Sustained disruption to the Strait of Hormuz, through which roughly a fifth of seaborne oil transits, remains the principal upside risk to prices and to allied economies." },
+        { "type": "bullets", "items": [
+          "Treasury Secretary Scott Bessent said roughly 17 million barrels of crude passed through Hormuz on Monday and that Iran &ldquo;does not control&rdquo; the waterway, arguing Tehran&rsquo;s finances are in an &ldquo;acceleration phase&rdquo; toward bankruptcy.",
+          "Earlier strikes on two Saudi-crude supertankers exiting the strait had pushed Brent above $92 and deepened a global bond sell-off, lifting borrowing costs from Washington to Tokyo &mdash; an under-appreciated second-order effect on debt-heavy economies.",
+          "We judge a prolonged, genuine closure of Hormuz remains unlikely, since Iran also depends on the strait for its own exports; but even intermittent attacks will keep prices elevated and volatile.",
+          "For Washington, higher pump prices ahead of the midterms and pressure on Asian allies dependent on Gulf crude are the main domestic and alliance costs. We expect the administration to lean on Gulf producers to lift output and to keep release tools in reserve to cap prices."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Bishkek Summit Stages a US-Independent Bloc, With Iran at the Table",
+      "blocks": [
+        { "type": "para", "text": "We assess the Shanghai Cooperation Organisation summit that convened in Bishkek on 1 September was staged as a demonstration of a US-independent order, and that the presence of Iranian President Masoud Pezeshkian alongside Xi Jinping, Vladimir Putin, and Narendra Modi &mdash; on the very day US forces widened strikes on Iran &mdash; was its sharpest signal. Concrete deliverables were thin, but the direction of travel matters for Washington." },
+        { "type": "bullets", "items": [
+          "Leaders marked the SCO&rsquo;s 25th anniversary and pushed financial-architecture ideas &mdash; an SCO development bank and investment fund &mdash; and connectivity corridors such as the International North-South Transport Corridor and the Northern Sea Route that would route trade around Western chokepoints and sanctions.",
+          "The agenda foregrounded the war on Iran and its effect on maritime routes, alongside Ukraine and Afghanistan. India again resisted joint language condemning strikes on Iran, underscoring the bloc&rsquo;s limits as a coalition.",
+          "We judge the SCO remains more a coordination forum than an alliance &mdash; Delhi&rsquo;s hedging and the unresolved China&ndash;India border friction cap its cohesion &mdash; but the trend of middle powers institutionalizing US-independent finance and logistics is a durable strategic challenge.",
+          "For Washington, the near-term watch item is Xi&rsquo;s expected visit to the United States this month. We expect Beijing to arrive having banked the optics of a multipolar coalition to strengthen its hand on trade and Taiwan."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "Russia Sustains Mass Strikes on Kyiv as Battlefield Gains Stay Marginal",
+      "blocks": [
+        { "type": "para", "text": "We assess Russia is compensating for a stalled and costly summer offensive by intensifying long-range strikes on Ukrainian cities and infrastructure. Overnight into 1 September a Russian ballistic missile hit a Kyiv railway depot, killing seven &mdash; six of them rail workers &mdash; amid a barrage Ukraine put at 218 Shahed-type strike drones overnight and roughly 99 more during the day." },
+        { "type": "bullets", "items": [
+          "We judge the targeting of rail facilities is intended to degrade Ukraine&rsquo;s military logistics and civilian mobility ahead of autumn; we expect continued strikes on rail and energy nodes as the season turns.",
+          "Russian forces posted a second consecutive month of near-record casualties in August for marginal territorial gains, consistent with a strategy of attrition rather than breakthrough.",
+          "President Zelensky warned that Russian airspace is &ldquo;becoming completely dangerous,&rdquo; signaling intent to widen Ukrainian long-range strikes against Russian territory and aviation.",
+          "For Washington, the near-term issues are the pace of air-defense interceptor resupply and whether the escalating strikes strengthen the case for additional sanctions and longer-range support. We expect Kyiv to press hard on both."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Israeli Raid Captures a Senior Hamas Figure as the Gaza City Offensive Deepens",
+      "blocks": [
+        { "type": "para", "text": "We assess Israel&rsquo;s ground operation to take Gaza City is advancing. On 1 September a special-forces raid that the IDF and Shin Bet say captured a senior Hamas security official, identified as Muein al-Arabid, was uncovered mid-operation; airstrikes covering the force&rsquo;s withdrawal killed at least four Palestinians, including two children, according to medical sources." },
+        { "type": "bullets", "items": [
+          "Separate strikes in the Al Katiba area killed a woman and two children and wounded eight, per local reporting; casualty figures are as reported and not independently confirmed.",
+          "We judge high-value detentions inside Gaza City reflect an Israeli effort to dismantle Hamas&rsquo;s remaining command structure, but they carry rising civilian-harm and hostage-safety costs that shape the diplomatic environment.",
+          "For Washington, the operation complicates ceasefire and hostage diplomacy and adds to humanitarian and allied-political pressure. We expect renewed US and mediator efforts to keep the fighting from foreclosing a deal."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "House Clears a Stopgap to Avert an October Shutdown Before the Midterms",
+      "blocks": [
+        { "type": "para", "text": "We assess Congress has removed near-term shutdown risk to the federal government &mdash; including national-security agencies &mdash; through the fall campaign. The House on 1 September passed a continuing resolution 370&ndash;48, funding the government through 11 December; the Senate had already approved the measure 90&ndash;6, sending it to President Trump." },
+        { "type": "bullets", "items": [
+          "The bill defers a full-year fiscal 2027 spending deal and, per reporting, restricts certain transfers of funds to Border Patrol without congressional approval.",
+          "We judge the lopsided margins reflect a bipartisan desire to avoid a shutdown during an election season that followed prior lengthy funding lapses.",
+          "For Washington, the reprieve is temporary: the 11 December cliff sets up another funding fight after the midterms, with defense and homeland-security appropriations still unresolved."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Cross-Strait &mdash;</b> Taiwan&rsquo;s coast guard reports a marked rise in PRC vessels around the island since Beijing began permanent patrols to Taiwan&rsquo;s east in May, including activity near the Taiwan-held Pratas (Dongsha) Islands. We assess China is substituting persistent maritime presence for air incursions &mdash; rehearsing, in effect, a capability to isolate Taiwan &mdash; while calibrating pressure ahead of Xi&rsquo;s expected visit to the United States.",
+          "<b>US Homeland &mdash;</b> A Utah judge ruled on 1 September that Tyler Robinson will stand trial on charges including aggravated murder in the September 2025 assassination of activist Charlie Kirk; prosecutors intend to seek the death penalty, and a not-guilty plea was entered. We note continued domestic political-violence risk surrounding high-profile cases."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, INR, FBI, DHS, and open sources."
+    }
+  ]
+}
