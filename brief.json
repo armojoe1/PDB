@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-03",
+  "cover": true,
+  "toc": [
+    {
+      "tag": "IRAN-HORMUZ",
+      "summary": "US and Iran trade heaviest strikes in weeks around the Strait of Hormuz."
+    },
+    {
+      "tag": "GLOBAL ECONOMY",
+      "summary": "Crude vaults past $95 as Hormuz traffic thins; strain builds ahead of the midterms."
+    },
+    {
+      "tag": "CHINA-MIDEAST",
+      "summary": "Xi presses a China-shaped 'security framework' in Cairo as Washington fights in the Gulf."
+    },
+    {
+      "tag": "RUSSIA-UKRAINE",
+      "summary": "Russia escalates the air war; Putin and Zelensky trade escalation threats."
+    },
+    {
+      "tag": "ISRAEL-GAZA",
+      "summary": "Israeli forces seize a Hamas figure in Gaza City; Netanyahu tours the front."
+    },
+    {
+      "tag": "VENEZUELA",
+      "summary": "Jailed Maduro invokes head-of-state immunity to void the US drug case."
+    },
+    {
+      "tag": "NOTES",
+      "summary": "Iran-Lebanon warning, NATO on 'malicious activities,' Mali's siege at one year."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "US and Iran Trade Heaviest Blows in Weeks Around the Strait of Hormuz",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess the US-Iran war has entered its most dangerous stretch in more than a month, with a rapid tit-for-tat around the Strait of Hormuz over the past 24 hours. President Trump ordered what he called \"large and powerful\" strikes on Iranian targets near the strait in retaliation for a failed Iranian attempt to lay sea mines in the waterway and a ballistic-missile strike on a US base in Jordan; Iran answered with missile and drone salvos against US facilities across the Gulf. We judge neither Washington nor Tehran currently seeks a general war, but the exchange has narrowed the margin for miscalculation and returned the world's most important oil chokepoint to the center of the crisis."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "US Central Command struck Iranian air-defense sites, radars, maritime and mine-laying assets, and communications nodes near the strait. Iranian sources reported casualties — the Iranian Red Crescent cited roughly five killed and some 70 wounded at Kuhestak, and the Islamic Revolutionary Guard Corps said four aerospace-force members were killed at Kermanshah — figures we treat as reported by one party pending corroboration.",
+            "Iran's retaliation targeted US bases in Iraq, the UAE, Bahrain, Kuwait, and Jordan. Jordanian air defenses engaged 13 inbound ballistic missiles and downed 10, with the remainder falling in unpopulated areas; no US casualties have been reported.",
+            "Overhead imagery is consistent with Iranian minelaying activity in the approaches to the strait in the days before the US strikes, matching the administration's public account that the mines were \"removed and detonated.\"",
+            "Rhetoric hardened on both sides. Mr. Trump warned that further Iranian retaliation would be met \"at a much harder and higher level,\" while the IRGC vowed that \"these crimes will not go unpunished\" and promised to \"impose a heavy cost.\""
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the immediate danger is less a decision to escalate than a spiral neither capital fully controls: each round is calibrated to answer the last, but mines, shipping strikes, and attacks on Gulf host-nation soil each carry the potential to jump the conflict up a rung. We assess the key indicators to watch are whether Iran re-seeds the strait or strikes commercial vessels again, and whether the exchange stays below the threshold of sustained strikes on the territory of US partners hosting American forces. A move by either side against tankers or the strait itself would be the clearest sign the crisis is widening rather than settling."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, US Central Command, and open sources."
+    },
+    {
+      "headline": "Crude Vaults Past $95 as Hormuz Traffic Thins; Economic and Political Strain Builds",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess the renewed fighting has re-priced oil sharply and revived the market's fear premium over the Strait of Hormuz. Benchmark crude surged above $95 a barrel this week — a six-week high — before paring some gains, as traders weighed a partial thinning of tanker traffic through the strait against the absence, so far, of an outright closure. We judge the near-term risk is asymmetric: prices can spike quickly on any sign the strait is being mined or shipping targeted, but a durable easing depends on a de-escalation that remains out of reach."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Vessel crossings through Hormuz fell from 23 one week earlier to about 10 on Monday, and tanker traffic has run below its 10-day average even as one high-volume day moved roughly 17 million barrels — the most since the war began in late February.",
+            "The disruption has produced localized fuel shortages in parts of Asia and rippled through freight and insurance costs, a reminder that the strait carries close to a fifth of world oil and much of the Gulf's LNG.",
+            "The economic strain is now also political. A sustained run-up in gasoline prices six months into the war is a growing liability for the President's party heading into the November midterms, and gives Tehran a nonmilitary lever it can pull by keeping the market on edge."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "We expect the administration to lean on Gulf producers and strategic stocks to blunt any further spike, and to signal that the strait will be kept open by force if necessary. The decision point comes if Iran couples a fresh mining or shipping attack with the winter demand season; that combination would test both the market's nerve and Washington's appetite for a larger naval commitment."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Office of Intelligence and Analysis at Treasury, CIA, INR, and open sources."
+    },
+    {
+      "headline": "In Cairo, Xi Presses a China-Shaped 'Security Framework' as Washington Fights in the Gulf",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess Beijing is moving deliberately to convert the US-Iran war into diplomatic and economic gains in the Middle East. In Cairo on Wednesday — his first state visit to Egypt in a decade — President Xi Jinping urged regional states to be \"masters of their own affairs\" and to \"oppose external interference,\" language we read as an implicit contrast with the US military role in the Gulf. Xi and President Sisi called for a diplomatic end to the war and signed an agreement to launch a third phase of the Chinese-Egyptian industrial zone at the Suez Canal."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The visit caps a week of Chinese diplomacy that included the Shanghai Cooperation Organisation summit in Bishkek, where members adopted a 25th-anniversary declaration and agreed to stand up a new security-cooperation center — part of Beijing's effort to institutionalize a bloc that pointedly excludes the United States.",
+            "It also lands against the backdrop of last month's Mecca Joint Defence Agreement among Saudi Arabia, Turkiye, and Pakistan — a mutual-defense pact that partners have signaled could widen. We judge these threads together mark a real, if early, diversification of security ties away from Washington by states that remain US partners.",
+            "Egypt is threading a needle: it still receives about $1.3 billion a year in US military aid and prizes its role as regional mediator, even as it courts Chinese capital. We assess Cairo is hedging, not defecting."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For the United States, the significance is less any single deal than the direction of travel: a war fought to protect Gulf shipping and deter Iran is simultaneously handing Beijing an opening to present itself as the patron of regional stability. We expect China to keep its material commitments modest and its rhetoric large, betting that the longer the war runs, the more attractive a non-aligned, Beijing-friendly hedge looks to Middle Eastern capitals."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Russia Escalates the Air War on Ukraine as Putin and Zelensky Trade Threats",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess Moscow has again ratcheted up its long-range strike campaign, and that the rhetoric accompanying it is hardening in ways that raise the risk to third parties. Overnight into Wednesday, Russia launched some 174 attack drones — roughly half of them jet-powered — plus ballistic and cruise missiles against Ukrainian cities, killing at least one person and wounding others. Ukraine continued its own deep-strike campaign against Russian territory and military and energy targets."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Strikes hit Kyiv, Odesa, and Dnipro, damaging a 24-story residential building in Odesa and knocking out power that halted public transport; Ukrainian air defenses and Russian defenses each reported downing scores of the other side's drones, with casualties also reported in Russia's Belgorod region.",
+            "President Putin accused President Zelensky of \"state terrorism,\" declared \"we don't negotiate with terrorists,\" and pointedly declined to rule out striking British military facilities — a threat we assess is aimed at fracturing Western resolve more than signaling imminent action.",
+            "Mr. Zelensky, for his part, warned foreign airlines against using Russian airspace, framing it as effectively unsafe — a move likely to deepen the aviation and insurance isolation already imposed on Russian routes."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "We judge there is a realistic possibility Putin's reference to British facilities is intended to test NATO's reaction thresholds without crossing them. For Washington, the near-term watch items are whether the escalatory language translates into strikes on new categories of targets and whether the airspace dispute broadens into a wider confrontation with NATO members over overflight and support to Kyiv."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Israeli Forces Seize a Hamas Figure in Gaza City as Netanyahu Tours the Front",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess Israel is pressing a phase of targeted ground operations in Gaza City even as the humanitarian and diplomatic costs mount. Israeli special forces captured a Hamas figure in a raid on Tuesday; Prime Minister Netanyahu said the man was involved in concealing and moving hostages taken in the October 2023 attack. Airstrikes launched to cover the operation killed four Palestinians, including two children, according to local authorities."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Mr. Netanyahu visited an IDF position inside Gaza on Wednesday alongside the chief of staff, signaling continued political investment in the ground campaign.",
+            "Defense Minister Katz said plans to facilitate large-scale Palestinian emigration from Gaza remain under discussion and have been \"frozen\" rather than shelved by Washington — a formulation we assess is meant to keep the option politically alive at home while deferring to US objections.",
+            "The raid underscores that hostage recovery and the disposition of Hamas's remaining leadership continue to drive Israeli operational choices, even as they sharpen friction with the United States over Gaza's endgame."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "For Washington, the capture is a reminder that the hostage file and the postwar-governance question remain unresolved and intertwined. We expect continued US pressure to keep mass-relocation schemes off the table, and we are watching whether individual captures translate into leverage for a broader hostage arrangement or simply prolong the attritional fight."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Jailed in Brooklyn, Maduro Invokes Head-of-State Immunity to Void the US Case",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess the legal fight over Nicolas Maduro's prosecution is now joined and will shape US policy in the hemisphere for months. In a filing due Wednesday, Mr. Maduro's defense asked a Manhattan federal judge to dismiss the drug-trafficking indictment on the ground that heads of state enjoy absolute immunity from criminal jurisdiction and that the charged conduct fell within his official acts. The motion is the first substantive test of a prosecution built on the January raid that captured him in Caracas."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Defense counsel argued the court lacks jurisdiction because sovereign immunity is \"absolute\" and the acts alleged were official; prosecutors have until October 2 to respond, with a hearing set for November 17.",
+            "Mr. Maduro has been held in a Brooklyn federal jail since his January 3 seizure and has pleaded not guilty; a trial is scheduled for June 2027 if the dismissal effort fails.",
+            "The case sits atop the largest US military buildup in the Caribbean in decades and a maritime campaign against Venezuelan crude exports — the coercive backdrop against which the courtroom argument plays out."
+          ]
+        },
+        {
+          "type": "para",
+          "text": "We judge the immunity ruling, whichever way it goes, will carry weight well beyond this defendant: a dismissal would constrain future US efforts to prosecute sitting or former foreign leaders, while a denial would entrench a precedent adversaries will cite as evidence of US overreach. For Washington, the near-term watch item is how Caracas and its partners in Beijing and Moscow use the proceedings diplomatically in the run-up to the October filing and November hearing."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DEA Office of National Security Intelligence, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "<b>Iran-Lebanon.</b> Reporting surfaced that Tehran has warned Washington it would respond \"forcefully\" to any full Israeli offensive on the Ali al-Taher ridge in southern Lebanon, where Iranian personnel are said to be positioned alongside Hezbollah. We assess the message — and Hezbollah's parallel threat that a major assault would mean a return to full-scale war — is intended to deter an Israeli move on a commanding, tunneled position while signaling Iran's continued direct stake in the ground fight as the regional war enters its seventh month."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "<b>NATO.</b> The alliance's secretary general said on Wednesday that NATO has seen an increase in \"malicious activities\" targeting allied territory. We read the remark as of a piece with a pattern of sabotage, airspace, and cyber incidents attributed to Russia, and as pre-positioning for a firmer allied response; the watch item is whether it presages new attribution or countermeasures.",
+            "<b>Mali.</b> One year after al-Qaeda-linked JNIM declared its fuel blockade, Bamako remains supplied only by armed convoy, with more than 300 tankers destroyed and the economy near a standstill. We assess the siege — tightening a landlocked capital without a shot fired inside it — is the clearest sign yet of the Sahel juntas' deepening insecurity despite Russian and Turkish support."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, the National Counterterrorism Center, and open sources."
+    }
+  ],
+  "emblem": "assets/wh_q.png"
+}
