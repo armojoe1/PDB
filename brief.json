@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-05",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-US", "summary": "Renewed strikes and claims reignite the conflict as Washington threatens Pickaxe Mountain and the E3 move to refer Tehran to the UNSC." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Overnight strikes and a drone attempt on Ukraine's SBU chief, even as Putin floats a settlement." },
+    { "tag": "ISRAEL-LEBANON", "summary": "IDF clears Hezbollah tunnels on the Ali al-Taher ridge; a strike kills two near Nabatieh." },
+    { "tag": "VENEZUELA", "summary": "Backlash builds over the US-Caracas oil deal as details of Washington's stake come into focus." },
+    { "tag": "GERMANY", "summary": "AfD poised to win a German state outright for the first time as Volkswagen cuts land days before the vote." },
+    { "tag": "PHILIPPINES", "summary": "A court orders VP Sara Duterte arrested, sharpening the Marcos-Duterte rupture in a treaty ally." },
+    { "tag": "NOTES", "summary": "Nepal-China floods; Argentina-UK friction over the Falklands." }
+  ],
+  "articles": [
+    {
+      "headline": "Renewed Iran Strikes and Nuclear Referral Push Reignite a Conflict Washington Calls “Small Potatoes”",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US-Iran confrontation has moved back into an active, if still limited, phase after a lull, and that the risk of a larger exchange is rising rather than easing. Over the past 24 hours President Trump publicly reiterated that the United States “may hit Pickaxe very soon” — a reference to the deeply buried Iranian site some analysts assess is tied to the nuclear program — while insisting Iran “will not have a nuclear weapon.” At the same time, senior officials worked to lower the temperature rhetorically: the President called the fighting a “military conflict” rather than a war because “it’s small potatoes for us,” and the Vice President said that “right now, there is no active shooting.” We judge the gap between the threat to strike a nuclear site and the effort to downplay the conflict reflects a deliberate signaling posture, not a settled policy." },
+        { "type": "bullets", "items": [
+          "The immediate trigger was a fresh round of US strikes on Iranian radar and missile infrastructure and Iranian claims of retaliation. CENTCOM has tied recent US action to IRGC “attempted attacks” on commercial shipping in the Strait of Hormuz and on US personnel; Iranian claims to have struck US bases in Kuwait and the UAE on 3 September were denied by the host states, and a US official told press the attacks did not impact facilities where US forces are based. We treat the base-strike claims as <b>unconfirmed and probably exaggerated</b> for domestic effect.",
+          "A June ceasefire that briefly quieted the fighting has not held, and the reintroduction of Iranian air-defense radars — struck, replaced, and struck again, by the President’s own account — points to a sustained US suppression campaign rather than a one-off.",
+          "For Washington, the central near-term decision is whether to strike Pickaxe Mountain. We assess a strike on a hardened, possibly nuclear-associated site would carry a high risk of Iranian escalation against Gulf shipping and US forces, and the administration’s simultaneous de-escalatory language likely aims to preserve room to choose."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On the diplomatic track, the United States, Britain, France, and Germany have drafted a resolution to refer Iran to the UN Security Council for noncompliance with its nonproliferation obligations — the first such referral in two decades — to be put to a vote at next week’s IAEA Board of Governors meeting in Vienna. We judge the referral is likely to pass and to set up a subsequent “snapback” fight over restored UN sanctions." },
+        { "type": "bullets", "items": [
+          "The referral rests on the Board’s June 2025 finding that Iran was in noncompliance for the first time in 20 years, and on unresolved questions about uranium traces at undeclared sites. We assess Tehran will treat a referral as a pretext and may respond by further curbing IAEA access.",
+          "The move keeps the E3 aligned with Washington on Iran even as they diverge on other files — a cohesion Washington will want to preserve heading into any Security Council phase."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The economic transmission belt runs through the Strait of Hormuz, and it is tightening. Brent crude held near $95 a barrel on 4 September after spiking toward $99 earlier in the week, and throughput through the strait has collapsed to roughly 4.9 million barrels per day from about 21.6 million before the conflict. Overhead imagery shows tanker traffic through the strait running at roughly a quarter of pre-war levels. The pain is now landing at home: US diesel hit a record $5.85 a gallon and regular gasoline averaged $4.15 — the highest ever for a Labor Day weekend." },
+        { "type": "bullets", "items": [
+          "OPEC+ completed the rollback of its voluntary cuts with a September increase and signaled it will hold quotas steady for the rest of the year; the group meets again on 6 September. We assess spare capacity is thin enough that any sustained closure of Hormuz would overwhelm it.",
+          "For Washington, elevated pump prices heading into the fall are the most direct domestic cost of the conflict, and likely explain the administration’s effort to frame the fighting as minor even as it threatens further strikes."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Moscow Signals Openness to a Deal While Escalating the Fight, Including an Attempt on Ukraine’s Spy Chief",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia is pursuing pressure and diplomacy in parallel, and that President Putin’s public remark that there is “a chance of reaching an agreement to end the war” — with the United States and China reportedly ready to support a settlement — is aimed as much at shaping the terms and splitting Ukraine’s backers as at any imminent deal. On the battlefield the war intensified over the past 24 hours." },
+        { "type": "bullets", "items": [
+          "Ukraine’s military reported the overnight launch of roughly 121 drones and a Kh-31P anti-radar missile, dozens of air strikes, and more than 200 combat engagements over the day. A Ukrainian strike on Belgorod killed four, including two medical personnel, by the Russian regional headquarters’ account.",
+          "Reporting indicates Russian forces attempted to assassinate the head of Ukraine’s Security Service (SBU), Oleksandr Poklad, with a Geran-type drone on 4 September. We treat the specific targeting as reported rather than confirmed, but it is consistent with an intensifying Russian campaign against Ukrainian leadership figures.",
+          "Ukrainian forces reported further advances in the Dobropillya area, where Kyiv has been working to blunt a Russian penetration — a rare recent instance of Ukrainian counter-pressure amid an otherwise grinding front."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The politics around the war are fraying at the edges in ways that matter for Washington. Slovakia alone blocked a routine extension of EU sanctions on Russia, and President Trump said he would seek European repayment for prior US military aid to Ukraine." },
+        { "type": "bullets", "items": [
+          "We assess Bratislava’s holdout is more a bargaining lever than a decision to break with the bloc, but it underscores how a single member can stall EU cohesion on Russia.",
+          "For Washington, Putin’s settlement talk is best read as a test of allied unity; the key question is whether it is a genuine off-ramp or an effort to lock in gains and shift the cost of the war onto Europe."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Israel Clears Hezbollah Tunnels in South Lebanon as Cross-Border Strikes Continue",
+      "blocks": [
+        { "type": "para", "text": "We assess Israel is sustaining a deliberate campaign to degrade Hezbollah’s reconstituted positions in southern Lebanon, short of a broader ground operation. Over the past day the Israeli military reported clearing Hezbollah fighters from tunnels on the Ali al-Taher ridge, and a separate Israeli strike near Nabatieh killed two people on a motorcycle, according to Lebanese state media." },
+        { "type": "bullets", "items": [
+          "In a gesture tied to US-mediated contacts, the Prime Minister’s office announced the release of five Lebanese detainees it said were found to have no militant ties. We assess Washington is using such steps to keep a fragile channel open and forestall wider escalation.",
+          "The humanitarian toll continues to build: Lebanese authorities report more than 340,000 people displaced and dozens of schools destroyed or damaged, complicating any near-term stabilization."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "Backlash Grows Over the US-Venezuela Oil Deal as Terms Come Into Focus",
+      "blocks": [
+        { "type": "para", "text": "We assess the recently concluded US-Venezuela oil arrangement is generating a domestic backlash in Venezuela that could complicate its durability, even as it advances US energy and hemispheric aims. Fresh reporting over the past day detailed the terms and the political fallout under interim President Delcy Rodríguez, who took the presidency after the US military ousted Nicolás Maduro in January and whom Washington allowed to remain." },
+        { "type": "bullets", "items": [
+          "By Caracas’s account the deal covers development of 17 fields with some 65 billion barrels of proven potential; Rodríguez said a first phase could generate about $209 billion for Venezuela, with roughly $19 per barrel flowing to the government. Washington and Caracas differ publicly on the term — the President has said a century, Rodríguez 25 years.",
+          "Many Venezuelans view the arrangement as a surrender of sovereignty; a former state-oil chief called it “new colonialism.” We assess public resentment is a latent risk to implementation, particularly if security around the fields deteriorates.",
+          "For Washington, the deal offers a hedge against Gulf supply disruption at a moment when Hormuz throughput has collapsed — a strategic logic that helps explain the appetite for it despite the optics."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, Treasury’s Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Far-Right AfD Poised To Win a German State Outright for the First Time",
+      "blocks": [
+        { "type": "para", "text": "We assess Germany is on the verge of a postwar milestone with direct implications for US interests: in Saxony-Anhalt, the far-right Alternative for Germany (AfD) leads polling by a wide margin — in the low 40s against the CDU in the low 20s — raising the realistic possibility it could form a state government on its own for the first time in the country’s history. The vote falls this weekend." },
+        { "type": "bullets", "items": [
+          "Volkswagen’s decision to cut a further tranche of jobs — part of a plan running toward roughly 100,000 reductions and plant closures — landed days before the vote and handed the AfD an economic-nationalist cudgel against Chancellor Friedrich Merz’s coalition and the EU.",
+          "We assess an outright AfD win, or a strong plurality, would intensify pressure on Merz’s governing coalition and embolden the party nationally ahead of future contests.",
+          "For Washington, the trend bears watching for its potential effects on German support for Ukraine, defense spending, and EU cohesion on Russia sanctions — areas where the AfD’s positions diverge sharply from current German policy."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Philippine Court Orders Vice President Duterte Arrested, Deepening a Rift in a Treaty Ally",
+      "blocks": [
+        { "type": "para", "text": "We assess the order to arrest Vice President Sara Duterte sharpens an already bitter rupture between the Philippines’ two most powerful political families and injects fresh instability into a key Indo-Pacific treaty ally. A Quezon City court on 4 September issued a warrant over three counts of grave threats tied to her 2024 remark that she had arranged to have President Ferdinand Marcos Jr. killed if she herself were harmed; she posted bail on 5 September." },
+        { "type": "bullets", "items": [
+          "A conviction could permanently disqualify Duterte from office and bar a 2028 presidential run, raising the stakes of the Marcos-Duterte feud.",
+          "For Washington, the Philippines is central to Indo-Pacific posture — including expanded US access under the basing agreement and South China Sea cooperation. We assess President Marcos remains firmly in control and US-Philippine security cooperation is not immediately affected, but prolonged domestic turmoil is a variable worth tracking."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Nepal–China floods.</b> The death toll from the late-August flash floods along the China–Nepal border and the Trishuli River continued to climb, with roughly 1,287 confirmed dead and more than 5,000 missing in Nepal and dozens more casualties across the border in Tibet; nearly 12,000 people have been rescued. Search efforts are focused on hydropower sites where workers remain trapped. The scale — among the deadliest disasters in the region in years — is straining Kathmandu’s response capacity and will likely draw sustained international assistance." },
+        { "type": "para", "text": "<b>Argentina–UK: Falklands friction.</b> Argentine President Javier Milei escalated a dispute with Britain over the Falkland Islands, moving to sanction companies involved in a major offshore oil project in contested waters. We assess the step is primarily domestic and symbolic, but it is an irritant between two US partners and bears watching for any effect on energy investment in the South Atlantic." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    }
+  ]
+}
