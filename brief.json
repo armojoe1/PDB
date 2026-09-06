@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-06",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "US envoys carry a peace proposal from Moscow to Kyiv as both sides pause strikes on capitals." },
+    { "tag": "IRAN-HORMUZ", "summary": "US and Iranian forces trade fire in the Gulf; CENTCOM disables three Iranian tankers." },
+    { "tag": "ISRAEL-LEBANON", "summary": "Israel strikes Hezbollah positions after a drone launch, straining the ceasefire." },
+    { "tag": "NUCLEAR SAFETY", "summary": "IAEA-brokered local truce lets crews begin restoring power to the Zaporizhzhia plant." },
+    { "tag": "SUDAN-DARFUR", "summary": "RSF tightens the siege of El Fasher, deepening famine and atrocity risk." },
+    { "tag": "ECONOMICS-ENERGY", "summary": "Hormuz disruption keeps oil elevated as strong US jobs data revives Fed rate-hike bets." },
+    { "tag": "NOTES", "summary": "Greece, Nepal, Gaza, and a French map change." }
+  ],
+  "articles": [
+    {
+      "headline": "US Envoys Carry Peace Proposal From Moscow to Kyiv as Both Sides Pause Strikes on Capitals",
+      "blocks": [
+        { "type": "para", "text": "We assess that this weekend's shuttle diplomacy by US envoys Steve Witkoff and Jared Kushner is the most serious attempt to end the Russia-Ukraine war since talks stalled earlier this year, but the distance between the parties remains wide and a durable ceasefire is not yet in prospect. The envoys met President Putin at the Kremlin for roughly three hours on 5 September, followed by dinner, and travel to Kyiv on 6 September to present President Zelensky what the White House is calling a “concrete proposal.”" },
+        { "type": "bullets", "items": [
+          "Both capitals agreed to a temporary halt on long-range strikes against each other's capital city to cover the visit: Putin ordered no strikes on Kyiv for three days from midnight on 5 September, and Zelensky said Ukraine would pause strikes on Moscow through Monday. The Kremlin called the talks “useful” and Putin professed “full trust” in US mediation — optics we judge reflect tactics, not concessions.",
+          "The pause is narrow and already imperfect. Russian forces struck Kamianske in Dnipropetrovsk oblast on 5 September, killing five, and launched roughly 167 drones plus ballistic missiles overnight against targets outside the capital — underscoring that the halt covers capitals only, not the front line or the wider strike campaign. NSA reporting corroborates that the stand-down order was passed through Russian command channels.",
+          "We assess Putin rebuffed Ukraine's proposal for a broader front-line ceasefire, signaling Moscow will trade atmospherics for time while holding to its territorial demands. For Washington, the key question is whether the proposal the envoys carry to Kyiv contains terms Zelensky can accept without conceding sovereignty; we expect Kyiv to press for firm security guarantees and to reject any deal that ratifies Russian gains.",
+          "What to watch: whether the capital-strike pause holds past Monday and is then extended or broadened. That is the first real test of whether this round carries momentum or collapses like earlier attempts."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, the Bureau of Intelligence and Research, and open sources."
+    },
+    {
+      "headline": "US and Iranian Forces Trade Fire in the Gulf; CENTCOM Disables Three Tankers After Missile Attacks on Navy Ships",
+      "blocks": [
+        { "type": "para", "text": "We assess the 5 September exchange marks a sharp escalation in the US-Iran naval conflict over the Strait of Hormuz, now in its sixth month, and raises the risk of a sustained tanker war that would keep oil elevated and draw additional US forces into the theater. After Iran's Islamic Revolutionary Guard Corps launched ballistic missiles at two US Navy warships — a carrier and a guided-missile destroyer, both of which evaded — US Central Command struck three Iranian oil tankers in reprisal." },
+        { "type": "bullets", "items": [
+          "CENTCOM said US forces permanently disabled two crude carriers — the M/T Downy off Kharg Island, Iran's principal export hub, and the M/T Stark 1 near Jask — and destroyed a third, the M/T Kylo, near the Gulf of Oman. Iranian sources reported no casualties and the evacuation of crews; no US personnel were harmed. Overhead imagery confirms two of the vessels remained dead in the water off the Iranian coast.",
+          "Tehran threatened “more severe attacks” against the US Navy and claimed to have struck three tankers transiting “unauthorized” routes through the strait, plus three additional US-linked vessels elsewhere — claims we cannot corroborate and treat as contested.",
+          "We judge Washington's targeting of Iran's export fleet is meant to raise the cost of the IRGC's harassment campaign and squeeze the revenue that funds it; Treasury has separately pursued the shadow fleet moving Iranian crude. The strikes will not by themselves reopen the strait.",
+          "Energy effect: Hormuz throughput has fallen to roughly a fifth of pre-war levels — near 4.9 million barrels a day against about 21.6 million before the conflict — and Brent held near $95, up 8-9% on the week. For Washington, the decision point is whether to shift from reactive strikes to convoy escort or a broader campaign to reopen the strait, each of which deepens direct US involvement."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, the Office of Naval Intelligence, NGA, NSA, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Israel Strikes Hezbollah Positions in the South After Drone Launch, Straining the Ceasefire",
+      "blocks": [
+        { "type": "para", "text": "We assess the 6 September clash is the most serious test of the Israel-Hezbollah ceasefire in weeks and, while both sides likely still prefer to avoid a return to full-scale war, the exchange raises the risk of miscalculation along the Blue Line. Israeli aircraft struck multiple targets in southern Lebanon on Sunday morning after Hezbollah launched two explosive-laden drones toward Israeli troops operating inside the border security zone." },
+        { "type": "bullets", "items": [
+          "The IDF said its troops downed one drone with no injuries and called the launch a “blatant violation of understandings”; it issued an evacuation order for Arab Salim before striking. Lebanon's health ministry reported four killed — two men in Nabatieh al-Fawqa and two women in Arab Salim — and more than 20 wounded, including children.",
+          "We judge Hezbollah is calibrating pressure — signaling it can still reach Israeli forces without triggering a wider war — while Israel enforces its post-ceasefire rules with disproportionate strikes to deter further launches.",
+          "For Washington, the risk is that a renewed cross-border cycle undercuts the fragile arrangement it helped broker and diverts attention while US forces remain heavily committed against Iran in the Gulf. Watch whether Hezbollah claims the launch and whether Israeli strikes stay confined to the south."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Bureau of Intelligence and Research, and open sources."
+    },
+    {
+      "headline": "IAEA-Brokered Local Truce Lets Crews Begin Restoring Power to the Zaporizhzhia Nuclear Plant",
+      "blocks": [
+        { "type": "para", "text": "We assess the 5 September local ceasefire around the Russian-held Zaporizhzhia Nuclear Power Plant modestly reduces — but does not remove — the risk of an accident at Europe's largest nuclear station, which has run on emergency diesel generators since 20 August. Under an arrangement brokered by the International Atomic Energy Agency, a localized halt in fighting took effect to let Ukrainian technicians repair the damaged Ferosplavna external power line after demining the area." },
+        { "type": "bullets", "items": [
+          "The plant lost its last off-site power connection on 20 August and has since relied on backup diesel to cool its shut-down reactors; the IAEA had warned of a possible station blackout within days absent restored power or additional fuel.",
+          "We judge both Russia and Ukraine have a shared interest in avoiding a radiological release, which makes narrow, IAEA-mediated safety windows possible even as the broader war grinds on; but the plant's dependence on a single contested line leaves it one strike from another emergency.",
+          "For Washington and allies, the episode underscores the standing radiological risk of an occupied nuclear plant inside an active war zone. Watch whether the repair holds and off-site power is actually restored — or whether the line is severed again."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, the Energy Department's Office of Intelligence and Counterintelligence, and open sources."
+    },
+    {
+      "headline": "RSF Tightens the Siege of El Fasher, Deepening Famine and Atrocity Risk in Darfur",
+      "blocks": [
+        { "type": "para", "text": "We assess the paramilitary Rapid Support Forces are consolidating their stranglehold on El Fasher, the North Darfur capital they seized in late October 2025, in a manner that sharply raises the risk of mass starvation and further atrocities against the trapped population. Humanitarian workers reported this week that RSF fighters are reinforcing earthen berms and trenches around the city and tightening restrictions on civilian movement in and out." },
+        { "type": "bullets", "items": [
+          "Witnesses described intensified construction of barriers along the northern, western, and southern approaches — consistent with an effort to seal the city and control who is allowed to leave. Rights groups have documented large-scale RSF atrocities in El Fasher since its fall.",
+          "We judge the tightening siege is meant to cement RSF control of Darfur and squeeze remaining holdouts, at severe cost to civilians already facing famine conditions; Sudan's east-west partition between the army and the RSF is hardening.",
+          "For Washington, the humanitarian stakes and the risk of genocide in Darfur argue for pressure on the RSF's external backers and for humanitarian-access diplomacy. Watch El-Obeid in Kordofan as the likely next flashpoint."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Bureau of Intelligence and Research, and open sources."
+    },
+    {
+      "headline": "Hormuz Disruption Keeps Oil Elevated as Strong US Jobs Data Revives Fed Rate-Hike Bets",
+      "blocks": [
+        { "type": "para", "text": "We assess the collision of a Middle East supply shock and stronger-than-expected US labor data is tightening global financial conditions in a way that warrants the President's attention: crude is holding near multi-month highs on the Strait of Hormuz disruption, while markets have swung toward pricing another Federal Reserve rate increase." },
+        { "type": "bullets", "items": [
+          "Brent held near $95 a barrel into the weekend, up roughly 8-9% on the week, as renewed US-Iran strikes and Hormuz throughput near a fifth of pre-war levels kept a war-risk premium in prices.",
+          "The August US employment report, released 4 September, showed about 162,000 jobs added — well above expectations — lifting Treasury yields, pushing the two-year yield to its highest since early 2025, and pulling gold back from record territory to roughly $4,430 as bets on a September Fed hike firmed.",
+          "We judge the combination — costlier energy plus higher-for-longer US rates — raises stagflation-tinged risks for the US and allied economies and complicates the Fed's path. For Washington, energy security and the Hormuz conflict are now inseparable from the domestic inflation picture; watch the Fed's September meeting and any further disruption to Gulf shipping."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, the Bureau of Intelligence and Research, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Greece.</b> Two air force pilots were killed on 5 September when a twin-seat F-4 Phantom crashed during a low-altitude maneuver at the Athens Flying Week air show; a fire briefly broke out at Tanagra air base north of Athens. No spectators were hurt. The loss is a reminder of the age of legacy airframes still flying frontline duty in NATO-member fleets.",
+          "<b>Nepal.</b> Rescuers pulled two people out alive on 5 September, ten days after the 26 August flash floods along the China-Nepal border that killed more than 1,300 and left nearly 5,000 missing — among the deadliest natural disasters in the region in years, with recovery still underway.",
+          "<b>Gaza.</b> The IDF said it mistakenly launched an interceptor over the Gaza boundary on 5 September after misidentifying Israeli gunfire inside the Strip as an aerial threat; no injuries resulted, and the incident is under investigation — a small but telling sign of how jumpy the front remains under the strained October 2025 ceasefire.",
+          "<b>France.</b> Paris signaled it will drop the centuries-old Mercator projection from official and educational use in favor of an equal-area map — a cartographic housekeeping move that, incidentally, makes France look a bit smaller. A minor item, but a reminder that even map conventions carry politics."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR and open sources."
+    }
+  ]
+}
