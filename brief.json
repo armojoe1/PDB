@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-07",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "US Peace Envoys Shuttle Between Moscow and Kyiv, but Kremlin Shows No Sign of Compromise",
+      "blocks": [
+        { "type": "para", "text": "We assess that this weekend's back-to-back meetings by US special envoys Steve Witkoff and Jared Kushner &mdash; more than three hours with President Putin in the Kremlin on 5 September, then talks with President Zelenskyy in Kyiv on 6 September &mdash; are the most direct US mediation of the war to date, but a near-term breakthrough remains unlikely. Both sides called the talks \"substantive\" and Witkoff said he was \"very encouraged\"; Putin showed no public movement on his core demands, and we judge the gap on territory and security guarantees stays wide." },
+        { "type": "bullets", "items": [
+          "The main product was a temporary, reciprocal \"no-shoot\" arrangement sparing Kyiv and Moscow over the weekend to let the delegation travel &mdash; a confidence measure, not a ceasefire.",
+          "The pause did not hold elsewhere: Russian strikes killed at least ten across Ukraine in the window, and Ukrainian deep strikes continued into Russia, including a refinery fire at Ryazan and casualties in Belgorod Oblast.",
+          "For Washington, the question is whether the envoys can convert atmospherics into a durable partial step &mdash; an energy or aerial truce. We expect Zelenskyy to keep pressing for a full ceasefire before territorial talks, while Moscow keeps military pressure on to shape terms.",
+          "Absent Kremlin concessions, we judge the most likely near-term path is continued fighting alongside episodic, capital-sparing gestures rather than a negotiated halt."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, NGA, and open sources."
+    },
+    {
+      "headline": "Far-Right AfD Wins Saxony-Anhalt Outright, Testing Germany's Mainstream Firewall",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Alternative for Germany's first-place finish in Saxony-Anhalt's state election on 6 September &mdash; roughly 40 percent by exit polls, more than double its 2021 result &mdash; is the strongest state-level showing for a far-right party since 1945 and a real test of the cross-party consensus against governing with the AfD. The party fell short of a majority, so whether it enters government turns on whether the mainstream holds its \"firewall.\"" },
+        { "type": "bullets", "items": [
+          "We judge the likeliest outcome is still a mainstream coalition that excludes the AfD despite its plurality, but the result narrows those options and raises the political cost of the firewall.",
+          "For Washington, the so-what is medium-term: a stronger AfD pulls German debate toward skepticism of open-ended Ukraine aid and EU cohesion. We expect no immediate policy shift, since foreign and defense policy sits at the federal level, but the trend bears watching."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Washington Signals Iran Nuclear Deal Now Unlikely as Inspectors Stay Locked Out",
+      "blocks": [
+        { "type": "para", "text": "We assess the diplomatic track with Iran has stalled and could be lapsing. US Energy Secretary Chris Wright said on 6 September that the United States and Iran \"may not\" reach a nuclear agreement after all &mdash; the most downbeat senior US framing in weeks &mdash; while the IAEA still has no access to Iran's declared sites and has lost continuity of knowledge over the enriched-uranium stockpile since this year's fighting. We judge this raises proliferation risk and keeps military friction on the table." },
+        { "type": "bullets", "items": [
+          "The agency cannot account for the size or location of Iran's high-enriched uranium, and Tehran has not opened the struck sites, arguing the IAEA must first set protocols for inspecting bombed facilities.",
+          "The calendar adds pressure: UN Security Council Iran-sanctions decisions fall due this month, and a breakdown would sharpen the fight over snapback and enforcement.",
+          "For Washington, the decision point is whether to keep pursuing a limited monitoring arrangement or shift to pressure and containment. We expect continued low-level Gulf tension while the political track is frozen."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, NSA, and open sources; nuclear-monitoring detail from IAEA reporting."
+    },
+    {
+      "headline": "Eight Muslim-Majority States Warn Israel Over Gaza 'Emigration' Push as Regional Strikes Persist",
+      "blocks": [
+        { "type": "para", "text": "We assess that a joint 6 September statement by eight influential Muslim-majority governments &mdash; Saudi Arabia, Jordan, the UAE, Turkey, Qatar, Egypt, Indonesia, and Pakistan &mdash; condemning Israeli ministers' calls to promote Palestinian \"emigration\" from Gaza signals hardening resistance to any displacement-based endgame and further complicates the stalled US push to pair Hamas disarmament with an Israeli withdrawal. The signatories warned of \"grave consequences\" for peace efforts." },
+        { "type": "bullets", "items": [
+          "The statement aligns exactly the states whose money, security cooperation, and diplomatic cover a postwar Gaza arrangement would require, narrowing Washington's room to broker any deal read as endorsing depopulation.",
+          "Fighting continued in the window: Israeli strikes killed several people in southern Lebanon &mdash; prompting Lebanon's president to seek US help &mdash; and Israeli forces killed Palestinians in Gaza and the West Bank. Prime Minister Netanyahu separately ordered the removal of dozens of unauthorized settler outposts.",
+          "We expect continued US shuttle diplomacy with limited near-term traction, and pressure on Washington to distance itself from displacement proposals."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DIA, and open sources."
+    },
+    {
+      "headline": "OPEC+ Pauses Output Increases for October, Holding the Line Amid Gulf Uncertainty",
+      "blocks": [
+        { "type": "para", "text": "We assess the eight-nation OPEC+ core's decision on 6 September to hold October production unchanged &mdash; after four straight monthly hikes that completed the unwinding of its 2023 voluntary cuts &mdash; reflects caution about oversupplying a market clouded by the unresolved Iran conflict and softer demand. The group kept its combined target near 31.1 million barrels per day and set its next review for 4 October." },
+        { "type": "bullets", "items": [
+          "We judge the pause is market management, not stress: having restored the barrels, Riyadh and its partners want to gauge the price impact before adding more.",
+          "For the United States, the effect is a steadier near-term supply outlook and some price insulation against a Gulf shock &mdash; useful cover while the Iran file stays hot."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from Treasury OIA, INR, and open sources."
+    },
+    {
+      "headline": "Amazon-Branded Cargo Jet Overruns Miami Runway and Burns; Five Dead",
+      "blocks": [
+        { "type": "para", "text": "A Boeing 767-300 freighter operating for Amazon by contract carrier 21 Air overran a runway while landing at Miami International Airport around 2 p.m. local on 6 September, crossed a perimeter road, struck vehicles, and caught fire, killing five and injuring five others. The aircraft had arrived from San Juan, Puerto Rico. We assess this is an aviation-safety event with no current indication of a security nexus; the NTSB has launched an investigation." },
+        { "type": "bullets", "items": [
+          "Early reporting points to a landing overrun; cause is undetermined pending the NTSB probe of approach speed, braking, runway conditions, and stopping performance.",
+          "For Washington, the near-term issues are the safety investigation and any temporary impact at a major hub, not a threat picture; we would revise only if the inquiry surfaces evidence of interference, which is not indicated."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DHS/TSA, FBI, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Sudan.</b> Press reporting on 6 September, citing newly surfaced evidence, alleges the Sudanese Armed Forces used chlorine gas against the Rapid Support Forces; the SAF reportedly took Hamrat al-Wiz in North Kordofan, and UN investigators tied RSF commanders to mass atrocities in the fall of El Fasher. We assess the war is intensifying on both the battlefield and the accountability front; substantiated chemical-use claims would sharpen sanctions pressure and could draw a US response." },
+        { "type": "bullets", "items": [
+          "<b>Colombia.</b> An assault on a military outpost near Oca&ntilde;a on 6 September killed three soldiers and wounded four; authorities suspect the ELN. We judge it fits a pattern of rising armed-group violence as US, Colombian, and Ecuadorian security cooperation deepens.",
+          "<b>India.</b> A building collapse in New Delhi on 6 September killed at least one person and trapped others, with rescue efforts underway &mdash; a civil-safety incident with no security nexus, noted for awareness."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    }
+  ]
+}
