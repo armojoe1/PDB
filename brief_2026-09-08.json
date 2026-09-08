@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-08",
+  "cover": true,
+  "articles": [
+    {
+      "headline": "Iran Declares Strait of Hormuz ‘Exclusion Zone’ as Tanker War With US Escalates",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US–Iran maritime confrontation in and around the Persian Gulf has entered a more dangerous phase. On 7 September the secretary of Iran’s Supreme National Security Council, Mohsen Rezaei, told state broadcasters that Tehran will declare an “exclusion zone” near the Strait of Hormuz — running from the US naval blockade line toward the strait and into the Persian Gulf — warning that vessels transiting without Iranian coordination will face measures against their insurance and future passage. The threat follows US strikes on 5 September that disabled or destroyed three Iranian oil tankers in retaliation for Islamic Revolutionary Guard Corps ballistic-missile attacks on two US Navy warships. Brent settled near $97 on 7 September, up more than 9 percent on the week, and we judge the risk of further tit-for-tat strikes on shipping to be high." },
+        { "type": "bullets", "items": [
+          "CENTCOM commander Adm. Brad Cooper framed the tanker strikes as deliberate cost-imposition — in effect, that Washington will destroy three Iranian vessels for every two US ships targeted — signaling continued strikes on Iran’s exposed oil fleet if attacks on US forces persist.",
+          "Rezaei’s “exclusion zone” is for now a declaratory measure; we see no indication Iran can physically close the strait, but even sporadic harassment or a credible mining threat would drive up war-risk insurance and reroute tankers, sustaining the price premium.",
+          "NGA imagery confirms at least one struck tanker remains dead in the water off Kharg Island.",
+          "For Washington, the central problem is escalation control: US naval power in-theater is dominant, but each exchange narrows the off-ramps and raises the odds of a miscalculation involving US sailors."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "A partial de-escalation track remains open. Iranian officials said on 7 September they are close to an Oman-brokered arrangement governing tanker transits through the strait; success would let Tehran claim a say over passage while avoiding a full blockade it almost certainly cannot sustain. We expect Iran to keep both tracks running — coercion and negotiation — to maximize leverage." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, the National Security Agency, Treasury’s Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "UK Moves to Concrete Measures on Israeli Settlements, Widening the Transatlantic Gap",
+      "blocks": [
+        { "type": "para", "text": "We assess that the United Kingdom under Prime Minister Andy Burnham is shifting from rhetoric to concrete measures against Israeli settlement activity, deepening a policy divergence already underway across Europe. On 7 September Foreign Secretary Ed Miliband told the House of Commons the government would set out steps to bar UK involvement in occupied–West Bank settlement projects, including the E1 development, aligning London with Spain, Ireland, Belgium, and the Netherlands." },
+        { "type": "bullets", "items": [
+          "The move marks a clear break from predecessor Keir Starmer’s posture and reflects domestic pressure on Burnham’s Labour government to match rhetoric with action.",
+          "We expect the package to target trade and financing links to settlements rather than broad sanctions on Israel; the political signal is larger than the near-term economic effect.",
+          "For Washington, the significance is allied cohesion: a widening US–European gap on Israel complicates coordination at the UN and on any postwar Gaza arrangement — even as UK–US cooperation on Ukraine, AUKUS, and intelligence sharing continues unaffected."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Bureau of Intelligence and Research, and open sources."
+    },
+    {
+      "headline": "North Korea Commissions Second Destroyer and Hardens Nuclear Line as Allied Drills Open",
+      "blocks": [
+        { "type": "para", "text": "We assess that North Korea is pairing naval modernization with a hardened nuclear posture as US–South Korea–Japan defense cooperation deepens. State media reported on 7 September that Kim Jong Un commissioned a second 5,000-tonne destroyer, the Kang Kon, at Wonsan and called for a “more reliable” nuclear deterrent — timed a day before the allies opened the multi-day “Freedom Edge” trilateral exercise off Jeju." },
+        { "type": "bullets", "items": [
+          "The Kang Kon is the sister ship of a destroyer that capsized during its May 2025 launch and was later righted; the commissioning signals Pyongyang’s push for a larger surface fleet, though we judge its combat readiness unproven.",
+          "Kim routinely casts allied drills as invasion rehearsal; we expect a calibrated response — most likely short-range ballistic-missile or cruise-missile launches — rather than a major provocation.",
+          "For Washington, the episode reinforces that trilateral deterrence with Seoul and Tokyo is holding, even as Pyongyang’s steady qualitative advances continue in the absence of negotiations."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, the National Security Agency, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Ukraine Deepens Strikes on Russian Refineries as Russia Pounds Zaporizhzhia",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine’s deep-strike campaign against Russian energy infrastructure is intensifying even as Russia sustains heavy strikes on Ukrainian cities. Overnight into 7 September, Ukrainian drones struck the Ryazan oil refinery and targets in Rostov Oblast; over the same window Russian forces conducted hundreds of strikes across the Zaporizhzhia region, setting a shopping center ablaze and wounding civilians." },
+        { "type": "bullets", "items": [
+          "Kyiv’s refinery campaign is aimed at Russia’s fuel output and export earnings; layered on top of the Gulf crisis, it adds a second source of pressure on global energy supply.",
+          "Open-source reporting shows repeated drone penetrations deep inside Russia, underscoring persistent gaps in Russian air defense despite months of adaptation.",
+          "For Washington, the campaign shows Ukraine can still impose strategic costs, but neither side’s strikes have shifted the front line; we expect the attritional pattern to continue into the autumn."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "China Holds Elevated Pressure Around Taiwan Without Signaling Imminent Action",
+      "blocks": [
+        { "type": "para", "text": "We assess that China is sustaining, not surging, its coercion campaign around Taiwan and in the South China Sea. Taiwan tracked roughly 21 PLA aircraft and 15 navy and coast-guard vessels around the island on 6 September, with about 13 aircraft crossing the Taiwan Strait median line — consistent with Beijing’s effort to normalize a heightened baseline of pressure rather than any signal of imminent action." },
+        { "type": "bullets", "items": [
+          "In the South China Sea, Chinese maritime forces continue near-daily operations inside the Philippine exclusive economic zone, keeping US–Philippine mutual-defense obligations in play.",
+          "We see no logistics or mobilization indicators of the kind that would precede a major operation against Taiwan; the activity is coercive signaling and blockade rehearsal.",
+          "For Washington, the steady tempo is the point: it erodes Taiwan’s warning time and tests allied resolve without crossing a threshold that would force a US response."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Bosnia Downgrades Ties With Serbia, Reopening Western Balkans Fault Lines",
+      "blocks": [
+        { "type": "para", "text": "We assess that a diplomatic rupture in the Western Balkans warrants watching for its potential to reopen ethnic fault lines. On 8 September Bosnia and Herzegovina announced it will recall embassy staff from Belgrade and cut communication with Serbia to the “lowest possible level,” after Serbian officials’ glorification of convicted war criminal Ratko Mladic." },
+        { "type": "bullets", "items": [
+          "Foreign Minister Elmedin Konakovic said consular functions would shift to Bosnia’s missions in Croatia and Montenegro; the step is largely symbolic but reflects deepening distrust ahead of Bosnia’s 2026 general election.",
+          "For Washington and Brussels, the concern is Russian and Serb-nationalist exploitation of instability in a region where EUFOR and NATO retain a stake; we judge a near-term return to violence unlikely but the trajectory negative."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Bureau of Intelligence and Research, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Gulf energy:</b> Saudi Aramco’s Jizan refinery (roughly 400,000 barrels per day) was struck again on 7 September, a month after a Houthi attack on the same site; no group had claimed responsibility by evening, adding to regional supply jitters already elevated by the Hormuz crisis.",
+          "<b>Japan:</b> Reporting on 7–8 September indicates Prime Minister Sanae Takaichi will prioritize continuity in a mid-to-late-September cabinet reshuffle, with Defense Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi expected to keep their posts — signaling policy steadiness for a key US ally.",
+          "<b>Hormuz diplomacy:</b> Alongside its “exclusion zone” threat, Tehran said on 7 September it was nearing an Oman-brokered tanker-transit arrangement, a sign Iran is seeking leverage over passage short of a blockade it cannot enforce."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Bureau of Intelligence and Research, Treasury’s Office of Intelligence and Analysis, and open sources."
+    }
+  ]
+}
