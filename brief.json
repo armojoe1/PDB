@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-09",
+  "cover": true,
+  "toc": [
+    {
+      "tag": "IRAN-US",
+      "summary": "US destroys five IRGC tankers; Iran answers with a missile barrage on the Jordan air base."
+    },
+    {
+      "tag": "SAUDI ARABIA",
+      "summary": "Houthi drones and missiles hit Saudi energy sites, halting some operations and wounding 73."
+    },
+    {
+      "tag": "ENERGY-ECON",
+      "summary": "Brent nears $100 as the Hormuz risk premium builds; watch pass-through to US prices."
+    },
+    {
+      "tag": "UKRAINE",
+      "summary": "Russia resumes mass strikes on Kyiv within hours of the US envoys' departure."
+    },
+    {
+      "tag": "ISRAEL-UK",
+      "summary": "Britain and eleven partners sanction West Bank settlements; Washington declines to follow."
+    },
+    {
+      "tag": "SERBIA",
+      "summary": "Vucic sets a 25 October snap vote as the Mladic funeral reopens the rift with Brussels."
+    },
+    {
+      "tag": "NOTES",
+      "summary": "Caribbean buildup; new Iran aviation sanctions; an EU border quarrel in Rome."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "US-Iran Naval War Escalates as Tehran Answers Tanker Strikes With Missiles on Jordan",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the US-Iran confrontation in and around the Strait of Hormuz sharply escalated in the past 24 hours but remains, for now, a controlled tit-for-tat that neither side appears ready to widen into a general war. On 8 September US Central Command destroyed five Iranian crude carriers &#8212; four in the Gulf of Oman and one near Kharg Island &#8212; after the Islamic Revolutionary Guard Corps fired ballistic missiles at a US Navy warship twice in as many days. CENTCOM says the warship evaded the attacks and no US personnel were harmed, and that its forces directed the tankers' crews to abandon ship before striking. We judge the vessels were part of the IRGC's sanctions-evasion 'shadow fleet,' making the strikes as much an economic-pressure move as a military one."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Overnight on 8&#8211;9 September the IRGC launched roughly 20 ballistic missiles at the Muwaffaq Salti (Al Azraq) air base in Jordan, which hosts US and coalition forces. Jordan's military says its air defenses intercepted 18; two fell in remote areas, causing no casualties.",
+            "We assess Tehran calibrated the barrage to demonstrate reach and resolve while avoiding US or Jordanian deaths that would compel a larger American response &#8212; the same escalation-management logic Iran has shown at earlier points in this war.",
+            "Iran's threat to strike tankers off Kuwait and Bahrain &#8212; and its call for crews to abandon those vessels &#8212; is the more consequential signal: it points at the Gulf's export chokepoints and at two states that host US forces.",
+            "For Washington, the central question is whether the IRGC can sustain accurate missile fires against defended bases; the low leakage rate at Al Azraq suggests layered US and partner defenses are holding, but a single lucky hit on personnel would change the President's options overnight."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "CENTCOM describes its current posture as a 'full court press': a naval blockade of Iranian ports, escort operations for commercial shipping through the strait, and strikes to disable IRGC-linked vessels and coastal air defenses. NSA reporting corroborates that recent IRGC missile launch orders originated at the command level rather than from rogue local units &#8212; consistent with a centrally managed, deliberately bounded campaign. We expect the next Iranian move to test the escort mission directly, and we judge a mining incident or a strike on an escorted tanker to be the most likely trigger for a wider US response."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Houthi Strikes on Saudi Energy Sites Mark a Dangerous Widening of the War",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the 8 September Houthi assault on Saudi Arabia &#8212; the group's most damaging in months &#8212; is a deliberate move by Iran's most capable proxy to open a second economic front against a US partner and to threaten Riyadh into distancing itself from Washington's campaign. Ballistic missiles and drones struck Aramco fuel facilities and an airport at Abha, the Jizan refinery, and sites at Najran and the King Khalid air base at Khamis Mushait, wounding 73 and forcing a halt to operations at some sites."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Overhead imagery and open thermal-monitoring data show large, sustained fires at the Jizan refinery, indicating damage beyond superficial &#8212; NGA assesses the burn signatures are consistent with a struck process unit rather than a storage skim.",
+            "We judge the target set &#8212; refining, aviation fuel, and a forward air base &#8212; was chosen to raise the cost of Saudi alignment with US operations while stopping short of the catastrophic hit on core export infrastructure that would draw a decisive response.",
+            "The attack lands as global crude is already carrying a heavy war premium; any confirmed loss of Saudi refining or export throughput would compound the price pressure detailed in the energy item below.",
+            "For Washington, the risk is that Riyadh presses harder for US air-defense reinforcement as a condition of continued support. We expect a Saudi request for additional interceptors and counter-UAS assistance in the coming days."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, CIA, and open sources."
+    },
+    {
+      "headline": "Oil Nears $100 as the Hormuz Risk Premium Builds; US Price Pass-Through Is the Concern",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the past day's escalation has locked a substantial war premium into oil, with Brent trading near $98 a barrel &#8212; roughly 40 percent above pre-war levels and at multi-week highs &#8212; and that the balance of risk is tilted toward further gains so long as the Strait of Hormuz is contested. Markets are pricing not a supply cutoff that has happened but the rising probability of one, driven by the US-Iran tanker exchanges, Iran's threats to Gulf shipping, and the strikes on Saudi energy sites."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Reporting indicates Iran and Oman are negotiating a managed tanker route through the strait; a credible deal would take some premium out of the price, while its collapse would add to it. We judge the talks a genuine hedge by Tehran to keep some of its own crude moving.",
+            "For the United States, the near-term concern is pass-through to pump and input prices during an election year: sustained crude near triple digits would feed gasoline and diesel costs with a lag of a few weeks and complicate the inflation picture.",
+            "We assess US and allied spare-capacity and reserve options can cushion a price spike but cannot substitute for the roughly one-fifth of global seaborne oil that transits Hormuz if the waterway is seriously disrupted.",
+            "A decision point for the President comes if insurers pull cover for Gulf transits or a major line suspends calls &#8212; either would move the market from premium to genuine shortfall."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the Treasury Office of Intelligence and Analysis, CIA, and open sources."
+    },
+    {
+      "headline": "Russia Resumes Mass Strikes on Kyiv Within Hours of US Envoys' Departure",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Moscow's decision to resume large-scale strikes on Ukraine on 8 September &#8212; ending a roughly three-day lull that coincided with visits by US envoys Steve Witkoff and Jared Kushner to Kyiv and Moscow &#8212; signals that the Kremlin sees more leverage in continued military pressure than in the terms now on the table. At least two people were killed and several wounded in overnight strikes on Kyiv, which damaged a medical center in the capital."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The timing &#8212; heavy fires within hours of the envoys leaving &#8212; is itself the message: we judge Vladimir Putin is using the pause-and-resume rhythm to shape any summit's terms rather than signaling readiness to settle.",
+            "Ukraine is answering in kind against Russia's economy, striking an oil refinery in Saratov overnight; Kyiv's deep-strike campaign against refining capacity is now a persistent feature of the war.",
+            "Britain announced a &#163;100 million ($135 million) air-defense package including Patriot interceptors &#8212; the kind of allied resupply that keeps Ukrainian cities defended but does not change the front.",
+            "President Zelensky is pressing for a leaders' summit this autumn, possibly within weeks. For Washington, the near-term test is whether the envoys' shuttle produced any durable commitment or merely a photo-op pause; the resumption of strikes argues for the latter."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, INR, NSA, and open sources."
+    },
+    {
+      "headline": "Britain and Eleven Partners Sanction Israeli Settlements as Washington Declines To Follow",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the coordinated 8 September move by the United Kingdom, France, Canada and nine other states to sanction Israeli settlements in the occupied West Bank deepens Israel's diplomatic isolation and, more consequentially for the United States, exposes a widening gap between Washington and close allies on Israel policy. Britain, under Prime Minister Andy Burnham, will ban imports from settlements and bar related arms exports; Foreign Secretary Ed Miliband cast the step as a 'reset' of UK policy."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain, Sweden and the UK issued a joint statement backing national or European restrictions on trade with settlements deemed illegal under international law &#8212; a rare, broad Western alignment against a specific Israeli policy.",
+            "Secretary of State Rubio said the United States 'obviously' would not follow, citing the risk of destabilizing the West Bank while the region is at war &#8212; placing Washington visibly outside its closest partners on the issue.",
+            "Israel responded by moving to close the British consulate in Jerusalem and expelling UK diplomats from coordination bodies, a sharp downgrade in a core intelligence and defense relationship.",
+            "For Washington, the friction complicates coalition management at the very moment the US needs European cohesion on Iran and Ukraine; we expect allies to press the administration to at least signal daylight with the current Israeli government."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Serbia's Vucic Calls a Snap Vote as the Mladic Funeral Reopens the Rift With Brussels",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that President Aleksandar Vucic's 8 September decision to set a snap parliamentary election for 25 October is a bid to consolidate control after nearly two years of anti-government unrest, and that the near-simultaneous state funeral honoring convicted war criminal Ratko Mladic has handed Brussels fresh reason to question Serbia's European trajectory &#8212; a trajectory Washington watches for its bearing on Russian influence in the Balkans."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Serbia's government moved to dissolve parliament at midday on 9 September, the procedural trigger for the vote; we judge Vucic is betting an early election locks in his Progressive Party's dominance before protest momentum can organize into a ballot-box threat.",
+            "Military honors for Mladic, who died serving a life sentence for genocide, drew condemnation from European Commission and Council leaders and a canceled visit by the EU enlargement commissioner &#8212; reinforcing doubts about Belgrade's accession bid.",
+            "For the United States, the concern is drift: a Serbia that stalls on EU convergence and continues to hedge toward Moscow keeps a foothold for Russian leverage in a still-fragile region. We expect Vucic to campaign on stability while avoiding an open break with either Brussels or the Kremlin."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "<b>WESTERN HEMISPHERE &#8212; Caribbean buildup.</b> Defense Secretary Pete Hegseth visited US forces in Puerto Rico on 8 September, telling sailors and Marines aboard a warship they are on the 'front lines' of the counter-narcotics campaign against Venezuelan networks. We assess the visit is meant to signal resolve and sustain the largest US military presence in the Caribbean in decades; the political and legal exposure of the maritime strike campaign remains the key variable to watch."
+        },
+        {
+          "type": "para",
+          "text": "<b>IRAN &#8212; Aviation sanctions.</b> Alongside the naval strikes, the United States imposed new sanctions targeting Iran's aviation sector on 8 September. We judge the measure is aimed at IRGC and military logistics rather than at any near-term battlefield effect; its value is cumulative financial pressure as part of the broader 'full court press.'"
+        },
+        {
+          "type": "para",
+          "text": "<b>EUROPE &#8212; Border quarrel.</b> At a meeting in Rome on 8 September, Italy's Giorgia Meloni and Belgium's Bart De Wever publicly disagreed over what securing the EU's external frontier requires, with the Ceuta enclave a flashpoint. A minor spat on its own, it is a useful indicator of continuing intra-EU strain on migration that constrains European bandwidth for the Iran and Ukraine files."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DHS I&amp;A, DIA, INR, and open sources."
+    }
+  ],
+  "emblem": "assets/whitehouse_opt.png"
+}
