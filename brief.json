@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-10",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-GULF", "summary": "US and Iran trade direct strikes; tankers sunk, missiles fired at a Jordan base." },
+    { "tag": "ENERGY", "summary": "Brent tops $100 as Hormuz and the Bab el-Mandeb come under pressure at once." },
+    { "tag": "IRAN-NUCLEAR", "summary": "IAEA Board refers Iran to the Security Council for the first time in 20 years." },
+    { "tag": "UKRAINE", "summary": "Fighting resumes after US shuttle diplomacy fails to produce a breakthrough." },
+    { "tag": "ALLIES", "summary": "UK, France, and Canada settlement sanctions open a rift with Washington." },
+    { "tag": "SOUTH CHINA SEA", "summary": "Beijing and Manila trade barbs over the South China Sea at a Seoul forum." },
+    { "tag": "NOTES", "summary": "Levant friction, a Gulf defense pact, and an unexplained blast at an Iranian port." }
+  ],
+  "articles": [
+    {
+      "headline": "US and Iran Trade Direct Blows as the Gulf War Enters Open Escalation",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US&ndash;Iran conflict has crossed into sustained, openly reciprocal strikes for the first time since the war began roughly six months ago, and that the risk of further escalation over the coming days is high. On 8 September US Central Command destroyed five Iranian oil tankers in the Gulf of Oman and near Kharg Island after the Islamic Revolutionary Guard Corps twice attempted to strike a US Navy warship; CENTCOM says crews were warned to abandon ship and that no American personnel were harmed. Within hours, Iran retaliated across the theater." },
+        { "type": "bullets", "items": [
+          "The IRGC struck the Al-Azraq air base in Jordan, which hosts US forces. Jordan reports its air defenses downed 18 of 20 ballistic missiles, with two landing in unpopulated areas and no casualties; some press reporting cites damage to US aircraft in hangars, which we cannot independently confirm.",
+          "Tehran claims ballistic-missile hits on two US destroyers (DDG-119 and DDG-53) and attacks on roughly ten ships in and around the Strait of Hormuz, and a projectile struck a cargo vessel off Iraq&rsquo;s al-Faw. We judge the damage claims against US warships unverified and probably inflated.",
+          "Overhead imagery confirms the five tankers were left dead in the water. NSA SIGINT indicates the Al-Azraq strike package was directed at the IRGC command level, consistent with Tehran&rsquo;s public claim of responsibility.",
+          "For Washington, the immediate problem is escalation control: each side is now hitting the other&rsquo;s forces directly rather than through proxies, which narrows the off-ramps. We expect Iran to keep pressing shipping to impose economic cost while stopping short of a blow that would force a decisive US response &mdash; a calibration that could fail by accident."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Brent Tops $100 as Two Maritime Chokepoints Come Under Pressure at Once",
+      "blocks": [
+        { "type": "para", "text": "We assess that the simultaneous squeeze on the Strait of Hormuz and, now, the Bab el-Mandeb is the most serious threat to global energy flows since the war began, and that prices will likely stay elevated and volatile while the shooting continues. Brent crude crossed $100 a barrel for the first time since July &mdash; up about 2.5% to roughly $100.44 &mdash; with US benchmark WTI near $94.92, after Iran said it attacked ten ships in the Strait of Hormuz." },
+        { "type": "bullets", "items": [
+          "Iran has declared maritime restricted zones and is running a de facto campaign against shipping near Hormuz, through which a large share of the world&rsquo;s seaborne crude transits.",
+          "The move so far reflects fear of disruption more than an actual supply loss; a confirmed hit on a major loading terminal, or a mined channel, would move prices sharply higher.",
+          "For Washington, sustained triple-digit oil is now a first-order strategic variable: it complicates the domestic inflation picture and hands Moscow a revenue windfall at the very moment US envoys are pressing it on Ukraine."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "A second chokepoint has come into play. Reporting on 10 September indicates Iran-aligned Houthi forces seized the Red Sea port of Mocha, bringing them nearer the Bab el-Mandeb, while Saudi Arabia carried out roughly 40 retaliatory airstrikes across Yemen." },
+        { "type": "bullets", "items": [
+          "If the Houthis can range the Bab el-Mandeb, they threaten the southern approach to the Suez corridor &mdash; compounding the Hormuz risk at the opposite end of the same energy artery.",
+          "We judge the Mocha claim credible but not fully confirmed; the next 24&ndash;48 hours of imagery and commercial shipping advisories should clarify how much of the coast the Houthis actually hold."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "IAEA Board Refers Iran to the Security Council for the First Time in Twenty Years",
+      "blocks": [
+        { "type": "para", "text": "We assess that the IAEA Board&rsquo;s referral of Iran to the UN Security Council is a significant diplomatic escalation running in parallel with the military one, and that it further hardens the alignment of Russia and China with Tehran. On 9 September the 35-member Board voted 23&ndash;3, with 8 abstentions, to report Iran over its failure to account for uranium traces found at undeclared sites; Russia, China, and Niger voted against." },
+        { "type": "bullets", "items": [
+          "It is the first such referral in two decades. The IAEA has lacked access to key Iranian facilities since Israeli and US strikes on those sites in June 2025, leaving inspectors &mdash; and the IC &mdash; with a degraded picture of the program.",
+          "The two no votes and eight abstentions signal that any follow-on Security Council action will likely be blocked or heavily watered down, limiting the practical bite while sharpening the diplomatic lines.",
+          "For Washington, the referral is useful leverage but not a fix: it raises pressure without constraining an enrichment effort the IC can no longer fully observe."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "Sanctions pressure is meanwhile leaking. Reuters reported on 10 September that Iran has stood up a barter-style arrangement with China &mdash; oil for credits used to buy Chinese goods, reportedly including military and communications equipment &mdash; to blunt the effect of sanctions. We assess such workarounds erode, but do not defeat, the financial squeeze." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from ODNI, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "Fighting Resumes Across Ukraine as US Shuttle Diplomacy Fails To Produce a Breakthrough",
+      "blocks": [
+        { "type": "para", "text": "We assess that the latest US mediation push has stalled and that both sides are escalating long-range strikes, leaving no near-term path to a ceasefire. Combat resumed this week after a roughly three-day pause that allowed US envoys Steve Witkoff and Jared Kushner to meet President Putin in Moscow and President Zelensky in Kyiv; the talks produced no agreement." },
+        { "type": "bullets", "items": [
+          "Russian jet-powered drones struck Kyiv on 9 September, injuring 14 people, including two children. Ukraine struck Russian military targets along the Krasnodar coast overnight and hit Novorossiysk, where local authorities reported four killed, including a child, and 29 wounded.",
+          "A Russian drone incursion into Moldovan and Romanian airspace prompted an alert as Zelensky&rsquo;s aircraft departed Moldova; Norway&rsquo;s prime minister said the flight was nearly hit. We judge this an airspace scare rather than a confirmed attempt on the aircraft, but it underscores how the war is spilling toward NATO airspace.",
+          "For Washington, the failed round narrows the options: with Moscow unmoved and Kyiv pressing deep strikes into Russia, the near-term ask is air-defense resupply, which Ukraine raised directly with the envoys. We expect continued strikes, not a pause, over the next several days."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Allied Sanctions on West Bank Settlements Open a Rift With Washington",
+      "blocks": [
+        { "type": "para", "text": "We assess that coordinated sanctions on Israeli settlements by the United Kingdom, France, and Canada mark a widening split between Washington and three of its closest allies over Israel policy, and that the gap is more likely to grow than to close. The measures drew a public call from eight Muslim-majority states, including the UAE, for other governments to follow." },
+        { "type": "bullets", "items": [
+          "President Trump publicly questioned why the allies acted &ldquo;all of a sudden,&rdquo; though a Western official said the UK prime minister had briefed him beforehand; Secretary of State Rubio said the United States will not join the measures.",
+          "We judge this a durable divergence rather than a one-off: allied governments are responding to domestic political pressure that current US policy is not tracking.",
+          "For Washington, the cost is coalition cohesion &mdash; on Israel&ndash;Gaza diplomacy and, by extension, on the unity of messaging toward the Gulf and the wider effort to isolate Iran."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Beijing and Manila Trade Barbs Over the South China Sea at a Seoul Forum",
+      "blocks": [
+        { "type": "para", "text": "We assess that the sharp public exchange between China and the Philippines at the Seoul Defense Dialogue reflects a hardening, not an easing, of the South China Sea dispute &mdash; with direct implications for the US&ndash;Philippine alliance. Press reporting indicates Manila&rsquo;s defense chief read aloud a Chinese diplomatic note that he characterized as &ldquo;coercion, bullying and aggression,&rdquo; and that Beijing responded by accusing Philippine officials of &ldquo;grandstanding and lying.&rdquo;" },
+        { "type": "bullets", "items": [
+          "The episode fits a sustained pattern of Chinese pressure on Manila by coast-guard and maritime-militia forces, paired with economic leverage given the lopsided bilateral trade balance.",
+          "For Washington, the exposure is the Mutual Defense Treaty: a miscalculation at a contested feature could invoke alliance commitments at a moment when US attention and forces are fixed on the Gulf.",
+          "We expect Beijing to keep testing Manila&rsquo;s resolve below the threshold of armed conflict, calculating that US bandwidth is stretched thin across two active theaters."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Levant.</b> Syria condemned Prime Minister Netanyahu&rsquo;s 9 September visit to Mount Hermon as a &ldquo;blatant violation&rdquo; of its sovereignty, and Lebanon&rsquo;s army accused Israel of an escalation that threatens the bilateral framework agreement &mdash; friction points that could complicate the fragile northern lines while US attention is elsewhere.",
+          "<b>Gulf pact.</b> Pakistan&rsquo;s foreign ministry said on 10 September it has &ldquo;no plans to expand&rdquo; the &ldquo;Mecca&rdquo; defensive agreement it signed in August with Saudi Arabia and Turkey, playing down mutual-defense obligations after Houthi attacks on the kingdom. We are watching whether the pact draws Islamabad, a nuclear power, toward firmer Gulf security commitments.",
+          "<b>Iran.</b> An explosion was heard from the sea near the southern Iranian port of Jask on the evening of 9 September. The cause is unclear and we cannot yet attribute it; we are watching for indications of a further strike or an accident amid the intensified Gulf activity."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, DIA, NSA, and open sources."
+    }
+  ]
+}
