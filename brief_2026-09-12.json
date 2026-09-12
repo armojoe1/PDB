@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-12",
+  "cover": true,
+  "toc": [
+    { "tag": "RED SEA", "summary": "Houthis seize Perim Island at the Bab-el-Mandeb; Saudi oil exports at new risk as Washington withholds direct action." },
+    { "tag": "BRICS", "summary": "New Delhi summit opens; draft declaration condemns 'unilateral war' without naming a state." },
+    { "tag": "UKRAINE", "summary": "Kyiv deepens deep-strikes on Russian energy; Russia pounds Pavlohrad and Odesa." },
+    { "tag": "NORTH KOREA", "summary": "Pyongyang fires short-range missiles as US-ROK-Japan drills conclude." },
+    { "tag": "GAZA", "summary": "Israeli strike in Khan Younis tests the fraying ceasefire." },
+    { "tag": "HONG KONG", "summary": "Court jails Tiananmen vigil organizers, deepening the rights crackdown." },
+    { "tag": "NOTES", "summary": "Treasury sanctions Iran's proxy financiers; UN envoy presses on Sudan." }
+  ],
+  "articles": [
+    {
+      "headline": "Houthi Seizure of Perim Island Chokes the Bab-el-Mandeb; Saudi Oil at New Risk",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Houthi capture of Perim Island on 11 September marks a strategic inflection in the Red Sea conflict. For the first time the movement holds terrain commanding the Bab-el-Mandeb strait at its narrowest point, giving it the ability to threaten &mdash; and at times interdict &mdash; one of the two maritime arteries through which Gulf crude reaches world markets. With Iran's periodic closures of the Strait of Hormuz already forcing Saudi Arabia to lean on its Red Sea outlets, we judge Riyadh's export resilience is now materially degraded." },
+        { "type": "bullets", "items": [
+          "Saudi-backed Yemeni government forces withdrew from Perim, ceding the island at the chokepoint to Houthi control; the port of Mokha fell the previous day. Overhead imagery shows small-boat activity consolidating the new positions.",
+          "Saudi Arabia shut its East-West (Petroline) pipeline after an aerial attack Riyadh attributed to Iranian-aligned militias operating from Iraq &mdash; a second axis of pressure against the Kingdom's export infrastructure. We assess the near-simultaneous pressure on the Red Sea coast and on cross-country pipeline capacity is not coincidental.",
+          "The International Energy Agency reported Friday that Saudi crude reaching market has fallen to its lowest level in more than three decades, driven in part by attacks on Bab-el-Mandeb shipping.",
+          "Brent settled near $104.61 on 11 September, up roughly 9 percent on the week after briefly touching $108; we judge a sustained risk premium is likely while the chokepoint remains contested."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the immediate decision point is whether to move from an intelligence-and-targeting support role to direct action. Crown Prince Mohammed bin Salman pressed President Trump by phone &mdash; reportedly at least twice &mdash; to commit US strikes against the Houthis; the administration has so far declined direct military involvement while offering intelligence sharing and targeting support. We assess the President will face renewed pressure to reconsider if Houthi fires begin to close the strait to commercial traffic or strike Saudi loading infrastructure directly." },
+        { "type": "bullets", "items": [
+          "An effective denial of the Bab-el-Mandeb would push Asia- and Europe-bound cargoes around the Cape of Good Hope, lengthening voyages and lifting freight and insurance costs &mdash; a tax on global trade and a likely upward pull on US pump prices.",
+          "We judge the Houthis, resupplied and guided with Iranian assistance, will seek to consolidate rather than immediately overreach; the more dangerous path is a miscalculation that draws US or Saudi forces into direct exchanges.",
+          "Watch for: a formal Saudi request routed through CENTCOM, movement of US and coalition escorts into the southern Red Sea, and Iranian signaling at the BRICS summit (next item)."
+        ] },
+        { "type": "para", "text": "<i>Bottom line:</i> a movement that could previously harass Red Sea shipping can now, from fixed positions, contest the chokepoint itself. We assess the pressure on Saudi exports and on global crude prices will persist and probably intensify over the coming week." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, the Office of Intelligence and Analysis at Treasury, and open sources."
+    },
+    {
+      "headline": "BRICS Convenes in New Delhi; Draft Declaration Condemns 'Unilateral War' Without Naming a Culprit",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 18th BRICS summit, opening in New Delhi on 12 September under India's chairmanship, is less a display of unity than a carefully managed effort to paper over deep divisions within an 11-member bloc that now contains adversaries as well as partners. Negotiators reached consensus on a draft New Delhi Declaration that condemns 'unilateral' warfare in general terms while deliberately naming no state &mdash; the price of keeping Iran and the UAE, on opposite sides of the Gulf war, inside a single communique." },
+        { "type": "bullets", "items": [
+          "Leaders present include Russia's Putin, China's Xi (who arrived 12 September), Iran's Pezeshkian, South Africa's Ramaphosa, Egypt's el-Sisi, and Indonesia's Prabowo; Prime Minister Modi is hosting at Bharat Mandapam.",
+          "The draft treads cautiously on de-dollarization, reflecting India's and others' wariness of a frontal challenge to the dollar that would invite US tariffs.",
+          "We judge the bloc's expansion has diluted its coherence: each new member makes consensus harder and pushes its statements toward lowest-common-denominator language."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The summit's real significance for Washington lies in the optics and the sidebar diplomacy. Modi's back-to-back bilaterals with Putin and Xi &mdash; the latter continuing a cautious India-China thaw &mdash; signal that US pressure on trade and on Russian-oil purchases has not pushed New Delhi toward alignment with Washington." },
+        { "type": "bullets", "items": [
+          "We assess Moscow and Tehran will use the platform to show they are not isolated, and Beijing to cast itself as convener of the Global South.",
+          "For the United States, the key question is whether India's balancing act constrains US leverage on tariffs, technology, and Ukraine-related sanctions. We expect New Delhi to keep hedging rather than choosing sides."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Bureau of Intelligence and Research at State, and open sources."
+    },
+    {
+      "headline": "Ukraine Presses Deep-Strike Campaign on Russian Energy as Moscow Hammers Cities",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine is deliberately shifting the war's economic burden onto Russia's fuel and logistics network even as it absorbs another night of mass strikes on its own cities. Overnight into 11 September, Ukrainian long-range drones struck Russian refining and distribution nodes deep in the interior, while Russia launched some 162 drones alongside guided-bomb and missile strikes. Neither side gained ground along the front." },
+        { "type": "bullets", "items": [
+          "Ukrainian strikes sparked a fire at an Ozon logistics hub in Saratov &mdash; acknowledged by the regional governor &mdash; and hit refining infrastructure, part of a sustained campaign we judge is measurably tightening Russia's domestic fuel supply.",
+          "Russian strikes killed at least five people and wounded dozens at a shopping center in Pavlohrad and damaged a residential high-rise in Odesa.",
+          "Fighting stayed concentrated around Pokrovsk, but the lines were essentially static."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the notable feature is the coupling of two energy stories: Ukrainian strikes on Russian refineries and Houthi threats to Gulf exports are squeezing global product markets from both ends. We judge Kyiv's refinery campaign is intended partly to erode the oil revenue underwriting Russia's war and partly to signal that it can impose costs far from the front." },
+        { "type": "bullets", "items": [
+          "Ukraine also deepened its Western ties this week, signing a 100-year cooperation pact with Canada that includes expanded joint drone production &mdash; a sign Kyiv is institutionalizing long-term backing beyond wartime aid.",
+          "We expect Russia to intensify strikes on Ukrainian energy and grid targets as winter nears; the coming months' exchanges will likely center on each side's power and fuel infrastructure."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, CIA, and open sources."
+    },
+    {
+      "headline": "North Korea Fires Short-Range Ballistic Missiles as Trilateral Drills Conclude",
+      "blocks": [
+        { "type": "para", "text": "We assess that North Korea's launch of multiple short-range ballistic missiles on the morning of 12 September is a calibrated, low-risk protest against the just-concluded US-South Korea-Japan 'Freedom Edge' exercise rather than a step toward escalation. The missiles, fired from the Wonsan area on the east coast around 5:20 a.m. local time, flew roughly 250 kilometers into the sea; US Indo-Pacific Command judged they posed no immediate threat to US territory or to allies." },
+        { "type": "bullets", "items": [
+          "The launch fits a well-worn pattern of Pyongyang answering allied exercises with SRBM salvoes timed for maximum signaling and minimal risk of miscalculation. Intercepted launch-support communications are consistent with a pre-planned demonstration.",
+          "Seoul raised its surveillance posture and coordinated closely with Washington and Tokyo.",
+          "We see no current indications of preparations for a longer-range or nuclear-related test."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the launch is a reminder that Kim Jong Un's arsenal keeps maturing even as global attention is absorbed by the Middle East and Ukraine. We judge Pyongyang will hold to an incremental testing program &mdash; solid-fuel systems, tactical nuclear delivery, and eventually the submarine-launched and ICBM goals set at the February party congress." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NSA, DIA, NGA, and open sources."
+    },
+    {
+      "headline": "Israeli Strike in Khan Younis Tests the Fraying Gaza Ceasefire",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Gaza ceasefire in force since October 2025 is holding in name but eroding in practice, as Israel continues near-daily strikes it characterizes as enforcement against Hamas violations. On 11 September an Israeli airstrike in Khan Younis killed a Hamas sniper-cell commander, Moamen Abu Labda, whom the military accused of rebuilding Hamas's capabilities in breach of the truce." },
+        { "type": "bullets", "items": [
+          "The strike followed Israel's killing days earlier of a senior Hamas figure tied to the 7 October 2023 attacks &mdash; part of a pattern of targeted operations Israel frames as compatible with the ceasefire and Hamas casts as violations.",
+          "In a Rosh Hashanah message, Prime Minister Netanyahu called the US-Israel alliance 'stronger than ever,' underscoring his confidence in continued US backing."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the difficulty is sustaining a ceasefire that neither party fully honors while the wider region burns &mdash; an Iran-Israel war, Houthi gains in the Red Sea, and Gulf oil under threat. We judge the truce will persist as a low-intensity status quo, but there is a realistic possibility that a triggering incident &mdash; the killing of senior Hamas leadership or a mass-casualty strike &mdash; reignites full-scale fighting." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, the Bureau of Intelligence and Research at State, and open sources."
+    },
+    {
+      "headline": "Hong Kong Jails Tiananmen Vigil Organizers, Deepening the Rights Crackdown",
+      "blocks": [
+        { "type": "para", "text": "We assess that Hong Kong's sentencing of three prominent activists for 'inciting subversion' marks a further consolidation of Beijing's national-security regime and the near-complete extinction of the city's organized dissent. On 11 September a court jailed Lee Cheuk-yan and Chow Hang-tung for seven years each and Albert Ho for five years and two months, over their leadership of the group that for decades organized Hong Kong's annual Tiananmen vigil." },
+        { "type": "bullets", "items": [
+          "The convictions rest on the group's longstanding call to 'end one-party dictatorship,' which the court held implied an intent to undermine Communist Party rule.",
+          "The United Nations, foreign governments, and rights organizations have condemned the prosecutions under the Beijing-imposed national security law."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the case offers little direct leverage but confirms a strategic reality: on questions of political control, Hong Kong is now governed as an ordinary mainland jurisdiction. We expect continued Western condemnation with limited practical effect and further erosion of the city's standing as an international hub." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, the Bureau of Intelligence and Research at State, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Iran / Sanctions.</b> The Treasury's Office of Foreign Assets Control imposed a fresh tranche of sanctions on networks in Iraq, the UAE, Lebanon, and Turkey accused of financing Hezbollah and the Iraqi militia Kata'ib Hezbollah under 'Operation Economic Outcast.' Secretary Bessent signaled on 11 September that a major bank designation would follow next week. We assess the campaign is aimed at throttling Iranian proxy financing amid the wider regional war.",
+          "<b>Sudan.</b> The UN Secretary-General's personal envoy, Pekka Haavisto, wrapped up a visit to Sudan on 11 September as part of a 'Quintet' good-offices push (the African Union, IGAD, the Arab League, the EU, and the UN) amid renewed fighting and a deepening humanitarian crisis around El Fasher in North Darfur. We judge the prospects for a durable pause remain poor."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with the Office of Intelligence and Analysis at Treasury, the Bureau of Intelligence and Research at State, and open sources."
+    }
+  ]
+}
