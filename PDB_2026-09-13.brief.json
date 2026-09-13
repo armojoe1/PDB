@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-13",
+  "cover": true,
+  "toc": [
+    { "tag": "BRICS / GLOBAL SOUTH", "summary": "New Delhi Declaration hardens the bloc; India brokers an Iran-UAE restraint statement." },
+    { "tag": "US-IRAN / HORMUZ", "summary": "Trump pushes the war's end past the midterms as maritime strikes continue and crude holds near $104." },
+    { "tag": "SAUDI ARABIA / IRAQ", "summary": "Drone strike from Iraqi soil forces shutdown of the East-West pipeline; Baghdad squeezed." },
+    { "tag": "NORTH KOREA", "summary": "Pyongyang resumes short-range launches, testing Trump's outreach." },
+    { "tag": "UKRAINE / RUSSIA", "summary": "Putin warns Europe off troop deployments as Russian strikes kill civilians." },
+    { "tag": "SWEDEN", "summary": "Knife-edge election could seat the far right for the first time." },
+    { "tag": "NOTES", "summary": "Lebanon, Gaza, and a Philippine ferry disaster." }
+  ],
+  "articles": [
+    {
+      "headline": "BRICS Summit Hardens Global-South Bloc as India Brokers Iran-UAE Restraint Statement",
+      "blocks": [
+        { "type": "para", "text": "We assess that the New Delhi Declaration adopted at the close of the BRICS summit on 12 September marks an incremental hardening of the grouping into a more self-conscious Global-South counterweight, even as sharp internal divisions over the Iran war kept the bloc short of a common front. The communique's condemnation of \"coercive\" and \"unilateral tariff and non-tariff measures\" is aimed squarely at Washington, and we judge it will read in the White House as a coordinated pushback on US trade policy." },
+        { "type": "bullets", "items": [
+          "The declaration was adopted by consensus only after negotiations ran past 0400; the sticking point was language on West Asia, where Iran and the Gulf states pulled in opposite directions.",
+          "India's headline achievement was brokering a joint Iran-UAE statement calling for restraint in the region — a modest but real de-escalatory signal, and a demonstration that New Delhi can convene parties Washington cannot.",
+          "China backed India's bid for a permanent UN Security Council seat, and Xi Jinping arrived with a large business delegation — both signs of a deliberate thaw in Beijing–New Delhi ties that had been frozen since the border clashes.",
+          "The summit refuted a formal move to abandon the dollar, but momentum toward local-currency settlement continues; we expect Beijing and Moscow to keep pressing the theme."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the summit is less a hostile anti-US axis than a widening space in which major and middle powers hedge — and India's mediation between Iran and the UAE shows New Delhi positioning itself as an interlocutor the United States cannot easily replace. We expect the tariff language to feature in Chinese and Russian messaging in the coming days; the more consequential development to watch is whether the Iran-UAE statement translates into any real pause in the Gulf." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Trump Pushes Iran War's Endgame Past the Midterms as Hormuz Strikes Continue",
+      "blocks": [
+        { "type": "para", "text": "We assess that the war with Iran will persist at least through the 3 November midterm elections. On 12 September the President again predicted the fighting would end \"very soon — probably right after the midterms\" and accused Tehran of deliberately prolonging the conflict to weaken his hand at the polls. Coupled with a fresh maritime strike overnight, the remarks point to continued attrition rather than a return to negotiation." },
+        { "type": "bullets", "items": [
+          "An Iranian commercial vessel was struck near Qeshm Island early Sunday, killing one crewman and wounding four, per Iranian state media; President Pezeshkian accused the United States of hitting civilian infrastructure. The strike follows US attacks on five Iranian tankers earlier in the week.",
+          "Brent crude is holding near $104 a barrel; Iran maintains its Strait of Hormuz blockade pending US concessions. NSA SIGINT confirms the blockade is being directed at the national level in Tehran, not by local commanders.",
+          "GCC diplomats are due to meet an Iranian counterpart in Oman on a temporary arrangement for shipping through the strait — the likeliest near-term off-ramp for oil flows even absent a broader settlement.",
+          "US public support for the war has fallen to roughly 31 percent; we judge the political calendar is now driving the military one more than the reverse."
+        ] },
+        { "type": "para", "text": "A decision point comes with the Oman track: a workable Hormuz transit understanding would ease prices without resolving the core disputes over Iran's nuclear program and sanctions. We assess neither side is currently seeking a comprehensive deal, and further tit-for-tat maritime strikes are likely in the interim." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "Drone Strike From Iraqi Territory Forces Shutdown of Saudi East-West Pipeline",
+      "blocks": [
+        { "type": "para", "text": "We assess that the 12 September drone strike on Saudi Arabia's East-West crude pipeline — launched, by Baghdad's own account, from Iraqi soil — widens the war's geography and places Iraq in an acutely difficult position between Washington, Riyadh, and Tehran-aligned militias." },
+        { "type": "bullets", "items": [
+          "Saudi Aramco shut the pipeline, the kingdom's principal route for moving crude while bypassing Hormuz. Removing that hedge compounds the upward pressure on prices created by the strait blockade.",
+          "Iraq closed its al-Tayyib crossing with Iran and, according to Iraqi military sources, dismissed a provincial commander after locating drone launch sites on its territory — an implicit acknowledgment that Iran-aligned factions operated from Iraqi soil.",
+          "Separately, a Houthi projectile struck the Jazan region, damaging a mosque and wounding two, extending the near-daily Houthi campaign against Saudi targets that resumed in July."
+        ] },
+        { "type": "para", "text": "For Washington, the episode threatens the fragile effort to keep Iraq out of the war and to protect the Iraqi government from being cast as a co-belligerent. The decision point is whether Baghdad moves visibly against the responsible factions or absorbs the incident; we assess Prime Minister-level restraint is likely in the near term, given the domestic risk of confronting the militias directly." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, the Treasury Office of Intelligence and Analysis, and open sources."
+    },
+    {
+      "headline": "North Korea Resumes Short-Range Launches, Testing Trump's Outreach",
+      "blocks": [
+        { "type": "para", "text": "We assess that Pyongyang's launch of several short-range ballistic missiles on 12 September is calibrated pressure — enough to register displeasure and advance testing, but short of the profile that would foreclose the leader-level meeting President Trump has floated for this year." },
+        { "type": "bullets", "items": [
+          "The missiles were fired around 0520 from the Wonsan area and flew roughly 250 kilometers into the East Sea, per South Korea's Joint Chiefs; Seoul convened an emergency National Security Office session and is sharing data with the United States and Japan. Overhead imagery is consistent with a launch from the Wonsan area.",
+          "The launch follows an August barrage and comes despite the President's stated interest in meeting Kim Jong Un and his order scaling back the Ulchi Freedom Shield exercises — a step that has unsettled Seoul and Tokyo.",
+          "We judge Kim is bargaining for sanctions relief and de facto recognition as a nuclear state ahead of any summit, and that further short-range tests are likely."
+        ] },
+        { "type": "para", "text": "What to watch: a shift to intermediate- or intercontinental-range testing would signal escalation rather than signaling, and would sharply raise the cost to Washington of pursuing a meeting on Pyongyang's terms." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Putin Warns Europe Against Troop Deployments as Russian Strikes Kill Civilians",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Putin's warning at the BRICS summit — that any European troop deployment to Ukraine would mean \"a war with Russia\" — is aimed at fracturing the multinational reassurance-force coalition that Paris and London are assembling, and that Moscow will keep striking Ukrainian cities to raise the political cost of that commitment." },
+        { "type": "bullets", "items": [
+          "Russian strikes killed at least eight civilians across several oblasts on Saturday; overnight attacks again used hundreds of drones and guided glide bombs against cities and infrastructure, Ukrainian officials said.",
+          "President Macron says 26 countries have pledged to contribute to a postwar peacekeeping and reassurance force; Moscow has repeatedly called any such deployment unacceptable, and Putin's remarks are its sharpest formulation yet.",
+          "On the ground, Ukrainian units reported repelling a Russian attempt to infiltrate from Kursk into Sumy oblast through a pipeline — a tactic Russian forces have used before."
+        ] },
+        { "type": "para", "text": "For Washington, the central question is whether the European coalition holds without an explicit US backstop. We expect Putin to keep pairing maximalist rhetoric with strikes to deter any deployment; a genuine decision point arrives only if a European government commits forces to a defined mission on Ukrainian soil." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Sweden Votes in Knife-Edge Election That Could Seat the Far Right",
+      "blocks": [
+        { "type": "para", "text": "We assess that today's Swedish general election is genuinely too close to call and could, for the first time, bring the far-right Sweden Democrats directly into government — an outcome with real consequences for EU cohesion, migration policy, and the shape of Sweden's still-new role in NATO." },
+        { "type": "bullets", "items": [
+          "Final polls place the opposing blocs within a fraction of a percentage point; Prime Minister Kristersson has pledged to bring the Sweden Democrats — the largest party on the right — into a governing coalition if his bloc prevails, a break from their prior support-only arrangement.",
+          "Challenger Magdalena Andersson's Social Democrats led for much of the campaign but have narrowed as Kristersson closed the gap; polls close at 2000 local (1800 GMT), with exit polls then and reliable results overnight.",
+          "This is still developing as of this morning; no result is in."
+        ] },
+        { "type": "para", "text": "For Washington, either outcome keeps Sweden inside NATO and broadly aligned against Russia, so the near-term defense picture is stable. But a formal Sweden Democrats seat in government would harden Stockholm's migration and EU-budget positions and could complicate consensus in Brussels. What to watch: turnout and the Sweden Democrats' final share." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Lebanon.</b> President Joseph Aoun made a surprise visit to southern Lebanon on 12 September, vowing to secure a full Israeli withdrawal, hours after Israeli air and artillery strikes hit areas around Nabatieh. The sequence underscores how fragile the Israel-Lebanon arrangement remains and the limits of Beirut's leverage over events in the south.",
+          "<b>Gaza.</b> An Israeli strike in Gaza City's Tel al-Hawa neighborhood on 13 September killed two people and wounded at least 13, per Palestinian medics; the Israeli military said it targeted two Hamas militants. It is the latest reported violation of a shaky ceasefire that continues to fray at the edges.",
+          "<b>Philippines.</b> The death toll from the ferry fire off Palawan rose to 76 on 12 September, with 13 still unaccounted for; the vessel had been carrying more than 130. Not a security event, but a reminder of the chronic maritime-safety gaps on a heavily trafficked regional sea lane."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, DHS, and open sources."
+    }
+  ]
+}
