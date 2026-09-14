@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-14",
+  "cover": true,
+  "toc": [
+    { "tag": "RUSSIA-UKRAINE", "summary": "Drone strike at Yahodyn crossing appears aimed at departing European dignitaries." },
+    { "tag": "BRICS-NEW DELHI", "summary": "Summit projects unity; India-China thaw is the consequential outcome." },
+    { "tag": "RED SEA-IRAN", "summary": "Houthi seizure of Bab el-Mandeb widens the Iran war and pressures energy flows." },
+    { "tag": "ISRAEL-LEBANON", "summary": "Katz vows no withdrawal; Gaza ceasefire holds amid a public blame fight." },
+    { "tag": "VENEZUELA-CARIBBEAN", "summary": "US buildup deepens as F-35s operate from Puerto Rico." },
+    { "tag": "SUDAN", "summary": "RSF drones hit Ad-Damazin, pushing the war toward the Ethiopian border." },
+    { "tag": "NOTES", "summary": "Indonesia ferry disaster; Iran-UAE thaw; Philippines ferry fire." }
+  ],
+  "articles": [
+    {
+      "headline": "Russian Drone Strike Near the Polish Border Appears Aimed at Departing European Officials",
+      "blocks": [
+        { "type": "para", "text": "We assess that Sunday&#8217;s Russian drone strike at the Yahodyn rail crossing on the Ukrainian-Polish border &#8212; minutes after a diplomatic train carrying former UK Prime Minister Boris Johnson, former Swedish Prime Minister Carl Bildt, and EU security advisers had departed &#8212; was <b>probably a deliberate attempt to kill or wound senior Western figures as they left Ukraine.</b> If confirmed as intentional, it would rank among Moscow&#8217;s boldest actions against Western political figures of the war and carries direct implications for allied resolve and for the security of high-level travel into Ukraine." },
+        { "type": "bullets", "items": [
+          "The strike hit a train at the Yahodyn&#8211;Dorohusk crossing shortly after the dignitaries&#8217; train left ahead of schedule; a second train carrying former CIA Director David Petraeus was evacuated as the drone approached. No casualties were reported.",
+          "Ukraine&#8217;s state railway judged it &#8220;highly probable&#8221; the intended target was the diplomatic train, and ISW assessed the available reporting &#8220;compellingly&#8221; supports a deliberate strike. We concur that the timing and precision make an accidental hit unlikely; Moscow will nonetheless deny intent.",
+          "The attack came amid a heavy overnight barrage &#8212; hundreds of Shahed-type and jet-powered drones plus cruise and ballistic missiles &#8212; underscoring that Russia retains the capacity for sustained deep strikes despite Ukraine&#8217;s long-range campaign against Russian oil infrastructure.",
+          "For Washington: a strike this close to NATO territory &#8212; a truck was hit less than a mile from Poland earlier Sunday, briefly closing the crossing &#8212; raises spillover risk and will sharpen allied debate over air defense for western Ukraine and the security of the main Western resupply and travel corridor."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "US officials continue to say Kyiv, Moscow, and Washington are &#8220;getting closer&#8221; to a framework to end the war. We judge the gap between that optimism and events on the ground &#8212; a strike apparently aimed at Western officials &#8212; remains wide; a near-term ceasefire is possible but not likely on current trajectories. Watch whether the incident hardens European resolve or is used to press Kyiv toward talks." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, and open sources."
+    },
+    {
+      "headline": "BRICS Summit in New Delhi Projects Unity, Advancing a Multipolar Message Against US Pressure",
+      "blocks": [
+        { "type": "para", "text": "We assess that the BRICS summit concluding in New Delhi on 13 September handed Beijing and Moscow a symbolic win &#8212; images of Xi, Putin, and Modi clasping hands, Xi&#8217;s first visit to India in seven years, and a unanimous &#8220;New Delhi Declaration&#8221; implicitly rebuking US tariffs and &#8220;unilateral measures&#8221; &#8212; even as the bloc&#8217;s internal divisions limit its practical cohesion." },
+        { "type": "bullets", "items": [
+          "The declaration condemned unilateral trade measures and warned of rising nuclear-confrontation risk. We read it as calibrated to signal independence from Washington without committing members to concrete anti-US steps.",
+          "The India-China thaw is the more consequential outcome. A working Modi-Xi reset, if durable, complicates US efforts to cultivate New Delhi as a counterweight to Beijing &#8212; and lands as US-India ties are strained over tariffs.",
+          "On the margins, Iran&#8217;s President Pezeshkian met the Abu Dhabi crown prince in the highest-level Iran-UAE contact since the Iran war began, hinting at Gulf hedging that could either ease or complicate US pressure on Tehran (carried in Notes).",
+          "For Washington: the optics matter more than the communiqu&#233;. We expect the administration to downplay the summit publicly while watching whether Modi&#8217;s balancing tilts further toward Beijing and Moscow on trade, energy, and technology."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Houthi Seizure of the Bab el-Mandeb Chokepoint Widens the Iran War and Threatens Energy Flows",
+      "blocks": [
+        { "type": "para", "text": "We assess that Houthi consolidation of Yemen&#8217;s Red Sea coast &#8212; including Mayun (Perim) island inside the Bab el-Mandeb Strait and the port of Mokha &#8212; gives the movement, for the first time, a credible physical capability to interdict traffic through a chokepoint carrying roughly a tenth of global trade. <b>This opens a dangerous new front in the US-Israel war with Iran and adds sustained upward pressure on oil.</b>" },
+        { "type": "bullets", "items": [
+          "Over the weekend the Houthis extended fire into Saudi territory: a projectile struck the Jazan region, wounding two and damaging a mosque, while Riyadh shut its East-West pipeline as a precaution after a drone attack it attributed to launch sites in Iraq. Saudi Arabia signaled restraint at Baghdad&#8217;s request.",
+          "Overhead imagery shows Houthi forces fortifying positions on Mayun, consistent with an intent to hold the island rather than raid it.",
+          "The seizure runs in parallel with the Strait of Hormuz &#8220;tanker war,&#8221; where US and Iranian forces have traded strikes on shipping in recent weeks. Two chokepoints under simultaneous threat is a materially worse picture for energy security, with crude trading near $100.",
+          "For Washington: pressure will grow for CENTCOM to guarantee freedom of navigation at Bab el-Mandeb without being drawn into a Yemeni ground war. We judge the most likely near-term US course is expanded maritime escort and strikes on Houthi launch and radar sites; a decision point comes if the Houthis actually move to close the strait."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, the Office of Naval Intelligence, and open sources."
+    },
+    {
+      "headline": "Israel Digs In Across South Lebanon as Ceasefire Diplomacy Over Gaza Turns Recriminatory",
+      "blocks": [
+        { "type": "para", "text": "We assess that Israel is signaling an open-ended military presence in southern Lebanon and preparing for a renewed campaign against Hezbollah, reducing the odds of a negotiated Israeli withdrawal and keeping the Lebanon front primed for escalation even as a fragile Gaza ceasefire holds." },
+        { "type": "bullets", "items": [
+          "Defense Minister Israel Katz said on 13 September that Israel will not leave the roughly 700-sq-km &#8220;security zone&#8221; it holds &#8212; from the coast through Beaufort to Mount Hermon &#8212; until Hezbollah is disarmed nationwide, warning that &#8220;anyone who approaches the Ali Taher ridge will be destroyed&#8221; after the IDF razed tunnels there.",
+          "Katz has said Israel will hold the zone even if Washington asks it to withdraw. We judge this puts Israel at odds with US and UNIFIL preferences and raises the risk of miscalculation with a Hezbollah that is trying to rebuild."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On Gaza, a US-brokered ceasefire is holding, but the diplomacy has curdled into a public contest over credit. Jared Kushner said the administration exploited Israel&#8217;s post-Doha &#8220;global isolation&#8221; &#8212; after an unsuccessful Israeli strike on Hamas leaders in Qatar &#8212; to press Israel into the deal; Netanyahu&#8217;s Likud rejected that, crediting the Gaza City operation, the Doha strike, and President Trump&#8217;s pressure for forcing Hamas to concede." },
+        { "type": "bullets", "items": [
+          "Israel struck Gaza City on 13 September, killing two Hamas engineers it said were violating the ceasefire &#8212; a reminder that the truce is thin and enforced by strike.",
+          "For Washington: the Kushner-Likud spat is largely about credit, but it exposes real friction over tactics and over Qatar&#8217;s role. We expect continued US effort to lock in the ceasefire while managing Israeli operations that risk unraveling it."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "US Military Buildup in the Caribbean Deepens as F-35s Operate From Puerto Rico",
+      "blocks": [
+        { "type": "para", "text": "We assess that the US military campaign in the Caribbean has reached its largest scale in decades &#8212; F-35 fighters now operating from Puerto Rico, a cruise-missile submarine off South America, and a sustained series of lethal strikes on vessels Washington designates as drug traffickers. The posture&#8217;s scope exceeds a narrow counternarcotics mission, and regional governments increasingly read it as coercive." },
+        { "type": "bullets", "items": [
+          "US strikes on alleged trafficking boats have killed well over 200 people across dozens of vessels since the campaign began last year, with additional Venezuela-linked oil tankers seized. The administration has not publicly presented evidence for individual targets, and rights groups allege extrajudicial killings.",
+          "The current phase follows the January seizure of former Venezuelan leader Nicol&#225;s Maduro by US forces; it pairs visible airpower at Puerto Rico with maritime interdiction, signaling Washington intends to keep pressure on Caracas and on trafficking networks.",
+          "For Washington: the campaign advances hemispheric aims but carries legal exposure at home and diplomatic cost abroad, including with partners wary of extrajudicial strikes. We expect continued strikes and are watching for any shift from interdiction toward direct action ashore."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, the DEA Office of National Security Intelligence, and open sources."
+    },
+    {
+      "headline": "RSF Drone Assault on Blue Nile Capital Pushes Sudan&#8217;s War Toward the Ethiopian Border",
+      "blocks": [
+        { "type": "para", "text": "We assess that overnight paramilitary drone strikes on Ad-Damazin, capital of Sudan&#8217;s Blue Nile state, mark a significant geographic expansion of the war by the Rapid Support Forces toward the Ethiopian border and threaten one of the few population centers that had stayed relatively insulated from the fighting." },
+        { "type": "bullets", "items": [
+          "Residents reported explosions and a fire near the airport as the army fired anti-aircraft missiles. The state government said it repelled attempts to strike Ad-Damazin, including its main power station, and called the situation &#8220;under control.&#8221;",
+          "The RSF&#8217;s nearest known positions are under 100 km south of the city after a months-long push along the Ethiopian frontier. We judge the strikes are likely shaping operations ahead of a possible ground advance.",
+          "For Washington and the region: an RSF move toward the Ethiopian border risks drawing in Sudan&#8217;s neighbors and external backers and deepening what aid agencies already call the world&#8217;s largest hunger and displacement crisis &#8212; more than 200,000 dead since April 2023. Watch for cross-border spillover and effects on Gulf and Egyptian calculations."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, State INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>Indonesia &#8212; ferry disaster.</b> The <i>Virgo Transport 8</i>, carrying more than 240 people from Surabaya to Banjarmasin, capsized in rough Java Sea weather on 13 September; at least six are dead and about 129 missing, with roughly 108 rescued. A survivor described the vessel as overcrowded. Not a security event, but a major regional disaster testing Indonesian search-and-rescue.",
+          "<b>Iran-UAE &#8212; a cautious thaw.</b> On the BRICS margins, Iran&#8217;s President Pezeshkian and Abu Dhabi Crown Prince Sheikh Khaled held the highest-level Iran-UAE contact since the Iran war began, with both sides signaling a wish to &#8220;turn the page.&#8221; We judge it a Gulf hedge rather than a strategic realignment; at the margin it could ease regional tension.",
+          "<b>Philippines &#8212; ferry fire toll rises.</b> The death toll from a passenger-ferry fire off Palawan rose to 76, with 13 still missing &#8212; among the deadliest recent maritime incidents in the region."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, State INR, and open sources."
+    }
+  ]
+}
