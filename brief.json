@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-21",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN", "summary": "Trump nears a decision on resuming large-scale strikes as Gulf leaders convene in New York." },
+    { "tag": "RUSSIA-UKRAINE", "summary": "Ukraine mounts its largest drone assault of the war on Moscow as Russia votes." },
+    { "tag": "SAUDI ARABIA-YEMEN", "summary": "Houthi missile-and-drone barrage on the Kingdom marks a sharp escalation." },
+    { "tag": "GERMANY", "summary": "AfD wins a second state in two weeks; Merz's bloc reels." },
+    { "tag": "NORTH KOREA", "summary": "Pyongyang fires two short-range ballistic missiles, its second test in a week." },
+    { "tag": "ISRAEL-WEST BANK", "summary": "Deadly attack prompts an Israeli crackdown ahead of Yom Kippur." },
+    { "tag": "NOTES", "summary": "UN General Assembly opens; Russia's Duma vote; energy markets." }
+  ],
+  "articles": [
+    {
+      "headline": "Trump Nears Decision Point on Iran as Gulf Leaders Convene in New York",
+      "blocks": [
+        { "type": "para", "text": "We assess that President Trump is weighing whether to resume large-scale strikes on Iran or pivot toward a negotiated off-ramp, and that his choice this week will set the trajectory of a six-month conflict now settled into a war of attrition. In remarks Sunday the President said he faces &quot;a big decision&quot; on whether to &quot;go in and annihilate&quot; the Iranian leadership or hold, and pointed to a Tuesday meeting with the leaders of six Gulf states &mdash; Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, and Oman &mdash; on the margins of the UN General Assembly as a hinge point." },
+        { "type": "bullets", "items": [
+          "The war has hardened since the April ceasefire and the June memorandum of understanding both collapsed by August; the two sides now trade limited strikes amid a redoubled US sanctions campaign. The 1 September US strikes across southern Iran and Tehran's retaliatory salvos toward Gulf-hosted US facilities mark the current tempo.",
+          "Overhead imagery confirms three US carrier strike groups remain on station in the CENTCOM area of responsibility &mdash; the heaviest sustained naval presence in the region in years &mdash; giving the President a ready military option should he choose escalation."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The Gulf dimension is now central. Tuesday's session with the six monarchies will test whether Washington can assemble regional backing for either a renewed pressure campaign or a face-saving settlement &mdash; a calculation sharpened by this weekend's Houthi strikes on Saudi Arabia, which raise the cost to Gulf partners of a wider war." },
+        { "type": "bullets", "items": [
+          "For Washington, the central question is whether Gulf partners will underwrite another diplomatic push or brace for a conflict that puts their own infrastructure at risk.",
+          "We expect the President to keep both tracks open through the UNGA week rather than commit publicly; a decision to resume sustained strikes would most likely follow, not precede, the Gulf consultations. A visible movement of additional strike assets would be an early indicator that he has chosen escalation."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Ukraine Mounts Record Drone Assault on Moscow as Russia Votes",
+      "blocks": [
+        { "type": "para", "text": "We assess that Ukraine's largest aerial assault of the war to date &mdash; more than 1,000 drones overnight, roughly 450 of them aimed at Moscow &mdash; was timed to the final day of Russia's State Duma elections both to demonstrate reach and to press Kyiv's campaign against Russian refining capacity. The strike set fires at the Moscow Oil Refinery and, by Kyiv's account, featured the first confirmed combat use of the domestically produced Pelican ballistic missile." },
+        { "type": "bullets", "items": [
+          "Russia's Defense Ministry claimed it downed 1,110 drones across 19 regions and Crimea &mdash; the highest daily total it has reported this year, eclipsing an August peak of 822. Regional officials said three people were killed and about 20 injured near Moscow; open-source imagery shows large fires at the refinery's primary distillation and isomerization units.",
+          "The barrage landed as United Russia headed for another &quot;constitutional&quot; majority &mdash; near 58 percent of the party-list vote with most precincts counted &mdash; in a ballot Moscow ran across occupied Ukrainian territory and that officials said was disrupted by cyberattacks and drones.",
+          "Russian forces kept up their own tempo, striking Kyiv Oblast overnight and damaging warehouses and vehicles; the exchange underscores that neither side yet sees a battlefield incentive to pause."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the State Department's newly approved $2.7 billion sale of air-defense upgrades to Ukraine signals continued materiel support even as the administration presses for a settlement. We expect Kyiv to keep prioritizing Russian energy infrastructure, which strains fuel supply and export revenue more cheaply than front-line gains; the debut of a longer-range domestic missile widens the set of targets it can hold at risk." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Houthi Missile-and-Drone Barrage on Saudi Arabia Marks Sharp Escalation",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Houthi mass strike on Saudi Arabia over the weekend &mdash; the group's most significant against the Kingdom in four years &mdash; materially raises the risk of a wider Gulf conflict and injects fresh volatility into oil markets. Houthi forces launched ballistic and cruise missiles and drones at Riyadh and the Red Sea energy hub of Yanbu, and for the first time since 2022 struck King Khalid International Airport, hitting jet-fuel tanks." },
+        { "type": "bullets", "items": [
+          "Saudi air defenses reported intercepting a ballistic missile aimed at Riyadh and thwarting attacks on Yanbu, Taif, Baish, and Farasan, though the airport strike and a reported hit on an Aramco facility at Yanbu appear to have gotten through. Air-raid alerts sounded in Riyadh for the first time in this escalation.",
+          "The barrage tracks a broader flare-up: ground fighting has intensified across Marib, Taiz, Lahj, al-Jawf, and al-Bayda since July &mdash; the heaviest since the 2022 truce &mdash; and the Houthis have warned other states against joining Saudi operations.",
+          "Crude whipsawed: Brent slid early Monday on expectations that Saudi exports would recover, then pared losses intraday as traders weighed the threat to Gulf infrastructure. We judge the market is pricing limited, not sustained, disruption for now."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "For Washington, the strikes complicate the Iran calculus directly: they raise the cost to Gulf partners of backing another US pressure campaign and hand Tehran a low-cost means to signal through its Yemeni ally. We expect the exchange to feature prominently in Tuesday's US&ndash;Gulf meeting, where Riyadh will likely press for firmer air-defense support in return for any backing of US options against Iran." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "AfD Wins Second German State in Two Weeks as Merz's Bloc Reels",
+      "blocks": [
+        { "type": "para", "text": "We assess that the far-right Alternative for Germany's victory in Mecklenburg-Vorpommern &mdash; its second state win in a fortnight &mdash; deepens the crisis for Chancellor Friedrich Merz's governing Christian Democrats and points to continued fragmentation of Germany's political center. Merz called the results a &quot;disaster.&quot;" },
+        { "type": "bullets", "items": [
+          "The AfD took about 38 percent in Mecklenburg-Vorpommern, finishing first ahead of the SPD; the CDU collapsed to 4.9 percent &mdash; below the 5 percent threshold for seats and its worst-ever showing in the state. In Berlin, the far-left Die Linke won with roughly 26 percent, with the CDU a distant second and the AfD third.",
+          "The results extend a pattern set two weeks earlier, when the AfD came close to a majority in Saxony-Anhalt, and suggest the &quot;firewall&quot; between the mainstream and the extremes is eroding at the state level.",
+          "For Washington, the trend bears watching: a weakened Merz government has less room to sustain defense-spending increases, support for Ukraine, and cohesion within the EU and NATO. We assess no immediate policy break, but a governing coalition under mounting domestic pressure heading toward the next federal cycle."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, and open sources."
+    },
+    {
+      "headline": "North Korea Fires Two Short-Range Ballistic Missiles, Second Test in a Week",
+      "blocks": [
+        { "type": "para", "text": "We assess that Pyongyang's launch of two short-range ballistic missiles Sunday is a calibrated pressure signal aimed at Washington and Seoul rather than a prelude to a larger provocation. The missiles, fired hours apart from the eastern Wonsan area, flew roughly 450 and more than 600 kilometers into the East Sea." },
+        { "type": "bullets", "items": [
+          "It was the North's second weapons demonstration in about a week and followed threats to bolster its nuclear deterrent in response to what Pyongyang called US hostility. NSA collection confirms the launches originated from the Wonsan complex.",
+          "The tests come despite the administration's decision last month to scale back a joint US&ndash;ROK exercise &mdash; a gesture apparently aimed at reviving diplomacy with Kim Jong Un. We judge Pyongyang is signaling it will engage only from a position of demonstrated strength.",
+          "We expect continued short-range testing and probable pressure for sanctions relief; a longer-range or satellite launch would indicate Kim has decided the diplomatic track is not worth preserving."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, NGA, and open sources."
+    },
+    {
+      "headline": "Deadly West Bank Attack Prompts Israeli Crackdown Ahead of Yom Kippur",
+      "blocks": [
+        { "type": "para", "text": "We assess that Sunday's fatal shooting in the West Bank will drive an intensified Israeli security operation over the Yom Kippur period and further strain an already volatile territory, even as Israeli attention remains fixed on Gaza and the wider war with Iran. A Palestinian gunman opened fire on Israelis at a natural spring near the settlement of Neve Tzuf, killing a father of six; security forces captured the shooter hours later at a Ramallah-area hospital." },
+        { "type": "bullets", "items": [
+          "In a separate incident, Israeli forces killed a Palestinian driver they said had attempted a ramming attack near Ganim, further north. Hamas praised the spring shooting but did not claim responsibility for it.",
+          "Prime Minister Netanyahu vowed that &quot;no terrorist is immune,&quot; ordered reinforcements into the West Bank, and directed closures and arrests; security forces are preparing what officials describe as extensive Yom Kippur operations.",
+          "For Washington, heightened West Bank unrest complicates the diplomatic backdrop as leaders gather at the UN and an international push on Palestinian statehood gains momentum. We see a realistic possibility of further attacks over the holiday and expect a period of stepped-up raids and friction."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "bullets", "items": [
+          "<b>United Nations.</b> The 81st General Assembly's general debate opens Tuesday in New York, with President Trump slated to speak early in the session. We expect the sidelines to carry more weight than the podium: the US&ndash;Gulf session on Iran, continued momentum behind Palestinian statehood recognition, and a dense slate of bilaterals.",
+          "<b>Russia.</b> With most precincts counted, United Russia is on track for another two-thirds &quot;constitutional&quot; majority in State Duma elections held 18&ndash;20 September, including across occupied Ukrainian territory. Officials reported cyberattacks and drone disruptions during the vote; final results are not due before 25 September.",
+          "<b>Energy.</b> Crude stayed volatile Monday, with Brent trading around $103&ndash;105, as markets weighed twin supply risks &mdash; the Houthi strikes on Saudi facilities and Ukraine's hits on Russian refining &mdash; against expectations of a quick Saudi recovery. We assess near-term price risk is skewed modestly to the upside."
+        ] }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, Treasury's Office of Intelligence and Analysis, and open sources."
+    }
+  ]
+}
