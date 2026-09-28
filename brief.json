@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-28",
+  "cover": true,
+  "toc": [
+    { "tag": "IRAN-HORMUZ", "summary": "Trump rejects Tehran's conditional offer to reopen the strait; tanker war escalates and oil jumps." },
+    { "tag": "UK-HOMELAND", "summary": "Five arrested near RAF Fairford in suspected plot against a base supporting the Iran campaign." },
+    { "tag": "CHINA-SCS", "summary": "PLA stages joint drills at Scarborough Shoal, signaling resolve toward Manila." },
+    { "tag": "FRANCE", "summary": "Le Pen's National Rally wins its first Senate caucus as the right holds its majority." },
+    { "tag": "UKRAINE", "summary": "Overnight Russian strikes on Odesa, Zaporizhzhia, and Kyiv region kill at least five." },
+    { "tag": "LEVANT", "summary": "Gaza death toll passes 74,000 as Lebanon-Israel withdrawal talks advance." },
+    { "tag": "NOTES", "summary": "Yemen interceptions; White House AI meeting this week." }
+  ],
+  "articles": [
+    {
+      "headline": "Trump Rejects Iran's Hormuz Offer; Tanker War Escalates and Oil Climbs",
+      "blocks": [
+        { "type": "para", "text": "We assess that the collapse of Tehran's latest diplomatic overture leaves the seven-month Strait of Hormuz conflict without an off-ramp and raises the near-term risk to shipping and global oil supply. Over the weekend President Trump publicly rejected Iran's conditional proposal to reopen the strait and resume nuclear talks within seven days, telling reporters Tehran \"overplayed its hand\" and is \"losing so badly.\" Iran's Foreign Minister Abbas Araghchi responded that Tehran will not soften its demands and is awaiting a \"definitive\" US answer through mediators." },
+        { "type": "bullets", "items": [
+          "Iran's offer was conditional on Washington lifting the naval blockade imposed on 13 April and expanded on 14 July, unfreezing Iranian assets, and ending the war \"on all fronts\" — terms the President said the US might have accepted a year ago but will not now.",
+          "Within hours of the rejection, open reporting described fresh explosions in the waterway and antiship missiles and drones fired at transiting vessels, consistent with the tit-for-tat pattern since US Central Command struck three Iranian crude carriers in early September.",
+          "We judge Tehran is using the strait as coercive leverage rather than seeking a decisive naval battle it would lose; its aim is to raise the economic cost to Washington and its partners until sanctions and the blockade ease."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "The market reaction was immediate. Brent crude rose nearly 3 percent to about $107 a barrel and US benchmark WTI climbed to roughly $94 in Asian trading, extending a months-long risk premium; commercial transits through the strait, which carried close to a fifth of global oil before the war, remain sharply below normal. For Washington, the key question is whether a prolonged closure forces a choice between escalating strikes to break the blockade Tehran has imposed on traffic and absorbing higher energy prices into the November midterm campaign. We expect intermittent strikes on shipping to continue and see a realistic possibility of a further oil spike if a tanker is hit or sunk." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, the Office of Naval Intelligence, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "UK Arrests Five Near US-Used Air Base in Suspected Plot Tied to Iran Campaign",
+      "blocks": [
+        { "type": "para", "text": "We assess that Sunday's counterterrorism operation at RAF Fairford in western England reflects heightened threats to US and allied installations supporting operations against Iran, and that the plot was likely disrupted before it reached execution. Gloucestershire Police responded in the early hours to reports of three suspicious vehicles moving toward the base and arrested five men, initially under the Explosives Act and subsequently on suspicion of preparing a terrorist act." },
+        { "type": "bullets", "items": [
+          "Authorities imposed a 400-meter cordon while military explosives specialists examined the vehicles and evacuated roughly 85 households as a precaution.",
+          "RAF Fairford has been used by US air forces to support strikes in the Iran campaign, giving the site clear symbolic and operational value as a target.",
+          "President Trump said the suspects had been under surveillance \"for a long time\" and were \"looking to do big damage,\" indicating prior intelligence awareness; we caution that motive and any state nexus remain unconfirmed pending the UK investigation."
+        ] },
+        { "type": "para", "text": "For Washington, the incident underscores force-protection risks to rear-area basing across Europe as the Iran conflict continues. We expect UK counterterrorism police to lead, with close US liaison, and judge that a confirmed link to Iranian direction or inspiration — as opposed to homegrown militancy — would be the principal escalation trigger to watch." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, FBI, DHS I&A, INR, and open sources."
+    },
+    {
+      "headline": "China Stages Joint Drills at Scarborough Shoal, Pressing Manila",
+      "blocks": [
+        { "type": "para", "text": "We assess that the People's Liberation Army's joint naval and air exercise near Scarborough Shoal on 27 September is a calibrated pressure signal aimed at the Philippines rather than a prelude to seizure. The PLA Southern Theater Command cast the drills as a \"necessary response\" to unnamed \"certain countries\" it says threaten regional stability, while the China Coast Guard ran separate exercises rehearsing boarding, inspection, and forced-towing operations." },
+        { "type": "bullets", "items": [
+          "The rehearsed coast-guard tasks track Beijing's gray-zone playbook of using constabulary forces to enforce its claims below the threshold of armed conflict.",
+          "We see no indications of the sustained logistics buildup that would precede an attempt to occupy or blockade the contested feature.",
+          "The shoal sits inside the Philippines' exclusive economic zone and near the sea lanes that carry much of East Asia's trade, and Manila is a US treaty ally covered by the Mutual Defense Treaty."
+        ] },
+        { "type": "para", "text": "For Washington, the drills test alliance resolve at a moment when US attention and naval assets are absorbed by the Gulf. We expect Beijing to continue normalizing a coast-guard presence around the shoal and judge that a collision or water-cannon incident against a Philippine vessel is the most likely near-term flashpoint." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, the Office of Naval Intelligence, NGA, INR, and open sources."
+    },
+    {
+      "headline": "France's Far Right Wins First Senate Caucus as the Right Holds Its Majority",
+      "blocks": [
+        { "type": "para", "text": "We assess that Sunday's French Senate election preserved the center-right's control of the upper house but marked a durable structural gain for the far right ahead of the 2027 presidential race. The conservative Republicans and allies retained a majority — holding at least 127 seats, down from 131, with a few results still outstanding — while Marine Le Pen's National Rally and its allies won a record 14 seats, crossing for the first time the threshold to form an official Senate group." },
+        { "type": "bullets", "items": [
+          "Roughly half the 348-seat Senate was contested; the chamber is chosen by local officials, so the RN's breakthrough signals deepening strength in its grassroots base, not just national polling.",
+          "Le Pen called the result a \"historic victory\"; a formal caucus brings speaking time, committee seats, and funding that institutionalize the party's influence.",
+          "President Macron's centrists again fared poorly, reinforcing a fragmented legislature that constrains France's fiscal and defense decisions."
+        ] },
+        { "type": "para", "text": "For Washington, a rising National Rally matters for the trajectory of French policy on Ukraine, defense spending, and EU cohesion should the party's momentum carry into 2027. We judge the immediate governing math is unchanged, but the result is a leading indicator worth tracking as France heads toward a presidential contest in which Le Pen is a front-runner." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from INR, CIA, and open sources."
+    },
+    {
+      "headline": "Overnight Russian Strikes Hit Odesa, Zaporizhzhia, and Kyiv Region",
+      "blocks": [
+        { "type": "para", "text": "We assess that Russia's overnight strikes into 27 September continued its campaign of pressuring Ukrainian cities and infrastructure without producing a decisive battlefield shift. Ukrainian officials reported a large strike on the southern Odesa region that damaged a residential building, a medical facility, a hotel, a shop, and a grain-storage warehouse, killing one man; attacks in Zaporizhzhia killed three and wounded four, and a strike in Vyshneve in the Kyiv region killed one and wounded three." },
+        { "type": "bullets", "items": [
+          "Ukraine's military logged well over 200 combat engagements across the front in the past day and reported intercepting scores of drones over the south.",
+          "The targeting of grain storage at Odesa fits a recurring pattern of pressure on export infrastructure as the autumn strike season begins.",
+          "We see the tempo as consistent with attrition and coercion rather than the opening of a new offensive."
+        ] },
+        { "type": "para", "text": "For Washington, the persistence of long-range strikes sharpens the recurring question of Ukrainian air-defense stocks and interceptor resupply. We expect Russia to intensify strikes on energy and grain infrastructure as winter approaches; a sustained push against the power grid would be the signal that the seasonal campaign has begun in earnest." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from DIA, NGA, NSA, INR, and open sources."
+    },
+    {
+      "headline": "Gaza Death Toll Passes 74,000 as Lebanon-Israel Withdrawal Talks Advance",
+      "blocks": [
+        { "type": "para", "text": "We assess that the Gaza truce in force since October 2025 is holding in its broad outlines but continues to fray at the edges. Gaza's health ministry reported the war's Palestinian death toll surpassed 74,000, with more than 175,000 wounded; it says roughly 1,145 people have been killed since the ceasefire took effect, and Israeli strikes on 27 September killed at least two more in central and southern Gaza." },
+        { "type": "bullets", "items": [
+          "We judge the ceasefire remains fundamentally intact, but recurring strikes and disputes over its terms keep the risk of a larger breakdown elevated.",
+          "Casualty figures are provided by the Hamas-run health ministry and cannot be independently verified, though international bodies have generally treated the trend as broadly reliable."
+        ] },
+        { "type": "stars" },
+        { "type": "para", "text": "On a separate track, Lebanon is in talks with Israel over an Israeli withdrawal, the disarmament of Hezbollah, and an eventual peace agreement — a process that, if it advances, would mark a significant realignment on Israel's northern border. For Washington, both files bear on the postwar architecture the administration is promoting for Gaza and the Levant. We expect slow, conditional progress on the Lebanon track and see Hezbollah's willingness to disarm as the central variable." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, INR, DIA, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        { "type": "para", "text": "<b>Yemen — Houthi missile and drone salvos intercepted; casualties mount.</b> The Saudi-led coalition said it intercepted ballistic missiles and drones launched by the Iran-aligned Houthis toward Khamis Mushait and Riyadh over the weekend, the latest in an intensifying exchange since the Houthis declared a naval blockade of Riyadh in July. The World Health Organization says nearly 700 people have been killed in Yemen since fighting escalated last month. We assess the Yemen front is increasingly coupled to the US-Iran confrontation in the Gulf and is a channel through which Tehran can impose costs on Washington's Gulf partners." },
+        { "type": "para", "text": "<b>United States — White House to convene AI executives this week.</b> President Trump and House Speaker Mike Johnson are expected to host chief executives of leading artificial-intelligence companies at the White House on 29 September, with reported agenda items spanning industrial strategy, global competitiveness, and safety rules for the most advanced models. We assess the meeting is unlikely to yield binding commitments; the more consequential question is whether it moves Washington toward written rules on frontier systems or preserves reliance on voluntary industry pledges ahead of the midterms. Worth watching for any signal on export controls and compute." }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, the Office of Science and Technology, and open sources."
+    }
+  ]
+}
