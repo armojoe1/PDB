@@ -1,0 +1,15 @@
+To: your.email@example.com
+Subject: President's Daily Brief — September 29, 2026
+
+Today's top-line judgments: Russia's overnight barrage on Kyiv (7+ killed) signals a deliberate winter campaign of missile-and-drone strikes aimed at breaking Ukrainian will, even as Ukraine's own strikes drive Russian oil refining to a multi-decade low. Elsewhere, the Gaza ceasefire is fraying after Israel killed a senior Hamas commander, mass settler violence in the West Bank drew rare cross-government condemnation, the UK bailed five suspects in an alleged plot near a US-used air base while probing an Iran link, and Sweden is set to install Magdalena Andersson's narrow center-left government.
+
+Full brief: https://docs.google.com/document/d/1dsriAcaW99crs70nO0kKoA489FXDbpbNFWlzeoZEqO8/edit
+
+Note: The brief is linked above as a private Google Doc in your Drive "PDB" folder. The fully formatted PDF (PDB_2026-09-29.pdf) was also generated and is available separately.
+
+---
+[This draft was prepared by the scheduled PDB run but could NOT be saved to Gmail Drafts:
+the Gmail connector needs re-authentication (it was disconnected during this run).
+Recipient "your.email@example.com" is the address given in the task prompt — change it to
+your real address before sending. Re-authorize Gmail, then this can be created automatically
+on the next run, or paste the above into a new draft manually.]
