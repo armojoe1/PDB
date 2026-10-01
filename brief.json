@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-01",
+  "cover": true,
+  "toc": [
+    {
+      "tag": "GAZA",
+      "summary": "Hamas weighs Trump's 20-point plan under a deadline; disarmament is the sticking point."
+    },
+    {
+      "tag": "IRAN",
+      "summary": "Qatar-mediated talks stall; risk of renewed US-Iran combat is rising."
+    },
+    {
+      "tag": "IRAQ",
+      "summary": "US completes its military withdrawal amid the Iran war; Tehran claims a win."
+    },
+    {
+      "tag": "UKRAINE",
+      "summary": "Russia reopens its winter campaign against the power grid; five killed."
+    },
+    {
+      "tag": "AI",
+      "summary": "Tech CEOs sign a voluntary White House 'super intelligence' accord of doubtful bite."
+    },
+    {
+      "tag": "KOREA",
+      "summary": "North fortifies the DMZ and rebuffs a mine probe; Seoul demands a halt."
+    },
+    {
+      "tag": "NOTES",
+      "summary": "Caribbean strikes, Morocco's first female PM, a US multilateral exit, Myanmar."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Hamas Weighs Trump Plan Under Deadline; Gaza Ceasefire Hinges on Disarmament",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that President Trump's 20-point framework is the most serious opening to end the Gaza war in months, but that its fate turns on whether Hamas will accept disarmament and forgo any governing role&mdash;conditions the group has repeatedly rejected. After Prime Minister Netanyahu endorsed the plan alongside Trump at the White House, Qatar and Egypt transmitted the text to Hamas late on 29 September; Trump has given the group \"three or four days\" to respond."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The plan calls for an immediate ceasefire, release of all remaining hostages in exchange for Palestinian prisoners, a phased Israeli withdrawal, Hamas disarmament, and an international transitional body paired with a Palestinian technocratic committee.",
+            "Hamas was not a party to the talks that produced the plan; its negotiators say they will review it \"in good faith.\" We judge a conditional or partial acceptance more likely than either clean acceptance or outright rejection, with disarmament the central obstacle.",
+            "Trump warned that a rejection would give Israel full US backing to \"do what it has to do\"&mdash;signaling near-term escalation if the talks collapse.",
+            "For Washington, a deal would free the hostages, ease humanitarian pressure, and let the administration shift attention to the Iran confrontation. The decision point is Hamas's formal reply through the Cairo channel over the next several days."
+          ]
+        },
+        {
+          "type": "stars"
+        },
+        {
+          "type": "para",
+          "text": "The ceasefire is not yet in effect. Press reporting indicates Israeli operations in Gaza City killed several Palestinians on 30 September, and settler violence flared in the West Bank, where more than 100 Israeli settlers attacked the village of Jalud; Netanyahu condemned the attack and demanded prosecutions."
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "US-Iran Diplomacy Stalls; Risk of Renewed Combat Is Rising",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Qatar-mediated efforts to halt the US-Iran war have made little progress and that the probability of a return to direct military exchanges is rising. Over 28&ndash;29 September, Qatari envoy Ali al-Thawadi shuttled between Foreign Minister Araghchi in New York and envoys Jared Kushner and Steve Witkoff in Washington&mdash;Vice President Vance briefly attending&mdash;around a two-page compromise meant to bridge Iran's demand to lift the US naval blockade against Washington's demand for verifiable nuclear concessions. Neither side has moved."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "The blockade and periodic exchanges continue to disrupt traffic through the Strait of Hormuz; US gasoline has climbed to roughly $4.45 a gallon, a politically sensitive economic drag the White House is watching closely.",
+            "We judge Tehran is using the talks to seek blockade relief without conceding enrichment, while Washington is unwilling to ease pressure absent verifiable limits&mdash;leaving a narrow, fragile diplomatic path.",
+            "Iran-linked threats to US and allied facilities persist. UK authorities are still investigating a suspected plot near RAF Fairford, which hosts US bombers tied to the campaign; an Iran nexus is reported to be the leading line of inquiry.",
+            "For Washington, the question is whether to accept a Qatari interim formula or resume strikes. We expect continued back-channel contact in the coming days, with a realistic possibility of escalation if the proposal is rejected."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NSA, INR, Treasury OIA, and open sources."
+    },
+    {
+      "headline": "US Completes Military Withdrawal From Iraq Amid the Iran War",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the completion of the US troop withdrawal from Iraq&mdash;carried out under the 2024 drawdown agreement&mdash;removes a longstanding US ground presence at a moment of open conflict with Iran, and that Tehran and its Iraqi partners will frame it as a strategic victory. Italy likewise completed its withdrawal."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Liaison reporting corroborates that the last US combat elements have departed, ending the counter-ISIS troop mission; a small advisory footprint and diplomatic security remain.",
+            "We judge the move modestly raises risk to the counter-ISIS mission, now led by Iraqi forces, while reducing US tripwire exposure to Shia-militia attacks during the Iran war.",
+            "Iran-aligned factions in Baghdad are likely to press for a parallel drawdown of the US diplomatic presence and to claim the withdrawal as vindication.",
+            "For Washington, the key question is whether Iraqi forces can sustain pressure on ISIS remnants without US enablers; a resurgence would be the clearest sign this judgment needs revisiting."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, and open sources."
+    },
+    {
+      "headline": "Russia Reopens Its Winter Campaign Against Ukraine's Power Grid",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that Russia's renewed mass strikes on Ukrainian energy infrastructure mark the opening of a third consecutive winter campaign aimed at degrading the grid and breaking civilian morale ahead of cold weather. President Zelensky reported at least five people killed, including a child, in the latest overnight barrage."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Open-source monitoring and Ukrainian officials report fresh damage to substations and generation sites; the repeated strikes are likely intended to outpace Kyiv's repair capacity and thin its air defenses.",
+            "Allied support continues: Belgium pledged three F-16s by year-end, alongside sustained ammunition deliveries from several partners&mdash;useful but insufficient to fully shield the grid.",
+            "We judge Moscow will maintain combined drone-and-missile salvos through winter, probably timing the heaviest attacks to cold snaps; interceptor stocks are the limiting factor for Ukraine.",
+            "For Washington, the near-term lever is accelerating air-defense interceptors and grid components. A major grid collapse would deepen Ukraine's humanitarian strain and refugee outflows into allied Europe."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, NGA, INR, and open sources."
+    },
+    {
+      "headline": "Tech CEOs Sign White House 'Super Intelligence' Accord; Analysts Doubt Its Bite",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that the voluntary \"White House Accord on Super Intelligence,\" signed on 30 September by the heads of the leading US AI firms, is primarily a political and industry-alignment move rather than a binding safety regime&mdash;but that it signals the administration's intent to keep frontier-AI governance under a light-touch, pro-innovation, China-competitive framework."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Signatories&mdash;among them Nvidia's Jensen Huang, Google's Sundar Pichai, Meta's Mark Zuckerberg, xAI's Elon Musk, Anthropic's Dario Amodei, and OpenAI's Greg Brockman&mdash;pledged \"robust internal\" controls and independent audits of safety testing, with results reported to a board committee. The commitments are voluntary and carry no enforcement.",
+            "The accord accompanied executive action reframing frontier AI as \"super intelligence\" and tightening limits on US-China AI joint ventures, consistent with the administration's \"whoever wins AI, wins\" framing.",
+            "We judge the national-security weight lies less in the pledge than in the signal on compute and export policy; the real leverage remains chip controls and which states can field the largest training systems.",
+            "Security researchers warn that voluntary self-policing is weak against misuse&mdash;a concern underscored by reports that a Chinese frontier model was jailbroken to produce weapons-relevant instructions. Watch whether any audit results are ever made public."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from the National Security Agency, the Office of Science and Technology Policy, DHS, and open sources."
+    },
+    {
+      "headline": "North Korea Fortifies the DMZ and Rebuffs Mine Probe; Seoul Demands a Halt",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "We assess that North Korea's accelerating fortification of the inter-Korean border&mdash;trenching, barriers, road-building, and mine-laying north of the Military Demarcation Line&mdash;reflects a deliberate effort to harden the frontier and formalize its break with the South, raising the risk of miscalculation. Pyongyang has dismissed a joint South Korean&ndash;UN Command investigation into a DMZ mine blast that wounded South Korean soldiers; Seoul has demanded the work stop as a violation of the 1953 armistice."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Commercial satellite imagery shows new trenching, anti-tank barriers, and mine-laying along the MDL; roughly 5,000 North Korean troops were mobilized for the effort in the first half of 2026, up sharply from about 1,000 a year earlier.",
+            "Kim Yo Jong rejected the mine probe and warned the South would pay a \"gruesome and dear price,\" language consistent with Pyongyang's hardened two-state hostility line.",
+            "We judge the fortification is defensive and political rather than a prelude to attack, but a mined, contested DMZ raises the odds of an accidental clash.",
+            "For Washington, the risk is an inadvertent escalation that draws in US forces. Watch for further provocations and whether Pyongyang advances the nuclear and conventional weapons plans flagged at its February party congress."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from NGA, DIA, CIA, INR, and open sources."
+    },
+    {
+      "headline": "Notes",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "<b>Western Hemisphere.</b> US strikes on alleged drug-smuggling vessels continued, with a weekend strike killing three; more than 65 people have died in over 15 strikes since early September. Southern Command is reported to be weighing land strikes against cartel targets, and the USS Gerald R. Ford Carrier Strike Group has been operating in the Caribbean. We assess the campaign is edging toward the Venezuelan mainland, raising legal and regional-backlash risks.",
+            "<b>Morocco.</b> Rabat appointed Fatima Ezzahra El Mansouri as its first female prime minister&mdash;a milestone in a key US and European partner on counterterrorism and migration, and a sign of continuity in a stable Maghreb government.",
+            "<b>Multilateral.</b> The United States formally notified the Council of Europe of its withdrawal from GRECO, the body's anti-corruption monitor, citing no \"tangible benefits\"&mdash;part of a broader pullback from multilateral institutions that cedes ground to rivals in standards-setting forums.",
+            "<b>Myanmar.</b> Military airstrikes killed some 50 people; the UN reiterated that conditions remain unsafe for refugee returns, sustaining a displacement crisis on the borders of US partners India and Thailand."
+          ]
+        }
+      ],
+      "prepared_by": "Prepared by ODNI with reporting from CIA, DIA, INR, Treasury OIA, and open sources."
+    }
+  ]
+}
