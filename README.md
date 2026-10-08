@@ -65,3 +65,12 @@ Two ways to deploy, either is fine:
 
 Entries flagged `"sample": true` in the manifest are dropped automatically the first time a
 real edition is published.
+
+### Routine requirements
+
+The scheduled routine runs in a fresh cloud session. For it to publish on its own it needs:
+
+- the repository `armojoe1/PDB` attached as a source of the routine with push access (or the
+  session must attach it itself via `add_repo` before pushing), otherwise `git push` is refused;
+- either the Netlify site linked to this repo (Git continuous deployment on `main`) or the
+  Netlify connector attached to the routine.
