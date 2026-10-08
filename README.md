@@ -28,14 +28,20 @@ The site is static and lives in `site/`:
 python3 scripts/render_pdb.py brief.json PDB_YYYY-MM-DD.pdf
 python3 scripts/publish_site.py brief.json PDB_YYYY-MM-DD.pdf --summary "Top-line judgments…"
 git add site && git commit -m "PDB YYYY-MM-DD" && git push origin main
-# then: Netlify connector -> deploy-site (siteId above) and run the npx command it returns
+# deploy: automatic if the Netlify site is linked to this repo (Git CD, publish dir "site");
+# otherwise Netlify connector -> deploy-site (siteId above) and run the npx command it returns
 ```
 
 Committing `site/` to `main` is what keeps the archive: every routine run starts from a
 fresh clone, so editions that are not committed would vanish from the next deploy.
-The Netlify connector's `deploy-site` operation returns a one-shot
-`npx -y @netlify/mcp@latest --site-id … --proxy-path …` command; run it from the repo
-root and it uploads the repo and publishes `site/`.
+Two ways to deploy, either is fine:
+
+1. **Git continuous deployment (preferred, no tokens):** in the Netlify admin, link the
+   `pdb-daily-brief` site to `armojoe1/PDB`, production branch `main`. `netlify.toml`
+   already sets the publish directory, so every push to `main` publishes the new edition.
+2. **Netlify connector:** its `deploy-site` operation returns a one-shot
+   `npx -y @netlify/mcp@latest --site-id … --proxy-path …` command; run it from the repo
+   root and it uploads the repo and publishes `site/`.
 
 Entries flagged `"sample": true` in the index are dropped automatically the first time a
 real edition is published.
