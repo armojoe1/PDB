@@ -1,3 +1,17 @@
 {
- "editions": []
+ "editions": [
+  {
+   "date": "2016-09-14",
+   "pdf": "briefs/PDB_2016-09-14.pdf",
+   "json": "briefs/PDB_2016-09-14.json",
+   "headlines": [
+    "Cyber Threats to US Election Unlikely To Alter Voting Outcomes"
+   ],
+   "articles": 1,
+   "summary": "Sample edition used to prove the viewer pipeline; it is removed automatically when the first real brief is published.",
+   "published_at": "2026-10-08T18:04:32+00:00",
+   "sample": true
+  }
+ ],
+ "updated_at": "2026-10-08T18:04:32+00:00"
 }

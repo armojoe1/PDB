@@ -16,7 +16,8 @@ The site is static and lives in `site/`:
 
 | path | what |
 |---|---|
-| `site/index.html` | the dashboard (archive list, web rendering of each article, inline PDF viewer) |
+| `site/index.html` | the viewer: the page *is* the PDF, rendered full-width with PDF.js, plus a slim bar to switch editions |
+| `site/vendor/pdfjs/` | PDF.js 4.10.38 (`pdf.min.mjs`, `pdf.worker.min.mjs`) served locally, no CDN |
 | `site/briefs/index.json` | the archive index the page reads |
 | `site/briefs/PDB_<date>.pdf` / `.json` | one PDF and one brief JSON per edition |
 | `site/_redirects` | the `/latest.*` redirects, rewritten on every publish |
