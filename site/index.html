@@ -118,7 +118,7 @@
       <div class="foot">Access is logged. Use of this system constitutes consent to monitoring.</div>
     </form>
   </div>
-  <div class="footer">ODNI · Intelligence Community Information Technology Enterprise · Mock environment</div>
+  <div class="footer">ODNI · Intelligence Community Information Technology Enterprise</div>
 </div>
 <div class="bar">
   <span class="title">President's Daily Brief</span>
@@ -154,11 +154,12 @@
     var uid = document.getElementById('uid').value.trim(), pw = document.getElementById('pw').value;
     if (!uid || !pw) { err.textContent = 'Enter your User ID and passphrase.'; return; }
     var ok = true;
-    if (cfg.passphraseSha256) {
+    if (cfg.userId && uid.toLowerCase() !== String(cfg.userId).toLowerCase()) ok = false;
+    if (ok && cfg.passphraseSha256) {
       try { ok = (await sha256(pw)) === cfg.passphraseSha256.toLowerCase(); }
       catch (e) { ok = false; err.textContent = 'Secure context required for sign-in.'; return; }
     }
-    if (!ok) { err.textContent = 'Authentication failed. Check your passphrase and try again.'; document.getElementById('pw').value = ''; return; }
+    if (!ok) { err.textContent = 'Authentication failed. Check your User ID and passphrase and try again.'; document.getElementById('pw').value = ''; return; }
     setAuthed(true); unlock();
   });
   document.getElementById('piv').addEventListener('click', function () {

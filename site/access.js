@@ -1,5 +1,6 @@
 // Sign-in settings for the dashboard. The real gate is Netlify's team login;
-// this passphrase is the second, cosmetic one on the ODNI screen.
-// To change it: python3 -c "import hashlib;print(hashlib.sha256(b'NEW-PASSPHRASE').hexdigest())"
-// and paste the result below. Leave it empty ("") to accept any passphrase.
-window.PDB_ACCESS = { passphraseSha256: "0697370ddf8056209fe5307bbd58dc5cbe1a5c24972faea01e68de79e2ba5d71" };
+// this is the second, cosmetic one on the ODNI screen.
+// To change the passphrase: python3 -c "import hashlib;print(hashlib.sha256(b'NEW-PASSPHRASE').hexdigest())"
+// and paste the result into passphraseSha256. Leave it empty ("") to accept any passphrase;
+// leave userId empty to accept any user ID.
+window.PDB_ACCESS = { userId: "joearmitage", passphraseSha256: "9594db3bed0f46fdf4c12978ad7905ad510f366dece7875ba57f9c13cbebdd60" };
