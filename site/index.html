@@ -25,7 +25,6 @@
     border-bottom: 3px solid var(--accent); position: sticky; top: 0; z-index: 5;
   }
   .bar .title { font: 700 15px/1.2 Georgia, "Times New Roman", serif; letter-spacing: .01em; white-space: nowrap; }
-  .bar .cls { font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: var(--bar-muted); white-space: nowrap; }
   .bar .spacer { flex: 1 1 auto; }
   .bar select, .bar button, .bar a.btn {
     appearance: none; -webkit-appearance: none; border: 1px solid #5a564f; background: #2b2924; color: var(--bar-ink);
@@ -48,7 +47,7 @@
   .hidden { display: none !important; }
   @media (max-width: 640px) {
     .bar { padding: 8px 10px; gap: 8px; }
-    .bar .cls, .bar .pages { display: none; }
+    .bar .pages { display: none; }
     main { padding: 10px 6px 32px; gap: 10px; }
   }
 </style>
@@ -56,7 +55,6 @@
 <body>
 <div class="bar">
   <span class="title">President's Daily Brief</span>
-  <span class="cls">Top Secret//NoForn · mock, open sources</span>
   <span class="spacer"></span>
   <button type="button" id="prev" title="Newer edition" aria-label="Newer edition">&#8249;</button>
   <select id="edition" aria-label="Edition"></select>
