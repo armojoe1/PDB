@@ -4,3 +4,7 @@ __pycache__/
 scripts/sample_pdb.pdf
 outputs/
 *.zip
+# plaintext editions never belong under site/ (only *.enc and manifest.json)
+site/briefs/*.pdf
+site/briefs/*.json
+!site/briefs/manifest.json

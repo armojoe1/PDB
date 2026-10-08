@@ -112,7 +112,7 @@
       <label for="pw">Passphrase</label>
       <input id="pw" name="pw" type="password" required>
       <div class="row">
-        <button type="submit">Accept &amp; Sign In</button>
+        <button type="submit" id="login-btn">Accept &amp; Sign In</button>
         <button type="button" class="piv" id="piv">PIV / CAC</button>
       </div>
       <div class="err" id="login-err" role="alert"></div>
@@ -137,42 +137,67 @@
   <div class="notice" id="notice">Loading…</div>
 </main>
 
-<script src="access.js"></script>
-<script>
-(function () {
-  var KEY = 'pdb-auth';
-  var body = document.body, form = document.getElementById('login-form'), err = document.getElementById('login-err');
-  var cfg = window.PDB_ACCESS || {};
-  function authed() { try { return sessionStorage.getItem(KEY) === '1'; } catch (e) { return window.__pdbAuth === true; } }
-  function setAuthed(v) { try { v ? sessionStorage.setItem(KEY, '1') : sessionStorage.removeItem(KEY); } catch (e) {} window.__pdbAuth = !!v; }
-  function unlock() { body.classList.remove('locked'); window.dispatchEvent(new Event('pdb-unlocked')); }
-  async function sha256(text) {
-    var buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
-    return Array.from(new Uint8Array(buf)).map(function (b) { return b.toString(16).padStart(2, '0'); }).join('');
-  }
-  if (authed()) unlock();
-  form.addEventListener('submit', async function (ev) {
-    ev.preventDefault(); err.textContent = '';
-    var uid = document.getElementById('uid').value.trim(), pw = document.getElementById('pw').value;
-    if (!uid || !pw) { err.textContent = 'Enter your User ID and passphrase.'; return; }
-    var ok = true;
-    if (cfg.userId && uid.toLowerCase() !== String(cfg.userId).toLowerCase()) ok = false;
-    if (ok && cfg.passphraseSha256) {
-      try { ok = (await sha256(pw)) === cfg.passphraseSha256.toLowerCase(); }
-      catch (e) { ok = false; err.textContent = 'Secure context required for sign-in.'; return; }
-    }
-    if (!ok) { err.textContent = 'Authentication failed. Check your User ID and passphrase and try again.'; document.getElementById('pw').value = ''; return; }
-    setAuthed(true); unlock();
-  });
-  document.getElementById('piv').addEventListener('click', function () {
-    err.textContent = 'No smart card reader detected. Sign in with your User ID and passphrase.';
-  });
-  var so = document.getElementById('signout');
-  if (so) so.addEventListener('click', function (ev) { ev.preventDefault(); setAuthed(false); location.reload(); });
-})();
-</script>
 <script type="module">
+  // ---------- crypto: mirrors scripts/pdb_crypto.py ----------
+  const MAGIC = 'PDBE1';
+  const te = new TextEncoder(), td = new TextDecoder();
+  const b64 = (s) => Uint8Array.from(atob(s), (c) => c.charCodeAt(0));
+  let privateKey = null;          // CryptoKey, memory only; gone on reload or sign-out
+  let blobUrl = null;
+
+  async function openPrivateKey(userId, passphrase) {
+    const res = await fetch('keys/private.enc', { cache: 'no-cache' });
+    if (!res.ok) throw new Error('key file missing');
+    const k = await res.json();
+    const salt = b64(k.salt), iv = b64(k.iv), ct = b64(k.ct);
+    const base = await crypto.subtle.importKey('raw', te.encode(userId.trim().toLowerCase() + ':' + passphrase), 'PBKDF2', false, ['deriveKey']);
+    const aes = await crypto.subtle.deriveKey({ name: 'PBKDF2', hash: 'SHA-256', salt, iterations: k.iterations || 600000 }, base,
+      { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+    let pkcs8;
+    try { pkcs8 = await crypto.subtle.decrypt({ name: 'AES-GCM', iv }, aes, ct); }
+    catch (e) { return null; }   // wrong credentials
+    return crypto.subtle.importKey('pkcs8', pkcs8, { name: 'RSA-OAEP', hash: 'SHA-256' }, false, ['decrypt']);
+  }
+
+  async function decryptContainer(buf) {
+    const u8 = new Uint8Array(buf);
+    if (td.decode(u8.subarray(0, 5)) !== MAGIC) throw new Error('bad container');
+    const klen = (u8[5] << 8) | u8[6];
+    const wrapped = u8.subarray(7, 7 + klen), iv = u8.subarray(7 + klen, 7 + klen + 12), ct = u8.subarray(7 + klen + 12);
+    const raw = await crypto.subtle.decrypt({ name: 'RSA-OAEP' }, privateKey, wrapped);
+    const fileKey = await crypto.subtle.importKey('raw', raw, { name: 'AES-GCM' }, false, ['decrypt']);
+    return crypto.subtle.decrypt({ name: 'AES-GCM', iv }, fileKey, ct);
+  }
+  async function fetchDecrypted(path) {
+    const res = await fetch(path, { cache: 'no-cache' });
+    if (!res.ok) throw new Error(res.status + ' ' + path);
+    return decryptContainer(await res.arrayBuffer());
+  }
+  async function fetchDecryptedJson(path) { return JSON.parse(td.decode(await fetchDecrypted(path))); }
+
+  // ---------- sign-in ----------
   const $ = (id) => document.getElementById(id);
+  const body = document.body, form = $('login-form'), err = $('login-err'), loginBtn = $('login-btn');
+  form.addEventListener('submit', async (ev) => {
+    ev.preventDefault(); err.textContent = '';
+    const uid = $('uid').value.trim(), pw = $('pw').value;
+    if (!uid || !pw) { err.textContent = 'Enter your User ID and passphrase.'; return; }
+    loginBtn.disabled = true; loginBtn.textContent = 'Verifying…';
+    try {
+      privateKey = await openPrivateKey(uid, pw);
+    } catch (e) {
+      err.textContent = 'Sign-in service unavailable: ' + e.message; privateKey = null;
+    }
+    loginBtn.disabled = false; loginBtn.textContent = 'Accept & Sign In';
+    if (!privateKey) { if (!err.textContent) err.textContent = 'Authentication failed. Check your User ID and passphrase and try again.'; $('pw').value = ''; return; }
+    $('pw').value = '';
+    body.classList.remove('locked');
+    init();
+  });
+  $('piv').addEventListener('click', () => { err.textContent = 'No smart card reader detected. Sign in with your User ID and passphrase.'; });
+  $('signout').addEventListener('click', (ev) => { ev.preventDefault(); privateKey = null; if (blobUrl) URL.revokeObjectURL(blobUrl); location.reload(); });
+
+  // ---------- viewer ----------
   const main = $('main'), notice = $('notice'), sel = $('edition');
   let editions = [], current = -1, pdfjs = null, renderToken = 0, loadedDoc = null;
 
@@ -180,30 +205,26 @@
     const [y, m, d] = iso.split('-').map(Number);
     return new Date(Date.UTC(y, m - 1, d)).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
   }
-  function say(html) { notice.innerHTML = html; notice.classList.remove('hidden'); }
-
+  function say(text) { notice.textContent = text; notice.classList.remove('hidden'); }
   async function loadPdfJs() {
     if (pdfjs) return pdfjs;
     const base = new URL('vendor/pdfjs/', location.href).href;
     const mod = await import(base + 'pdf.min.mjs');
     mod.GlobalWorkerOptions.workerSrc = base + 'pdf.worker.min.mjs';
-    pdfjs = mod;
-    return mod;
+    return (pdfjs = mod);
   }
-
-  function clearPages() {
-    main.querySelectorAll('canvas.page, iframe.fallback, .summary').forEach((el) => el.remove());
-  }
+  function clearPages() { main.querySelectorAll('canvas.page, .summary').forEach((el) => el.remove()); }
+  function nextFrame() { return new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r))); }
 
   async function renderDoc(doc, token) {
-    const width = Math.min(main.clientWidth - 12, 900);
+    await nextFrame();                                  // make sure the viewer is laid out before measuring
+    const width = Math.max(240, Math.min(main.clientWidth - 12, 900));
     const dpr = Math.min(window.devicePixelRatio || 1, 2.5);
     for (let n = 1; n <= doc.numPages; n++) {
       if (token !== renderToken) return;
       const page = await doc.getPage(n);
       const base = page.getViewport({ scale: 1 });
-      const scale = width / base.width;
-      const vp = page.getViewport({ scale: scale * dpr });
+      const vp = page.getViewport({ scale: (width / base.width) * dpr });
       const canvas = document.createElement('canvas');
       canvas.className = 'page';
       canvas.width = Math.floor(vp.width); canvas.height = Math.floor(vp.height);
@@ -221,30 +242,28 @@
     const e = editions[i];
     sel.value = e.date;
     $('prev').disabled = i === 0; $('next').disabled = i === editions.length - 1;
-    $('open').href = e.pdf; $('download').href = e.pdf;
-    $('download').setAttribute('download', e.pdf.split('/').pop());
     document.title = 'PDB ' + spellDate(e.date);
-    try { history.replaceState(null, '', '#' + e.date); } catch (err) {}
+    try { history.replaceState(null, '', '#' + e.date); } catch (err2) {}
     const token = ++renderToken;
-    clearPages();
-    $('pages').textContent = '';
-    say('Loading ' + spellDate(e.date) + '…');
-    if (e.summary) {
-      const s = document.createElement('p'); s.className = 'summary'; s.textContent = e.summary; main.appendChild(s);
-    }
+    clearPages(); $('pages').textContent = '';
+    $('open').removeAttribute('href'); $('download').removeAttribute('href');
+    say('Decrypting ' + spellDate(e.date) + '…');
+    if (e.summary) { const s = document.createElement('p'); s.className = 'summary'; s.textContent = e.summary; main.appendChild(s); }
     try {
-      const lib = await loadPdfJs();
-      if (loadedDoc) { try { loadedDoc.destroy(); } catch (err) {} loadedDoc = null; }
-      const doc = await lib.getDocument({ url: e.pdf }).promise;
+      const [lib, bytes] = await Promise.all([loadPdfJs(), fetchDecrypted(e.pdf)]);
+      if (token !== renderToken) return;
+      if (blobUrl) URL.revokeObjectURL(blobUrl);
+      blobUrl = URL.createObjectURL(new Blob([bytes], { type: 'application/pdf' }));
+      $('open').href = blobUrl; $('download').href = blobUrl;
+      $('download').setAttribute('download', 'PDB_' + e.date + '.pdf');
+      if (loadedDoc) { try { loadedDoc.destroy(); } catch (err2) {} loadedDoc = null; }
+      const doc = await lib.getDocument({ data: new Uint8Array(bytes) }).promise;
       if (token !== renderToken) { doc.destroy(); return; }
       loadedDoc = doc;
       notice.classList.add('hidden');
       await renderDoc(doc, token);
-    } catch (err) {
-      // PDF.js unavailable (offline CDN, old browser): hand the PDF to the browser instead.
-      notice.classList.add('hidden');
-      const f = document.createElement('iframe'); f.className = 'fallback'; f.title = 'PDF'; f.src = e.pdf + '#view=FitH';
-      main.appendChild(f);
+    } catch (err2) {
+      say('Could not open this edition: ' + err2.message);
     }
   }
 
@@ -258,23 +277,25 @@
       await renderDoc(loadedDoc, token);
     }, 200);
   });
-
   sel.addEventListener('change', () => show(editions.findIndex((e) => e.date === sel.value)));
   $('prev').addEventListener('click', () => show(current - 1));
   $('next').addEventListener('click', () => show(current + 1));
   window.addEventListener('keydown', (ev) => {
-    if (ev.target === sel) return;
+    if (body.classList.contains('locked') || ev.target === sel) return;
     if (ev.key === 'ArrowLeft') show(current - 1);
     if (ev.key === 'ArrowRight') show(current + 1);
   });
 
   async function init() {
+    say('Decrypting archive…');
     try {
-      const res = await fetch('briefs/index.json', { cache: 'no-cache' });
-      if (!res.ok) throw new Error(res.status);
-      const data = await res.json();
-      editions = (data.editions || []).slice().sort((a, b) => (a.date < b.date ? 1 : -1));
-    } catch (err) { editions = []; }
+      const manifest = await fetchDecryptedJson('briefs/index.enc');
+      editions = (manifest.editions || []).slice().sort((a, b) => (a.date < b.date ? 1 : -1));
+      await Promise.all(editions.map(async (e) => {
+        if (!e.meta) return;
+        try { Object.assign(e, await fetchDecryptedJson(e.meta)); } catch (err2) {}
+      }));
+    } catch (err2) { editions = []; }
     sel.innerHTML = '';
     editions.forEach((e) => {
       const o = document.createElement('option'); o.value = e.date;
@@ -291,7 +312,6 @@
     const idx = editions.findIndex((e) => e.date === want);
     show(idx >= 0 ? idx : 0);
   }
-  init();
 </script>
 </body>
 </html>

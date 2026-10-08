@@ -184,7 +184,7 @@ The renderer handles all the furniture automatically: `TOP SECRET//NOFORN` banne
 
 The brief has a private dashboard at **https://pdb-daily-brief.netlify.app** (Netlify site id `229b8417-cffa-4fe5-96e7-fcc1b665b10c`, static files in `site/`). To publish an edition:
 
-1. `python3 scripts/publish_site.py brief.json PDB_YYYY-MM-DD.pdf --summary "<the one-or-two-sentence top-line judgments>"` — this copies the PDF and the brief JSON into `site/briefs/`, updates `site/briefs/index.json`, and repoints `/latest.pdf`.
+1. `pip install cryptography` if needed, then `python3 scripts/publish_site.py brief.json PDB_YYYY-MM-DD.pdf --summary "<the one-or-two-sentence top-line judgments>"` — this encrypts the PDF and the brief JSON into `site/briefs/` (to the site's public key; no credentials needed) and updates the encrypted index. Never copy a plaintext PDF under `site/`.
 2. Commit `site/` and push to `main` (`git add site && git commit -m "PDB YYYY-MM-DD" && git push origin main`). The archive only persists if it is committed.
 3. Deploy. If the Netlify site is linked to the repo (Git continuous deployment), the push to `main` deploys it and nothing more is needed. Otherwise run the Netlify connector's **deploy-site** operation with the site id above, then run the `npx -y @netlify/mcp@latest … --proxy-path …` command it returns from the repo root and wait for "Deploy is ready".
 4. Report the dashboard URL and the deploy id. If any step fails, say which one and why — never report a deploy that did not finish.
