@@ -1,0 +1,17 @@
+# President's Daily Brief dashboard — static site, no build step.
+# The daily routine renders the PDF, runs scripts/publish_site.py to drop it
+# into site/briefs/, then deploys this directory to the pdb-daily-brief site.
+[build]
+  publish = "site"
+  command = "echo 'static dashboard: nothing to build'"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/briefs/*.pdf"
+  [headers.values]
+    Content-Disposition = "inline"

@@ -1,0 +1,6 @@
+.netlify/
+__pycache__/
+*.pyc
+scripts/sample_pdb.pdf
+outputs/
+*.zip
