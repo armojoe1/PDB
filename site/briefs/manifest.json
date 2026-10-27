@@ -1,6 +1,14 @@
 {
  "editions": [
   {
+   "date": "2026-10-27",
+   "pdf": "briefs/PDB_2026-10-27.pdf.enc",
+   "json": "briefs/PDB_2026-10-27.json.enc",
+   "articles": 8,
+   "published_at": "2026-10-27T08:55:48+00:00",
+   "meta": "briefs/PDB_2026-10-27.meta.enc"
+  },
+  {
    "date": "2026-10-26",
    "pdf": "briefs/PDB_2026-10-26.pdf.enc",
    "json": "briefs/PDB_2026-10-26.json.enc",
@@ -145,5 +153,5 @@
    "meta": "briefs/PDB_2026-10-08.meta.enc"
   }
  ],
- "updated_at": "2026-10-26T08:55:01+00:00"
+ "updated_at": "2026-10-27T08:55:48+00:00"
 }
