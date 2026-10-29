@@ -5,7 +5,7 @@
    "pdf": "briefs/PDB_2026-10-29.pdf.enc",
    "json": "briefs/PDB_2026-10-29.json.enc",
    "articles": 7,
-   "published_at": "2026-10-29T08:56:45+00:00",
+   "published_at": "2026-10-29T08:56:56+00:00",
    "meta": "briefs/PDB_2026-10-29.meta.enc"
   },
   {
@@ -169,5 +169,5 @@
    "meta": "briefs/PDB_2026-10-08.meta.enc"
   }
  ],
- "updated_at": "2026-10-29T08:56:45+00:00"
+ "updated_at": "2026-10-29T08:56:56+00:00"
 }
