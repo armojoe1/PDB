@@ -1,0 +1,1852 @@
+[
+ {
+  "id": "C001072",
+  "name": "André Carson",
+  "seat": "IN-07",
+  "call_status": "re-elected 2026 (69.9% vs Patrick McAuley (R) and James Sceniak (L), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1974,
+   "education": "BA criminal justice management, Concordia University Wisconsin; MS business management, Indiana Wesleyan University",
+   "career": "Indiana State Excise Police compliance officer (1996-2005); Indiana Dept. of Homeland Security intelligence/fusion-center analyst; marketing specialist",
+   "prior_office": "Indianapolis-Marion County City-County Council 2007-08; U.S. House since March 2008 (Intelligence Committee)"
+  },
+  "self_description": "CPC and New Democrat Coalition member; in 2026 framed his priorities as lowering costs, bringing federal money home and opposing the Trump agenda 'including ICE enforcement' (WFYI/WVXU). Told Haaretz (2021) he will 'unapologetically speak out for my Palestinian brothers'.",
+  "primary_context": "5 May 2026 primary: won 62.4% over Destiny Wells (23.4%; Army Reserve Lt. Col., backed abolishing ICE, refused BlackRock/Google PAC money), George Hornedo (10.5%; generational-change, ex-Buttigieg staffer) and Denise Paul Hatch (3.7%). Challenges were generational/anti-incumbent rather than from his right.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Cosponsor of the Judiciary Act of 2021 (H.R.2584) and Judiciary Act of 2023 (H.R.3422), expanding the Supreme Court to 13 seats (govinfo BILLSTATUS cosponsor lists; bulk check used wrong House bill number)",
+    "src": "https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Bulk: Block the Bombs to Israel Act cosponsor. Also, at a 'March for Gaza' rally, asked whether Americans would 'sit by idly as we watch another genocide' (Free Beacon account); voted for July 2026 Massie amendment ending FMF to Israel",
+    "src": "https://freebeacon.com/democrats/house-dem-shares-stage-with-anti-semites-and-holocaust-deniers-at-march-for-gaza-rally/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Nine-plus terms in Congress (office=3). BA + MS from modest programmes, mid-level law-enforcement/intelligence career (cred=1). Ordinary legislative record: Center for Effective Lawmaking ranked him 197th of 220 House Democrats; only two standalone enacted bills per challenger's record check (policy=1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate UNVERIFIED: primary challenger Hornedo publicly challenged him to debate 'any time, any place' on 6 Apr 2026 and said Carson had avoided direct engagement; no record of any primary or general-election debate found (likely none, but no documented refusal). Held a town hall in May 2025 amid anti-incumbent mood (Axios). Mostly friendly/local outlets; his office did not respond to student-paper queries. Hornedo alleges Carson called him a 'modern-day slave master' when asked about his ICE record (one-sided claim)."
+  },
+  "outside_support": [
+   "CAIR Action",
+   "J Street",
+   "Emgage Action",
+   "Planned Parenthood Action Fund",
+   "Track AIPAC",
+   "Indiana State AFL-CIO",
+   "National Education Association",
+   "Humane World Action Fund"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All (H.R.3069), DC statehood, Block the Bombs to Israel Act (bulk) and Supreme Court expansion (Judiciary Act 2021/2023) (https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors)",
+   "One of nine House members to vote against Iron Dome funding (2021) and against H.Res.771 backing Israel after 7 Oct 2023 (https://en.wikipedia.org/wiki/Andr%C3%A9_Carson)",
+   "Voted for the July 2026 Massie amendment to end $3.3bn annual FMF to Israel (roll 243) (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Opposed ICE detention at Miami Correctional Facility after an April 2026 oversight visit; filed inquiry into Indianapolis ICE surge (Sept 2026) (https://www.ipm.org/news/2026-04-10/congressman-calls-for-end-to-ice-detention-at-indiana-prison-after-oversight-visit)",
+   "Voted Nay on Laken Riley Act and trans-sports bill (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "LI about 4 (M4A, DC statehood, Block the Bombs, Supreme Court expansion), short of 6; no centrist markers beyond New Dem membership. EPD 5 is credentialed by tenure, and EO comes to 3 only because the debate record is unverified. Carson appears to have ignored a public debate challenge, so if that is confirmed EO drops to 2 and he becomes Cat 3. As recorded he is an imperfect Cat 1 fit.",
+  "sources": [
+   "https://ballotpedia.org/Andr%C3%A9_Carson",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "https://www.georgehornedo.com/pressreleases-44",
+   "https://www.wvxu.org/2026-04-17/rep-andre-carson-faces-primary-challengers-in-7th-congressional-district",
+   "https://www.axios.com/local/indianapolis/2025/05/02/us-rep-andre-carson-town-hall-george-hornedo-democratic-primary-challenge",
+   "https://www.thecampuscitizen.com/article/2026/04/18-years-in-carson-faces-real-challenge-what-wells-and-hornedo-would-do-for-iu-indianapolis-students",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors",
+   "https://www.govtrack.us/congress/votes/119-2026/h243",
+   "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"
+  ]
+ },
+ {
+  "id": "D000629",
+  "name": "Sharice Davids",
+  "seat": "KS-03",
+  "call_status": "re-elected 2026 (60.1% vs Eric Jenkins (R), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1980,
+   "education": "AA Johnson County CC; BBA University of Missouri-Kansas City; JD Cornell Law School",
+   "career": "Attorney; former professional mixed martial artist",
+   "prior_office": "U.S. House since 2019 (New Democrat Coalition vice chair, 118th)"
+  },
+  "self_description": "Presents herself as a 'bipartisan, moderate leader' (KCUR 2026 voter guide). On filing for re-election said she wanted to be 'a voice of reason, get stuff done' amid 'chaos' in Washington (KCUR, May 2026).",
+  "primary_context": "4 Aug 2026 primary: beat Sarah Preu 83.4-16.6. Preu ran from the left (DSA-aligned approach, Medicare for All, abolish ICE, no corporate PAC/AIPAC money).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Context: in 2018 told KCUR she supported single-payer in principle but it could not be enacted under GOP control; never cosponsored M4A in Congress and now runs as a moderate"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Context: in July 2018 appeared to back abolishing/defunding ICE on a podcast (AP fact-check), then disavowed it; in 2026 says 'thoughtful immigration enforcement is necessary'"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Bulk Laken Riley Yea; also one of 21 Democrats who voted in 2026 to temporarily fund DHS, says 'thoughtful immigration enforcement is necessary' and backs ICE reforms that include more border security, while opposing new ICE facilities in the KC area",
+    "src": "https://www.kcur.org/politics-elections-and-government/2026-07-22/kansas-3rd-district-voter-guide-sharice-davids-congress-democrat-johnson-county-election"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Self-described 'bipartisan, moderate leader'; broke with most Democrats on 2026 DHS stopgap and on Laken Riley; her left challenger attacked her bipartisanship as 'drift'",
+    "src": "https://johnsoncountypost.com/2026/08/04/district-3-us-house-2026-primary-293256/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member, former vice chair (bulk/Wikipedia)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Four-term member (office=3). Cornell JD (cred=2). Ordinary legislative record on Transportation & Infrastructure and Small Business committees; no signature law confirmed (policy=1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general debate with Eric Jenkins UNVERIFIED (none found). She debated her Republican opponents in 2018, 2022 and 2024 (KC PBS/KCUR 2024 debate). Campaign ran a 'Moving Kansas Forward Tour' across every KS-03 county and cites 1,526 constituent meetings since 2019. Mostly local/public outlets; her campaign did not respond to Johnson County Post comment requests."
+  },
+  "outside_support": [
+   "Democratic Majority for Israel PAC",
+   "National Education Association",
+   "Association of Flight Attendants",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Voted Yea on the Laken Riley Act and the 2026 DHS stopgap (KCUR) (https://www.kcur.org/politics-elections-and-government/2026-07-22/kansas-3rd-district-voter-guide-sharice-davids-congress-democrat-johnson-county-election)",
+   "Voted Nay on the July 2026 Massie amendment to end FMF to Israel; generally votes for Israel military aid (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Backed incentives for Panasonic's De Soto battery plant and Medicaid expansion (KCUR)",
+   "Cosponsor of DC statehood (bulk); voted Nay on trans-sports bill and Nov 2025 CR (bulk)",
+   "Reversed a 2018 statement appearing to back abolishing ICE (https://en.wikipedia.org/wiki/Sharice_Davids)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Self-described bipartisan moderate and New Dem: Laken Riley Yea, 2026 DHS-funding vote with Republicans, enforcement-plus-reform stance on ICE. That gives CI about 3 against LI about 1, short of the Cat 4 threshold. EPD 6 and EO 3 (2026 debate unverified) make her an imperfect fit to the nearest pole, Cat 4.",
+  "sources": [
+   "https://ballotpedia.org/Sharice_Davids",
+   "https://www.kcur.org/politics-elections-and-government/2026-07-22/kansas-3rd-district-voter-guide-sharice-davids-congress-democrat-johnson-county-election",
+   "https://johnsoncountypost.com/2026/08/04/district-3-us-house-2026-primary-293256/",
+   "https://www.kcur.org/politics-elections-and-government/2026-05-11/kansas-democrat-sharice-davids-house-reelection-campaign",
+   "https://www.kcur.org/politics-elections-and-government/2024-10-25/sharice-davids-prasanth-reddy-kansas-us-house-3rd-district-debate",
+   "https://shariceforcongress.com/",
+   "https://en.wikipedia.org/wiki/Sharice_Davids",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "M001220",
+  "name": "Morgan McGarvey",
+  "seat": "KY-03",
+  "call_status": "re-elected 2026 (76.0% vs Maria Teresa Rodriguez (R), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA journalism, University of Missouri; JD University of Kentucky",
+   "career": "Attorney (Morgan Pottinger McGarvey); former special assistant to KY AG Jack Conway; aide to Rep. Ben Chandler",
+   "prior_office": "Kentucky Senate 2013-2023 (Minority Floor Leader 2018-2023); U.S. House since 2023"
+  },
+  "self_description": "Campaign site: 'In a red state like Kentucky, having a strong progressive voice in Congress matters'; says he ran 'to fight for his progressive values and to get things done'. Member of both the CPC and the New Democrat Coalition.",
+  "primary_context": "2026 Democratic primary cancelled; unopposed after challenger Jared Randall withdrew.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0,
+    "e": "Context: criticised the June 2026 Supreme Court ruling allowing state bans on trans girls in girls' sports as the administration making life 'harder for a couple of kids in Kentucky'; does not explicitly state the policy position"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former state Senate minority leader, now in second House term (office=3). JD (cred=2). Ranking member of the Veterans' Affairs Disability Assistance subcommittee; bipartisan bills such as the Cogswell-Macy Act and a Young Adult Tax Credit Act with Casar and Watson Coleman (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No primary held. No general-election debate with Rodriguez found (UNVERIFIED). Appears on friendly national outlets (MS NOW) plus local press; no hostile-outlet or town-hall record found."
+  },
+  "outside_support": [
+   "Joint Action Committee for Political Affairs",
+   "League of Conservation Voters",
+   "Planned Parenthood Action Fund / Alliance Advocates of KY",
+   "Giffords"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All, DC statehood, Block the Bombs to Israel Act (joined July 2026) and the 118th Green New Deal resolution (bulk)",
+   "Voted for the July 2026 Massie amendment to end FMF to Israel (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Tried to divert a $70bn ICE/CBP funding increase to homeless veterans (June 2026) and pressed ICE over a detained constituent (https://mcgarvey.house.gov/media/press-releases/congressman-morgan-mcgarvey-attempts-to-divert-70-billion-ice-budget-bill-to-homeless-veterans)",
+   "Called for Hegseth's impeachment; opposed Louisville data-centre rate increases (house.gov press releases)",
+   "Called on Biden to withdraw in July 2024 (https://en.wikipedia.org/wiki/Morgan_McGarvey)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Progressive-leaning: LI about 4 from bulk (M4A, GND, DC statehood, Block the Bombs), self-identifies as a 'progressive voice', but no movement-left endorsements or statements found to reach 6. EPD is high. EO is about 3 with the debate unverified, which makes him an imperfect fit to the nearest pole, Cat 1.",
+  "sources": [
+   "https://ballotpedia.org/Morgan_McGarvey",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "https://www.morganmcgarvey.com/",
+   "https://mcgarvey.house.gov/media/press-releases",
+   "https://mcgarvey.house.gov/media/press-releases/congressman-morgan-mcgarvey-on-supreme-court-trans-athlete-ruling",
+   "https://en.wikipedia.org/wiki/Morgan_McGarvey",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "C001125",
+  "name": "Troy A. Carter",
+  "seat": "LA-02",
+  "call_status": "re-elected 2026 (won outright with 70.9% in the 3 Nov majority-vote primary; December general cancelled, per Ballotpedia)",
+  "bio": {
+   "birth_year": 1963,
+   "education": "BA Xavier University of Louisiana; MS management, University of Holy Cross; attended Carnegie Mellon; Harvard Kennedy School executive programme",
+   "career": "Executive assistant to New Orleans Mayor Sidney Barthelemy; adjunct political science instructor, Xavier",
+   "prior_office": "Louisiana House 1991-94; New Orleans City Council 1994-2002; Louisiana Senate 2016-2021 (Senate Democratic Caucus chair); U.S. House since May 2021"
+  },
+  "self_description": "Member of both the CPC and the New Democrat Coalition; no explicit ideological self-label found. Voted with Biden 100% in the 117th Congress (FiveThirtyEight).",
+  "primary_context": "Louisiana cancelled the 2026 House partisan primaries; Carter won the 3 Nov majority-vote primary outright (70.9%) against Republican Peter Williams and minor candidates. No intra-party challenge of note.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Long state and local career, Congress since 2021 (office=3). BA plus non-elite MS (cred=1). Authored or co-sponsored 75 bills that became law in the Louisiana Senate; Energy & Commerce member (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate record for the 2026 jungle-format race UNVERIFIED (none found). No evidence on town halls or hostile-outlet appearances; media pattern appears local and friendly."
+  },
+  "outside_support": [
+   "J Street",
+   "Planned Parenthood Action Fund",
+   "Southern Poverty Law Center Action Fund"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All (also in 117th/118th), DC statehood and Block the Bombs to Israel Act (joined Apr 2026) (bulk)",
+   "Voted for the 2023 pro-Israel resolution but for the July 2026 Massie amendment to cut $3.3bn FMF, criticising Israel's conduct of the war (http://troycarter.house.gov/media/press-releases/congressman-carter-statement-massie-amendment-limiting-funding-israel)",
+   "Criticised Israel's interception of the 2025 Global Sumud Flotilla (https://en.wikipedia.org/wiki/Troy_Carter_(politician))",
+   "State-level priorities were minimum-wage increases and LGBTQ anti-discrimination law (https://en.wikipedia.org/wiki/Troy_Carter_(politician))"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mainstream party-line Democrat in both the CPC and New Dems: LI 3 from bulk cosponsorships, CI about 1 (caucus only). Experienced and legislatively productive (EPD 6). EO is unverified at 3, which makes him an imperfect fit to the nearest pole, Cat 1. Little distinctive evidence either way.",
+  "sources": [
+   "https://ballotpedia.org/Troy_Carter",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "https://en.wikipedia.org/wiki/Troy_Carter_(politician)",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "N000015",
+  "name": "Richard E. Neal",
+  "seat": "MA-01",
+  "call_status": "re-elected 2026 (68.3% vs independent Nadia Milleron, per Ballotpedia)",
+  "bio": {
+   "birth_year": 1949,
+   "education": "BA American International College; MA University of Hartford",
+   "career": "Staffer to Springfield Mayor William C. Sullivan (1973-78)",
+   "prior_office": "Springfield City Council 1978-84; Mayor of Springfield 1984-88; U.S. House since 1989; Ways and Means chair 2019-23, ranking member since 2023"
+  },
+  "self_description": "Runs on his Ways and Means record ('fairer taxes, affordable and accessible healthcare, taking on climate change, preserving Social Security'). Long described as moderate on trade and social issues; said in 2010 on abortion 'both sides would say I'm mixed... That's where the American people are.'",
+  "primary_context": "1 Sept 2026 primary: beat Jeromie Whalen 55.2-44.8. Whalen, a teacher, ran from the left, backed by Our Revolution, MTA, Progressive Democrats of America, Peace Action and Track AIPAC. Neal was backed by AIPAC, DMFI, J Street PAC and MA AFL-CIO.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "As Ways and Means chair told Democrats before a 2019 hearing he did not want the phrase 'Medicare for All' used, arguing it was wrong on policy and a political loser",
+    "src": "https://theintercept.com/2019/06/11/medicare-for-all-ways-means-committee/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Argued Medicare for All was wrong on policy and a political loser; resisted its use at Ways and Means (2019); co-architect of ACA-era reform",
+    "src": "https://theintercept.com/2019/06/11/medicare-for-all-ways-means-committee/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Moderate, pro-trade record (lower trade barriers; voted for the Peru TPA in 2007 despite Democratic opposition; led committee work on trade); Ways and Means bill barring a free IRS e-file system (2019) drew industry-friendly criticism",
+    "src": "https://en.wikipedia.org/wiki/Richard_Neal"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former mayor and 37-year member (office=3). MA, senior career as committee chair (cred=2). Top Democrat on Ways and Means; SECURE Act 2019 became law (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated primary challenger Whalen once (WWLP-TV, 19 Aug 2026, per Wikipedia debate table). No general-election debate with Milleron found (UNVERIFIED). No evidence of hostile-outlet appearances or regular open town halls."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel (endorsement paused July 2026 after his Massie-amendment vote)",
+   "Jewish Democratic Council of America",
+   "J Street PAC",
+   "Planned Parenthood Action Fund",
+   "Massachusetts AFL-CIO",
+   "AFGE",
+   "The Berkshire Eagle"
+  ],
+  "notable_positions": [
+   "Opposed using 'Medicare for All' framing at Ways and Means, 2019 (https://theintercept.com/2019/06/11/medicare-for-all-ways-means-committee/)",
+   "Authored the bipartisan SECURE Act retirement law, 2019 (https://en.wikipedia.org/wiki/Richard_Neal)",
+   "Voted for the July 2026 Massie amendment to end FMF to Israel, citing opposition to the Iran war context; AIPAC halted fundraising for him and DMFI paused its endorsement (https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/)",
+   "Backed War Powers limits on the 2026 Iran war (Ballotpedia key messages)",
+   "Historically mixed on abortion (opposed taxpayer funding; voted for the 2003 partial-birth ban) (https://en.wikipedia.org/wiki/Richard_Neal)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Establishment-centrist committee leader: explicitly hostile to M4A, pro-trade, AIPAC/DMFI-backed, faced a 45% left challenge. CI about 2 against LI about 1, below both thresholds. With high EPD and EO 3 (one primary debate; general unverified) he is an imperfect fit to the nearest pole, Cat 4.",
+  "sources": [
+   "https://ballotpedia.org/Richard_Neal",
+   "https://ballotpedia.org/Massachusetts%27_1st_Congressional_District_election,_2026_(September_1_Democratic_primary)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://theintercept.com/2019/06/11/medicare-for-all-ways-means-committee/",
+   "https://en.wikipedia.org/wiki/Richard_Neal",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/",
+   "https://jewishinsider.com/2026/07/democratic-majority-for-israel-pac-9-house-democrats-endorsements/",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "M000312",
+  "name": "James P. McGovern",
+  "seat": "MA-02",
+  "call_status": "re-elected 2026 (unopposed, 100%, per Ballotpedia)",
+  "bio": {
+   "birth_year": 1959,
+   "education": "BA and MPA, American University",
+   "career": "Senior staff to Rep. Joe Moakley 1981-96; led Moakley's 1990 House task force on the 1989 Jesuit murders in El Salvador",
+   "prior_office": "U.S. House since 1997; Rules Committee chair 2019-23, ranking member since 2023"
+  },
+  "self_description": "'It's no secret that I'm a liberal... I am who I am' (2010). CPC and Medicare for All Caucus member; consistently rated among the most liberal members.",
+  "primary_context": "Unopposed in the 1 Sept 2026 primary (99.6%) and in the general.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Cosponsor of the Judiciary Act of 2021 (H.R.2584) and of 2023 (H.R.3422), expanding the Supreme Court to 13 justices",
+    "src": "https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "About 30 years in the House (office=3). MPA and senior staff career (cred=2). Top Democrat on the Rules Committee; leads hunger/nutrition and human-rights work (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Unopposed in primary and general, so there were no debates. Town-hall and media pattern not documented in sources found (UNVERIFIED); mostly floor and friendly-outlet presence."
+  },
+  "outside_support": [
+   "Progressive Democrats of America",
+   "Peace Action / Massachusetts Peace Action",
+   "End Citizens United",
+   "Sierra Club",
+   "J Street PAC",
+   "Planned Parenthood Action Fund",
+   "Massachusetts AFL-CIO",
+   "Massachusetts Teachers Association",
+   "NEA",
+   "AFGE"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All, Ultra-Millionaire Tax Act 2026, DC statehood, Block the Bombs to Israel Act and the 118th Green New Deal resolution (bulk)",
+   "Cosponsor of Supreme Court expansion bills (Judiciary Act 2021/2023) (https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors)",
+   "Urged Biden in April 2024 to reconsider arms shipments to Israel after the WCK strike; voted for the July 2026 Massie amendment (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Champion of anti-hunger and SNAP programmes; Rules Committee ranking member (https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician))"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk cosponsorships (L1, L3, L5, L11, L12) plus Supreme Court expansion (L10) give LI about 6, alongside self-identification as a liberal and CPC membership. No centrist markers.",
+  "sources": [
+   "https://ballotpedia.org/Jim_McGovern_(Massachusetts)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors",
+   "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "T000482",
+  "name": "Lori Trahan",
+  "seat": "MA-03",
+  "call_status": "re-elected 2026 (63.1% vs Gary Grossi (R) and Dennis Conlon (U), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1973,
+   "education": "BS, Georgetown School of Foreign Service",
+   "career": "Chief of staff to Rep. Marty Meehan; ChoiceStream executive; CEO of Concire Leadership Institute consultancy",
+   "prior_office": "U.S. House since 2019 (Energy and Commerce)"
+  },
+  "self_description": "Member of both the CPC and the New Democrat Coalition; described as holding 'primarily progressive positions' and voting with party leadership. Original GND cosponsor (2019).",
+  "primary_context": "Unopposed in the 1 Sept 2026 primary (99.2%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term member (office=3). BS plus senior career as congressional chief of staff and CEO (cred=2). Recognised tech/AI policy lead: co-leads the bipartisan FRONTIER Act on AI safety oversight with Rep. Obernolte (Politico, Sept 2026) (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No primary contest; 2026 general debate with Grossi UNVERIFIED. No evidence on town halls or hostile outlets."
+  },
+  "outside_support": [
+   "J Street",
+   "Planned Parenthood Action Fund",
+   "AFGE",
+   "LCV (97% lifetime score)"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All, DC statehood and the GND resolution (bulk)",
+   "Leads a bipartisan AI-safety push (FRONTIER Act); opposes a Sanders-style moratorium on super-intelligence but backs more regulation (https://www.politico.com/news/2026/09/08/lori-trahan-ai-regulation-01065989)",
+   "Voted for the July 2026 Massie amendment to end FMF to Israel (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Voted for the 2025 'denouncing socialism' resolution (bulk context)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mainstream progressive-leaning Democrat: LI 3 (M4A, GND, DC statehood) and CI about 1 (New Dem caucus), so neither threshold. She is a credentialed tech-policy lead (EPD 7), and EO is 3 with the debate unverified. Imperfect fit to the nearest pole, Cat 1.",
+  "sources": [
+   "https://ballotpedia.org/Lori_Trahan",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://en.wikipedia.org/wiki/Lori_Trahan",
+   "https://www.politico.com/news/2026/09/08/lori-trahan-ai-regulation-01065989",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "A000148",
+  "name": "Jake Auchincloss",
+  "seat": "MA-04",
+  "call_status": "re-elected 2026 (67.4% vs Thomas Stalcup (R), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1988,
+   "education": "BA Harvard; MBA MIT Sloan",
+   "career": "U.S. Marine Corps officer (deployed to Afghanistan 2012, Panama 2014); businessman",
+   "prior_office": "Newton City Council 2016-2021; U.S. House since 2021"
+  },
+  "self_description": "Calls himself 'a Barack Obama-Charlie Baker Democrat' and is an open critic of the party's progressive wing. Inaugural chair of Majority Democrats (2025), a group of officials 'willing to challenge the establishment and break with their party'.",
+  "primary_context": "1 Sept 2026 primary: beat AI researcher Jason Poulos 72.3-27.7. Poulos ran from the left with MTA, PDA and Track AIPAC backing; Auchincloss was backed by AIPAC, J Street, JDCA, VoteVets and Giffords.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context: voted for the July 2026 Massie amendment to end FMF to Israel, describing it as a signal against the Trump-Netanyahu Iran war ('pro-Israel, anti-Netanyahu'); has said Hamas bears sole responsibility for Gaza; not a genocide/embargo position"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Calls for balancing the budget: 'The last president to balance the budget was a Democrat, Bill Clinton... The next president is going to be a Democrat, too'",
+    "src": "https://medium.com/@JakeAuch/the-answer-isnt-diet-coke-c3847e4422dd"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Voted against a symbolic 1% Newton police budget cut (2020); urges clearing open-air encampments and says Democrats are not 'muscular' enough on crime and disorder",
+    "src": "https://www.wsj.com/economy/jake-auchincloss-mass-democrat-election-bfb8795f"
+   },
+   "C6": {
+    "v": 1,
+    "e": "Says Democrats engage in identity politics 'evaluating individuals based on group identity' and 'the path for Democrats is to reject both' this and GOP Christian-nationalist identity politics",
+    "src": "https://www.economist.com/united-states/2024/11/21/democrats-are-still-processing-their-defeat"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Critic of the progressive wing: 'Democrats are much more ideologically straitjacketed these days. We cancel each other'; chairs Majority Democrats, which pitches willingness to break with the party",
+    "src": "https://bcheights.com/219672/metro/at-bc-event-auchincloss-says-he-wants-to-make-democrats-cool-again/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Promotes an 'abundance agenda', free trade as a tool to contain China and supply-side economics over populism; opposed H.R.3 international reference pricing as deterring biotech investment (2021)",
+    "src": "https://www.economist.com/united-states/2025/03/06/democrats-are-struggling-to-respond-to-trump"
+   }
+  },
+  "C1_endorsements": [
+   "Chair, Majority Democrats (https://www.majoritydemocrats.com/)",
+   "WelcomeFest centrist-conference speaker (The Nation)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Third-term member and former city councillor (office=3). Harvard BA, MIT MBA, Marine officer (cred=2). Recognised policy voice on kids' online safety (co-chairs the bipartisan Kids Online Safety Caucus; bill to raise internet adulthood to 16), TikTok divestiture and abundance economics (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 primary/general debates UNVERIFIED. Held a July 2025 Newton town hall where he faced sustained criticism on Gaza and argued his position; gives wide-ranging interviews beyond friendly outlets (WSJ, The Economist, Ezra Klein, Boston Globe) and engages critics' arguments directly (e.g. the Demand Progress polling dispute)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Joint Action Committee for Political Affairs",
+   "VoteVets",
+   "Giffords",
+   "Planned Parenthood Action Fund",
+   "Massachusetts AFL-CIO",
+   "AFGE",
+   "Alliance for American Leadership"
+  ],
+  "notable_positions": [
+   "Chairs Majority Democrats, the centrist 'challenge the establishment' group (https://www.majoritydemocrats.com/)",
+   "Warns against 'Diet Coke' populism and urges abundance and free-trade economics (https://www.newbostonpost.com/jake-auchincloss-says-democrats-cant-win-with-diet-coke-populism/)",
+   "Called for balancing the federal budget (https://medium.com/@JakeAuch/the-answer-isnt-diet-coke-c3847e4422dd)",
+   "Rejected Gaza ceasefire calls in Oct 2023, but voted for the July 2026 Massie amendment over the Iran war; AIPAC halted fundraising for him (https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/)",
+   "Cosponsored the TikTok forced-divestiture bill; calls social media 'digital fentanyl' (https://en.wikipedia.org/wiki/Jake_Auchincloss)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Explicit, repeated centrist positioning: chairs Majority Democrats, criticises the progressive wing and identity politics, backs balanced budgets, abundance and free trade, and takes a tougher line on disorder. CI about 6 with LI about 1 (DC statehood only) meets the Cat 4 rule.",
+  "sources": [
+   "https://ballotpedia.org/Jake_Auchincloss",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://en.wikipedia.org/wiki/Jake_Auchincloss",
+   "https://www.majoritydemocrats.com/",
+   "https://medium.com/@JakeAuch/the-answer-isnt-diet-coke-c3847e4422dd",
+   "https://www.wsj.com/economy/jake-auchincloss-mass-democrat-election-bfb8795f",
+   "https://www.economist.com/united-states/2024/11/21/democrats-are-still-processing-their-defeat",
+   "https://bcheights.com/219672/metro/at-bc-event-auchincloss-says-he-wants-to-make-democrats-cool-again/",
+   "https://www.thenation.com/article/politics/welcomefest-dispatch-centrism-abundance/",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "C001101",
+  "name": "Katherine M. Clark",
+  "seat": "MA-05",
+  "call_status": "re-elected 2026 (unopposed in general, 100%, per Ballotpedia)",
+  "bio": {
+   "birth_year": 1963,
+   "education": "BA St. Lawrence University; JD Cornell; MPA Harvard Kennedy School",
+   "career": "Attorney (Chicago); federal court clerk and Colorado District Attorneys' Council staff attorney; general counsel, Massachusetts Office of Child Care Services",
+   "prior_office": "Melrose School Committee; MA House 2009-11; MA Senate 2011-13; U.S. House since Dec 2013; Assistant Speaker 2021-23; House Democratic Whip since 2023"
+  },
+  "self_description": "Leadership progressive. Former Medicare for All Caucus member; frames herself around child care, families and women's economic security. No centrist self-label.",
+  "primary_context": "1 Sept 2026 primary: beat former Waltham councillor Jonathan Paz (20.1%; backed by CAIR Action, IfNotNow Boston, Our Revolution MA, PDA and MA Peace Action) and Tarik Samman (6.1%), winning 73.8%. Both challenged from the left, largely on Gaza.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Cosponsored the Medicare for All Acts of 2019 (H.R.1384) and 2021 (H.R.1976); listed in the Medicare for All Caucus. Has not cosponsored since becoming Whip (118th/119th)",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/1976/cosponsors"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Conflicting: at an Aug 2025 FCNL town hall referred to Gaza as a 'genocide', then said 'I want to be clear I am not accusing Israel of genocide'; in July 2026 voted for the Massie amendment ending FMF to Israel",
+    "src": "https://www.boston.com/news/politics/2025/08/20/katherine-clark-calls-for-end-of-gaza-genocide-then-walks-back-comments/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former state legislator, House Democratic Whip (office=3). JD and MPA (cred=2). Party leadership; child-care and family-policy legislation (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary debates/forums with Paz and Samman UNVERIFIED; no general-election opponent. Attended an Aug 2025 town hall organised by the Friends Committee on National Legislation, where she was pressed on Gaza (and then walked back her wording). Mainly leadership-controlled press settings."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street PAC",
+   "Jewish Democratic Council of America",
+   "Joint Action Committee for Political Affairs",
+   "Human Rights Campaign",
+   "League of Conservation Voters",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Sierra Club",
+   "AFSCME",
+   "CWA",
+   "Massachusetts AFL-CIO"
+  ],
+  "notable_positions": [
+   "Former M4A cosponsor (2019, 2021) (https://www.congress.gov/bill/116th-congress/house-bill/1384/cosponsors)",
+   "Called Gaza a 'genocide' at an Aug 2025 town hall, then walked it back (https://www.boston.com/news/politics/2025/08/20/katherine-clark-calls-for-end-of-gaza-genocide-then-walks-back-comments/)",
+   "As Whip, voted for the July 2026 Massie amendment to end FMF to Israel; AIPAC halted fundraising for her (https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/)",
+   "Cosponsor of DC statehood (bulk); voted for the 2025 'denouncing socialism' resolution (bulk context)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Party leader whose record is mainstream-progressive: LI about 2 (past M4A cosponsor, DC statehood), no centrist markers. EPD is maximal. EO is about 3 because her primary debate record is unverified, which makes her an imperfect fit to the nearest pole, Cat 1. If she skipped the primary forums, EO would drop to 2 (Cat 3).",
+  "sources": [
+   "https://ballotpedia.org/Katherine_Clark",
+   "https://ballotpedia.org/Massachusetts%27_5th_Congressional_District_election,_2026_(September_1_Democratic_primary)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://en.wikipedia.org/wiki/Katherine_Clark",
+   "https://www.boston.com/news/politics/2025/08/20/katherine-clark-calls-for-end-of-gaza-genocide-then-walks-back-comments/",
+   "https://www.congress.gov/bill/116th-congress/house-bill/1384/cosponsors",
+   "https://www.congress.gov/bill/117th-congress/house-bill/1976/cosponsors",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "P000617",
+  "name": "Ayanna Pressley",
+  "seat": "MA-07",
+  "call_status": "re-elected 2026 (unopposed, 100%, per Ballotpedia)",
+  "bio": {
+   "birth_year": 1974,
+   "education": "Attended Boston University (no degree)",
+   "career": "Aide to Rep. Joseph P. Kennedy II; senior aide and 2009 political director for Sen. John Kerry",
+   "prior_office": "Boston City Council at-large 2010-2019; U.S. House since 2019"
+  },
+  "self_description": "Member of 'The Squad'; positions 'align with the progressive wing'. Endorsed Elizabeth Warren in 2020.",
+  "primary_context": "Unopposed in the 1 Sept 2026 primary (98.4%) and in the general. Unseated incumbent Mike Capuano from the left in 2018 (supported then by Justice Democrats).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Bulk: Melt ICE Act cosponsor; also called for defunding ICE in 2018, calling it an 'existential threat' to immigrant communities",
+    "src": "https://www.bostonglobe.com/metro/2018/06/25/ayanna-pressley-endorses-defunding-ice/xMosceaeZ5PYhEi4xqWnMI/story.html"
+   },
+   "L10": {
+    "v": 1,
+    "e": "Cosponsor of the Judiciary Act of 2021 (H.R.2584) and of 2023 (H.R.3422) to expand the Supreme Court to 13",
+    "src": "https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "City councillor, then four House terms (office=3). No degree but a substantial senior staff career (cred=1). Authored bills including the People's Justice Guarantee, reparations commission and HEALTH for MOM Act (bipartisan, 2025) (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Unopposed in primary and general, so there were no debates. Media mainly friendly national and progressive outlets; town-hall frequency not documented (UNVERIFIED)."
+  },
+  "outside_support": [
+   "Progressive Democrats of America",
+   "Peace Action / MA Peace Action",
+   "Track AIPAC",
+   "Reproductive Freedom for All",
+   "Planned Parenthood Action Fund",
+   "Sierra Club",
+   "Massachusetts AFL-CIO",
+   "MTA",
+   "NEA",
+   "AFGE",
+   "Justice Democrats (2018 campaign only)"
+  ],
+  "notable_positions": [
+   "Cosponsor of M4A, Ultra-Millionaire Tax, Melt ICE Act, DC statehood, Block the Bombs to Israel Act and the GND resolution (bulk)",
+   "Cosponsor of Supreme Court expansion (Judiciary Act 2021/2023) (https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors)",
+   "Introduced the People's Justice Guarantee (decriminalise sex work, end cash bail, cut the prison population by more than 80%) (https://en.wikipedia.org/wiki/Ayanna_Pressley)",
+   "Voted against the 2023 'Israel is not a racist state' resolution; voted for the July 2026 Massie amendment (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Voted against the 2021 bipartisan infrastructure bill, as one of six Democrats (https://en.wikipedia.org/wiki/Ayanna_Pressley)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Squad member with LI of 7 or more: bulk L1, L3, L5, L9, L11 and L12, plus Supreme Court expansion (L10). No centrist markers.",
+  "sources": [
+   "https://ballotpedia.org/Ayanna_Pressley",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://en.wikipedia.org/wiki/Ayanna_Pressley",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://www.congress.gov/bill/118th-congress/house-bill/3422/cosponsors",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "L000562",
+  "name": "Stephen F. Lynch",
+  "seat": "MA-08",
+  "call_status": "re-elected 2026 (69.5% vs Robert Burke (R) and Rasheed Walters (U), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1955,
+   "education": "BS Wentworth Institute of Technology; JD Boston College Law; MPA Harvard Kennedy School",
+   "career": "Ironworker for about 18 years; president of Iron Workers Local 7",
+   "prior_office": "MA House 1995-97; MA Senate 1997-2001; U.S. House since Oct 2001; acting ranking member, House Oversight (Apr-Jun 2025)"
+  },
+  "self_description": "Blue-collar labour Democrat: 'Calling me the least liberal member from Massachusetts is like calling me the slowest Kenyan in the Boston Marathon' (2010). Called himself 'the conservative candidate' in his first state race (1994). In 2026 he stressed experience: 'You don't want all brand-new people — like my opponent'.",
+  "primary_context": "1 Sept 2026 primary: beat attorney Patrick Roath 56.9-43.1. Roath ran from the left (abolish ICE, universal healthcare, no corporate PAC money), backed by Leaders We Deserve, David Hogg, Our Revolution, Indivisible, AFT-MA, MTA, Deval Patrick and the Boston Globe.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Bulk Laken Riley Yea (the only MA delegation member to vote for it); challenger also notes he voted with Republicans for a resolution to 'thank ICE for defending the homeland'",
+    "src": "https://patrickroath.com"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former state legislator, 25 years in the House (office=3). JD and MPA (cred=2). Acting Oversight ranking member in 2025 and ranking member of the Financial Services digital-assets subcommittee (policy=2)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "Challenger Roath stated (Ballotpedia candidate survey and campaign site) that Lynch 'refuses to show up for candidate forums in our election' and has not held an in-person town hall since 2019. No 2026 debate is recorded on Wikipedia or Ballotpedia (single-source, partisan claim; Medium confidence). Lynch engages unscripted at times: in a heated Feb 2025 exchange at a Boston rally he told critics to run against him ('I decide') (MassLive)."
+  },
+  "outside_support": [
+   "Iron Workers Local 7",
+   "IBEW Local 2222",
+   "NASRCC Carpenters",
+   "UNITE HERE Local 26",
+   "Professional Firefighters of Massachusetts",
+   "Massachusetts AFL-CIO",
+   "AFGE",
+   "J Street",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Last remaining House Democrat to have voted against the ACA (2010) (https://en.wikipedia.org/wiki/Stephen_Lynch_(politician))",
+   "Voted Yea on the Laken Riley Act (bulk); voted for the 2002 Iraq War authorisation (https://en.wikipedia.org/wiki/Stephen_Lynch_(politician))",
+   "Formerly 'pro-life and proud of it' (2001); voted for the Women's Health Protection Act in 2021 (https://en.wikipedia.org/wiki/Stephen_Lynch_(politician))",
+   "Yet cosponsored the 118th GND resolution and (June 2026) the Block the Bombs to Israel Act, and voted for the July 2026 Massie amendment (bulk; https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Opposed a 70-unit no-parking housing project in South Boston, 2025 (https://www.universalhub.com/2025/zoning-board-rejects-south-boston-apartment-building-no-parking-after)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Medium",
+  "rationale": "Cross-pressured labour moderate: Laken Riley Yea and anti-ACA history on one side, recent GND and Block the Bombs cosponsorships on the other. LI 3 and CI about 1, so neither pole. Highly experienced (EPD 7), but he avoided 2026 primary forums per his challenger, did no in-person town halls, and is dismissive of critics (EO 2), which fits Cat 3.",
+  "sources": [
+   "https://ballotpedia.org/Stephen_Lynch",
+   "https://ballotpedia.org/Massachusetts%27_8th_Congressional_District_election,_2026_(September_1_Democratic_primary)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://patrickroath.com",
+   "https://en.wikipedia.org/wiki/Stephen_Lynch_(politician)",
+   "https://www.masslive.com/politics/2025/02/watch-i-decide-mass-rep-lynch-gets-heated-with-constituents-at-boston-rally.html",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "K000375",
+  "name": "William R. Keating",
+  "seat": "MA-09",
+  "call_status": "re-elected 2026 (63.2% vs R. Tyler MacAllister (R), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1952,
+   "education": "BA and MBA, Boston College; JD Suffolk University Law School",
+   "career": "Attorney (Keating & Fishman)",
+   "prior_office": "MA House 1977-84; MA Senate 1985-98; Norfolk County District Attorney 1999-2011; U.S. House since 2011 (ranking member, HFAC Europe subcommittee)"
+  },
+  "self_description": "Mainstream liberal Democrat focused on foreign affairs (Europe/NATO) and Cape Cod maritime issues; no explicit ideological label found. Wikipedia lists him as a New Democrat Coalition member (not in the bulk caucus list).",
+  "primary_context": "1 Sept 2026 primary: beat Craig Swallow, co-leader of Indivisible South Coast (backed by MA Peace Action and PDA), 79.5-20.5.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former DA and 30-year state legislator (office=3). JD and MBA (cred=2). HFAC Europe subcommittee ranking member (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary and general debates UNVERIFIED. In a March 2025 hearing publicly confronted subcommittee chair Keith Self over misgendering Rep. Sarah McBride (Politico). No town-hall or hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street",
+   "Planned Parenthood Action Fund",
+   "Massachusetts AFL-CIO",
+   "MTA",
+   "NEA",
+   "AFGE",
+   "Alliance for American Leadership"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All since 2019, DC statehood and the 118th GND resolution (bulk; https://www.congress.gov/bill/116th-congress/house-bill/1384/cosponsors)",
+   "Voted for the July 2026 Massie amendment to end FMF to Israel despite AIPAC backing; AIPAC halted fundraising for him (https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/)",
+   "Sparred with Chair Keith Self over the misgendering of Rep. McBride, March 2025 (https://en.wikipedia.org/wiki/Bill_Keating)",
+   "Opposes Social Security cuts or raising the retirement age (https://en.wikipedia.org/wiki/Bill_Keating)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Conventional liberal: LI 3 (M4A, GND, DC statehood) and no documented centrist markers. Highly experienced (EPD 7). EO is 3 because the debate record is unverified, which makes him an imperfect fit to the nearest pole, Cat 1. Little distinctive ideological evidence.",
+  "sources": [
+   "https://ballotpedia.org/Bill_Keating",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://en.wikipedia.org/wiki/Bill_Keating",
+   "https://www.congress.gov/bill/116th-congress/house-bill/1384/cosponsors",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "O000176",
+  "name": "Johnny Olszewski, Jr.",
+  "seat": "MD-02",
+  "call_status": "re-elected 2026 (61.5% vs Dave Wallace (R), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BA Goucher College; MA political management, George Washington University; PhD public policy, UMBC",
+   "career": "Public-school teacher (Baltimore County)",
+   "prior_office": "Maryland House of Delegates 2006-2015; Baltimore County Executive 2018-2024; U.S. House since 2025"
+  },
+  "self_description": "Called himself both a 'principled Democrat' and a 'progressive Democrat' in his 2018 county race. Earlier described as a 'blue-collar, pro-labor but socially conservative Democrat' in the House of Delegates. New Democrat Coalition member.",
+  "primary_context": "23 June 2026 primary: beat insurance agent Clint Spellman Jr. (backed by Vote Common Good) 84.5-15.5. No organised left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0,
+    "e": "Context: introduced a May 2026 bill for 18-year Supreme Court term limits (term limits alone = 0)"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the International Franchise Association (business group); his RESIDE Act (vacant properties to housing) was enacted in the 21st Century ROAD to Housing Act (2026), a housing-supply measure",
+    "src": "https://www.wypr.org/wypr-news/2026-07-14/federal-housing-bill-becomes-law-including-maryland-congressmans-push-to-fill-vacant-homes"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024; former county executive and state delegate (office=2 per sitting-member rule). PhD in public policy (cred=2). RESIDE Act became law via the ROAD to Housing Act, July 2026 (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated primary rivals in 2024 (Baltimore Sun primary debate); 2026 debate with Wallace UNVERIFIED (none reported; Wallace did not respond to press). His office describes frequent media appearances as part of his Foreign Affairs work (CNS Maryland); no hostile-outlet or town-hall specifics found."
+  },
+  "outside_support": [
+   "Gov. Wes Moore",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "Joint Action Committee for Political Affairs",
+   "J Street",
+   "International Franchise Association",
+   "League of Conservation Voters Action Fund",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "AFSCME Council 3",
+   "SEIU Local 500",
+   "MD State & DC AFL-CIO",
+   "NEA",
+   "Association of Flight Attendants"
+  ],
+  "notable_positions": [
+   "RESIDE Act (vacant-property redevelopment grants) enacted in the 2026 ROAD to Housing Act (https://www.wypr.org/wypr-news/2026-07-14/federal-housing-bill-becomes-law-including-maryland-congressmans-push-to-fill-vacant-homes)",
+   "Voted Nay on the July 2026 Massie amendment to end FMF to Israel; opposed Gaza ceasefire calls in 2024; took an AIPAC trip in 2025 and urged Netanyahu to end the war (https://www.govtrack.us/congress/votes/119-2026/h243)",
+   "Backed 'all the tools', including force as a last resort, to stop a nuclear Iran (Jan 2025), but condemned bypassing Congress on Iran strikes (https://en.wikipedia.org/wiki/Johnny_Olszewski)",
+   "Voted Nay on Laken Riley, saying it would 'endanger harmless children' (https://en.wikipedia.org/wiki/Johnny_Olszewski)",
+   "Introduced 18-year Supreme Court term limits bill, May 2026 (https://www.baltimoresun.com/2026/05/05/scotus-term-limits-maryland/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Pragmatic establishment Democrat: New Dem, pro-Israel/AIPAC-backed, business-group endorsement, housing-supply law. Only LI 1 (DC statehood), CI about 2, so neither threshold. EPD 6 and EO 3 (2026 debate unverified) make him an imperfect fit to the nearest pole, Cat 4.",
+  "sources": [
+   "https://ballotpedia.org/John_Olszewski_Jr.",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "https://en.wikipedia.org/wiki/Johnny_Olszewski",
+   "https://cnsmaryland.org/2026/10/23/rep-johnny-olszewski-takes-on-trump-in-bid-for-reelection-to-congress/",
+   "https://www.wypr.org/wypr-news/2026-07-14/federal-housing-bill-becomes-law-including-maryland-congressmans-push-to-fill-vacant-homes",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "E000301",
+  "name": "Sarah Elfreth",
+  "seat": "MD-03",
+  "call_status": "re-elected 2026 (65.4% vs Bernard Flowers (R), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1988,
+   "education": "BA Towson University; MPP Johns Hopkins University",
+   "career": "Senior director at Margrave Strategies (consulting); student regent, University System of Maryland",
+   "prior_office": "Maryland Senate 2019-2025 (Budget and Taxation Committee; Chesapeake Bay policy lead); U.S. House since 2025"
+  },
+  "self_description": "No explicit ideological label found. New Democrat Coalition member who also cosponsors Medicare for All; won an open seat in 2024 with heavy AIPAC/UDP support.",
+  "primary_context": "23 June 2026 primary: won 74.7% against four challengers, the strongest Army veteran Austin Dyches (10.7%; CAIR Action, Track AIPAC), who challenged from the left on Gaza and AIPAC.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024; former state senator (office=2). MPP from Johns Hopkins (cred=2). Several state bills enacted (e.g. Office of Digital Inclusion, climate-risk pension law) (policy=2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary and general debates UNVERIFIED. Public rallies (DOGE, shutdown) and local press; no town-hall or hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "Gov. Wes Moore",
+   "AIPAC",
+   "Jewish Democratic Council of America",
+   "Elect Democratic Women",
+   "League of Conservation Voters Action Fund",
+   "NRDC Action Fund",
+   "Moms Demand Action",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "AFSCME Council 3",
+   "SEIU Local 500",
+   "UFCW 1994 MCGEO",
+   "MD State & DC AFL-CIO",
+   "NEA"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All (H.R.3069) and DC statehood (bulk)",
+   "Voted 'present' on the July 2026 Massie amendment to end FMF to Israel; AIPAC still backs her; opposes conditioning aid to Israel (https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/)",
+   "Supported impeaching DHS Secretary Kristi Noem over ICE conduct (Jan 2026) (https://en.wikipedia.org/wiki/Sarah_Elfreth)",
+   "One of three Maryland members to vote for the Sanctioning Russia Act, Sept 2026 (https://en.wikipedia.org/wiki/Sarah_Elfreth)",
+   "As a state senator, one of five Democrats to back decoupling the gas tax from inflation, 2023 (https://en.wikipedia.org/wiki/Sarah_Elfreth)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mixed profile: M4A cosponsor and DC statehood (LI 2), but a New Dem who is AIPAC-backed and opposes conditioning Israel aid (CI about 1). Credentialed (EPD 6). EO 3 is unverified, so the nearest-pole rule gives a weak, imperfect Cat 1. Could equally be read as a mainstream party-line Democrat.",
+  "sources": [
+   "https://ballotpedia.org/Sarah_Elfreth",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "https://en.wikipedia.org/wiki/Sarah_Elfreth",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ },
+ {
+  "id": "I000058",
+  "name": "Glenn Ivey",
+  "seat": "MD-04",
+  "call_status": "re-elected 2026 (89.7% vs George McDermott (R) and Sam Husseini (G), per Ballotpedia)",
+  "bio": {
+   "birth_year": 1961,
+   "education": "BA Princeton; JD Harvard Law School",
+   "career": "Assistant U.S. Attorney; aide to Rep. John Conyers; chief counsel to Senate Democratic leader Tom Daschle (to 1998); chair of the Maryland Public Service Commission; Harvard Law trial-advocacy instructor",
+   "prior_office": "Prince George's County State's Attorney 2002-2011; U.S. House since 2023 (Judiciary, Ethics)"
+  },
+  "self_description": "No explicit label found. Former prosecutor; New Democrat Coalition member who cosponsors Medicare for All and the Ultra-Millionaire Tax. Won in 2022 with AIPAC/UDP support against Donna Edwards.",
+  "primary_context": "23 June 2026 primary: won 79.2% against a 'leftwing challenge' led by grants specialist Jakeya Johnson (11.2%; CAIR Action, Progressive Victory, Track AIPAC) and three others.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "In July 2022 an Ivey campaign aide told E&E News Ivey supported the Green New Deal and a quick transition away from fossil fuels",
+    "src": "https://www.eenews.net/articles/donna-edwards-leans-on-climate-record-in-tough-house-bid/"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Does not support 'Defund the Police', calling it electorally damaging and a 'distraction' (2022)",
+    "src": "https://www.washingtonpost.com/dc-md-va/2022/07/03/donna-edwards-glenn-ivey-maryland-4th-primary/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Rejects 'Defund the Police' as a damaging 'distraction'; former State's Attorney who says he will work with police to fight crime while holding misconduct accountable",
+    "src": "https://www.washingtonpost.com/dc-md-va/2022/07/03/donna-edwards-glenn-ivey-maryland-4th-primary/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0,
+    "e": "Context: first member to call for Schumer to step down as Senate leader (Mar 2025), but from the left, after Schumer let the GOP funding bill pass; not centrist independence",
+    "src": "https://www.theguardian.com/us-news/2025/mar/19/glenn-ivey-chuck-schumer-republican-funding-bill"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Two-term member and former county State's Attorney (office=3). Princeton BA and Harvard JD (cred=2). Ordinary congressional record on Judiciary and Ethics; no signature law found (policy=1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary and general debates UNVERIFIED. Outspoken in national press (e.g. the Schumer call) but no town-hall or hostile-outlet record found."
+  },
+  "outside_support": [
+   "Gov. Wes Moore",
+   "AIPAC (fundraising halted July 2026 after Massie vote)",
+   "Democratic Majority for Israel (endorsement paused July 2026)",
+   "Jewish Democratic Council of America",
+   "Joint Action Committee for Political Affairs",
+   "Brady PAC",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "ATU Local 689",
+   "AFSCME Council 3",
+   "SEIU Local 500",
+   "MD State & DC AFL-CIO",
+   "NEA"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All, Ultra-Millionaire Tax Act 2026 and DC statehood (bulk)",
+   "Voted for the July 2026 Massie amendment to end FMF to Israel; AIPAC halted fundraising and DMFI paused its endorsement (https://jewishinsider.com/2026/07/democratic-majority-for-israel-pac-9-house-democrats-endorsements/)",
+   "First member to call on Schumer to step down after the March 2025 CR (https://www.theguardian.com/us-news/2025/mar/19/glenn-ivey-chuck-schumer-republican-funding-bill)",
+   "Rejects 'Defund the Police'; chaired Prince George's police-reform task force (2020) (https://en.wikipedia.org/wiki/Glenn_Ivey)",
+   "Criticised the Louisiana v. Callais ruling and urged passage of the John Lewis VRA, April 2026 (https://en.wikipedia.org/wiki/Glenn_Ivey)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "LI about 4 (wealth tax, M4A, DC statehood, GND via a 2022 campaign statement) against CI about 2 (New Dem, rejects defund). Credentialed ex-prosecutor (EPD 6). EO 3 with the debate unverified gives an imperfect fit to the nearest pole, Cat 1; moved left on Israel in 2026.",
+  "sources": [
+   "https://ballotpedia.org/Glenn_Ivey",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "https://en.wikipedia.org/wiki/Glenn_Ivey",
+   "https://www.eenews.net/articles/donna-edwards-leans-on-climate-record-in-tough-house-bid/",
+   "https://www.washingtonpost.com/dc-md-va/2022/07/03/donna-edwards-glenn-ivey-maryland-4th-primary/",
+   "https://www.theguardian.com/us-news/2025/mar/19/glenn-ivey-chuck-schumer-republican-funding-bill",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/",
+   "https://jewishinsider.com/2026/07/democratic-majority-for-israel-pac-9-house-democrats-endorsements/",
+   "https://www.govtrack.us/congress/votes/119-2026/h243"
+  ]
+ }
+]

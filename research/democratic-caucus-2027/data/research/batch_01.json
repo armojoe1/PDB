@@ -1,0 +1,1054 @@
+[
+ {
+  "id": 1,
+  "name": "Juliana Stratton",
+  "seat": "IL-SEN",
+  "call_status": "confirmed winner (AP projected 3-4 Nov 2026; defeated Republican Don Tracy; results not yet certified)",
+  "bio": {
+   "birth_year": 1965,
+   "education": "BS Univ. of Illinois Urbana-Champaign (1987); JD DePaul Univ. (1992)",
+   "career": "Attorney/mediator (founded JDS Mediation Services), administrative law judge/hearing officer; Exec. Director, Cook County Justice Advisory Council (2011-14); Director, UIC Center for Public Safety and Justice (2015-17)",
+   "prior_office": "Illinois House of Representatives, 5th district (2017-2019); Lieutenant Governor of Illinois (2019-present)"
+  },
+  "self_description": "Ran as the 'progressive lane' candidate against 'status quo' Democrats; 'we need fighters, not folders' (on refusing to back Schumer). Wikipedia describes her as a progressive.",
+  "primary_context": "Won the 17 Mar 2026 primary (40.4%) over Reps. Raja Krishnamoorthi and Robin Kelly plus 7 others; backed by Gov. Pritzker. She was the only major candidate to call for abolishing ICE and to reject corporate PAC money; Kelly ran to her left on Israel (called Gaza a genocide), Krishnamoorthi ran as the more establishment option.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign priorities page lists 'Securing Medicare for All'; affordability blueprint: 'Make healthcare available to all Americans via Medicare for All.' Reaffirmed at the 20 Oct 2026 WTTW forum.",
+    "src": "https://www.julianastratton.com/issues"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "'I want to abolish ICE because this agency cannot be reformed' (26 Jan 2026 debate); 'Abolishing ICE' is listed as a key legislative priority on her campaign site and she repeated it in the general-election forum.",
+    "src": "https://www.yahoo.com/news/articles/juliana-stratton-takes-progressive-lane-033800269.html"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Her campaign said she would have opposed the Sanders-led resolutions to block arms sales to Israel, saying that 'cutting off U.S. military aid to Israel could risk standing in the way of the ultimate goals of a true ceasefire'. She did not call Israel's conduct a genocide (Robin Kelly attacked her for this).",
+    "src": "https://jewishinsider.com/2025/08/illinois-senate-field-splits-over-resolutions-to-block-israel-aid/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All (see L3).",
+    "src": "https://www.julianastratton.com/issues"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls for abolishing ICE; she was the only primary candidate to do so.",
+    "src": "https://www.yahoo.com/news/articles/juliana-stratton-takes-progressive-lane-033800269.html"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Said after the primary that she would not support Chuck Schumer as Senate Democratic leader ('we need fighters, not folders'). This is criticism from the left, not centrist independence.",
+    "src": "https://thegrio.com/2026/03/19/senate-nominee-juliana-stratton-wont-support-chuck-schumer-as-democratic-leader"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term statewide Lt. Governor and former state rep (office 3); JD (cred 2); detailed multi-page policy 'blueprints' with named bills such as the PRO Act, WIOA reauthorisation, a $25 minimum wage and a hedge-fund home-purchase tax penalty (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in all the multi-candidate primary debates and forums found (AFL-CIO forum Nov 2025; UChicago IOP/Sun-Times/WBEZ debate 26 Jan 2026; LWV/WTVP; NAACP Champaign; WTTW 9 Mar 2026), with no reports of skipping one. The general election had only one joint appearance, a WTTW forum on 20 Oct 2026, and no evidence was found that she declined others. The press she did was mostly mainstream and local, with no hostile or cross-partisan outlets found. In the forum she rebutted Tracy point by point on tariffs, the minimum wage and SNAP."
+  },
+  "outside_support": [
+   "JB Pritzker (personal $5M boost per Wikipedia)",
+   "EMILY's List",
+   "National Nurses United",
+   "League of Conservation Voters",
+   "Sierra Club",
+   "End Citizens United",
+   "CBC PAC",
+   "Patriotic Millionaires",
+   "Illinois AFL-CIO",
+   "SEIU Illinois",
+   "AFSCME",
+   "March On PAC",
+   "Elizabeth Warren (personal)",
+   "AIPAC-linked donors gave to her campaign (Intercept: 27+ AIPAC donors)"
+  ],
+  "notable_positions": [
+   "Medicare for All as a central plank (https://www.julianastratton.com/issues)",
+   "Abolish ICE: 'this agency cannot be reformed' (https://www.yahoo.com/news/articles/juliana-stratton-takes-progressive-lane-033800269.html)",
+   "$25 federal minimum wage; middle-class tax cut paid for by higher taxes on income over $1M (https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/)",
+   "Won't back Schumer for leader; supports abolishing or reforming the filibuster; 'open to... potential expansion' of the Supreme Court (https://news.wttw.com/2026/04/06/lt-gov-juliana-stratton-her-us-senate-campaign-health-care-funding-and-raising-minimum)",
+   "Rejected corporate PAC money; pledged to oppose Trump nominees (https://www.julianastratton.com/issues)",
+   "Opposed Sanders resolutions to block Israel arms sales and did not use 'genocide' (https://jewishinsider.com/2025/08/illinois-senate-field-splits-over-resolutions-to-block-israel-aid/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Stratton ran explicitly in the progressive lane: Medicare for All, abolish ICE, a $25 minimum wage, no corporate PAC money and opposition to Schumer. But on the rubric's other left markers she scores low: no wealth tax, no Green New Deal, no left-movement group endorsements, and she rejected an Israel arms cutoff. Her LI is therefore well under 6. She is highly credentialed and engaged, so under step 5 she falls to the nearest pole, which is Cat 1. Treat this as an imperfect fit: a progressive establishment figure, not a movement-left candidate.",
+  "sources": [
+   "https://www.julianastratton.com/issues",
+   "https://www.julianastratton.com/endorsements",
+   "https://www.julianastratton.com/_files/ugd/9308f6_f10229b2fc7142fea157fa78764b1e05.pdf",
+   "https://www.julianastratton.com/_files/ugd/9308f6_244b22e9eb1e4b8983aee97742ba61ac.pdf",
+   "https://www.yahoo.com/news/articles/juliana-stratton-takes-progressive-lane-033800269.html",
+   "https://thegrio.com/2026/03/19/senate-nominee-juliana-stratton-wont-support-chuck-schumer-as-democratic-leader",
+   "https://jewishinsider.com/2025/08/illinois-senate-field-splits-over-resolutions-to-block-israel-aid/",
+   "https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/",
+   "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/",
+   "https://www.nprillinois.org/government-politics/2026-10-21/key-takeaways-from-the-only-senate-debate-between-juliana-stratton-and-don-tracy",
+   "https://news.wttw.com/2026/04/06/lt-gov-juliana-stratton-her-us-senate-campaign-health-care-funding-and-raising-minimum",
+   "https://ontheissues.org/Senate/Juliana_Stratton.htm",
+   "https://en.wikipedia.org/wiki/Juliana_Stratton",
+   "https://www.fox32chicago.com/news/stratton-wins-us-senate-race.amp"
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Josh Turek",
+  "seat": "IA-SEN",
+  "call_status": "confirmed winner (AP call; flipped open seat of retiring Sen. Joni Ernst, defeating Rep. Ashley Hinson; election-night ~50.8%-46.1%)",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA History, Southwest Minnesota State Univ. (2002); MBA DeVry University",
+   "career": "Four-time Paralympian (wheelchair basketball; gold 2016, 2020), pro player in Europe for ~2 decades; then worked for NuMotion fitting wheelchairs and handling insurance coverage",
+   "prior_office": "Iowa House of Representatives, HD-20 (2023-present)"
+  },
+  "self_description": "'proudly a moderate', 'genuinely a bipartisan person' (Semafor, Oct 2026); also a 'common-sense' moderate and a 'prairie populist': 'not just being the lesser of two evils - being a corporate Democrat' (Jon Stewart interview, Sept 2026).",
+  "primary_context": "Beat state Senate Democratic leader Zach Wahls in the 2 Jun 2026 primary (Nathan Sage and Jackie Norris withdrew earlier). The Des Moines Register said Turek 'casts a more moderate image'. Wahls pressed him to disavow Schumer and he declined to commit. VoteVets spent ~$10M for Turek; Wahls was backed by Elizabeth Warren.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": -1,
+    "e": "'Stop the Nonsense' ad (Oct 2026): he opposes males competing in female sports and taxpayer-funded 'sex changes'. He told the NYT 'I don't believe that biological males should compete against females in sports.' He also opposes gender-affirming surgery for minors.",
+    "src": "https://www.thepinknews.com/2026/10/26/josh-turek-ad-senate-gender-affirming-care-transgender-iowa/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Ran border-security ads, backed a 2024 Iowa law making illegal entry a state crime, and said 'I agree with Trump. He's done a better job on the border than Biden' (ABC This Week). His criticism of ICE was about tactics; he called for reform, not abolition.",
+    "src": "https://www.newsweek.com/democratic-senate-candidate-trump-did-better-job-on-border-than-biden-12616537"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Said he would have supported the Laken Riley Act and ran border-security ads; 'He's [Trump] done a better job on the border than Biden'; 'I'll work with anyone... including President Trump, to secure the border.'",
+    "src": "https://www.semafor.com/article/10/25/2026/josh-turek-is-running-a-radically-centrist-campaign"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "Opposes trans women in women's sports and taxpayer-funded gender-transition care (the 'Stop the Nonsense' ad drew condemnation from One Iowa Action and Iowa Democrats). His ads also presented him as a 'bipartisan supporter of gun rights'.",
+    "src": "https://www.newsweek.com/josh-turek-unequivocally-condemned-accused-of-lying-by-iowa-lgbtq-group-12625475"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Pledged to '100%' check his party's liberal impulses, faulted Democrats for blockading the farm bill and filibustering a GOP data-center bill, and would not commit to Schumer. His campaign launched a 'Republicans for Turek' coalition of 60+ Republicans.",
+    "src": "https://www.semafor.com/article/10/25/2026/josh-turek-is-running-a-radically-centrist-campaign"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "State legislator for two terms (office 2). BA plus a DeVry MBA, which is not a strong programme, and an elite athletic career (cred 1). Some concrete proposals: public option, federal right-to-repair, year-round E15, country-of-origin labelling, data-centre ratepayer safeguards. He also led enactment of Iowa's 'Work Without Worry' Medicaid buy-in law. Scored policy 1 because campaign specifics were modest, though a case exists for 2 on the authored law. Total 4."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Debated Wahls several times in the primary (Iowa PBS 'Iowa Press', KCCI, May 2026) and Hinson twice in the general (Iowa PBS 7 Oct; WHO-13 13 Oct 2026). Gave unscripted national interviews (ABC This Week with Jon Karl, Jon Stewart, C-SPAN, MeidasTouch) and held public town halls (e.g. Denison). He engaged Hinson's attacks on attendance and the Iran war directly."
+  },
+  "outside_support": [
+   "VoteVets (~$10M in the primary)",
+   "Barack Obama (endorsement)",
+   "Pete Buttigieg",
+   "Ruben Gallego",
+   "Iowa Federation of Labor and major unions (UAW, IAM, CWA, AFGE, UFCW 222)",
+   "ISEA/NEA",
+   "Iowa Farmers Union",
+   "Defend The Vote",
+   "Republicans for Turek coalition"
+  ],
+  "notable_positions": [
+   "Self-described 'proudly a moderate'; would have backed the Laken Riley Act; says Trump did better on the border than Biden (https://www.semafor.com/article/10/25/2026/josh-turek-is-running-a-radically-centrist-campaign)",
+   "Opposes trans women in women's sports and taxpayer-funded gender transition; ad condemned by One Iowa Action (https://www.newsweek.com/josh-turek-unequivocally-condemned-accused-of-lying-by-iowa-lgbtq-group-12625475)",
+   "Public option, not Medicare for All; restore enhanced ACA subsidies; reverse Medicaid cuts (https://insurancenewsnet.com/oarticle/turek-calls-for-public-health-insurance-option-amid-cancer-crisis)",
+   "Called for conditions on U.S. aid to Israel (Aug 2025): response 'disproportionate' (https://en.wikipedia.org/wiki/Josh_Turek)",
+   "Ending Trump tariffs ('Our farmers need open trade'); year-round E15; federal right-to-repair (https://ontheissues.org/Senate/Josh_Turek.htm)",
+   "Economic-populist framing: drive private equity out of health care and housing; against being 'a corporate Democrat' (https://www.semafor.com/article/10/25/2026/josh-turek-is-running-a-radically-centrist-campaign)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Turek explicitly ran as a moderate. He has border-hawkish statements (Laken Riley Act, praise for Trump's border record), broke with the party on trans sports, and made a visible bipartisan pitch (Republicans for Turek, a pledge to check his party's 'liberal impulses'). No left markers were found. His CI is about 3 because no centrist-coalition endorsements or fiscal-hawk positions were documented, and his economics are populist (anti-private-equity, anti-tariff). That keeps him below the CI≥5 threshold, so Cat 4 is a nearest-pole call.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_Turek",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+   "https://www.semafor.com/article/10/25/2026/josh-turek-is-running-a-radically-centrist-campaign",
+   "https://www.newsweek.com/democratic-senate-candidate-trump-did-better-job-on-border-than-biden-12616537",
+   "https://www.newsweek.com/josh-turek-unequivocally-condemned-accused-of-lying-by-iowa-lgbtq-group-12625475",
+   "https://www.thepinknews.com/2026/10/26/josh-turek-ad-senate-gender-affirming-care-transgender-iowa/",
+   "https://www.wowt.com/2026/10/27/iowa-legislator-criticizes-turek-campaign-ad-transgender-issues/",
+   "https://politifact.com/factchecks/2026/oct/07/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants/",
+   "https://insurancenewsnet.com/oarticle/turek-calls-for-public-health-insurance-option-amid-cancer-crisis",
+   "https://ontheissues.org/Senate/Josh_Turek.htm",
+   "https://www.iowapublicradio.org/political-news/2026-05-06/josh-turek-zach-wahls-debate-democratic-senate-primary",
+   "https://www.cookpolitical.com/analysis/senate/iowa-senate/turek-and-wahls-argue-over-electability-and-establishment-iowa-senate",
+   "https://krdo.com/politics/cnn-us-politics/2026/10/07/takeaways-from-the-first-iowa-senate-debate/",
+   "https://www.wowt.com/2026/10/14/hinson-turek-both-reject-russian-diesel-imports-final-debate/",
+   "https://turek4iowa.com/news/60-days-out-more-than-60-republicans-for-turek-endorse-josh-turek-for-u-s-senate",
+   "https://theiowamercury.substack.com/p/6-takeaways-from-josh-tureks-town",
+   "https://www.michiganpublic.org/2026-11-03/democrat-josh-turek-wins-the-senate-seat-in-iowa"
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Adam Hamilton",
+  "seat": "KS-SEN",
+  "call_status": "confirmed winner (AP; defeated incumbent Sen. Roger Marshall ~51%-46%; first Kansas Democratic senator elected since 1932)",
+  "bio": {
+   "birth_year": 1964,
+   "education": "BA Pastoral Ministry, Oral Roberts University (1985); MDiv, Perkins School of Theology, Southern Methodist University",
+   "career": "Founding senior pastor (since 1990) of the United Methodist Church of the Resurrection, the largest UMC congregation in the US (~25,000 weekly); author of 30+ books; will stay on as quarter-time senior minister while in the Senate",
+   "prior_office": "none (member of Obama's President's Advisory Council on Faith-Based and Neighborhood Partnerships, 2016)"
+  },
+  "self_description": "Self-described centrist / 'moderate or independent-minded Democrat': 'I'm a liberal conservative and a conservative liberal, depending on the issue and the day of the week.' Previously registered Republican (2020) and briefly independent (Feb-Apr 2026).",
+  "primary_context": "Won the 4 Aug 2026 Democratic primary with 34.6% in an 11-candidate field, ahead of Christy Davis (ex-USDA Rural Development state director; 14.2%) and Noah Taylor (13.6%). He first formed an exploratory committee as an independent and was encouraged to run as a Democrat to avoid splitting the anti-Marshall vote. The race was a centrist-outsider vs party-regular contest, not a left-right fight.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": -1,
+    "e": "In the Oct 2026 debate: 'I don't want biological men or boys competing against her that could harm her' (citing his granddaughter). On ABC This Week he said he believes there are two genders and that men should not compete in women's sports.",
+    "src": "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Called the Biden administration's border policies a 'disaster' in the Oct 2026 debate. He also criticised ICE practices as 'militarized' and 'politicized'.",
+    "src": "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "Opposes trans women in women's sports; 'there are two genders'. He nonetheless called Trump's focus on trans issues 'pathetic'.",
+    "src": "https://abcnews.com/Politics/democratic-senate-candidate-adam-hamilton-fighting-rights-people/story?id=137171767"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Pledged not to vote for Schumer as majority leader. Endorsed by former GOP governors Bill Graves and Mike Hayden, ex-GOP Sen. Sheila Frahm, his Republican primary opponent Arch Naramore and a 'Republicans for Hamilton' coalition of 100+ GOP leaders. He was a registered Republican in 2020.",
+    "src": "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Issues page: 'We need a comprehensive, all of the above strategy' on energy; 'Adam supports all of the above energy production'. He also backs restoring energy production tax credits, modular-housing deregulation to raise supply, expanded export promotion and new trade deals, and accelerated fertilizer-plant permitting.",
+    "src": "https://hamiltonforkansas.com/issues"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 2,
+   "note": "No elected office or senior government post; a 2016 presidential faith advisory council seat does not count (office 0). MDiv plus a senior leadership career running a ~25,000-member institution, with 30+ books (cred 2). A very detailed issues page with figures, CBO estimates and named bills: Trade Review Act, Faster Labor Contracts Act, No Robot Bosses Act, Rural Veterinary Workforce Act, ROAD to Housing Act (policy 2). Total 4."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Debated Marshall in both general-election debates (WIBW/Kansas Radio Network at the State Fair, 12 Sep 2026; FOX4, 21 Oct 2026). No information was found on primary debates in the 11-way field. Did a pre-campaign statewide listening tour and a long unscripted ABC This Week interview with Jon Karl, and pitched openly to Republican voters. Engaged critiques directly, e.g. conceded 'a mistake on my part' over a 2005 church abuse case."
+  },
+  "outside_support": [
+   "Kansas Gov. Laura Kelly and ex-Govs. Sebelius, Carlin, Parkinson (D) and Graves, Hayden (R)",
+   "Republicans for Hamilton coalition",
+   "Kansas AFL-CIO",
+   "UAW",
+   "AFGE",
+   "NEA",
+   "SMART (co-endorsed Marshall)",
+   "J Street PAC",
+   "Jewish Democratic Council of America",
+   "CAIR Action",
+   "Kansas City Star editorial board",
+   "Tim Kaine"
+  ],
+  "notable_positions": [
+   "Self-described centrist: 'a liberal conservative and a conservative liberal' (https://en.wikipedia.org/wiki/Adam_Hamilton_(pastor))",
+   "Won't vote for Schumer as leader; 'if it's bad for Kansas, I'm a hard no' (https://abcnews.com/Politics/democratic-senate-candidate-adam-hamilton-fighting-rights-people/story?id=137171767)",
+   "Opposes trans women in women's sports; called Biden border policy a 'disaster' (https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/)",
+   "'All of the above' energy; end tariffs and require congressional approval for new ones; double USDA export promotion (https://hamiltonforkansas.com/issues)",
+   "Health: expand Medicare drug negotiation to private plans, restore ACA subsidies, reverse Medicaid cuts, site-neutral payments and Medicare Advantage overpayment cuts (https://hamiltonforkansas.com/issues)",
+   "Congressional stock-trading ban, term and age limits for Congress and SCOTUS via constitutional amendment (no court-expansion proposal), 'no budget, no pay', abortion-rights and contraception protections (https://hamiltonforkansas.com/issues)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Hamilton is a self-described centrist and former Republican who won with heavy GOP crossover support. He broke with the party on trans sports and Biden's border record, refused to back Schumer, and backs 'all of the above' energy. No left markers were found. CI is about 4: no centrist-coalition endorsements or fiscal-hawk positions turned up. He is credentialed and engaged, so step 5 puts him at the Cat 4 pole. He has no prior office, but his policy depth is high.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Hamilton_(pastor)",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+   "https://hamiltonforkansas.com/",
+   "https://hamiltonforkansas.com/issues",
+   "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/",
+   "https://abcnews.com/Politics/democratic-senate-candidate-adam-hamilton-fighting-rights-people/story?id=137171767",
+   "https://www.cjonline.com/story/news/politics/elections/congressional/2026/09/12/roger-marshall-and-adam-hamilton-debate-at-kansas-state-fair/91717947007/",
+   "https://www.ksnt.com/elections/live-updates-sen-roger-marshall-debates-adam-hamilton-in-us-senate-race/",
+   "https://www.ksn.com/news/politics/former-kansas-governor-endorses-adam-hamilton-in-us-senate-race/",
+   "https://www.thekansascityglobe.com/news/over-100-prominent-kansas-republican-leaders-launch-republicans-hamilton-coalition-race-us",
+   "https://www.usatoday.com/story/news/politics/elections/2026/07/28/backing-adam-hamilton-kathleen-sebelius-says-dems-need-gop-voters/91011888007/",
+   "https://www.kcur.org/2026-08-04/kansas-senate-race-set-democrat-adam-hamilton-to-take-on-republican-sen-roger-marshall",
+   "https://www.nhpr.org/2026-11-03/adam-hamilton-becomes-the-first-democratic-senator-from-kansas-in-nearly-a-century"
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Troy Jackson",
+  "seat": "ME-SEN",
+  "call_status": "confirmed winner (AP call early 4 Nov 2026; Sen. Susan Collins conceded)",
+  "bio": {
+   "birth_year": 1968,
+   "education": "AA, University of Maine at Fort Kent",
+   "career": "Logger from Allagash (helped lead the 1998 loggers' blockade over Canadian labor); 22 years as a state legislator; DNC member 2015-16 (cast a superdelegate vote for Sanders in 2016)",
+   "prior_office": "Maine House 2002-08 (first elected as an independent; ran as a Republican in 2000); Maine Senate 2008-14 and 2016-24, incl. Majority Leader 2013-14, Minority Leader 2016-18 and Senate President 2018-24; 2014 ME-02 primary loss; lost the 2026 gubernatorial primary"
+  },
+  "self_description": "Working-class populist, running for Mainers 'under attack from billionaires, special interests, and their friends who control Washington'. Long-time Sanders ally; Wikipedia's left-wing populism sidebar lists him.",
+  "primary_context": "Lost the 9 Jun 2026 Democratic gubernatorial primary (3rd; Hannah Pingree won). In the Senate primary, his ally Graham Platner (Sanders-backed) beat Gov. Janet Mills, then withdrew in July after a sexual-assault allegation. Jackson won 456 of 500 caucus delegates; Shenna Bellows, Nirav Shah, Dan Kleban and Jordan Wood withdrew. He took the nomination at the 25 Jul special convention, 566-5 over Saundra Pelletier, as the progressive-populist successor to Platner.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Priorities page: 'Pass Medicare for All... he would support and cosponsor the Medicare for All Act'. He also backed M4A in a 2026 debate.",
+    "src": "https://www.jacksonformaine.com/priorities"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Priorities page: 'Dismantle and abolish ICE... This rogue agency must be abolished.' In the Jul 2026 debate: 'I'd abolish it altogether.'",
+    "src": "https://www.jacksonformaine.com/priorities"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Priorities page: 'End the genocide in Gaza and stop U.S. funding for Israel's military... Troy believes what's happening in Gaza is a genocide, that Benjamin Netanyahu is a war criminal.' He said he would never vote for U.S. military aid to Israel.",
+    "src": "https://www.jacksonformaine.com/priorities"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (personal; held 3 rallies in Oct 2026)",
+   "Maine DSA",
+   "Working Families Party",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Alexandria Ocasio-Cortez (personal)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports and would cosponsor the Medicare for All Act.",
+    "src": "https://www.jacksonformaine.com/priorities"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls for abolishing ICE ('rogue agency').",
+    "src": "https://www.jacksonformaine.com/priorities"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "Senior state legislator: 6 years as Maine Senate President plus majority/minority leader (office 2; the rubric gives statewide-elected office 3, and he never held one). Associate degree but a 22-year legislative career at the top of state government; scored 1 on cred as a judgement call, 0 is defensible on degree alone. Authored record: Prescription Drug Affordability Board and drug importation, universal free school meals, child-care expansion, logger collective bargaining (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the 16 Jul 2026 multi-candidate debate before the convention (the CNN/BDN debate was cancelled by the hosts) and all four general-election debates with Collins (WGME 6 Oct, WMTW 8 Oct, WABI/WAGM 13 Oct, News Center/Press Herald/Maine Public 15 Oct). Media pattern was rallies (several with Sanders) and mainstream Maine outlets; no hostile or cross-partisan venue was found. The Washington Post described him as lacking charisma."
+  },
+  "outside_support": [
+   "Bernie Sanders",
+   "Working Families Party",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Maine DSA",
+   "Progressive Victory",
+   "J Street",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Sierra Club",
+   "Maine State Nurses Association",
+   "UAW",
+   "IAM",
+   "MSEA-SEIU",
+   "AFL-CIO (Liz Shuler)",
+   "Obama and Harris (endorsements)",
+   "Gov. Janet Mills"
+  ],
+  "notable_positions": [
+   "Medicare for All; would cosponsor the Medicare for All Act (https://www.jacksonformaine.com/priorities)",
+   "Abolish ICE: 'This rogue agency must be abolished' (https://www.jacksonformaine.com/priorities)",
+   "Calls Gaza a genocide and Netanyahu a war criminal; stop U.S. funding for Israel's military (https://www.jacksonformaine.com/priorities)",
+   "Rejects money from corporate PACs, AIPAC and active Big Oil/Big Pharma lobbyists; overturn Citizens United and publicly finance campaigns (https://www.jacksonformaine.com/priorities)",
+   "Lift the Social Security payroll cap; 'tax billionaires'; PRO Act; congressional stock-trading ban (https://www.jacksonformaine.com/priorities)",
+   "Former socially conservative and NRA-rated record (anti-abortion until ~2012, voted against same-sex marriage in 2009) since shifted to pro-choice and gun-safety positions (https://en.wikipedia.org/wiki/Troy_Jackson)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Jackson's own platform commits him to Medicare for All, abolishing ICE, and calling Gaza a genocide while ending U.S. military funding for Israel. He is endorsed by Sanders, AOC, WFP, Our Revolution, Sunrise and Maine DSA, which hits the L13 cap. That gives LI of at least 6. He is a labour-populist with a long legislative record; his earlier culturally conservative votes predate the 2026 campaign.",
+  "sources": [
+   "https://www.jacksonformaine.com/priorities",
+   "https://en.wikipedia.org/wiki/Troy_Jackson",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+   "https://www.jns.org/news/u-s-news/man-set-to-be-dem-maine-senate-nominee-very-close-to-platner-philosophically-experts-say",
+   "https://mainemorningstar.com/2026/07/16/immigration-dominates-first-maine-u-s-senate-debate-days-after-fatal-shooting/",
+   "https://abcnews.com/Politics/immigration-enforcement-flashpoint-maine-senate-race-after-fatal/story?id=134983149",
+   "https://www.politico.com/newsletters/politico-pulse/2026/07/21/troy-jackson-puts-health-care-front-and-center-01005840",
+   "https://jewishinsider.com/2026/07/democratic-candidates-maine-graham-platner-replacement-israel-aipac/",
+   "https://www.bangordailynews.com/2026/10/02/politics/elections/bernie-sanders-to-rally-with-troy-jackson-in-maine/",
+   "https://www.usatoday.com/story/news/politics/2026/07/25/troy-jackson-replaces-graham-platner-maine-senate-democrat-nominee/91020463007/",
+   "https://www.bangordailynews.com/2026/07/19/politics/elections/troy-jackson-locks-down-delegates-maine-democratic-senate-nod/",
+   "https://www.bangordailynews.com/2026/10/06/politics/elections/live-updates-susan-collins-and-troy-jackson-face-off-in-1st-senate-debate/",
+   "https://mainemorningstar.com/2026/09/04/maine-u-s-senate-candidates-agree-to-debates-though-format-remains-up-in-the-air/",
+   "https://www.washingtonpost.com/politics/2026/10/21/he-lacks-charisma-maines-senate-race-it-may-not-matter/",
+   "https://www.kjzz.org/npr-top-stories/2026-11-03/troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats"
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Abdul El-Sayed",
+  "seat": "MI-SEN",
+  "call_status": "confirmed winner (AP call ~2:27am 4 Nov 2026; defeated Republican Mike Rogers, ~51.9%-46.1% at the call)",
+  "bio": {
+   "birth_year": 1984,
+   "education": "BS Univ. of Michigan; DPhil Oxford (Rhodes Scholar); MD Columbia",
+   "career": "Epidemiologist; asst. professor at Columbia Mailman School of Public Health; Exec. Director of the Detroit Health Department (2015-17); director of Wayne County Dept. of Health, Human & Veterans Services (2023-25); Crooked Media podcast host; author (co-wrote a Medicare for All book)",
+   "prior_office": "No elected office. Appointed Detroit health director and Wayne County HHVS director; ran for MI governor in 2018 (lost primary to Whitmer, ~30%)"
+  },
+  "self_description": "Progressive and economic populist, explicitly not a socialist: 'I'm not a socialist. I'm just a capitalist who understands how capitalism works.' Says he is 'running against two parties' (Time).",
+  "primary_context": "Narrowly beat Rep. Haley Stevens, 48.4%-47.6%, on 4 Aug 2026 after Mallory McMorrow withdrew in July and endorsed him on primary day. Coverage framed it as moderate establishment (Stevens, backed by Schumer and ~$62M in outside spending incl. ~$33M from AIPAC/UDP) vs progressive wing (El-Sayed, backed by Sanders, AOC, Warren and WFP). Stevens later endorsed Republican Rogers.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Platform: 'I support raising the marginal tax rate on earnings over $1 million and a billionaire tax on wealth over $1 billion', plus 'a progressive tax on wealth held by trusts'.",
+    "src": "https://abdulforsenate.com/priority/money-in-your-pocket/"
+   },
+   "L2": {
+    "v": 1,
+    "e": "Platform: 'I also support taxing inheritance greater than $1 million like ordinary income' and closing the stepped-up basis loophole.",
+    "src": "https://abdulforsenate.com/priority/money-in-your-pocket/"
+   },
+   "L3": {
+    "v": 1,
+    "e": "Medicare for All is the central plank: a government-run system replacing private insurance. He co-authored a book on M4A, and his campaign page is titled 'Medicare for All: the path to a healthier America'.",
+    "src": "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"
+   },
+   "L4": {
+    "v": -1,
+    "e": "'When it comes to the question of socialism, I'm not a socialist. I'm just a capitalist who understands how capitalism works' (primary debate).",
+    "src": "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Platform: 'That begins with Abolishing ICE... It must be abolished'. He would repurpose ICE funds, while saying 'I believe in a safe, secure border and immigration enforcement' under a new structure.",
+    "src": "https://abdulforsenate.com/priority/money-out-of-politics/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Calls the Gaza war a genocide (Time, May 2026: 'If you can't call it what it is, which is a genocide...') and opposes U.S. military aid to Israel. Victory speech: 'We don't want our money to be sent to do apartheid or genocidal war.'",
+    "src": "https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (personal)",
+   "Alexandria Ocasio-Cortez (personal)",
+   "Working Families Party",
+   "Our Revolution",
+   "Progressive Change Campaign Committee",
+   "Justice Democrats (2018 governor race only; not confirmed for 2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All, replacing private insurance.",
+    "src": "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls for abolishing ICE.",
+    "src": "https://abdulforsenate.com/priority/money-out-of-politics/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "His Senate campaign says he does not support defunding the police, and his 2026 platform calls for funding police recruitment, retention and retirement. He disowned a 2020 radio comment ('I actually never, never called for defunding').",
+    "src": "https://www.cnn.com/2025/11/10/politics/kfile-abdul-el-sayed-deleted-tweets-defund-the-police"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senior appointed executive running the health departments of Detroit and Wayne County (treated as office 2, like a senior city/county executive; no elected office). MD plus Oxford DPhil, Rhodes Scholar, Columbia faculty (cred 2). Highly specific platform: billionaire wealth tax, inheritance-as-income above $1M, capital gains at ordinary rates above $1M, a $50k cost-of-living tax exemption, codifying the Endangerment Finding, data-centre 'Terms of Engagement', SCOTUS term limits (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Did all five primary debates and forums (UAW, Baptist Pastors, Mackinac, WOOD-TV, Fox 2) and all four general-election debates and forums with Rogers (Fox 2/Michigan Debate Commission, WOOD-TV, Detroit Economic Club, WXYZ). Went on Fox News, NBC, CNN and Chuck Todd, and held open town halls in GOP-leaning areas (e.g. Caro, where he took a hostile Muslim Brotherhood question). He engaged critics: condemned Piker's 9/11 remarks, apologised for his Temple Israel attack statement, and rebutted defund-the-police attacks."
+  },
+  "outside_support": [
+   "Bernie Sanders",
+   "AOC",
+   "Elizabeth Warren",
+   "Working Families Party",
+   "Our Revolution",
+   "PCCC",
+   "Indivisible",
+   "End Citizens United",
+   "UAW",
+   "CAIR Action",
+   "JVP Action",
+   "Track AIPAC",
+   "Patriotic Millionaires",
+   "Obama and Harris (general-election rallies)",
+   "No PAC money accepted (individual donors only)"
+  ],
+  "notable_positions": [
+   "Medicare for All replacing private insurance (https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/)",
+   "Billionaire wealth tax, inheritance above $1M taxed as ordinary income, capital gains above $1M at ordinary rates, lift the Social Security cap (https://abdulforsenate.com/priority/money-in-your-pocket/)",
+   "Abolish ICE ('cannot be reformed or retrained') while backing a 'safe, secure border' under a new structure; abolish the filibuster; SCOTUS term limits (https://abdulforsenate.com/priority/money-out-of-politics/)",
+   "Calls Gaza a genocide and Israel a 'rogue state'; end military aid to Israel, Egypt, Jordan and Saudi Arabia; supports aid to Ukraine (https://www.jta.org/2026/07/08/politics/haley-stevens-takes-aim-at-netanyahu-in-michigan-senate-debate-as-opponent-abdul-el-sayed-calls-israel-a-rogue-state)",
+   "Anti-NAFTA; targeted protective tariffs for growth industries; pathway to 100% renewable energy (https://abdulforsenate.com/priority/money-in-your-pocket/)",
+   "'I'm not a socialist... a capitalist who understands how capitalism works'; refuses PAC money (https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "El-Sayed's written platform hits several left markers: a billionaire wealth tax, inheritance above $1M taxed as income, Medicare for All, abolishing ICE, and calling Gaza a genocide while ending military aid to Israel. He also has the full progressive endorsement slate (Sanders, AOC, WFP, Our Revolution, PCCC). LI is about 8, far over the threshold. He rejects the socialist label and his campaign disowns 'defund the police'; neither changes the call.",
+  "sources": [
+   "https://abdulforsenate.com/priority/money-in-your-pocket/",
+   "https://abdulforsenate.com/priority/money-out-of-politics/",
+   "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/",
+   "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+   "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/",
+   "https://time.com/article/2026/07/08/democratic-senate-hopeful-abdul-el-sayed-is-running-against-two-parties/",
+   "https://www.jta.org/2026/07/08/politics/haley-stevens-takes-aim-at-netanyahu-in-michigan-senate-debate-as-opponent-abdul-el-sayed-calls-israel-a-rogue-state",
+   "https://www.cnn.com/2025/11/10/politics/kfile-abdul-el-sayed-deleted-tweets-defund-the-police",
+   "https://www.factcheck.org/2026/10/republican-ads-attack-el-sayed-for-past-comments-positions-on-policing-and-prisons/",
+   "https://www.cbsnews.com/detroit/news/el-sayed-muslim-brotherhood-question-caro-town-hall-michigan-senate/",
+   "https://www.commondreams.org/news/el-sayed-fox-interview",
+   "https://michiganadvance.com/2026/08/05/abdul-el-sayed-squeaks-out-win-over-haley-stevens-in-hotly-contested-democratic-us-senate-primary/",
+   "https://michiganadvance.com/2026/10/08/el-sayed-rogers-trade-barbs-accusations-during-first-televised-u-s-senate-debate/",
+   "https://www.cbsnews.com/news/final-michigan-senate-debate-abdul-el-sayed-mike-rogers/",
+   "https://www.jewishnews.co.uk/el-sayed-declares-victory-in-michigan-senate-race/",
+   "https://www.michiganpublic.org/2026-11-04/democrat-abdul-el-sayed-defeats-republican-mike-rogers-in-key-michigan-senate-race"
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Peggy Flanagan",
+  "seat": "MN-SEN",
+  "call_status": "confirmed winner (AP projected; defeated Republican Michele Tafoya by ~10 pts; results unofficial pending certification)",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA Child Psychology (minor American Indian Studies), University of Minnesota (2002)",
+   "career": "Native community organizer (Wellstone campaign, Minnesota Council of Churches), trainer at Wellstone Action, Exec. Director of Children's Defense Fund-Minnesota; co-chaired the 2014 MN minimum-wage campaign",
+   "prior_office": "Minneapolis Public Schools board (2005-09, appointed again 2010-11); Minnesota House (2015-19); Lieutenant Governor of Minnesota (2019-present); chair, Democratic Lieutenant Governors Association (2023-)"
+  },
+  "self_description": "Progressive; ran on 'we've got to fight for more', saying Democrats' focus 'cannot be to simply make life only a little less lousy for folks'. Newsweek framed her primary as 'Bernie Sanders-style progressivism' vs 'Bill Clinton-esque Third Way centrism'.",
+  "primary_context": "Won the DFL convention endorsement (30 May 2026) and the 11 Aug primary with ~59% over Rep. Angie Craig. The race was widely framed as progressive vs moderate. Flanagan refused corporate PAC and AIPAC money (Craig accepted both), attacked Craig's Laken Riley Act vote and backed dismantling ICE. Craig reportedly had quiet Schumer/DSCC support.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Priorities page: 'Peggy believes healthcare is a human right and will fight for Medicare for All'.",
+    "src": "https://peggyflanagan.com/priorities/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "Supports gender-affirming care for transgender youth, and backed Gov. Walz's executive order protecting access for adults and minors and making it permanent. Coded 1 as opposition to age-based bans; she made no explicit statement on sports.",
+    "src": "https://www.startribune.com/make-protection-for-gender-care-permanent/600257601/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Priorities page: 'ICE is out of control and... we must dismantle the agency and reimagine an immigration system'. She said ICE is beyond reform and must be 'ripped apart'. Caveat: she avoided the word 'abolish', preferring 'dismantle'.",
+    "src": "https://peggyflanagan.com/priorities/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Per Star Tribune and AP issue coverage summarised on Wikipedia, she described Israel's conduct in Gaza as genocide and would have backed Senate resolutions blocking weapons sales. Her own site uses milder language: a two-state solution, 'halt offensive weapons sales to Israel', no full embargo. Treat this marker as medium-confidence.",
+    "src": "https://www.startribune.com/heres-where-democratic-senate-candidates-angie-craig-and-peggy-flanagan-diverge-on-the-issues/601874779"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (personal; endorsed Nov 2025, rallied at First Avenue Jul 2026)",
+   "Our Revolution"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All.",
+    "src": "https://peggyflanagan.com/priorities/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Backs dismantling ICE and attacked Craig's vote for the Laken Riley Act as 'politically expedient'.",
+    "src": "https://www.politico.com/news/2026/01/18/minnesota-ice-midterm-campaigns-00735146"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Priorities page: 'Peggy supports funding local police departments so they have the resources they need to train officers and support community safety.'",
+    "src": "https://peggyflanagan.com/priorities/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Two-term statewide Lt. Governor, ex-state rep, ex-school board (office 3). BA plus a senior nonprofit career as exec. director of CDF-Minnesota (cred 1). Detailed platform: $17 indexed minimum wage, ban on prior authorization, Medicare negotiation on all drugs, stock-trading ban, assault-weapons ban, ban on federal private prisons. She also has an authored and championed record: paid family and medical leave, the MMIW task force and office, the Healthy Start Act (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Did both MPR News primary debates with Craig (19 Jun and 27 Jul 2026). No record of general-election debates with Tafoya was found in the sources checked; the search budget ran out before this could be confirmed, so debate=1 reflects missing evidence, not documented ducking. Media: regular mainstream Minnesota interviews (MPR, Fox 9, Star Tribune); no cross-partisan national outlet found. She engaged Craig's arguments directly on ICE and corporate money."
+  },
+  "outside_support": [
+   "Bernie Sanders",
+   "Elizabeth Warren",
+   "Tina Smith",
+   "Ilhan Omar",
+   "Our Revolution",
+   "Indivisible",
+   "National Nurses United",
+   "SEIU Minnesota State Council",
+   "UFCW Local 663",
+   "Bend the Arc: Jewish Action",
+   "Jane Fonda Climate PAC",
+   "Peace Action",
+   "Vote Mama",
+   "Minnesota DFL (convention endorsement)",
+   "Democratic Lieutenant Governors Association",
+   "No corporate PAC or AIPAC money"
+  ],
+  "notable_positions": [
+   "Medicare for All; ban prior authorization; Medicare negotiation on all drugs (https://peggyflanagan.com/priorities/)",
+   "'Dismantle' ICE and rebuild immigration enforcement; end mass deportation (https://peggyflanagan.com/priorities/)",
+   "Two-state solution; would have voted to halt offensive weapons sales to Israel; reportedly called Gaza a genocide (https://peggyflanagan.com/priorities/)",
+   "$17 federal minimum wage indexed to inflation, universal childcare, national paid leave, lift the Social Security cap (https://peggyflanagan.com/priorities/)",
+   "Supports funding local police, an assault-weapons ban and banning private prisons (https://peggyflanagan.com/priorities/)",
+   "Called the 2026 Iran war an 'illegal war' (https://www.mprnews.org/story/2026/08/12/peggy-flanagan-primary-win-takes-aim-at-trump-outlines-senate-agenda)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Flanagan ran as the progressive in a progressive-vs-moderate primary. She has Medicare for All and 'dismantle ICE' on her platform, supports gender-affirming care for minors, and reportedly called Gaza a genocide; Sanders and Our Revolution endorsed her. That gives LI of about 6, a borderline pass. L9 depends on 'dismantle' counting as abolition, and the genocide claim comes from secondary reporting while her site is milder. If either is downgraded (LI 5), she is credentialed (EPD 6) and engaged enough (EO 3) that the nearest-pole rule still places her at Cat 1.",
+  "sources": [
+   "https://peggyflanagan.com/priorities/",
+   "https://en.wikipedia.org/wiki/Peggy_Flanagan",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+   "https://www.startribune.com/heres-where-democratic-senate-candidates-angie-craig-and-peggy-flanagan-diverge-on-the-issues/601874779",
+   "https://www.startribune.com/make-protection-for-gender-care-permanent/600257601/",
+   "https://www.politico.com/news/2026/01/18/minnesota-ice-midterm-campaigns-00735146",
+   "https://www.fox9.com/news/lt-gov-peggy-flanagan-says-ice-exists-should-get-no-more-funding",
+   "https://www.startribune.com/trumps-immigration-crackdown-has-democrats-grappling-with-abolish-ice-movement/601583452",
+   "https://www.politico.com/news/2025/12/21/democrats-have-been-united-in-bashing-the-gop-on-obamacare-medicare-for-all-could-reopen-a-rift-00701232",
+   "https://www.startribune.com/bernie-sanders-endorses-peggy-flanagan-in-race-for-us-senate-seat-in-minnesota/601522210",
+   "https://www.newsweek.com/minnesota-senate-race-emerges-as-key-battle-in-democratic-party-civil-war-11159629",
+   "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats",
+   "https://www.mprnews.org/story/2026/08/12/peggy-flanagan-primary-win-takes-aim-at-trump-outlines-senate-agenda",
+   "https://www.scrippsnews.com/politics/america-votes/democrat-peggy-flanagan-wins-minnesota-senate-race"
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Chris Pappas",
+  "seat": "NH-SEN",
+  "call_status": "confirmed winner (AP/NBC; defeated former Sen. John E. Sununu, who conceded election night)",
+  "bio": {
+   "birth_year": 1980,
+   "education": "AB Government, Harvard College (2002)",
+   "career": "Co-owner of the family restaurant (Puritan Backroom, Manchester); career elected official since age 22",
+   "prior_office": "NH House (2002-06); Hillsborough County Treasurer (2006-10); NH Executive Council (2013-19); U.S. House, NH-01 (2019-present)"
+  },
+  "self_description": "Pitches himself as 'willing to take on anyone – corporate special interests, Donald Trump, and even his own party' (campaign site). CNBC says he 'has largely legislated as a moderate'.",
+  "primary_context": "Won the 8 Sep 2026 primary with 65.0% over Karishma Manzur (32.7%), a self-described democratic socialist scientist backed by Jamaal Bowman, PDA and Track AIPAC who ran on universal health care and ending aid to Israel. Pappas was the establishment frontrunner, endorsed by Shaheen and Hassan.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Campaign immigration page: 'ICE must focus on their core mission: ensuring that individuals who are here illegally, who are violent, and breaking our laws are deported'. He backs funding 22,000 Border Patrol agents and voted for the Laken Riley Act. He wants to redirect ICE's $75B budget and add guardrails, not abolish the agency.",
+    "src": "https://chrispappas.org/priority/immigration/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Campaign foreign-policy page: he 'has supported bipartisan security assistance for Israel'. He voted to censure Rashida Tlaib (Nov 2023) and is endorsed by AIPAC and DMFI. In Apr 2026 he said the Iran war had changed his view and he would now vote to limit certain arms sales; that is a partial, not a full, embargo.",
+    "src": "https://chrispappas.org/priority/foreign-policy/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "One of 46 House Democrats to vote for the Laken Riley Act. His platform cites the Comprehensive Southern Border Strategy Act, funding 22,000 Border Patrol agents and more enforcement on illegal crossers who commit serious crimes.",
+    "src": "https://www.nhpr.org/nh-news/2025-01-23/n-h-s-all-democratic-delegation-joins-gop-to-pass-laken-riley-act"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaign 'Supporting Local Law Enforcement' page: voted for 'millions in federal funds to hire and retain police officers', wrote bills funding police training and infrastructure, and passed the permanent Schedule I classification of fentanyl-related substances.",
+    "src": "https://chrispappas.org/priority/law-enforcement/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center Bipartisan Index ranked him the most bipartisan House Democrat (2023). Member of the Problem Solvers Caucus; voted with the GOP on the Laken Riley Act and the Tlaib censure; criticised Biden's student-debt cancellation as 'no way to make policy'.",
+    "src": "https://washingtonstatestandard.com/2024/05/15/new-list-rates-the-most-bipartisan-members-of-congress-and-the-least/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Energy page: 'Chris supports an all-of-the-above energy strategy'. Housing plan centres on 'cutting red tape for communities to build more homes'. He backed the CHIPS Act and domestic energy production.",
+    "src": "https://chrispappas.org/priority/energy-and-environment/"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition (member)",
+   "Problem Solvers Caucus (member)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Four-term U.S. Representative, former NH Executive Councilor and state rep (office 3). Harvard AB plus small-business co-ownership; no advanced degree (cred 1). Authored-law record: permanent fentanyl-analogue scheduling, a veterans COLA, PFAS bills, the SERVE Act, the Energy Burden Tax Credit Act, plus a detailed 'Tax Cuts and Lower Costs Blueprint' (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "At least one general-election debate with Sununu took place (NBC Boston cites Pappas speaking at a debate the week before the election). Sununu had challenged him to 10 county debates; no record of Pappas accepting or refusing was found. Primary debates with Manzur were not verified. Media: regular NH interviews (WMUR CloseUp, NHPR candidate conversations) and a 2022 Fox News Digital interview breaking with Biden on student debt. He engaged substance, e.g. explaining his changed view on Israel arms sales after the Iran war."
+  },
+  "outside_support": [
+   "AIPAC (endorsement)",
+   "Democratic Majority for Israel",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "End Citizens United",
+   "LCV Action Fund",
+   "Sierra Club",
+   "NRDC Action Fund",
+   "Planned Parenthood Action Fund",
+   "Brady PAC",
+   "Moms Demand Action",
+   "HRC PAC",
+   "LGBTQ+ Victory Fund",
+   "Equality PAC",
+   "AFL-CIO",
+   "NH Building Trades",
+   "IBEW locals",
+   "Teamsters Local 633",
+   "NEA-NH",
+   "AFT-NH",
+   "Professional Fire Fighters",
+   "Shaheen",
+   "Hassan",
+   "Warren",
+   "Buttigieg",
+   "Harris"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act; ICE should 'focus on their core mission' of deporting violent offenders; would redirect ICE's $75B to local police (https://chrispappas.org/priority/immigration/)",
+   "'All-of-the-above energy strategy'; suspend the federal gas tax; defend clean energy credits (https://chrispappas.org/priority/energy-and-environment/)",
+   "Strengthen the ACA and restore enhanced subsidies; no Medicare for All on the platform (https://chrispappas.org/priority/health-care/)",
+   "Supported security assistance for Israel and a two-state solution; after the Iran war, would limit certain arms sales (https://www.wmur.com/article/chris-pappas-iran-war-arms-sales-israel-closeup/71132693)",
+   "Congressional stock-trading ban (forced a floor vote); anti-corruption agenda; overturn Citizens United (https://chrispappas.org/priority/anti-corruption-agenda/)",
+   "Ranked most bipartisan House Democrat by the Lugar Center (2023); New Dem and Problem Solvers member (https://en.wikipedia.org/wiki/Chris_Pappas_(American_politician))"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Pappas is a New Democrat and Problem Solvers Caucus member ranked the most bipartisan House Democrat. He voted for the Laken Riley Act, campaigns on funding police and 'all-of-the-above' energy, and supports security assistance for Israel (AIPAC/DMFI-endorsed). He beat a democratic-socialist primary challenger 65-33. CI is about 6 and LI is 0, which meets the Cat 4 test directly.",
+  "sources": [
+   "https://chrispappas.org/priorities/",
+   "https://chrispappas.org/priority/immigration/",
+   "https://chrispappas.org/priority/law-enforcement/",
+   "https://chrispappas.org/priority/energy-and-environment/",
+   "https://chrispappas.org/priority/foreign-policy/",
+   "https://chrispappas.org/priority/health-care/",
+   "https://chrispappas.org/priority/housing/",
+   "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/",
+   "https://chrispappas.org/endorsements/",
+   "https://en.wikipedia.org/wiki/Chris_Pappas_(American_politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+   "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+   "https://www.nhpr.org/nh-news/2025-01-23/n-h-s-all-democratic-delegation-joins-gop-to-pass-laken-riley-act",
+   "https://washingtonstatestandard.com/2024/05/15/new-list-rates-the-most-bipartisan-members-of-congress-and-the-least/",
+   "https://www.nhpr.org/politics/2026-08-31/primary-conversations-pappas-says-democratic-party-needs-to-focus-on-kitchen-table-issues",
+   "https://www.wmur.com/article/chris-pappas-iran-war-arms-sales-israel-closeup/71132693",
+   "https://nhjournal.com/gop-primary-wrap-sununu-knocks-out-brown-challenges-pappas-to-10-round-debate/",
+   "https://www.nbcboston.com/news/local/new-hampshire-senate-race-results-polls-chris-pappas-vs-john-sununu/4042287/",
+   "https://www.foxnews.com/politics/vulnerable-house-democrat-rebukes-biden-300-billion-student-loan-forgiveness-plan"
+  ]
+ }
+]

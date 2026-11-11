@@ -1,0 +1,1856 @@
+[
+ {
+  "id": "J000288",
+  "name": "Henry C. \"Hank\" Johnson Jr.",
+  "seat": "GA-04",
+  "call_status": "re-elected 2026 (beat Republican James Duffie in safe DeKalb-based seat)",
+  "bio": {
+   "birth_year": 1954,
+   "education": "BA Clark College; JD Texas Southern University (Thurgood Marshall School of Law)",
+   "career": "Attorney; DeKalb County associate magistrate judge",
+   "prior_office": "DeKalb County Commission (2001-2006); U.S. House GA-04 since 2007 (11th term from 2027)"
+  },
+  "self_description": "Member of the Congressional Progressive Caucus; long-time leader of the progressive push to 'expand the Court' and restructure the judiciary.",
+  "primary_context": "19 May 2026 Democratic primary: won ~79% against businessman Ansel Postell and political consultant Ben Truman; no organised left or right challenge (AJC).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Lead House sponsor of the Judiciary Act of 2021 and 2023, adding four seats to create a 13-justice Supreme Court; held July 2024 press event with Sen. Markey pushing passage.",
+    "src": "https://hankjohnson.house.gov/media-center/press-releases/rep-johnson-sen-markey-announce-legislation-expand-supreme-court"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Statement: 'Silence is no longer an option. What is happening in Gaza is genocide. U.S. military support for genocide in Gaza must end.' Cosponsor of Tlaib's H.Res.876 (Nov 2025) recognising the genocide in Gaza. Named by Responsible Statecraft (Aug 2025) among 14 lawmakers calling it genocide.",
+    "src": "https://tlaib.house.gov/posts/tlaib-introduces-resolution-recognizing-the-genocide-of-the-palestinian-people-in-gaza"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Ten-term incumbent (since 2007), former county commissioner and magistrate judge; JD; senior House Judiciary member and lead sponsor of the Judiciary Act (Court expansion) - recognised policy lead on courts."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: no Atlanta Press Club debate was held for GA-04 in the 2026 primary or general (APC schedule lists no U.S. House general debates); safe seat. Held an in-person town hall in Gwinnett (May 2025) taking critical questions on Democratic passivity and generational change (GPB). Mostly friendly outlets; no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "J Street PAC",
+   "Georgia AFL-CIO",
+   "Planned Parenthood Action Fund",
+   "SPLC Action Fund",
+   "PAC-heavy fundraising (78% of receipts from PACs; small-dollar share 0.23)"
+  ],
+  "notable_positions": [
+   "Lead House sponsor of Judiciary Act to expand Supreme Court to 13 seats (https://hankjohnson.house.gov/media-center/press-releases/rep-johnson-sen-markey-announce-legislation-expand-supreme-court)",
+   "Called Gaza a 'genocide'; cosponsor of H.Res.876 and Block the Bombs to Israel Act (https://tlaib.house.gov/posts/tlaib-introduces-resolution-recognizing-the-genocide-of-the-palestinian-people-in-gaza)",
+   "Cosponsor of Medicare for All, Ultra-Millionaire Tax Act, DC statehood and Green New Deal (bulk cosponsorship data)",
+   "Voted No on Laken Riley Act and trans-sports bill; No on both 2025 GOP stopgaps (bulk vote data)",
+   "Town hall May 2025: 'we must confront the threat to our existence that is posed by Donald Trump' (https://www.gpb.org/news/2025/05/29/constituents-push-for-more-action-democrats-at-us-rep-hank-johnsons-town-hall)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk cosponsorships (Ultra-Millionaire Tax, M4A, GND, DC statehood, Block the Bombs) plus lead sponsorship of Supreme Court expansion and an explicit Gaza 'genocide' statement give LI of about 6, with no centrist markers. CPC member with a consistently left voting record.",
+  "sources": [
+   "https://hankjohnson.house.gov/media-center/press-releases/rep-johnson-sen-markey-announce-legislation-expand-supreme-court",
+   "https://www.markey.senate.gov/news/press-releases/05/16/2023/sen-markey-rep-johnson-announce-legislation-to-expand-supreme-court-restore-its-legitimacy-alongside-sen-smith-reps-bush-and-schiff",
+   "https://tlaib.house.gov/posts/tlaib-introduces-resolution-recognizing-the-genocide-of-the-palestinian-people-in-gaza",
+   "https://responsiblestatecraft.org/congress-israel-starvation",
+   "https://www.ajc.com/politics/2026/04/us-house-district-4-johnson-seeks-11th-term-in-dekalb-county/",
+   "https://www.gpb.org/news/2025/05/29/constituents-push-for-more-action-democrats-at-us-rep-hank-johnsons-town-hall",
+   "https://atlantapressclub.org/debates/",
+   "https://jstreetpac.org/candidate/hank-johnson/"
+  ]
+ },
+ {
+  "id": "W000788",
+  "name": "Nikema Williams",
+  "seat": "GA-05",
+  "call_status": "re-elected 2026 (fourth term; beat Republican John Salvesen)",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BS Biology, Talladega College",
+   "career": "Vice president for public policy, Planned Parenthood Southeast; Georgia Democratic Party chair",
+   "prior_office": "Georgia State Senate (2017-2021); chair, Democratic Party of Georgia (Jan 2019-Mar 2025); U.S. House GA-05 since 2021 (succeeded John Lewis)"
+  },
+  "self_description": "Frames herself in John Lewis's 'good trouble' tradition; member of both the Progressive Caucus and New Democrat Coalition.",
+  "primary_context": "19 May 2026 Democratic primary: beat Arnetress Beatty 88%-12% (DDHQ); unopposed in 2024 primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Voted against DHS appropriations in Jan 2026: 'I will not vote to fund the Department of Homeland Security while ICE, Trump's secret police, continues its terror campaign' - opposes ICE funding but no explicit 'abolish ICE' found.",
+    "src": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-statement-on-voting-no-to-department-of-homeland-security-funding"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "At an Aug 2025 town hall constituents shouted over her for calling Gaza a 'conflict' rather than genocide; no genocide/embargo statement found.",
+    "src": "https://atlantaciviccircle.org/tag/genocide/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Three-term incumbent; former state senator and Georgia Democratic Party chair 2019-2025; bachelor's degree with advocacy/party career; ordinary legislative record (Financial Services; voting-by-mail bills), no chamber-passed signature bill found."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: no Atlanta Press Club debate for GA-05 in 2026 primary or general. Held at least 3 in-person town halls in 2025 (incl. Mar 2025 SW Atlanta and Aug 2025 joint town hall where questions were not pre-screened and Gaza activists confronted her), plus virtual town halls. Media appearances found are friendly (MSNBC); no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "AIPAC (2026 endorsement list)",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Georgia AFL-CIO",
+   "UAW",
+   "Giffords",
+   "Planned Parenthood Action Fund",
+   "PAC-funded (65% of receipts from PACs; small-dollar share 0.14)"
+  ],
+  "notable_positions": [
+   "Voted No on DHS appropriations Jan 2026, calling ICE 'Trump's secret police' (https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-statement-on-voting-no-to-department-of-homeland-security-funding)",
+   "Opposed GOP $70bn ICE funding and stopgap 'blank check' to ICE (https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-statement-on-republicans-proposed-blank-check-to-ice)",
+   "Cosponsor of Medicare for All, DC statehood, Green New Deal (bulk cosponsorship data)",
+   "Led call for transparency in humanitarian aid to Gaza; described Gaza as a 'conflict' at town hall (https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-leads-call-for-humanitarian-aid-to-gaza)",
+   "Voted No on Laken Riley Act and trans-sports bill (bulk vote data)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk data gives LI of about 3 (M4A, GND, DC statehood) with no centrist markers; she belongs to both CPC and New Dems. EPD about 5 and EO about 3 (debate unverified, friendly media but unscreened town halls), so she lands at step 5 nearest-pole (left) as an imperfect fit; if debate is confirmed as 0 she becomes Cat 3.",
+  "sources": [
+   "https://newsnation-votes.decisiondeskhq.com/races/2026-05-19/georgia-us-house-5-democratic-primary",
+   "https://www.atlantanewsfirst.com/2026/11/04/rep-nikema-williams-wins-fourth-term-georgias-5th-district/",
+   "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-statement-on-voting-no-to-department-of-homeland-security-funding",
+   "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-statement-on-republicans-proposed-blank-check-to-ice",
+   "https://atlantaciviccircle.org/tag/genocide/",
+   "https://ajc.com/politics/politically-georgia/its-not-just-republicans-democrats-also-get-an-earful-at-town-halls/QFKX5O35BBFK3MUJAYCATR4QIA",
+   "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-joins-msnbc-weeknight-to-discuss-voting-rights-and-republicans-redistricting-efforts",
+   "https://atlantapressclub.org/debates/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+  ]
+ },
+ {
+  "id": "M001208",
+  "name": "Lucy McBath",
+  "seat": "GA-06",
+  "call_status": "re-elected 2026 (beat Republican Kevin Martin in safe redrawn district)",
+  "bio": {
+   "birth_year": 1960,
+   "education": "BA Political Science, Virginia State University",
+   "career": "Delta Air Lines flight attendant ~30 years; national gun-safety advocate (Moms Demand Action/Everytown) after her son Jordan Davis was killed in 2012",
+   "prior_office": "U.S. House since 2019 (GA-06 2019-23, GA-07 2023-25, GA-06 2025-)"
+  },
+  "self_description": "Emphasises bipartisanship and gun-violence prevention; New Democrat Coalition member.",
+  "primary_context": "Unopposed in 19 May 2026 Democratic primary; declined to run for governor in 2026 (AJC).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Four-term incumbent; bachelor's degree with long airline career and senior national advocacy role; recognised gun-violence-prevention policy lead on Judiciary (red-flag/ERPO legislation)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: no Atlanta Press Club debate for GA-06 in 2026 (unopposed primary; APC general schedule had no House races). Town halls in 2025-26 were mainly large telephone/'interactive' town halls with guests (e.g. 14,000 participants Apr 2025; Raskin Jun 2025; Everytown Jun 2026) - controlled settings. No hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Democrats for Education Reform",
+   "Black Economic Alliance PAC",
+   "Giffords / Gabby Giffords",
+   "UAW",
+   "NEA",
+   "Everytown/Moms Demand Action network",
+   "PAC share 40% of receipts; small-dollar share 0.09"
+  ],
+  "notable_positions": [
+   "Voted Yea on Laken Riley Act (Jan 2025), one of 48 House Democrats (https://www.ajc.com/politics/us-house-passes-laken-riley-act-requiring-ice-to-detain-more-immigrants/DPFJRNVHUVF6XLXWRT454TOHTY)",
+   "Voted for the 2025 resolution denouncing socialism; No on trans-sports bill (bulk vote data)",
+   "Gun-violence prevention focus: telephone town hall with Everytown, June 2026 (https://mcbath.house.gov/2026/06/10/mcbath-hosts-town-hall-event-with-8100-participants-during-gun-violence-prevention-awareness-month/)",
+   "Cosponsor of DC statehood only among tracked left bills (bulk cosponsorship data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream New Dem with few left markers (LI about 1) and modest centrist markers (New Dem membership, Laken Riley vote; CI about 2). EPD is high (about 6) and EO about 3 with debate unverified, so she reaches step 5 as an imperfect fit, leaning centrist; a confirmed debate refusal would move her to Cat 3.",
+  "sources": [
+   "https://www.ajc.com/politics/2026/05/keisha-lance-bottoms-stuns-rivals-with-outright-democratic-primary-win-for-governor/",
+   "https://www.gaderm.org/files/advocacy/Georgia Primary Results May 19th 2026.pdf",
+   "https://www.ajc.com/politics/us-house-passes-laken-riley-act-requiring-ice-to-detain-more-immigrants/DPFJRNVHUVF6XLXWRT454TOHTY",
+   "https://mcbath.house.gov/2025/4/mcbath-addresses-over-14-000-participants-with-former-executive-branch-official-in-constituent-town-hall",
+   "https://mcbath.house.gov/2025/6/representatives-mcbath-raskin-host-interactive-town-hall",
+   "https://mcbath.house.gov/2026/06/10/mcbath-hosts-town-hall-event-with-8100-participants-during-gun-violence-prevention-awareness-month/",
+   "https://atlantapressclub.org/debates/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+  ]
+ },
+ {
+  "id": "C001055",
+  "name": "Ed Case",
+  "seat": "HI-01",
+  "call_status": "re-elected 2026 (74.1% vs Republican Adriel Lam)",
+  "bio": {
+   "birth_year": 1952,
+   "education": "BA Psychology, Williams College; JD, UC Hastings College of Law",
+   "career": "Law clerk to Hawaii Supreme Court Chief Justice; partner and managing partner at Carlsmith Ball (Honolulu)",
+   "prior_office": "Manoa Neighborhood Board (1985-89); Hawaii House of Representatives 1994-2002 (Majority Leader 1999-2001); U.S. House HI-02 2002-2007; U.S. House HI-01 since 2019"
+  },
+  "self_description": "Agenda: 'Reach across the aisle for broad inclusion', 'Act and vote for people and not party first', 'Reject culture of no regardless of party'; described by press as a 'moderate pro-Israel Democrat' and by UH political scientist Colin Moore as 'one of the most conservative Democrats in the House'.",
+  "primary_context": "8 Aug 2026 Democratic primary: challenged from the LEFT by state Sen. Jarrett Keohokalole (backed by Our Revolution, Indivisible, Progressive Democrats of America, Peace Action, HSTA and several unions; criticised Case for AIPAC money). Case won 58.5%-37.4%.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Long-time fiscal hawk: one of the 'Unbreakable Nine' conservative Democrats who in Aug 2021 threatened to derail the $3.5T reconciliation budget; historically sided with Republicans on estate-tax reduction; agenda pledges to 'address today's problems today and without handing them off to our children' and lockbox Social Security funds. No wealth-tax support.",
+    "src": "https://en.wikipedia.org/wiki/Ed_Case"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented cross-party votes: one of 10 Democrats who joined all Republicans to censure Rep. Al Green (Mar 2025) and one of 4 Democrats voting for the SAVE Act (Apr 2025); Civil Beat: 'Case may not always vote with Dems'.",
+    "src": "https://www.civilbeat.org/2025/07/case-may-not-always-vote-with-dems-but-his-fundraising-is-going-just-fine/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Former Blue Dog Coalition member (rejoined Jan 2019; declined to renew membership Feb 2023)",
+   "New Democrat Coalition member (bulk)",
+   "Problem Solvers Caucus member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former state House Majority Leader, ~16 years in Congress across two stints; JD and managing partner of major Honolulu law firm; senior Appropriations member (Defense, Homeland Security subcommittees) with enacted bills (e.g. Kilauea Point refuge expansion) and air-tour safety legislation."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "Jewish Insider (Aug 2026): no debates were held in the HI-01 primary; Case reportedly declined to debate Keohokalole and largely skipped campaign events. No evidence found of 2025-26 open town halls; engages local press (Civil Beat) on his record, citing seniority/Appropriations clout."
+  },
+  "outside_support": [
+   "AIPAC",
+   "AFGE",
+   "League of Conservation Voters Action Fund",
+   "Planned Parenthood Action Fund",
+   "Population Connection",
+   "Former Gov. David Ige",
+   "PAC share 48% of receipts; small-dollar share 0.03 (large-donor/PAC funded)"
+  ],
+  "notable_positions": [
+   "One of 10 Democrats voting with all Republicans to censure Al Green, Mar 2025 (https://www.civilbeat.org/2025/03/the-sunshine-blog-ed-case-votes-to-censure-a-disruptive-colleague/)",
+   "One of 4 Democrats voting for the SAVE Act (proof of citizenship to vote), Apr 2025 (https://www.civilbeat.org/2025/07/case-may-not-always-vote-with-dems-but-his-fundraising-is-going-just-fine/)",
+   "'Unbreakable Nine' member pushing back on the $3.5T reconciliation package, 2021 (https://en.wikipedia.org/wiki/Ed_Case)",
+   "Opposed amendment to end aid to Israel; endorsed by AIPAC (https://jewishinsider.com/2026/08/ed-case-hawaii-primary-challenge-jarrett-keohokalole-2/)",
+   "Voted No on Laken Riley Act and trans-sports bill; Yea on 2025 resolution denouncing socialism (bulk vote data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Textbook centrist: ex-Blue Dog, current New Dem and Problem Solvers member, fiscal hawk with documented cross-party votes, and beat a left challenger. CI is about 4 (5 if past Blue Dog membership counts) with LI about 1. If CI falls short of 5, his high EPD and documented refusal to debate (EO about 2) would place him in Cat 3.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+   "https://en.wikipedia.org/wiki/Ed_Case",
+   "https://jewishinsider.com/2026/08/ed-case-hawaii-primary-challenge-jarrett-keohokalole-2/",
+   "https://www.civilbeat.org/2025/07/case-may-not-always-vote-with-dems-but-his-fundraising-is-going-just-fine/",
+   "https://www.civilbeat.org/2025/03/the-sunshine-blog-ed-case-votes-to-censure-a-disruptive-colleague/",
+   "https://edcase.com/agenda",
+   "https://candidates.aipacpac.org/page/featured/",
+   "https://ourrevolution.com/our-champions/"
+  ]
+ },
+ {
+  "id": "T000487",
+  "name": "Jill N. Tokuda",
+  "seat": "HI-02",
+  "call_status": "re-elected 2026 (beat Republican state Senate Minority Leader Brenton Awa)",
+  "bio": {
+   "birth_year": 1976,
+   "education": "BA International Relations, George Washington University",
+   "career": "Nonprofit executive (Nisei Veterans Memorial Center executive director; CyberHawaii co-director; Hawaii Budget and Policy Center board)",
+   "prior_office": "Hawaii State Senate 2006-2018 (Majority Whip; chair of Ways and Means); 2018 candidate for lieutenant governor; U.S. House HI-02 since 2023"
+  },
+  "self_description": "Congressional Progressive Caucus member; co-chair of the Congressional Asian Pacific American Caucus and the Bipartisan Rural Health Caucus.",
+  "primary_context": "8 Aug 2026 Democratic primary: won 91.5% over three minor candidates (Steven King, Greg Guithues, Kirill Basin); no organised challenge. Unopposed in 2024 primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus (PAC) endorsement in 2022 primary (no 2024/2026 left-group endorsement found)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Two-term incumbent; former state Senate Ways and Means chair; bachelor's degree with nonprofit-executive career; ranking member of the House Agriculture Subcommittee on Conservation, Research and Biotechnology; lead on Maui wildfire recovery and rural hospital bills."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the 2026 general vs Brenton Awa (no listing found; search budget exhausted). Town halls found are statewide telephone town halls (e.g. 1 Sep 2026) - controlled format. No hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "AFGE",
+   "NEA",
+   "End Citizens United",
+   "J Street",
+   "Planned Parenthood Action Fund",
+   "Vote Mama",
+   "National Women's Political Caucus",
+   "Former Gov. David Ige",
+   "Small-dollar share 0.13; PAC share 25%"
+  ],
+  "notable_positions": [
+   "Joined 26 colleagues opposing an additional $3.3bn in Foreign Military Financing to Israel, Jul 2026 (https://tokuda.house.gov/media/press-releases/rep-tokuda-joins-colleagues-in-calling-to-halt-33-billion-in-military-funding-to-israel)",
+   "Cosponsor of Ultra-Millionaire Tax Act, Medicare for All, Green New Deal, DC statehood and Block the Bombs to Israel Act (bulk cosponsorship data)",
+   "Voted No on Laken Riley Act and trans-sports bill (bulk vote data)",
+   "Introduced bipartisan Rural Emergency Hospital 2.0 bill, Sep 2026 (https://tokuda.house.gov/media/press-releases)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk cosponsorships give LI of about 5 (UMTA, M4A, GND, DC statehood, Block the Bombs), plus a 2022 CPC endorsement that would make 6 if counted. She has no centrist markers. Even at LI 5 she reaches step 5 (EPD about 6, EO about 3) and lands nearest the left pole.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+   "https://en.wikipedia.org/wiki/Jill_Tokuda",
+   "https://tokuda.house.gov/media/press-releases",
+   "https://tokuda.house.gov/media/press-releases/rep-tokuda-joins-colleagues-in-calling-to-halt-33-billion-in-military-funding-to-israel",
+   "https://jstreetpac.org/candidate/jill-tokuda/"
+  ]
+ },
+ {
+  "id": "J000309",
+  "name": "Jonathan L. Jackson",
+  "seat": "IL-01",
+  "call_status": "re-elected 2026 (beat Republican Christian Maxwell; safe South Side seat)",
+  "bio": {
+   "birth_year": 1966,
+   "education": "BA Business, North Carolina A&T State University; MBA, Northwestern University Kellogg School of Management",
+   "career": "Rainbow/PUSH Coalition national spokesman; financial analyst; beer-distributorship partner; business professor at Chicago State University",
+   "prior_office": "No prior elected office; U.S. House IL-01 since 2023"
+  },
+  "self_description": "Campaigned in 2022 'as a progressive', endorsed by Bernie Sanders; CPC member and civil-rights activist (son of Rev. Jesse Jackson).",
+  "primary_context": "Unopposed in the 17 Mar 2026 Democratic primary (and in 2024). First won in 2022 with ~30% in a crowded open primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (2022 primary; not verified for 2024/2026)",
+   "Progressive Democrats of America (2026; not a rubric-listed group)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Two-term incumbent; Kellogg MBA with finance/business-teaching career; ordinary legislative record (Agriculture, Foreign Affairs; Africa/Ebola, Iran war-powers resolutions), no chamber-passed signature bill found."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: unopposed primary; no record found of a 2026 general debate vs Christian Maxwell (search budget exhausted). No 2025-26 town hall or hostile-outlet appearance found; press output mainly releases on Africa, Iran war powers and Gaza aid."
+  },
+  "outside_support": [
+   "Chicago Teachers Union",
+   "Chicago Federation of Labor",
+   "Illinois AFL-CIO",
+   "SEIU Healthcare / SEIU Illinois",
+   "IUOE Locals 150/399",
+   "Citizen Action Illinois",
+   "J Street",
+   "Giffords",
+   "Planned Parenthood Action Fund",
+   "Progressive Democrats of America",
+   "Small-dollar share 0.04 (large-donor/PAC funded)"
+  ],
+  "notable_positions": [
+   "Joined 26 colleagues opposing an additional $3.3bn in military financing to Israel, Jul 2026 (https://tokuda.house.gov/media/press-releases/rep-tokuda-joins-colleagues-in-calling-to-halt-33-billion-in-military-funding-to-israel)",
+   "Introduced a War Powers Resolution on Iran, May 2026 (https://jonathanjackson.house.gov/media/press-releases)",
+   "Cosponsor of Ultra-Millionaire Tax Act, Medicare for All, DC statehood and Block the Bombs to Israel Act (bulk cosponsorship data)",
+   "Voted No on Laken Riley Act and trans-sports bill; No on both 2025 GOP stopgaps (bulk vote data)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk cosponsorships give LI of about 4 (UMTA, M4A, DC statehood, Block the Bombs), plus a 2022 Sanders endorsement (5 if counted). He has no centrist markers. With EPD about 6 and EO about 3 (debate unverified) he reaches step 5 and is nearest the left pole, an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Jackson_(Illinois_politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://jonathanjackson.house.gov/media/press-releases",
+   "https://tokuda.house.gov/media/press-releases/rep-tokuda-joins-colleagues-in-calling-to-halt-33-billion-in-military-funding-to-israel",
+   "https://pdamerica.org/endorsements/"
+  ]
+ },
+ {
+  "id": "R000617",
+  "name": "Delia C. Ramirez",
+  "seat": "IL-03",
+  "call_status": "re-elected 2026 (beat Republican Angel Oakley)",
+  "bio": {
+   "birth_year": 1983,
+   "education": "BA Justice Studies, Northeastern Illinois University",
+   "career": "Nonprofit housing/homelessness leader (Center for Changing Lives executive director; LUCHA president)",
+   "prior_office": "Illinois House of Representatives 2018-2023; U.S. House IL-03 since 2023"
+  },
+  "self_description": "Progressive; CPC member; lead sponsor of Block the Bombs to Israel Act and co-lead of the Melt ICE Act.",
+  "primary_context": "Unopposed in the 17 Mar 2026 Democratic primary (and in 2024).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Co-introduced with Yvette Clarke the Melt ICE Act (Jan 2026) to end DHS funding for detaining/monitoring immigrants (also bulk-coded).",
+    "src": "https://theintercept.com/2026/07/17/democrats-congress-abolish-ice-killings/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Named by Responsible Statecraft (Aug 2025) among 14 lawmakers who called Israel's war in Gaza a genocide; original cosponsor of Tlaib's H.Res.876 'Recognizing the genocide of the Palestinian people in Gaza' (13 Nov 2025).",
+    "src": "https://tlaib.house.gov/posts/tlaib-introduces-resolution-recognizing-the-genocide-of-the-palestinian-people-in-gaza"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats (2026, per Wikipedia endorsement list citing Evanston Now; not independently confirmed - source returned 429)",
+   "Our Revolution (2026 reelection endorsement)",
+   "Track AIPAC (not a rubric-listed group)",
+   "Progressive Democrats of America (not rubric-listed)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Two-term incumbent and ex-state legislator who passed the Illinois COVID-19 Emergency Housing Act; BA with nonprofit-executive career; recognised lead sponsor of Block the Bombs and Melt ICE bills; ranking member of the Veterans' Affairs Oversight and Investigations subcommittee."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: unopposed primary; no record of a 2026 general debate vs Angel Oakley found (search budget exhausted). Drew Fox News coverage over Aug 2025 'proud Guatemalan before I am an American' remarks and 'doubled down'; no town halls or hostile-outlet interviews documented."
+  },
+  "outside_support": [
+   "Justice Democrats (reported)",
+   "Our Revolution",
+   "Chicago Teachers Union",
+   "SEIU",
+   "Illinois AFL-CIO",
+   "End Citizens United",
+   "J Street",
+   "PAL PAC",
+   "Track AIPAC",
+   "Giffords",
+   "Planned Parenthood Action Fund",
+   "Small-dollar share 0.16"
+  ],
+  "notable_positions": [
+   "Called Gaza a genocide; cosponsor of H.Res.876 (https://tlaib.house.gov/posts/tlaib-introduces-resolution-recognizing-the-genocide-of-the-palestinian-people-in-gaza)",
+   "Co-led Melt ICE Act ending DHS detention funding, Jan 2026 (https://theintercept.com/2026/07/17/democrats-congress-abolish-ice-killings/)",
+   "Voted against 2023 resolutions declaring Israel 'not a racist state' and H.Res.771 backing Israel after Oct 7 (https://en.wikipedia.org/wiki/Delia_Ramirez)",
+   "Aug 2025: said she is a 'proud Guatemalan before I am an American', drawing GOP censure resolutions (https://www.foxnews.com/politics/dem-doubles-down-amid-firestorm-criticism-guatemalan-loyalty-both-chapina-american)",
+   "Cosponsor of Ultra-Millionaire Tax Act, Medicare for All, Green New Deal, DC statehood (bulk cosponsorship data)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk cosponsorships already give LI of about 6 (UMTA, M4A, GND, Melt ICE, DC statehood, Block the Bombs). She also called Gaza a genocide and is endorsed by Justice Democrats and Our Revolution, so LI is well above 6. She has no centrist markers.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Delia_Ramirez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://responsiblestatecraft.org/congress-israel-starvation",
+   "https://tlaib.house.gov/posts/tlaib-introduces-resolution-recognizing-the-genocide-of-the-palestinian-people-in-gaza",
+   "https://ourrevolution.com/delia-ramirez-illinois-endorsement/",
+   "https://evanstonnow.com/abughazaleh-gets-justice-dems-backing/",
+   "https://theintercept.com/2026/07/17/democrats-congress-abolish-ice-killings/"
+  ]
+ },
+ {
+  "id": "Q000023",
+  "name": "Mike Quigley",
+  "seat": "IL-05",
+  "call_status": "re-elected 2026 (beat Republican Tommy Hanson); ALSO a declared candidate for Chicago mayor (Feb 2027 election) - would leave the House mid-term if elected",
+  "bio": {
+   "birth_year": 1958,
+   "education": "BA Roosevelt University; MPP University of Chicago; JD Loyola University Chicago",
+   "career": "Aide to Chicago Ald. Bernie Hansen; adjunct professor (environmental policy, Chicago politics) at Loyola",
+   "prior_office": "Cook County Board of Commissioners 1998-2009; U.S. House IL-05 since April 2009"
+  },
+  "self_description": "Reform/'fiscal responsibility' image from county board (opposed Stroger tax hikes); 2027 mayoral pitch: 'Chicago is in crisis' and the city cannot tax its way out of financial trouble, with a pro-business outlook.",
+  "primary_context": "17 Mar 2026 Democratic primary: won 64.8% over Matt Conroy (24.9%), Ellen Corley (7.3%) and Anthony Tamez (2.9%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Built reputation on the Cook County Board opposing tax hikes; 2027 mayoral campaign says Chicago 'cannot tax its way out' of its fiscal crisis. Not a cosponsor of the Ultra-Millionaire Tax Act. (Note: cosponsors Medicare for All.)",
+    "src": "https://www.cbsnews.com/chicago/news/congressman-mike-quigley-running-for-mayor-chicago-2027/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Mayoral campaign centred on a pro-business outlook for Chicago (Jan 2026 announcement).",
+    "src": "https://www.nbcchicago.com/news/local/chicago-politics/rep-mike-quigley-says-hell-run-for-mayor-of-chicago-in-2027-election/3873000/"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Nine-term incumbent and former Cook County commissioner; JD and MPP; senior Appropriations and Intelligence Committee member; author of bird-safe buildings legislation and transparency bills."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the contested 2026 primary and the general (search budget exhausted). Running an active citywide mayoral campaign in 2026 (formal launch 27 Jun 2026 at Uptown Theatre); no specific hostile-outlet appearances documented."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street PAC",
+   "JACPAC",
+   "Chicago Tribune editorial (primary)",
+   "Chicago Federation of Labor",
+   "Illinois AFL-CIO",
+   "SEIU",
+   "Planned Parenthood Action Fund",
+   "Small-dollar share 0.03; PAC share 58%"
+  ],
+  "notable_positions": [
+   "Announced run for Chicago mayor (2027) while seeking House re-election; 'cannot tax its way out' (https://www.cbsnews.com/chicago/news/congressman-mike-quigley-running-for-mayor-chicago-2027/)",
+   "Announced support for Medicare for All Act in March 2021 (https://quigley.house.gov/media-center/press-releases/quigley-announces-support-medicare-all-expand-health-insurance-millions)",
+   "Sole Democrat to vote against Sept 2023 GOP stopgap over its lack of Ukraine aid (https://thehill.com/homenews/house/4232089-quigley-single-democrat-votes-no-government-funding-bill/)",
+   "Cosponsor of Block the Bombs to Israel Act despite AIPAC endorsement; cosponsor of GND and DC statehood (bulk cosponsorship data)",
+   "Early call (Jul 2024) for Biden to withdraw (https://thehill.com/homenews/campaign/4757439-mike-quigley-joe-biden-drop-out/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "His record is mixed. Bulk data gives LI of about 4 (M4A, GND, DC statehood, Block the Bombs), while the centrist side has New Dem membership and fiscal-reform, pro-business positioning in his mayoral bid (CI about 3). EPD is high and EO about 3 (debate unverified), so he falls to step 5 with the two indices close. On the strict LI-vs-CI rule he edges to Cat 1; we lean 4 because his 2026-27 self-presentation is pro-business and fiscally centrist. Low confidence; may leave the House in 2027 if elected mayor.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mike_Quigley",
+   "https://en.wikipedia.org/wiki/2027_Chicago_mayoral_election",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://www.cbsnews.com/chicago/news/congressman-mike-quigley-running-for-mayor-chicago-2027/",
+   "https://www.nbcchicago.com/news/local/chicago-politics/rep-mike-quigley-says-hell-run-for-mayor-of-chicago-in-2027-election/3873000/",
+   "https://quigley.house.gov/media-center/press-releases/quigley-announces-support-medicare-all-expand-health-insurance-millions",
+   "https://chicago.suntimes.com/elections/2026/09/22/chicago-mayoral-race-bill-quinlan-lawsuit-challenge"
+  ]
+ },
+ {
+  "id": "C001117",
+  "name": "Sean Casten",
+  "seat": "IL-06",
+  "call_status": "re-elected 2026 (beat Republican Niki Conforti)",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BA Molecular Biology & Biochemistry, Middlebury College; MEM and MS Biochemical Engineering, Dartmouth (Thayer School)",
+   "career": "Clean-energy entrepreneur: CEO of Turbosteam Corp. (2000-07); co-founder/CEO of Recycled Energy Development; Arthur D. Little consultant",
+   "prior_office": "No prior elected office; U.S. House IL-06 since 2019"
+  },
+  "self_description": "Self-styled climate/energy 'nerd'; profiled by E&E News as 'this moderate Dem'; New Democrat Coalition member and vice-chair of its Climate Change Task Force.",
+  "primary_context": "17 Mar 2026 Democratic primary: beat software engineer Joey Ruzevich 75.8%-24.2%. In 2024 beat Mahnoor Ahmad; in 2022 beat progressive incumbent Marie Newman in a member-vs-member primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0,
+    "e": "Sponsored the Restoring Judicial Separation of Powers Act (118th) to restructure federal courts/Supreme Court appellate jurisdiction - court restructuring, not an explicit seat expansion, so not coded.",
+    "src": "https://casten.house.gov/media/press-releases/casten-introduces-legislation-increase-size-house-and-senate-change-scotus"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Filed the Ceasefire Compliance Act (Feb 2026), which would block offensive weapons transfers to Israel only if ceasefire violations are found - conditional, not a full embargo.",
+    "src": "https://zeteo.com/p/aipac-israel-gaza-ceasefire-compliance"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term incumbent; two master's degrees and a CEO career in energy; recognised House climate/FERC policy lead (Climate Risk Disclosure Act, End Oil and Gas Subsidies Act, Equal Voices Act / Senate-reform amendment)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for 2026 primary and general (search budget exhausted). Known for policy-heavy public commentary on energy and institutions; no 2025-26 town hall or hostile-outlet appearance documented here."
+  },
+  "outside_support": [
+   "League of Conservation Voters Action Fund",
+   "Sierra Club",
+   "314 Action",
+   "J Street",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "Citizen Action Illinois",
+   "Giffords",
+   "Illinois AFL-CIO",
+   "Daily Herald and Chicago Tribune (primary) editorials",
+   "Small-dollar share 0.13"
+  ],
+  "notable_positions": [
+   "Ceasefire Compliance Act conditioning offensive arms to Israel on ceasefire compliance, Feb 2026 (https://zeteo.com/p/aipac-israel-gaza-ceasefire-compliance)",
+   "Bills to enlarge the House (Equal Voices Act), add 12 at-large senators and restructure SCOTUS (https://casten.house.gov/media/press-releases/casten-introduces-legislation-increase-size-house-and-senate-change-scotus)",
+   "Climate Risk Disclosure Act and End Oil and Gas Subsidies Act (https://www.washingtonpost.com/politics/2022/05/05/key-house-race-illinois-climate-change-is-ballot/)",
+   "Voted No on Laken Riley Act, trans-sports bill and both socialism resolutions (bulk vote data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A New Dem climate-policy specialist with very few tracked left markers (LI about 1: DC statehood) and few centrist markers beyond New Dem membership (CI about 1). His DW-NOMINATE score is very liberal, but that is context only. EPD is high and EO about 3 with debate unverified, so he reaches step 5 as an LI/CI tie; we lean 4 on his New Dem identity, but this is an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Casten",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://casten.house.gov/media/press-releases/casten-introduces-legislation-increase-size-house-and-senate-change-scotus",
+   "https://zeteo.com/p/aipac-israel-gaza-ceasefire-compliance",
+   "https://www.eenews.net/articles/this-moderate-dem-just-might-be-the-hills-top-climate-nerd/"
+  ]
+ },
+ {
+  "id": "S001190",
+  "name": "Brad Schneider",
+  "seat": "IL-10",
+  "call_status": "re-elected 2026 (beat Republican Carl Lambrecht)",
+  "bio": {
+   "birth_year": 1961,
+   "education": "BS Industrial Engineering, Northwestern University; MBA, Northwestern Kellogg School of Management",
+   "career": "Management consultant (Cadence Consulting Group; Blackman Kallick strategic services); insurance-firm principal",
+   "prior_office": "U.S. House IL-10 2013-2015 and since 2017; Chair of the New Democrat Coalition (2025-)"
+  },
+  "self_description": "Campaigned as a moderate Democrat while often calling himself a progressive; chair of the centrist New Democrat Coalition since 2025.",
+  "primary_context": "17 Mar 2026 Democratic primary: beat plywood importer Morgan Coghill 78.8%-21.2%; no organised left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposes and has criticised Medicare for All (2019 Daily Herald sit-down); supports building on the ACA.",
+    "src": "https://www.dailyherald.com/20191108/news/in-sit-down-schneider-criticizes-medicare-for-all/"
+   },
+   "C3": {
+    "v": 1,
+    "e": "Told the Chicago Tribune he favours a 3:1 ratio of spending cuts to tax increases to reduce the debt and is open to cuts in discretionary, defense and entitlement spending (2012); not a wealth-tax cosponsor.",
+    "src": "http://elections.chicagotribune.com/editorial/brad-schneider/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Chair, New Democrat Coalition (2025-) (bulk membership)",
+   "Problem Solvers Caucus member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Six-term incumbent; Kellogg MBA; New Democrat Coalition chair and Ways and Means member (Tax and Trade subcommittees); author of the 2019 anti-BDS resolution that passed the House 398-17."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for 2026 primary and general (search budget exhausted). No 2025-26 town hall or hostile-outlet appearance documented here."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "314 Action",
+   "Sierra Club",
+   "Giffords",
+   "Gov. JB Pritzker, Sens. Durbin and Duckworth",
+   "Illinois AFL-CIO",
+   "Chicago Tribune and Daily Herald editorials",
+   "Small-dollar share 0.06; PAC share 44%"
+  ],
+  "notable_positions": [
+   "Leads the New Democrat Coalition as chair from 2025 (https://en.wikipedia.org/wiki/Brad_Schneider)",
+   "Criticised Medicare for All (https://www.dailyherald.com/20191108/news/in-sit-down-schneider-criticizes-medicare-for-all/)",
+   "Authored House resolution condemning the BDS movement (2019, passed 398-17) (https://forward.com/fast-forward/428179/congress-bds-aoc-tlaib-omar/)",
+   "Bipartisan Fair and Equal Housing Act of 2025 with Rep. Fitzpatrick (https://en.wikipedia.org/wiki/Brad_Schneider)",
+   "Voted Yea on the 2025 resolution denouncing socialism; did not vote on the Laken Riley Act (bulk vote data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "He chairs the New Democrat Coalition, belongs to the Problem Solvers Caucus, opposes M4A and has a deficit-reduction record, giving CI of about 4 against LI of about 1 (DC statehood). That is just short of the Cat 4 threshold. With high EPD and EO about 3 (debate unverified), step 5 places him nearest the centrist pole.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brad_Schneider",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://www.dailyherald.com/20191108/news/in-sit-down-schneider-criticizes-medicare-for-all/",
+   "http://elections.chicagotribune.com/editorial/brad-schneider/",
+   "https://dmfipac.org/candidates/2026-endorsees/"
+  ]
+ },
+ {
+  "id": "F000454",
+  "name": "Bill Foster",
+  "seat": "IL-11",
+  "call_status": "re-elected 2026 (beat Republican Jeff Walter)",
+  "bio": {
+   "birth_year": 1955,
+   "education": "BS Physics, University of Wisconsin-Madison; PhD Physics, Harvard University",
+   "career": "Co-founded Electronic Theatre Controls (lighting manufacturer) at 19; 22 years as a particle physicist at Fermilab",
+   "prior_office": "U.S. House IL-14 2008-2011; U.S. House IL-11 since 2013"
+  },
+  "self_description": "Scientist-legislator; New Democrat Coalition member; co-chairs Research & Development, National Labs, Advanced Nuclear and Blockchain caucuses.",
+  "primary_context": "Unopposed in the 17 Mar 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0,
+    "e": "Opposes estate-tax repeal ('It's not a death tax, it's a Rich Kids' tax'; voted in 2009 to keep the 45% rate) - defends the existing tax rather than lowering the exemption, so not coded.",
+    "src": "https://en.wikipedia.org/wiki/Bill_Foster_(politician)"
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Long-serving member; Harvard physics PhD and successful manufacturer; ranking member of the Financial Services Subcommittee on Financial Institutions; had all 10 of his amendments added to Dodd-Frank."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the 2026 general vs Jeff Walter (unopposed primary; search budget exhausted). No 2025-26 town hall or hostile-outlet appearance documented here."
+  },
+  "outside_support": [
+   "J Street PAC",
+   "Illinois AFL-CIO",
+   "Chicago Federation of Labor",
+   "SEIU",
+   "IUOE 150/399",
+   "Planned Parenthood Action Fund",
+   "Small-dollar share 0.10"
+  ],
+  "notable_positions": [
+   "Cosponsor of the Block the Bombs to Israel Act and DC statehood (bulk cosponsorship data)",
+   "Cosponsored the West Bank Violence Prevention Act, Dec 2025 (https://www.congress.gov/bill/119th-congress/house-bill/3045/cosponsors)",
+   "Called the estate tax a 'Rich Kids' tax' and opposed its repeal (https://en.wikipedia.org/wiki/Bill_Foster_(politician))",
+   "Voted Yea on 2025 resolution denouncing socialism; No on Laken Riley Act and trans-sports bill (bulk vote data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A technocratic New Dem with few tracked left markers (LI about 2: DC statehood, Block the Bombs) and few centrist markers beyond New Dem membership (CI about 1). EPD is high and EO about 3 (debate unverified), so he reaches step 5 as an imperfect fit. The strict LI-vs-CI comparison tips slightly left, but his overall profile (New Dem, moderate DW-NOMINATE context) is mainstream-centrist; low confidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bill_Foster_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://jstreetpac.org/candidate/bill-foster/"
+  ]
+ },
+ {
+  "id": "B001315",
+  "name": "Nikki Budzinski",
+  "seat": "IL-13",
+  "call_status": "re-elected 2026 (beat Republican Jeff Wilson)",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA, University of Illinois Urbana-Champaign",
+   "career": "Labor organiser (LIUNA, IAFF; UFCW national political director); senior adviser and transition director to Gov. JB Pritzker; chief of staff at the White House Office of Management and Budget (2021)",
+   "prior_office": "Senior state and federal staff (OMB chief of staff); U.S. House IL-13 since 2023"
+  },
+  "self_description": "Vice Chair for Policy of the New Democrat Coalition; described as a centrist; labor-first Democrat who stresses 'common ground' on agriculture.",
+  "primary_context": "17 Mar 2026 Democratic primary: challenged from the LEFT by medical research scientist Dylan Blaha; Budzinski won 75.1%-24.9% (Heartland Signal).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Opposes Medicare for All/single payer; fears a government-run program could be 'held hostage to the political whims of any one White House'.",
+    "src": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Aug 2026, asked whether ICE should be reformed or abolished: called for 'system-wide reform' but said 'whatever you want to call it, we need immigration enforcement in this country.'",
+    "src": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposes Medicare for All; says 'more competition in the healthcare system actually makes for a better healthcare system'; called ACA tax credits a 'red line' in the 2025 shutdown.",
+    "src": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for the Laken Riley Act (Jan 2025) and in Aug 2026 rejected abolishing ICE: 'we need immigration enforcement in this country.'",
+    "src": "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition Vice Chair for Policy (not captured in bulk caucus data)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term incumbent; senior professional career (OMB chief of staff, gubernatorial senior adviser, UFCW national political director); sponsor of the Faster Labor Contracts Act, which passed the House in June 2026; ranking member of VA Technology Modernization subcommittee."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the contested 2026 primary vs Dylan Blaha and the general (search budget exhausted). Gave long-form interviews to public radio (IPM's The 21st Show, Aug 2025 and Aug 2026), engaging directly on ICE, Gaza and health care; no hostile-outlet appearances documented."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "J Street PAC",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "UAW",
+   "AFSCME Council 31",
+   "Associated Fire Fighters of Illinois",
+   "United Mine Workers COMPAC",
+   "Illinois AFL-CIO",
+   "LCV",
+   "NRDC Action Fund",
+   "Giffords",
+   "Citizen Action Illinois",
+   "Small-dollar share 0.07"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act, Jan 2025 (https://newrepublic.com/post/190569/list-house-democrats-vote-pass-laken-riley-act-immigration-bill)",
+   "Opposes Medicare for All; favours competition and ACA credits (https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/)",
+   "ICE needs 'system-wide reform' but 'we need immigration enforcement' (https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/)",
+   "'Israel has a right to defend itself... the only democracy within the Middle East' (https://ipmnewsroom.org/rep-nikki-budzinski-discusses-national-guard-gaza-snap-cuts-on-the-21st-show/)",
+   "Sponsor of Faster Labor Contracts Act (passed House Jun 2026) and original PRO Act cosponsor (https://labortribune.com/budzinski-sponsored-faster-labor-contracts-act-passes-the-house/)",
+   "Bipartisan bill for year-round E15 ethanol sales (https://en.wikipedia.org/wiki/Nikki_Budzinski)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "A New Dem leader (Vice Chair for Policy) who opposes M4A, voted for Laken Riley and rejects abolishing ICE, beating a left primary challenger. That gives CI of about 3 against LI of about 1, but she is strongly pro-labor. EPD is high and EO about 3 (debate unverified), so step 5 places her nearest the centrist pole.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikki_Budzinski",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://ipmnewsroom.org/congresswoman-nikki-budzinski-discusses-her-record-makes-case-for-third-term/",
+   "https://ipmnewsroom.org/rep-nikki-budzinski-discusses-national-guard-gaza-snap-cuts-on-the-21st-show/",
+   "https://heartlandsignal.com/2026/03/18/nikki-budzinski-holds-off-progressive-challenger-dylan-blaha-in-illinois-13th-district-primary/",
+   "https://labortribune.com/budzinski-sponsored-faster-labor-contracts-act-passes-the-house/",
+   "https://dmfipac.org/candidates/2026-endorsees/"
+  ]
+ },
+ {
+  "id": "U000040",
+  "name": "Lauren Underwood",
+  "seat": "IL-14",
+  "call_status": "re-elected 2026 (beat Republican James Marter)",
+  "bio": {
+   "birth_year": 1986,
+   "education": "BSN, University of Michigan; MSN and MPH, Johns Hopkins University",
+   "career": "Registered nurse; senior adviser at HHS implementing the ACA (Obama administration); health-strategy executive at Next Level Health; Georgetown nursing adjunct",
+   "prior_office": "Senior federal appointee (HHS); U.S. House IL-14 since 2019; co-chair, House Democratic Policy and Communications Committee (2023-); DCCC recruitment co-chair for 2026"
+  },
+  "self_description": "Health-care policy specialist and member of House Democratic leadership (DPCC co-chair); not a member of the CPC or New Dem Coalition.",
+  "primary_context": "Unopposed in the 17 Mar 2026 Democratic primary; chose House re-election over a 2026 Senate run (endorsed by Hakeem Jeffries).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "2018: called single-payer/Medicare for All 'a great goal' but said it must wait for answers on cost; in 2019 offered the Health Care Affordability Act as an alternative and declined to cosponsor M4A. Mixed - not coded.",
+    "src": "https://www.cbsnews.com/news/the-youngest-black-woman-in-congress-has-an-alternative-to-medicare-for-all"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0,
+    "e": "Built on the ACA (ACA subsidy expansion enacted in ARPA) as an alternative to M4A, but earlier called M4A 'a great goal' - conflicting, not coded.",
+    "src": "https://www.cbsnews.com/news/the-youngest-black-woman-in-congress-has-an-alternative-to-medicare-for-all"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term incumbent in elected leadership (DPCC co-chair); two Johns Hopkins master's degrees and senior HHS role; authored laws (Lower Insulin Costs Now Act, Protecting Moms Who Served Act, ACA premium-credit expansion enacted via ARPA); ranking member of the Appropriations Homeland Security subcommittee."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the 2026 general vs James Marter (debated Randy Hultgren in 2018; search budget exhausted). No 2025-26 town hall or hostile-outlet appearance documented here."
+  },
+  "outside_support": [
+   "Hakeem Jeffries",
+   "Illinois AFL-CIO",
+   "SEIU",
+   "IUOE 150/399",
+   "Black Economic Alliance PAC",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "National Women's Political Caucus",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "Small-dollar share 0.16; PAC share 16%"
+  ],
+  "notable_positions": [
+   "Health Care Affordability Act expanding ACA premium credits, offered as alternative to M4A; enacted via ARPA (https://www.cbsnews.com/news/the-youngest-black-woman-in-congress-has-an-alternative-to-medicare-for-all)",
+   "Co-founded Black Maternal Health Caucus; Momnibus author (https://msmagazine.com/2025/01/30/lauren-underwood-black-maternal-health-momnibus-democrats-republican-bipartisan/)",
+   "Cosponsor of Block the Bombs to Israel Act and DC statehood (bulk cosponsorship data)",
+   "Voted No on Laken Riley Act, trans-sports bill and both socialism resolutions (bulk vote data)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A leadership-aligned health-policy specialist with few tracked ideological markers: LI about 2 (DC statehood, Block the Bombs) and CI about 0, with mixed M4A statements. EPD is high (7) and EO about 3 (debate unverified), so she reaches step 5. The strict rule puts her nearest the left pole, an imperfect fit; she would be Cat 3 if her debate record turns out to be 0.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lauren_Underwood",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://www.cbsnews.com/news/the-youngest-black-woman-in-congress-has-an-alternative-to-medicare-for-all",
+   "https://www.dailyherald.com/20250519/us-congress-politics/underwood-to-run-for-house-again-rather-than-u-s-senate/"
+  ]
+ },
+ {
+  "id": "S001225",
+  "name": "Eric Sorensen",
+  "seat": "IL-17",
+  "call_status": "re-elected 2026 (beat Republican Dillan Vancil)",
+  "bio": {
+   "birth_year": 1976,
+   "education": "Communications and meteorology studies, Northern Illinois University",
+   "career": "TV meteorologist for 20+ years (WREX Rockford chief meteorologist; WQAD Moline); UnityPoint Health communications",
+   "prior_office": "No prior elected office; U.S. House IL-17 since 2023"
+  },
+  "self_description": "New Democrat Coalition member focused on manufacturing, agriculture and weather/climate preparedness; emphasises bipartisan caucus work.",
+  "primary_context": "Unopposed in the 17 Mar 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Backed the bipartisan 21st Century ROAD to Housing Act (housing-supply bill) and co-introduced the bipartisan ONSHORE Act to prepare industrial sites for manufacturing investment.",
+    "src": "https://www.wcbu.org/local-news/2026-07-07/sorensen-ties-peoria-south-side-home-rehab-to-national-affordable-housing-push"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Two-term incumbent; long media/meteorology career; bills on generic drugs (Stop Games Act), National Weather Service staffing and ONSHORE Act; no chamber-passed signature bill or ranking post found."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the 2026 general vs Dillan Vancil (search budget exhausted). Questioned Defense Secretary Hegseth at an Apr 2026 hearing on Rock Island Arsenal cuts; no 2025-26 town halls or hostile-outlet appearances documented."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "J Street",
+   "Bend the Arc",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "314 Action",
+   "LGBTQ+ Victory Fund",
+   "Giffords",
+   "Illinois AFL-CIO",
+   "Planned Parenthood Action Fund",
+   "Small-dollar share 0.15"
+  ],
+  "notable_positions": [
+   "One of the House Democrats voting for the Laken Riley Act, Jan 2025 (https://newrepublic.com/post/190569/list-house-democrats-vote-pass-laken-riley-act-immigration-bill)",
+   "Voted for war powers resolution to end U.S. involvement in the Iran war, citing fuel costs, Jun 2026 (https://www.nprillinois.org/illinois/2026-06-03/lahood-no-sorensen-yes-as-house-votes-to-end-the-war-with-iran)",
+   "Launched bipartisan Weather Enterprise Caucus with Rep. Mike Flood (R), Jul 2026 (https://www.eenews.net/articles/house-lawmakers-launch-bipartisan-weather-caucus/)",
+   "Supported 21st Century ROAD to Housing Act (https://www.wcbu.org/local-news/2026-07-07/sorensen-ties-peoria-south-side-home-rehab-to-national-affordable-housing-push)",
+   "Voted Yea on 2025 resolution denouncing socialism; No on trans-sports bill (bulk vote data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A New Dem who voted for Laken Riley and backs supply-side housing and manufacturing bills gives CI of about 3 (C1, C4, C8) against LI of about 1 (DC statehood), below the Cat 4 threshold. EPD is about 5 (incumbent office, bachelor's-level media career, ordinary legislative record) and EO about 3 with debate unverified, so step 5 places him nearest the centrist pole, an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "https://www.wcbu.org/local-news/2026-07-07/sorensen-ties-peoria-south-side-home-rehab-to-national-affordable-housing-push",
+   "https://www.wvik.org/illinois/2026-05-11/rep-sorensen-questions-hegseth-about-rock-island-layoffs-voiding-union-contracts",
+   "https://www.eenews.net/articles/house-lawmakers-launch-bipartisan-weather-caucus/"
+  ]
+ },
+ {
+  "id": "M001214",
+  "name": "Frank J. Mrvan",
+  "seat": "IN-01",
+  "call_status": "re-elected 2026 (63.0% vs Republican Barb Regnitz)",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA Journalism, Ball State University",
+   "career": "Licensed mortgage broker; pharmaceutical sales representative",
+   "prior_office": "North Township (Lake County) trustee 2005-2021; U.S. House IN-01 since 2021"
+  },
+  "self_description": "Labor-backed Northwest Indiana Democrat (Steelworkers-endorsed); listed as a New Democrat Coalition and Labor Caucus member.",
+  "primary_context": "2026 Democratic primary: beat former Gary city councilor LaVetta Sparks-Wade 80.2%-19.8%; not an ideological left/right challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed in 2026 by the Indiana Farm Bureau's AgELECT PAC (business/agriculture group) - one of 33 candidates backed for the primary.",
+    "src": "https://www.infarmbureau.org/resources/news-media/2026/03/30/indiana-farm-bureau-pacs-endorse-33-candidates-for-primary"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (per Wikipedia caucus list; not captured in bulk caucus data - verify)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Three-term incumbent and former 16-year township trustee; bachelor's degree with sales/mortgage career; Appropriations member (CJS, Energy & Water); ordinary legislative record, no current ranking post found."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified for the 2026 primary and the general vs Barb Regnitz (search budget exhausted). No 2025-26 town hall or hostile-outlet appearance documented here."
+  },
+  "outside_support": [
+   "Indiana State AFL-CIO",
+   "NEA",
+   "AIPAC",
+   "J Street",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "Indiana Farm Bureau AgELECT PAC",
+   "LCV Action Fund",
+   "Giffords",
+   "Reproductive Freedom for All",
+   "Planned Parenthood Action Fund",
+   "Small-dollar share 0.14; PAC share 42%"
+  ],
+  "notable_positions": [
+   "Co-sponsored the PRO Act; voted for ARPA and Trump's second impeachment (https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-mrvan-100-days-st-0328-20210402-xprvlm55kvhpvl4fopamdtdu3i-story.html)",
+   "Voted in 2026 to extend enhanced ACA tax credits (https://www.indystar.com/story/news/politics/2026/01/08/affordable-care-act-health-congress/88089354007/)",
+   "Endorsed by both AIPAC and J Street (https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana)",
+   "Voted Yea on 2025 resolution denouncing socialism; did not vote on Laken Riley Act; No on trans-sports bill (bulk vote data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A labor-aligned, mainstream Northwest Indiana Democrat with few tracked left markers (LI about 1: DC statehood) and modest centrist signals (New Dem listing, Farm Bureau endorsement; CI about 2). EPD is about 5 and EO about 3 (debate unverified), so step 5 places him nearest the centrist pole, an imperfect fit. Thin evidence lowers confidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_J._Mrvan",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "https://www.infarmbureau.org/resources/news-media/2026/03/30/indiana-farm-bureau-pacs-endorse-33-candidates-for-primary",
+   "https://inaflcio.org/elajfklasdf/labor-2026",
+   "https://jstreetpac.org/candidate/frank-mrvan/"
+  ]
+ }
+]

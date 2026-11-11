@@ -1,0 +1,1865 @@
+[
+ {
+  "id": "M001231",
+  "name": "John W. Mannion",
+  "seat": "NY-22",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1968,
+   "education": "B.S. biology, Binghamton University; M.S. secondary science education, SUNY Oswego",
+   "career": "High-school biology teacher (West Genesee) and teachers' union leader",
+   "prior_office": "NY State Senate (50th district) 2021-2024; U.S. House 2025-present"
+  },
+  "self_description": "No ideological self-label found; campaigns as a frontline/pragmatic Democrat ('Keeping New York's 22nd ... blue is essential to securing a Democratic House majority').",
+  "primary_context": "No 2026 Democratic primary. General vs Republican Kailee Buller (ex-USDA chief of staff, Trump-endorsed); race rated Safe/Solid D.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "New York Working Families Party (ballot line, 2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "One of 46 House Dems voting for Laken Riley Act ('reflected his constituents' wishes'); declines to back Abolish ICE Act, prefers ICE reform (masks off, warrants, body cams) while calling ICE a 'personal paramilitary unit'",
+    "src": "https://centralcurrent.org/to-fix-broken-immigration-system-mannion-helped-expand-ices-powers-now-he-wants-reform/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "2026 campaign endorsed by Manufacturers' Association of CNY PAC (business group); also voted for GENIUS and CLARITY crypto bills (Jul 2025)",
+    "src": "https://www.mannionforny.com/endorsements"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition Action Fund (2026 endorsement listed on campaign site)",
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "First elected to House 2024; prior NY state senator (chaired Disabilities Committee). Bachelor's + master's, career teacher. Ordinary House record (Education & Workforce)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with Buller unverified (none found; search budget exhausted). Debated Brandon Williams three times in 2024. Held first in-person town-hall-style meeting May 2025 (Liverpool, ~100 people) and telephone town halls (Feb 2026, on ICE/affordability); mostly local press. Engages specifics (lists ICE reforms, explains Laken Riley vote)."
+  },
+  "outside_support": [
+   "NY Working Families Party",
+   "New Dem Action Fund",
+   "J Street PAC",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "End Citizens United",
+   "LCV Action Fund",
+   "314 Action",
+   "Giffords",
+   "Planned Parenthood",
+   "NYS AFL-CIO and many unions (AFT, AFSCME, CWA, NYSUT, UAW, SEIU 1199)",
+   "Syracuse.com editorial endorsement"
+  ],
+  "notable_positions": [
+   "Voted for Laken Riley Act (Jan 2025), his first House vote (https://centralcurrent.org/to-fix-broken-immigration-system-mannion-helped-expand-ices-powers-now-he-wants-reform/)",
+   "Called for Noem and Stephen Miller to resign; 'The mask needs to come off, the funding needs to go down, the patrols need to stop' but not backing Abolish ICE Act (same source)",
+   "Voted YES on Massie amendment to end regularly appropriated US aid to Israel (FY27 State-Foreign Ops, 15 Jul 2026; 103 Dems yes) (https://clerk.house.gov/Votes/2026243)",
+   "Voted for GENIUS and CLARITY crypto bills, Jul 2025 (https://clerk.house.gov/Votes/2025199)",
+   "Held telephone town hall on ICE shootings and affordability, Feb 2026 (https://www.wrvo.org/2026-02-05/mannion-town-hall-discusses-ice-elections-and-affordability)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream frontline Democrat: New Dem member and New Dem Action Fund endorsee, Laken Riley yes vote, manufacturers' PAC backing (CI about 3), vs DC statehood plus NY WFP line (LI about 2). EPD 4 and EO about 3 put him at step 5, where CI narrowly exceeds LI -> Cat 4 as an imperfect fit; his yes vote on the Massie Israel-aid amendment cuts the other way.",
+  "sources": [
+   "https://centralcurrent.org/to-fix-broken-immigration-system-mannion-helped-expand-ices-powers-now-he-wants-reform/",
+   "https://www.wrvo.org/2026-02-05/mannion-town-hall-discusses-ice-elections-and-affordability",
+   "https://www.waer.org/news/2025-05-13/constituents-share-their-concerns-with-rep-mannion-at-his-first-town-hall-style-gathering",
+   "https://centralcurrent.org/is-central-new-york-becoming-a-blue-bunker-for-congressional-democrats/",
+   "https://www.mannionforny.com/endorsements",
+   "https://prospect.org/2026/08/27/college-democrats-bellwether-2028-aipac-corporations-health-care-data-centers-israel-gaza/",
+   "https://clerk.house.gov/Votes/2026243",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://en.wikipedia.org/wiki/John_Mannion_(American_politician)"
+  ]
+ },
+ {
+  "id": "M001206",
+  "name": "Joseph D. Morelle",
+  "seat": "NY-25",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1957,
+   "education": "B.A. political science, SUNY Geneseo",
+   "career": "Career legislator/party official (Monroe County Democratic chair 2005-2014)",
+   "prior_office": "Monroe County Legislature (1980s); NY State Assembly 1991-2018 (Majority Leader 2013-2018); U.S. House Nov 2018-present; Ranking Member, Committee on House Administration"
+  },
+  "self_description": "No ideological label found; stresses effectiveness, constituent service and anti-corruption (stock-trading ban, overturning presidential-immunity ruling).",
+  "primary_context": "Challenged from the left in June 2026 by Robin Wilt (backed by Progressive Democrats of America and Track AIPAC; ran on abolishing ICE and calling Gaza a genocide) and pastor Sherita Traywick; Morelle won 63.3% to 30.6% and 6.0%.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "New York Working Families Party (2026; blocked Wilt from WFP line)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce in the 2026 general election",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Elected 2018; ex-Assembly Majority Leader; Ranking Member of House Administration (recognised policy lead on elections/anti-corruption). Bachelor's degree."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary/general debates unverified (none found). WXXI described his Sept 2025 'deliberative' town hall with Civic Genius as invite-only and 'tightly controlled'; regular local public-radio interviews (WXXI Connections). Engages policy detail."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "U.S. Chamber of Commerce",
+   "NYS AFL-CIO",
+   "NYSUT",
+   "CWA District 1",
+   "Planned Parenthood",
+   "NY Working Families Party"
+  ],
+  "notable_positions": [
+   "Voted for Laken Riley Act (Jan 2025) (bulk; https://rochesterbeacon.com/2026/03/12/a-race-shaped-by-the-moment/)",
+   "Voted against DHS funding over ICE oversight; backs 'fair and lawful' pathways to citizenship (https://rochesterbeacon.com/2026/03/12/a-race-shaped-by-the-moment/)",
+   "Backs Israel's right to self-defence; endorsed by AIPAC and DMFI in 2026 (https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "One of 32 Democrats voting for GOP 'Keeping Violent Offenders Off Our Streets Act', May 2026 (https://clerk.house.gov/Votes/2026169)",
+   "Supports $17 federal minimum wage by 2030, universal childcare, expanded CTC (rochesterbeacon.com, above)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Establishment, leadership-aligned Democrat. Chamber of Commerce and Laken Riley vote (CI about 2) vs DC statehood and WFP line (LI about 2). EPD 6 and EO about 3 put him at step 5 with a near-tie. Leaned Cat 4 because of AIPAC/DMFI/Chamber backing and a left primary challenge; a weak fit either way.",
+  "sources": [
+   "https://rochesterbeacon.com/2026/03/12/a-race-shaped-by-the-moment/",
+   "https://www.wxxinews.org/local-news/2025-09-26/morelle-raises-prospect-of-a-constitutional-convention-in-tightly-controlled-town-hall",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://clerk.house.gov/Votes/2026243",
+   "https://clerk.house.gov/Votes/2026169",
+   "https://en.wikipedia.org/wiki/Joseph_Morelle"
+  ]
+ },
+ {
+  "id": "K000402",
+  "name": "Timothy M. Kennedy",
+  "seat": "NY-26",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1976,
+   "education": "B.S. and M.S. occupational therapy, D'Youville University",
+   "career": "Occupational therapist",
+   "prior_office": "Erie County Legislature (2000s); NY State Senate 2011-2024 (chair, Transportation Committee 2019-2024); U.S. House since Apr 2024 special election"
+  },
+  "self_description": "No ideological label found; campaign site frames him as standing up for 'working families' and against tariffs and union-busting.",
+  "primary_context": "Unopposed in 2026 Democratic primary; general vs Republican Dennis Hannon (Safe D).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "New York Working Families Party (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "First elected to House in 2024 special (rule -> 2) after 13 years as state senator. As Senate Transportation chair he authored laws incl. school-bus stop-arm cameras and 'Jackie's Law' (GPS stalking), signed 2014; now subcommittee ranking member (Homeland Security, Emergency Management & Technology)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate unverified (safe seat; none found). No evidence found on town halls or hostile-outlet appearances; scored neutral."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "LCV Action Fund",
+   "Planned Parenthood",
+   "CWA District 1",
+   "NY Working Families Party"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All Act (H.R.3069, 119th) (bulk)",
+   "Voted against Laken Riley Act (bulk)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Shifted from pro-life (2010) to supporting NY Reproductive Health Act (2019) (https://en.wikipedia.org/wiki/Tim_Kennedy_(politician))",
+   "Opposes Trump tariffs as costing Western NY jobs (https://kennedyforuscongress.com/issues)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mainstream labour-aligned Democrat. Medicare for All co-sponsorship, DC statehood and WFP line give LI about 3. New Dem membership and AIPAC/DMFI backing give CI about 1. EPD 5 and neutral EO place him at step 5, where LI > CI -> Cat 1 only as an imperfect fit; he shows no movement-left identity.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://en.wikipedia.org/wiki/Tim_Kennedy_(politician)",
+   "https://kennedyforuscongress.com/issues",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "L000601",
+  "name": "Greg Landsman",
+  "seat": "OH-1",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1976,
+   "education": "B.A. economics & political science, Ohio University; M.T.S., Harvard Divinity School",
+   "career": "Public-school teacher; director of Ohio Governor Strickland's faith-based office (2007); led Cincinnati Preschool Promise campaign",
+   "prior_office": "Cincinnati City Council 2018-2022 (Budget & Finance chair); U.S. House 2023-present"
+  },
+  "self_description": "Described by the New York Times as a centrist Democrat; says he favours working with House Republicans on government funding and border security; calls himself pro-Israel.",
+  "primary_context": "Challenged from the left by activist Damon Lynch IV (Track AIPAC-backed) in May 2026; Landsman won 67.9%-32.1%. General vs Trump-endorsed Eric Conroy in a redrawn R+5 district.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for Laken Riley Act; supports comprehensive immigration reform combined with increased border funding",
+    "src": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Co-introduced bipartisan Enhancing COPS Hiring Program Grants Act (police recruitment/retention bonuses); one of 29 Dems backing May 2026 resolution supporting law enforcement",
+    "src": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Problem Solvers member; one of four Democrats voting against the March 2026 Iran War Powers resolution; also crossed party on Keeping Violent Offenders Off Our Streets Act (May 2026)",
+    "src": "https://clerk.house.gov/Votes/202685"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Voted for GENIUS and CLARITY crypto bills (Jul 2025); endorsed by Ohio Corn and Wheat Growers Association and Leadership Now Project",
+    "src": "https://www.landsmanforcongress.com/endorsements"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (communications chair)",
+   "Problem Solvers Caucus member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Elected 2022. Harvard MTS plus senior state/municipal roles. His PBM Medicare Part D rebate bill was enacted in the 2026 budget, and his bill on abducted Ukrainian children passed the House in the FY26 NDAA."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with Conroy unverified (none found). House site lists multiple 2025-26 town halls and a 'Host a Town Hall' programme. Hostile-outlet appearances unverified. Engages substance, e.g. offered his own alternative Iran war-powers resolution."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "JACPAC",
+   "End Citizens United",
+   "Jewish Democratic Council of America",
+   "Giffords",
+   "LCV",
+   "Ohio AFL-CIO",
+   "Ohio Conference of Teamsters",
+   "AFGE",
+   "Pete Buttigieg"
+  ],
+  "notable_positions": [
+   "Initially backed 2026 Iran war; one of 4 Dems voting against War Powers resolution (5 Mar 2026), later reversed (https://clerk.house.gov/Votes/202685)",
+   "Voted for Laken Riley Act; organised discharge petition for 3-year Haitian TPS extension (https://en.wikipedia.org/wiki/Greg_Landsman)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Voted for GENIUS and CLARITY crypto bills (https://clerk.house.gov/Votes/2025199)",
+   "Voted against Nov 2025 CR over expiring ACA subsidies (bulk; https://en.wikipedia.org/wiki/Greg_Landsman)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "NYT-described centrist: New Dem and Problem Solvers member, Laken Riley yes vote, pro-police bill, cross-party votes on the Iran war and crime bills, and pro-business votes and endorsements. CI is about 6 against LI about 1 (DC statehood only), which meets the Cat 4 threshold.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://en.wikipedia.org/wiki/Greg_Landsman",
+   "https://www.landsmanforcongress.com/endorsements",
+   "https://landsman.house.gov/about/events",
+   "https://clerk.house.gov/Votes/202685",
+   "https://clerk.house.gov/Votes/2026165",
+   "https://clerk.house.gov/Votes/2025199",
+   "https://clerk.house.gov/Votes/2026243",
+   "https://clerk.house.gov/Votes/2026169"
+  ]
+ },
+ {
+  "id": "B001281",
+  "name": "Joyce Beatty",
+  "seat": "OH-3",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1950,
+   "education": "B.A. speech, Central State University; M.S. counseling psychology, Wright State University",
+   "career": "Montgomery County health & human services director; senior vice president for outreach & engagement, Ohio State University",
+   "prior_office": "Ohio House 1999-2008 (minority leader); U.S. House 2013-present; Congressional Black Caucus chair 2021-2023"
+  },
+  "self_description": "No ideological label found. In the 2020 primary against progressive Morgan Harper she backed incremental ACA fixes over a complete overhaul.",
+  "primary_context": "May 2026 primary vs engineer Joe Gerard; won 79.3%. (In 2020 she beat Sunrise-backed progressive Morgan Harper 68-32.) General: won 77.2% vs Cleophus Dulaney.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Elected 2012. Master's degree plus senior university executive career. Former CBC chair and Financial Services subcommittee chair (Diversity & Inclusion) in the 117th Congress; won a federal lawsuit (May 2026) blocking Trump's renaming of the Kennedy Center."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates unverified (safe seat). She debated Morgan Harper in the 2020 primary (Columbus Dispatch, Feb 2020). No 2025-26 town-hall or hostile-outlet evidence found; scored neutral."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "AFGE",
+   "National Women's Political Caucus",
+   "Planned Parenthood",
+   "Ohio AFL-CIO",
+   "Ohio Conference of Teamsters",
+   "Elect Democratic Women"
+  ],
+  "notable_positions": [
+   "Sued Trump and the Kennedy Center board over the renaming; judge ruled for her 29 May 2026 (https://en.wikipedia.org/wiki/Joyce_Beatty)",
+   "Voted against Laken Riley Act and trans sports bill (bulk)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Arrested at 2021 Senate voting-rights protest (https://en.wikipedia.org/wiki/Joyce_Beatty)",
+   "Backed smaller ACA fixes rather than a complete overhaul (2019) (https://www.dispatch.com/news/20191217/beatty-gets-challenge-as-candidates-line-up-for-central-ohio-congressional-seats)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Establishment Democrat (ex-CBC chair, AIPAC/DMFI-endorsed) with few markers either way: LI about 1 (DC statehood), CI 0. High EPD and neutral EO send her to step 5, where the trivial LI > CI edge gives Cat 1 only as an imperfect fit. She is not a movement-left figure, and Cat 3 would apply if evidence showed her avoiding debates or the press.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://en.wikipedia.org/wiki/Joyce_Beatty",
+   "https://www.dispatch.com/news/20191217/beatty-gets-challenge-as-candidates-line-up-for-central-ohio-congressional-seats",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "K000009",
+  "name": "Marcy Kaptur",
+  "seat": "OH-9",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1946,
+   "education": "B.A. history, University of Wisconsin-Madison; Master of Urban Planning, University of Michigan; doctoral study at MIT",
+   "career": "Urban planner; Carter White House domestic policy adviser on urban affairs",
+   "prior_office": "U.S. House 1983-present (longest-serving woman in congressional history); Ranking Member, Appropriations Subcommittee on Energy & Water"
+  },
+  "self_description": "Economic populist; the Washington Post called her 'an economic populist from America's heartland with progressive values and a conservative disposition'. Her campaign says she 'has never been afraid to stand up to her own party'. Describes herself as neither strictly pro-choice nor pro-life.",
+  "primary_context": "Unopposed in May 2026 primary. General rematch with Trump-endorsed Derek Merrin in a district redrawn to Trump +11; won 52.7% (23rd term).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Campaign: 'backed bipartisan and Republican-led legislation to strengthen border security, hire more than 10,000 Border Patrol agents'; enforce immigration laws, deport violent criminals; Laken Riley yes vote (bulk)",
+    "src": "https://marcykaptur.com/issues"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaigns on giving 'law enforcement the resources they need'; one of 29 Dems voting for May 2026 resolution supporting law enforcement and one of 32 for 'Keeping Violent Offenders Off Our Streets Act'",
+    "src": "https://clerk.house.gov/Votes/2026165"
+   },
+   "C6": {
+    "v": 1,
+    "e": "One of 8 House Democrats voting for the PROTECT Kids Act (May 2026: parental consent before schools change students' gender markers or pronouns) and highlighted the vote in two TV ads",
+    "src": "https://clerk.house.gov/Votes/2026184"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Campaign says she 'has never been afraid to stand up to her own party'; repeatedly votes with Republicans (Laken Riley, PROTECT Kids Act, Stop Insider Trading Act, 2025 socialism-denouncing resolution); 2002 challenge to Pelosi",
+    "src": "https://marcykaptur.com/issues"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Campaigns on 'an all-of-the-above energy approach' (though historically opposes free-trade deals like NAFTA)",
+    "src": "https://marcykaptur.com/issues"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "22-term member; Michigan master's plus Carter WH adviser; Appropriations subcommittee ranking member; authored the World War II Memorial Act (law 1993)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with Merrin unverified (none found; Toledo outlets not reachable). No town-hall or hostile-outlet data found. Ran TV ads defending her cross-party votes, i.e. engages contested issues."
+  },
+  "outside_support": [
+   "DCCC Frontline",
+   "J Street",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "End Citizens United",
+   "LCV Action Fund",
+   "Population Connection",
+   "AFGE",
+   "Ohio AFL-CIO",
+   "Ohio Conference of Teamsters",
+   "Elect Democratic Women"
+  ],
+  "notable_positions": [
+   "Voted for PROTECT Kids Act (parental consent on gender identity at school), one of 8 Dems, May 2026 (https://clerk.house.gov/Votes/2026184)",
+   "Voted for Laken Riley Act (bulk); campaign touts backing Republican-led border-security bills (https://marcykaptur.com/issues)",
+   "Long-time opponent of NAFTA, China PNTR and fast-track; voted against 2008 bank bailout (https://en.wikipedia.org/wiki/Marcy_Kaptur)",
+   "Voted for Hyde-style abortion funding restrictions and Stupak-Pitts amendment (https://en.wikipedia.org/wiki/Marcy_Kaptur)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Co-chair Congressional Ukraine Caucus; strong Ukraine aid advocate (https://en.wikipedia.org/wiki/Marcy_Kaptur)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Heterodox populist rather than a classic New Dem, but her observable record is the most centrist in this batch: border-hawk messaging, pro-police votes, a parental-rights vote on gender identity that she advertised, explicit independence from her party, and 'all-of-the-above' energy (CI about 5, LI 0). By the rubric that is Cat 4. Her anti-free-trade economics make 'Clinton-style' an imperfect description.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://en.wikipedia.org/wiki/Marcy_Kaptur",
+   "https://marcykaptur.com/issues",
+   "https://clerk.house.gov/Votes/2026184",
+   "https://clerk.house.gov/Votes/2026165",
+   "https://clerk.house.gov/Votes/2026169",
+   "https://www.them.us/story/eight-democrats-house-dont-say-trans-bill",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "B001313",
+  "name": "Shontel M. Brown",
+  "seat": "OH-11",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1975,
+   "education": "A.S. business management, Cuyahoga Community College; B.S. organizational management, Wilberforce University",
+   "career": "Founder of a small marketing-support business",
+   "prior_office": "Warrensville Heights City Council 2012-2014; Cuyahoga County Council 2015-2021; Cuyahoga County Democratic Party chair 2017-2021; U.S. House Nov 2021-present"
+  },
+  "self_description": "No ideological label found; campaign stresses 'accountability, consistency, and results' and bipartisan bills.",
+  "primary_context": "Won 2026 primary 85.5% vs Ardelia Holmes and Sean Freeman. Earlier beat Sanders-aligned Nina Turner in 2021 and 2022 with heavy pro-Israel support. General: won 83.5%.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; also CPC member)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Elected 2021; county council and county party chair; bachelor's degree; ordinary legislative record (Hunger Free Future Act, bipartisan cybersecurity bill)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates unverified (safe seat). No town-hall or hostile-outlet evidence found; scored neutral."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "AFGE",
+   "National Women's Political Caucus",
+   "Planned Parenthood",
+   "Giffords",
+   "Ohio AFL-CIO",
+   "Ohio Conference of Teamsters"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All Act (bulk)",
+   "Member of both the Congressional Progressive Caucus and the New Democrat Coalition (bulk)",
+   "Received about $4.5M from pro-Israel sources; endorsed by AIPAC/DMFI 2026 (https://en.wikipedia.org/wiki/Shontel_Brown)",
+   "Did not vote on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Voted against Laken Riley Act and both 2025-26 socialism-denouncing resolutions (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Party-establishment Democrat (county party chair; beat Nina Turner with pro-Israel backing) who nonetheless co-sponsors Medicare for All and votes with the caucus majority. LI about 2 vs CI about 1; EPD 5 and neutral EO lead to step 5 -> Cat 1 only as an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://en.wikipedia.org/wiki/Shontel_Brown",
+   "https://shontelbrown.com/",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "S001223",
+  "name": "Emilia Strong Sykes",
+  "seat": "OH-13",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1986,
+   "education": "B.A. psychology, Kent State; J.D. and M.P.H., University of Florida",
+   "career": "Bankruptcy-court law clerk; Summit County fiscal office adviser",
+   "prior_office": "Ohio House 2015-2022 (minority leader 2019-2021; Ohio Redistricting Commission 2021); U.S. House 2023-present"
+  },
+  "self_description": "Considered a moderate; says she cannot represent her closely divided district 'without taking in all perspectives'.",
+  "primary_context": "Unopposed in May 2026 primary. General vs Republican radio host Carey Coleman.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Laken Riley yes vote (bulk); campaign: 'visited the border and has seen first-hand why we need a safe and secure border, keeping out dangerous drugs and weapons'",
+    "src": "https://www.emiliasykesforcongress.com/issues"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Co-introduced bipartisan bill to boost local police hiring/retention, 'earning the support of both the Fraternal Order of Police and the NAACP'; campaigns on ensuring 'law enforcement has the resources they need'",
+    "src": "https://www.emiliasykesforcongress.com/issues"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (vice-chair, affordable housing taskforce)",
+   "Problem Solvers Caucus member (co-chair, tariffs/trade working group)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Elected 2022; JD+MPH; ex-Ohio House minority leader whose dating-violence protection-order bill became law (2018); Science Committee investigations subcommittee ranking member."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with Coleman unverified (none found). Holds regular 'Congress in our Community' events (2025-26); no hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "J Street",
+   "EMILY's List",
+   "Giffords",
+   "Council for a Livable World",
+   "End Citizens United",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "AFGE",
+   "Reproductive Freedom for All"
+  ],
+  "notable_positions": [
+   "Voted for Laken Riley Act (bulk)",
+   "Voted for GENIUS crypto bill (Jul 2025) (https://clerk.house.gov/Votes/2025200)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Lower Your Taxes Act: expand EITC and restore expanded CTC (https://en.wikipedia.org/wiki/Emilia_Sykes)",
+   "Urges caution and 'strong guardrails' on data-centre expansion (https://en.wikipedia.org/wiki/Emilia_Sykes)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Moderate swing-seat Democrat in the New Dem and Problem Solvers caucuses, with a Laken Riley yes vote, border-security messaging and FOP-backed police legislation (CI about 4) vs LI about 1. Short of the CI 5 threshold, but with EPD 7 and neutral EO, step 5 places her at Cat 4 (imperfect fit).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://en.wikipedia.org/wiki/Emilia_Sykes",
+   "https://www.emiliasykesforcongress.com/issues",
+   "https://sykes.house.gov/events",
+   "https://clerk.house.gov/Votes/2025200",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "B001278",
+  "name": "Suzanne Bonamici",
+  "seat": "OR-1",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1954,
+   "education": "A.A. Lane Community College; B.A. and J.D., University of Oregon",
+   "career": "Legal-aid assistant; FTC consumer-protection attorney; private-practice lawyer",
+   "prior_office": "Oregon House 2007-2008; Oregon Senate 2008-2011; U.S. House 2012-present (subcommittee chair, Education & Labor, in Democratic majority)"
+  },
+  "self_description": "No ideological label found; campaign stresses tackling 'the climate crisis' and the needs of 'working families'.",
+  "primary_context": "Won 2026 primary 86.6% vs mechanical engineer Jamil Ahmad. General vs Republican Barbara Kahl.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Oregon Working Families Party (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2012; JD; former Education & Labor subcommittee chair (Civil Rights & Human Services); long authored-bill record (e.g. tsunami warning legislation)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates unverified. Holds regular in-person town halls (fall 2026 series in Beaverton, St. Helens, Astoria per House site). No hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "Oregon Working Families Party",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "LCV / Oregon LCV",
+   "Oregon AFL-CIO",
+   "AFT",
+   "Teamsters Joint Council 37",
+   "Human Rights Campaign PAC",
+   "Planned Parenthood",
+   "Willamette Week",
+   "Portland Mercury"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All, Block the Bombs to Israel Act, Green New Deal (118th), DC statehood (bulk)",
+   "Voted YES on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Voted against Laken Riley Act and trans sports bill (bulk)",
+   "Holds recurring in-person town hall series across district (https://bonamici.house.gov/about/events)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Consistent progressive record (CPC member; M4A, GND, Block the Bombs co-sponsor; Oregon WFP-endorsed; yes on Massie Israel-aid amendment) gives LI about 5, one point short of the Cat 1 threshold, with CI 0. High EPD and neutral-to-positive EO send her to step 5, where Cat 1 is the nearest fit (imperfect).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "https://www.bonamiciforcongress.com/endorsements",
+   "https://bonamici.house.gov/about/events",
+   "https://en.wikipedia.org/wiki/Suzanne_Bonamici",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "D000635",
+  "name": "Maxine Dexter",
+  "seat": "OR-3",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1972,
+   "education": "B.A. political science & communication and M.D., University of Washington",
+   "career": "Pulmonary and critical-care physician",
+   "prior_office": "Oregon House 2020-2024 (chair, Housing & Homelessness Committee); U.S. House 2025-present"
+  },
+  "self_description": "No ideological label found; says she supports the transition to a single-payer health system.",
+  "primary_context": "Won 2026 primary 89.1% vs activist Jessica Salas (Track AIPAC-backed) and Andrew Castilleja. In the 2024 open-seat primary she beat Susheela Jayapal with about $2.2M of 314 Action spending.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "One of 20 co-sponsors of Rep. Tlaib's Nov 2025 resolution condemning Israel's actions in Gaza as genocide and calling for sanctions (also Block the Bombs co-sponsor per bulk)",
+    "src": "https://jewishinsider.com/2025/11/21-house-democrats-introduce-code-pink-backed-resolution-accusing-israel-of-genocide/"
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus (listed on campaign endorsements page, 2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected to House 2024 (state rep 2020-24). MD physician. As Oregon House Housing chair she was credited with passing a $200M housing/homelessness package; now Ranking Member, Natural Resources Oversight & Investigations subcommittee."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates unverified (safe seat). House site lists multiple in-person and telephone town halls and listening sessions (2025-26). No hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus",
+   "314 Action",
+   "Oregon AFL-CIO",
+   "AFGE",
+   "CWA",
+   "Teamsters JC37",
+   "Oregon Nurses Association",
+   "Oregon LCV",
+   "Planned Parenthood",
+   "Reproductive Freedom for All",
+   "Vote Mama",
+   "Sens. Wyden and Merkley; Gov. Kotek"
+  ],
+  "notable_positions": [
+   "Co-sponsored Tlaib resolution calling Israel's Gaza campaign a genocide, Nov 2025 (https://jewishinsider.com/2025/11/21-house-democrats-introduce-code-pink-backed-resolution-accusing-israel-of-genocide/)",
+   "Co-sponsor of Ultra-Millionaire Tax Act 2026, Medicare for All, Block the Bombs (bulk)",
+   "Voted YES on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Supports single-payer, more money for public housing, stricter gun control (https://en.wikipedia.org/wiki/Maxine_Dexter)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Freshman who has moved firmly left: co-sponsors a wealth tax and M4A, backs a genocide resolution and the Block the Bombs Act, and is CPC-endorsed (LI about 5), with no centrist markers. One point short of the Cat 1 threshold, but with EPD 6 and neutral EO, step 5 gives Cat 1.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "https://jewishinsider.com/2025/11/21-house-democrats-introduce-code-pink-backed-resolution-accusing-israel-of-genocide/",
+   "https://maxinefororegon.com/endorsements",
+   "https://dexter.house.gov/events",
+   "https://en.wikipedia.org/wiki/Maxine_Dexter",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "H001094",
+  "name": "Val T. Hoyle",
+  "seat": "OR-4",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1964,
+   "education": "B.A. political science, Emmanuel College (Boston)",
+   "career": "Sales/marketing in the bicycle industry (Burley, Cane Creek); legislative aide; United Way director",
+   "prior_office": "Oregon House 2009-2017 (majority leader 2013-2015); Oregon Labor Commissioner (statewide, 2019-2023); U.S. House 2023-present"
+  },
+  "self_description": "Frames herself through 'union roots' and as a champion of working families; no ideological label found.",
+  "primary_context": "Challenged from the left by social worker Melissa Bird (backed by Oregon WFP, Progressive Democrats of America, Track AIPAC); Hoyle won 75.2% to 21.7%. General vs Republican Monique DeSpain (2024 rematch).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (13 May 2026: 'proud to once again endorse @ValHoyle')",
+   "Working Families Party (listed on campaign site; note Oregon WFP backed her primary opponent)",
+   "Progressive Caucus Action Fund (CPC PAC)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed in 2026 primary by Leading the Future, the AI-industry super PAC backed by Andreessen Horowitz and OpenAI figures",
+    "src": "https://www.axios.com/2026/05/08/ai-super-pac-endorsement-democrats"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Former statewide officeholder (Labor Commissioner) and Oregon House majority leader; bachelor's degree; ordinary House record."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with DeSpain unverified. House town-hall page shows no listed 2026 events; not verified either way."
+  },
+  "outside_support": [
+   "Bernie Sanders",
+   "Working Families Party",
+   "Progressive Caucus Action Fund",
+   "Leading the Future (AI super PAC)",
+   "CHC BOLD PAC",
+   "Giffords",
+   "J Street",
+   "LCV Action Fund",
+   "Oregon AFL-CIO",
+   "LiUNA",
+   "Oregon Nurses Association",
+   "UFCW 555"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All, Green New Deal (118th), Block the Bombs to Israel Act (bulk)",
+   "Voted YES on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Voted yes on House Laken Riley Act (H.R.29, 7 Jan 2025) but no on final Senate version S.5 (https://clerk.house.gov/Votes/20256 ; https://clerk.house.gov/Votes/202523)",
+   "One of 4 Democrats voting to block funding for vehicle 'kill switch' technology, Jan 2026 (https://www.newsweek.com/kill-switch-cars-approved-house-republicans-full-list-11406341)",
+   "Endorsed by both Bernie Sanders and an AI-industry super PAC in 2026 primary (https://www.axios.com/2026/05/08/ai-super-pac-endorsement-democrats)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (M4A, GND, Block the Bombs, DC) plus endorsements from Sanders, WFP and the CPC PAC put LI at about 7, above the Cat 1 threshold. The picture is mixed: AI-industry PAC backing, a moderate DW-NOMINATE position, an initial Laken Riley yes vote and a left primary challenger suggest a labour-populist more than a movement-left figure.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "https://www.valhoyle.com/endorsements",
+   "https://x.com/BernieSanders/status/2054581395897356604",
+   "https://www.axios.com/2026/05/08/ai-super-pac-endorsement-democrats",
+   "https://www.newsweek.com/kill-switch-cars-approved-house-republicans-full-list-11406341",
+   "https://en.wikipedia.org/wiki/Val_Hoyle",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "B001326",
+  "name": "Janelle S. Bynum",
+  "seat": "OR-5",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1975,
+   "education": "B.S. electrical engineering, Florida A&M; MBA, University of Michigan",
+   "career": "GM steering-systems engineer; small-business (restaurant franchise) owner",
+   "prior_office": "Oregon House 2017-2025 (chair, Economic Development & Small Business); U.S. House 2025-present"
+  },
+  "self_description": "'common-sense, pragmatic leader' and 'businesswoman, engineer, and mom of four' (campaign site).",
+  "primary_context": "Won 2026 primary (~82%) vs Zeva Rosenbaum (Track AIPAC-backed). General vs Deschutes County Commissioner Patti Adair.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Signed the June 2026 'Promise to America' pledge (one of 10 House Dems), which says 'A generation has passed since our party balanced the budget. We will prioritize tackling the national debt'; not a wealth-tax co-sponsor",
+    "src": "https://www.thepromisetoamerica.com/"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Laken Riley yes vote (bulk); Promise to America pledge backs 'secure borders' and an 'orderly immigration system'",
+    "src": "https://www.thepromisetoamerica.com/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pledge: 'We are capitalist, not socialist' (signed after DSA-backed candidates won primaries); chief sponsor of $210M Oregon CHIPS Act; voted for GENIUS and CLARITY crypto bills",
+    "src": "https://www.nytimes.com/2026/06/26/us/politics/moderate-democrats-capitalist-socialism.html"
+   }
+  },
+  "C1_endorsements": [
+   "Majority Democrats member (listed on majoritydemocrats.com)",
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected to House 2024 (state rep 2017-25). Engineer plus Michigan MBA. Chief sponsor of the Oregon CHIPS Act (law, 2023); campaign cites five bipartisan bills passed."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with Adair unverified (competitive seat; none found). No town-hall or hostile-outlet data found."
+  },
+  "outside_support": [
+   "Majority Democrats",
+   "314 Action",
+   "CHC BOLD PAC",
+   "EMILY's List",
+   "End Citizens United",
+   "Giffords",
+   "JACPAC",
+   "LCV Action Fund",
+   "Planned Parenthood",
+   "Vote Mama",
+   "Willamette Week (primary)"
+  ],
+  "notable_positions": [
+   "Signed centrist 'Promise to America' pledge (capitalism, fiscal responsibility, secure borders), Jun 2026 (https://www.thepromisetoamerica.com/)",
+   "Voted for Laken Riley Act (bulk)",
+   "Co-sponsor of Medicare for All Act (bulk) - in tension with her centrist profile",
+   "Did not vote on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Voted for GENIUS and CLARITY crypto bills, Jul 2025 (https://clerk.house.gov/Votes/2025199)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Self-styled pragmatic businesswoman in the Majority Democrats and New Dem caucuses, who signed a pro-capitalist, debt-focused, secure-borders pledge and voted for Laken Riley (CI about 5). DC statehood and an anomalous M4A co-sponsorship give LI about 2, so the Cat 4 threshold is met. The M4A co-sponsorship lowers confidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "https://www.thepromisetoamerica.com/",
+   "https://www.thepromisetoamerica.com/signatories",
+   "https://www.nytimes.com/2026/06/26/us/politics/moderate-democrats-capitalist-socialism.html",
+   "https://majoritydemocrats.com/",
+   "https://www.janellebynum.com/issues",
+   "https://en.wikipedia.org/wiki/Janelle_Bynum",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "S001226",
+  "name": "Andrea Salinas",
+  "seat": "OR-6",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1969,
+   "education": "B.A., UC Berkeley",
+   "career": "Congressional aide (Reid, Stark, Hooley); environmental-group legislative director; lobbyist/consultant (Strategies 360)",
+   "prior_office": "Oregon House 2017-2022 (majority whip; chair, Health Care Committee); U.S. House 2023-present"
+  },
+  "self_description": "No ideological label found; campaign emphasises reproductive rights, mental health and bipartisan border security work.",
+  "primary_context": "Unopposed in 2026 primary. General vs former Dundee mayor David Russ.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaign: 'delivered federal funding to help Salem Police recruit and hire more Community Service Officers' and will 'continue to work with and support our law enforcement'",
+    "src": "https://www.andreasalinasfororegon.com/issues"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; also CPC member)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Elected 2022; ex-Oregon House majority whip and Health Care chair; bachelor's degree; ordinary House record (Mental Health Caucus co-chair)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debates with Russ unverified. House site lists in-person and telephone town halls in 2026 (Jul, Aug, Oct). No hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "Democratic Majority for Israel",
+   "J Street",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "LCV Action Fund",
+   "Oregon AFL-CIO",
+   "UAW",
+   "National Women's Political Caucus",
+   "Planned Parenthood",
+   "Reproductive Freedom for All"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and Block the Bombs to Israel Act (bulk)",
+   "Voted YES on Massie amendment to end US aid to Israel, Jul 2026 (https://clerk.house.gov/Votes/2026243)",
+   "Member of New Dem Border Security Task Force; backs 'smart border security' plus legal status (https://www.andreasalinasfororegon.com/issues)",
+   "Voted to permanently schedule fentanyl analogues and raise trafficking penalties (https://www.andreasalinasfororegon.com/issues)",
+   "Voted Yea on Nov 2025 resolution denouncing socialism (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Sits in both CPC and New Dems. M4A, Block the Bombs and DC statehood give LI about 3; New Dem membership and police-funding messaging give CI about 2. EPD 5 and neutral EO lead to step 5, where LI marginally exceeds CI -> Cat 1 as an imperfect fit; she is a mainstream liberal rather than movement-left.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "https://www.andreasalinasfororegon.com/issues",
+   "https://salinas.house.gov/about/events",
+   "https://en.wikipedia.org/wiki/Andrea_Salinas",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "B001296",
+  "name": "Brendan F. Boyle",
+  "seat": "PA-2",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1977,
+   "education": "B.A., University of Notre Dame; M.P.P., Harvard Kennedy School",
+   "career": "Consultant to the U.S. Department of Defense (Naval Sea Systems Command)",
+   "prior_office": "Pennsylvania House 2009-2014; U.S. House 2015-present; Ranking Member, House Budget Committee (2023-)"
+  },
+  "self_description": "Blue-collar economic populist; described as an Irish Catholic Democrat who 'married his economic populism with the defense and foreign policy preferences of an old-school Democrat'; co-founder and chair of the Blue Collar Caucus.",
+  "primary_context": "Unopposed in 2026 primary; general vs Republican Jessica Arriaga (safe D).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for both House and Senate versions of Laken Riley Act (2025); one of 36 Dems backing 2023 POLICE Act making assault on first responders a deportable offence",
+    "src": "https://en.wikipedia.org/wiki/Brendan_Boyle"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Majority Democrats member (listed on majoritydemocrats.com)",
+   "New Democrat Coalition member (bulk; also CPC member)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2015; Harvard MPP; Ranking Member of House Budget Committee (led Democratic opposition to OBBBA cuts); state-law record (genocide-education law 2014)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate unverified (safe seat). Frequent national TV commentator as Budget ranking member; hostile-outlet appearances not verified."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Majority Democrats",
+   "Planned Parenthood",
+   "National Education Association",
+   "Progressive Turnout Project"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Ultra-Millionaire Tax Act 2026, Medicare for All, Green New Deal (118th) (bulk)",
+   "Voted for Laken Riley Act (bulk)",
+   "Voted NO on Massie amendment to end US aid to Israel, Jul 2026; Israel Allies Caucus member (https://clerk.house.gov/Votes/2026243)",
+   "Praised possible return of Robert Lighthizer as USTR (Nov 2024); protectionist trade stance (https://en.wikipedia.org/wiki/Brendan_Boyle)",
+   "Plan to end debt-ceiling brinkmanship (campaign site, https://voteboyle.com/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Cross-pressured record: co-sponsors a wealth tax, M4A and the GND (LI about 4) but belongs to the centrist Majority Democrats and New Dems, backed Laken Riley and is AIPAC/DMFI-endorsed (CI about 3). EPD 7 and neutral EO lead to step 5, where LI narrowly exceeds CI -> Cat 1 as an imperfect fit. A Cat 4 reading is nearly as defensible.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "https://en.wikipedia.org/wiki/Brendan_Boyle",
+   "https://majoritydemocrats.com/",
+   "https://www.inquirer.com/politics/pennsylvania/majority-democrats-platform-pac-fundraising-strategy-20250713.html",
+   "https://voteboyle.com/",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ },
+ {
+  "id": "D000631",
+  "name": "Madeleine Dean",
+  "seat": "PA-4",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1959,
+   "education": "B.A., La Salle University; J.D., Widener University Delaware Law School",
+   "career": "Lawyer; La Salle University English professor",
+   "prior_office": "Abington Township commissioner; Pennsylvania House 2012-2019; U.S. House 2019-present; House impeachment manager (2021); Women's Caucus chair 2021-23; Appropriations Committee"
+  },
+  "self_description": "Campaign site calls her 'an outspoken leader'; mother, grandmother, professor and lawyer. No ideological label found.",
+  "primary_context": "Unopposed in 2026 primary; general vs Republican Aurora Stuski.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; also CPC member)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2019; JD; impeachment manager, appropriator, ranking member of Foreign Arms Sales Task Force, chair of Bipartisan Fentanyl Prevention Caucus."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate unverified. Frequent national cable commentator; hostile-outlet appearances and town halls not verified. Her Massie-amendment statement engages the substance (calls amendment 'deeply flawed' but explains her yes vote)."
+  },
+  "outside_support": [
+   "Giffords",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Emgage",
+   "LCV Action Fund",
+   "PA AFL-CIO",
+   "AFSCME DC47",
+   "NEA",
+   "Planned Parenthood",
+   "Progressive Turnout Project",
+   "Sierra Club"
+  ],
+  "notable_positions": [
+   "Voted YES on Massie amendment: 'Not another dime to the Netanyahu government', 15 Jul 2026 (https://dean.house.gov/2026/7/congresswoman-dean-s-statement-on-supporting-the-massie-amendment)",
+   "Co-sponsor of Ultra-Millionaire Tax Act 2026 and Block the Bombs to Israel Act (bulk)",
+   "Voted against Laken Riley Act and trans sports bill (bulk)",
+   "Gun-violence prevention leader; co-founded PA SAFE Caucus in state house (https://en.wikipedia.org/wiki/Madeleine_Dean)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mainstream-liberal Pelosi-era leader who has moved left on Israel (Block the Bombs; 'not another dime' Massie vote) and co-sponsors the wealth tax. LI about 3 vs CI about 1, with high EPD and neutral EO, gives step 5 -> Cat 1 as an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "https://dean.house.gov/2026/7/congresswoman-dean-s-statement-on-supporting-the-massie-amendment",
+   "https://mad4pa.com/endorsements",
+   "https://en.wikipedia.org/wiki/Madeleine_Dean",
+   "https://clerk.house.gov/Votes/2026243"
+  ]
+ }
+]

@@ -1,0 +1,745 @@
+{
+ "orgs": {
+  "Justice Democrats": {
+   "list_source": "https://justicedemocrats.com/candidates",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Angela Gonzales-Torres (CA-34)",
+    "Melat Kiros (CO-1)",
+    "Donavan McKinney (MI-13)",
+    "Adam Hamawy (NJ-12)",
+    "Claire Valdez (NY-7)",
+    "Darializa Avila Chevalier (NY-13)",
+    "Chris Rabb (PA-3)",
+    "Frederick Haynes III (TX-30)"
+   ],
+   "notes": "Official candidates page (2026 cycle, incl. primary losers Chakrabarti CA-11, Ahmed IL-8, Abughazaleh IL-9, Bush MO-1, Allam NC-4; and Mai Vang CA-7, Justin Pearson TN-9)."
+  },
+  "DSA (national)": {
+   "list_source": "https://www.dsausa.org/endorsements/ (HTTP 403 to automated fetch); https://time.com/article/2026/08/20/inside-dsa-reshape-democratic-party/",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": "National DSA site blocked (403). TIME (20 Aug 2026) names DSA member Angie Nixon (FL-SEN) and says El-Sayed is not formally DSA; no national 2026 federal endorsement list obtained. Do not infer."
+  },
+  "NYC-DSA": {
+   "list_source": "https://socialists.nyc/socialists-in-office",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Claire Valdez (NY-7)",
+    "Darializa Avila Chevalier (NY-13)"
+   ],
+   "notes": "Socialists-in-Office page lists Congress: AOC (NY-14), Valdez (NY-7), Avila Chevalier (NY-13). Not Lander (NY-10) or Lasher (NY-12)."
+  },
+  "Metro Detroit DSA": {
+   "list_source": "https://metrodetroitdsa.org/2026-slate/",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Donavan McKinney (MI-13)"
+   ],
+   "notes": "2026 slate federal: McKinney (MI-13), Tlaib (MI-12). No El-Sayed, Lawrence or other MI roster members."
+  },
+  "Denver DSA": {
+   "list_source": "https://denverdsa.org/voter-guide/2026-november/",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Melat Kiros (CO-1)"
+   ],
+   "notes": "Nov 2026 guide: \"Denver DSA Endorses\" Kiros (CO-1); no recommendation for Sen. Hickenlooper."
+  },
+  "Philly DSA": {
+   "list_source": "https://www.phillydsa.org/socialistsinoffice ; https://www.phillydsa.org/",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Chris Rabb (PA-3)"
+   ],
+   "notes": "Socialists-in-Office lists Chris Rabb (3rd Congressional); homepage: \"We just elected Chris Rabb to Congress!\""
+  },
+  "Chicago DSA": {
+   "list_source": "https://chicagodsa.org/2026/08/03/the-moment-august-3rd-2026/ ; https://chicagodsa.org/electoral-committee/",
+   "coverage": "partial",
+   "endorsed_roster_members": [],
+   "notes": "No roster member endorsed. Chicago DSA endorsed Byron Sigcho-Lopez as an INDEPENDENT in IL-4 against Democratic nominee Patty Garcia (he was removed from the ballot). IL-9 position not found."
+  },
+  "Maine DSA": {
+   "list_source": "https://www.mainedsa.org/endorsements/",
+   "coverage": "complete",
+   "endorsed_roster_members": [],
+   "notes": "Only state/local 2026 endorsements; no endorsement of Troy Jackson (ME-SEN)."
+  },
+  "Working Families Party (national + state affiliates)": {
+   "list_source": "https://workingfamilies.org/candidates/ (plus per-state \"View More\" lists via the page's own admin-ajax more_candidates endpoint)",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Melat Kiros (CO-1)",
+    "Robert White (DC-AL)",
+    "Troy Jackson (ME-SEN)",
+    "Abdul El-Sayed (MI-SEN)",
+    "William Lawrence (MI-7)",
+    "Donavan McKinney (MI-13)",
+    "Adam Hamawy (NJ-12)",
+    "Claire Valdez (NY-7)",
+    "Brad Lander (NY-10)",
+    "Darializa Avila Chevalier (NY-13)",
+    "Cait Conley (NY-17)",
+    "Brian Poindexter (OH-7)",
+    "Chris Rabb (PA-3)",
+    "Bob Brooks (PA-7)",
+    "Randy Villegas (CA-22)",
+    "Angela Gonzales-Torres (CA-34)"
+   ],
+   "notes": "Current general-election slate; candidates who lost primaries appear to be removed (no Illinois/National entries shown), so primary-only endorsements may be missing. Cait Conley listed under WFP New York (state-party line). In CA-11 WFP backed Connie Chan, not Scott Wiener. NOT listed: Flanagan, Talarico, Biss, Lasher."
+  },
+  "Our Revolution": {
+   "list_source": "https://ourrevolution.com/our-champions/ ; https://ourrevolution.com/what-a-night-a-blue-tsunami-powered-by-a-progressive-wave/",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Katy Padilla Stout (TX-23)",
+    "Angela Gonzales-Torres (CA-34)",
+    "Daniel Biss (IL-9)",
+    "Matt Little (MN-2)",
+    "Peggy Flanagan (MN-SEN)",
+    "Abdul El-Sayed (MI-SEN)",
+    "Troy Jackson (ME-SEN)",
+    "William Lawrence (MI-7)",
+    "Sam Forstag (MT-1)",
+    "Darializa Avila Chevalier (NY-13)",
+    "Claire Valdez (NY-7)",
+    "Melat Kiros (CO-1)",
+    "Adam Hamawy (NJ-12)",
+    "Bob Brooks (PA-7)",
+    "Brian Poindexter (OH-7)",
+    "Chris Rabb (PA-3)",
+    "Brad Lander (NY-10)",
+    "James Talarico (TX-SEN)",
+    "Frederick Haynes III (TX-30)",
+    "Patty García (IL-4)",
+    "Randy Villegas (CA-22)",
+    "Donavan McKinney (MI-13)"
+   ],
+   "notes": "Endorsements page lists every 2026 endorsement back to Mamdani (2025). Also endorsed Connie Chan (CA-11), Christian Urrutia (NH-1), Matt Dunlap (ME-2), Angie Nixon (FL-SEN), Charles Booker (KY-SEN)."
+  },
+  "Sunrise Movement": {
+   "list_source": "https://www.sunrisemovement.org/endorsements/ (pages 1-2)",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Brad Lander (NY-10)",
+    "Claire Valdez (NY-7)",
+    "Adam Hamawy (NJ-12)",
+    "Darializa Avila Chevalier (NY-13)",
+    "Melat Kiros (CO-1)",
+    "Donavan McKinney (MI-13)",
+    "Frederick Haynes III (TX-30)",
+    "Chris Rabb (PA-3)",
+    "William Lawrence (MI-7)"
+   ],
+   "notes": "2026 federal: also Junaid Ahmed IL-8, Mai Vang CA-7, Justin Pearson TN-9, Nida Allam NC-4, Kat Abughazaleh IL-9, Robert Peters IL-2, Ed Markey MA-SEN. Read via WebFetch (archive pages 1-2; page 2 ends in 2025)."
+  },
+  "Bernie Sanders (personal / Fighting Oligarchy)": {
+   "list_source": "https://berniesanders.com/endorse",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Abdul El-Sayed (MI-SEN)",
+    "Adam Hamawy (NJ-12)",
+    "Bob Brooks (PA-7)",
+    "Brad Lander (NY-10)",
+    "Brian Poindexter (OH-7)",
+    "Claire Valdez (NY-7)",
+    "Donavan McKinney (MI-13)",
+    "Melat Kiros (CO-1)",
+    "Peggy Flanagan (MN-SEN)",
+    "Randy Villegas (CA-22)",
+    "Rebecca Cooke (WI-3)",
+    "Sam Forstag (MT-1)",
+    "Troy Jackson (ME-SEN)",
+    "William Lawrence (MI-7)"
+   ],
+   "notes": "Current \"Federal\" list (21 names). NOT on it: Talarico, Rabb, Avila Chevalier, Haynes, Gonzales-Torres, Biss. Page may drop primary losers."
+  },
+  "Alexandria Ocasio-Cortez (personal / Courage to Change PAC)": {
+   "list_source": "https://www.ocasiocortez.com/endorsements (lists endorsements OF AOC only); courage2change.com is a parked domain",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": "No official list located. FiftyPlusOne (blog.fiftyplusone.news/p/progressives-won-a-lot-of-primaries) says AOC endorsed only 8 non-incumbents in 2026 primaries but does not name them; WelcomeStack quotes AOC: \"if Abdul can win in Michigan, anybody can win anywhere\" (not an explicit endorsement record). Do not infer."
+  },
+  "Congressional Progressive Caucus PAC": {
+   "list_source": "https://www.cpcpac.com/ (text-signup page only, robots disallow; progressivecaucuspac.com does not resolve); https://blog.fiftyplusone.news/p/progressives-won-a-lot-of-primaries",
+   "coverage": "partial",
+   "endorsed_roster_members": [
+    "Daniel Biss (IL-9)"
+   ],
+   "notes": "Official list not reachable. FiftyPlusOne: CPC endorsed 22 non-incumbents in 2026 primaries; names only Biss (IL-9). CPC also backed incumbents DeGette, Thanedar, Goldman, Espaillat who LOST to roster members Kiros, McKinney, Lander, Avila Chevalier. WelcomeStack (4 Nov) says CPC bragged of earlier endorsements of \"Bernie Dogs\" (unnamed)."
+  },
+  "Progressive Change Campaign Committee (PCCC)": {
+   "list_source": "https://www.boldprogressives.org/candidates/our-endorsements-2026/",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Abdul El-Sayed (MI-SEN)",
+    "Peggy Flanagan (MN-SEN)",
+    "Troy Jackson (ME-SEN)",
+    "James Talarico (TX-SEN)",
+    "Brad Lander (NY-10)",
+    "Daniel Biss (IL-9)",
+    "Donavan McKinney (MI-13)",
+    "Randy Villegas (CA-22)",
+    "Chris Rabb (PA-3)",
+    "Adam Hamawy (NJ-12)",
+    "Darializa Avila Chevalier (NY-13)",
+    "William Lawrence (MI-7)",
+    "Claire Valdez (NY-7)",
+    "Melat Kiros (CO-1)"
+   ],
+   "notes": "Also Dan Osborn (NE-SEN, independent), Analilia Mejia NJ-11, Christian Menefee TX-18, Adelita Grijalva AZ-7, Jena Griswold (CO SoS)."
+  },
+  "Leaders We Deserve (David Hogg)": {
+   "list_source": "https://leaderswedeserve.com/candidates",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Kristina Knickerbocker (OH-10)",
+    "Randy Villegas (CA-22)",
+    "Abdul El-Sayed (MI-SEN)",
+    "Matt Little (MN-2)",
+    "Angela Gonzales-Torres (CA-34)",
+    "Donavan McKinney (MI-13)",
+    "Claire Valdez (NY-7)"
+   ],
+   "notes": "12 national-office endorsees; others: Angie Nixon FL-SEN, Justin Pearson TN-9, Christian Menefee TX-18, Patrick Roath MA-8, Mai Vang CA-7."
+  },
+  "Blue Dog PAC": {
+   "list_source": "https://bluedogdems.com/news/ (pages 1-3: endorsement releases 4 Jun 2025 - 14 Oct 2026)",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Rebecca Cooke (WI-3)",
+    "Jamie Ager (NC-11)",
+    "Bobby Pulido (TX-15)",
+    "Johnny Garcia (TX-35)",
+    "Bob Brooks (PA-7)",
+    "Brian Poindexter (OH-7)",
+    "Zach Dembo (KY-6)",
+    "JoAnna Mendoza (AZ-6)",
+    "Sam Forstag (MT-1)",
+    "Jake Johnson (MN-1)",
+    "Mitchell Berman (WI-1)",
+    "Nancy Lacore (SC-1)",
+    "Eileen Laubacher (CO-4)",
+    "Paul Barringer (NC-13)",
+    "Zack Mullock (NJ-2)"
+   ],
+   "notes": "Full 2026 endorsee list from press releases: also Jasmeet Bains CA-22 and Thien Ho CA-6 and Shannon Bird CO-8 (all lost primaries to roster members Villegas, Pan, Rutinel), Bale Dalton FL-7, Leela Gray FL-13, Blake Gendebien NY-21, Chaz Molder TN-5, Bill Hill AK-AL (independent), Dwayne Romero CO-3, Don Coover KS-2, Amanda Marie Green FL-2. bluedogpac.com returns 403."
+  },
+  "New Democrat Action Fund": {
+   "list_source": "https://newdemactionfund.com/candidates ; https://newdemactionfund.com/news/what-theyre-saying-new-dems-deliver-the-house-majority-and-prepare-to-lead",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Amish Shah (AZ-1)",
+    "JoAnna Mendoza (AZ-6)",
+    "Richard Pan (CA-6)",
+    "Jacqui Irwin (CA-26)",
+    "Marni von Wilpert (CA-48)",
+    "Jessica Killin (CO-5)",
+    "Manny Rutinel (CO-8)",
+    "Luke Bronin (CT-1)",
+    "Pia Dandiya (FL-22)",
+    "Christina Bohannan (IA-1)",
+    "Lindsay James (IA-2)",
+    "Sarah Trone Garriott (IA-3)",
+    "Donna Miller (IL-2)",
+    "Melissa Bean (IL-8)",
+    "J. D. Ford (IN-5)",
+    "Zach Dembo (KY-6)",
+    "Adrian Boafo (MD-5)",
+    "Sean McCann (MI-4)",
+    "Christina Hines (MI-10)",
+    "Jeremy Moss (MI-11)",
+    "Jake Johnson (MN-1)",
+    "Fred Wellman (MO-2)",
+    "Raymond Smith Jr. (NC-3)",
+    "Jamie Ager (NC-11)",
+    "Denise Powell (NE-2)",
+    "Stefany Shaheen (NH-1)",
+    "Rebecca Bennett (NJ-7)",
+    "Teresa Benitez-Thompson (NV-2)",
+    "Cait Conley (NY-17)",
+    "Kristina Knickerbocker (OH-10)",
+    "Bob Harvie (PA-1)",
+    "Paige Cognetti (PA-8)",
+    "Janelle Stelson (PA-10)",
+    "Nancy Lacore (SC-1)",
+    "Bobby Pulido (TX-15)",
+    "Johnny Garcia (TX-35)",
+    "Ben McAdams (UT-1)",
+    "Shannon Taylor (VA-1)",
+    "Elaine Luria (VA-2)",
+    "Mitchell Berman (WI-1)",
+    "Rebecca Cooke (WI-3)"
+   ],
+   "notes": "Candidates page = all 50 endorsees (House only). Fund says 92% won primaries, so a few primary losers may have been dropped from the page."
+  },
+  "WelcomePAC (Win the Middle slate)": {
+   "list_source": "https://www.welcomestack.org/p/state-of-the-slate ; https://www.welcomestack.org/p/the-bale-dalton-and-pia-dandiya-endorsements ; https://www.welcomestack.org/p/the-jasmeet-bains-and-paige-cognetti ; https://www.welcomestack.org/p/the-jamie-ager-shannon-bird-christina ; https://www.welcomestack.org/p/the-rep-vicente-gonzalez-and-bobby",
+   "coverage": "partial",
+   "endorsed_roster_members": [
+    "Rebecca Cooke (WI-3)",
+    "Jamie Ager (NC-11)",
+    "Christina Bohannan (IA-1)",
+    "Sarah Trone Garriott (IA-3)",
+    "Bobby Pulido (TX-15)",
+    "Paige Cognetti (PA-8)",
+    "Pia Dandiya (FL-22)",
+    "Janelle Stelson (PA-10)"
+   ],
+   "notes": "Assembled from WelcomeStack endorsement posts (slate = 14 by 12 Aug 2026; incumbents Gluesenkamp Perez, V. Gonzalez, Suozzi, McDonald Rivet, A. Gray; plus Bird CO-8, Bains CA-22, Dalton FL-7). Press-release page (thewelcomeparty.org) and welcomepac.org/elect redirect to the homepage. Mary Peltola: WelcomePAC endorsed her for House in 2024 and praised her Senate launch (Jan 2026) but no formal 2026 Senate endorsement found - NOT counted. Johnny Garcia and Cait Conley were featured in posts/podcast but not shown as slate endorsees - NOT counted."
+  },
+  "Majority Democrats": {
+   "list_source": "majoritydemocrats.com (HTTP 403); majoritydemocrats.org is a parked domain",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": ""
+  },
+  "Problem Solvers Caucus / No Labels": {
+   "list_source": "https://www.nolabels.org/ (no list); problemsolverscaucus.org is a parked domain",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": "No Labels runs a donor portal (nolabelsallies.nolabels.org/page/535members) that names no candidates."
+  },
+  "Third Way": {
+   "list_source": "https://www.thirdway.org/ ; https://www.moderatepowerproject.org/",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": "Third Way does not publish candidate endorsements (post-election memos only)."
+  },
+  "AIPAC / United Democracy Project": {
+   "list_source": "https://www.aipacpac.org/ (no endorsement list; /endorsements 404); unitedemocracyproject.com redirects off-site",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": ""
+  },
+  "Democratic Majority for Israel (DMFI PAC)": {
+   "list_source": "https://dmfipac.org/news-updates/press/ (pages 1-2); releases of 20 Nov 2025 (Senate), 16 Dec 2025 (incumbents), 19 Feb, 24 Feb, 5 Mar, 18 Mar, 11 May, 26 May, 3 Jun, 14 Sep, 4 Nov 2026",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Roy Cooper (NC-SEN)",
+    "Chris Pappas (NH-SEN)",
+    "Donna Miller (IL-2)",
+    "Melissa Bean (IL-8)",
+    "Adrian Boafo (MD-5)",
+    "Jeremy Moss (MI-11)",
+    "Cait Conley (NY-17)",
+    "Paige Cognetti (PA-8)",
+    "Janelle Stelson (PA-10)",
+    "Johnny Garcia (TX-35)",
+    "Elaine Luria (VA-2)",
+    "Marni von Wilpert (CA-48)",
+    "Bobby Pulido (TX-15)",
+    "Pia Dandiya (FL-22)",
+    "Christina Hines (MI-10)"
+   ],
+   "notes": "Other non-incumbent endorsees who lost primaries: Shannon Bird CO-8, Jasmeet Bains CA-22, Maura Sullivan NH-1, Matt Klein MN-2, Marlene Galan-Woods AZ-1, Haley Stevens MI-SEN, Angie Craig MN-SEN. Also Dalton FL-7, Molder TN-5, Rodriguez FL-27. The /candidates/2026-endorsees/ page did not render."
+  },
+  "DCCC Red to Blue": {
+   "list_source": "https://dccc.org/red-to-blue/ (partial render) ; https://dccc.org/will-lawrence-added-to-dcccs-coveted-red-to-blue-program/ ; https://bluedogdems.com/four-blue-dog-candidates-added-to-dccc-red-to-blue-program/ ; https://www.spotlightpa.org/news/2026/05/midterms-democratic-congressional-campaign-committee-bob-brooks-federal-government/ ; https://www.welcomestack.org/p/winner-winner-cait-conley-on-leadership",
+   "coverage": "partial",
+   "endorsed_roster_members": [
+    "Christina Hines (MI-10)",
+    "Zach Dembo (KY-6)",
+    "Marni von Wilpert (CA-48)",
+    "William Lawrence (MI-7)",
+    "Bob Brooks (PA-7)",
+    "Bobby Pulido (TX-15)",
+    "Johnny Garcia (TX-35)",
+    "Cait Conley (NY-17)"
+   ],
+   "notes": "Program had 46 candidates (per NewDem Action Fund, which says it endorsed 36 of them); only these could be confirmed by name. Conley = \"district is on the DCCC Red to Blue list\" (WelcomeStack). FiftyPlusOne also says DCCC backed Rebecca Cooke (not added: R2B status not explicit)."
+  },
+  "VoteVets": {
+   "list_source": "https://votevets.org/candidates",
+   "coverage": "complete",
+   "endorsed_roster_members": [
+    "Rebecca Bennett (NJ-7)",
+    "JoAnna Mendoza (AZ-6)",
+    "Cait Conley (NY-17)",
+    "Jessica Killin (CO-5)",
+    "Eileen Laubacher (CO-4)",
+    "Zach Dembo (KY-6)",
+    "Elaine Luria (VA-2)",
+    "Fred Wellman (MO-2)",
+    "Nancy Lacore (SC-1)",
+    "Luke Bronin (CT-1)",
+    "Kristina Knickerbocker (OH-10)",
+    "Raymond Smith Jr. (NC-3)"
+   ],
+   "notes": "Page does not label cycle; listed non-incumbents are 2026 candidates. Also Bale Dalton, Leela Gray, Dwayne Romero, Chris Gallant."
+  },
+  "EMILY's List": {
+   "list_source": "https://emilyslist.org/donate/all-candidates/ (JavaScript-rendered; no names retrievable)",
+   "coverage": "not found",
+   "endorsed_roster_members": [],
+   "notes": ""
+  }
+ },
+ "by_member": {
+  "Troy Jackson": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Abdul El-Sayed": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)",
+   "Leaders We Deserve (David Hogg)"
+  ],
+  "Peggy Flanagan": [
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Chris Pappas": [
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Roy Cooper": [
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "James Talarico": [
+   "Our Revolution",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Amish Shah": [
+   "New Democrat Action Fund"
+  ],
+  "JoAnna Mendoza": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Richard Pan": [
+   "New Democrat Action Fund"
+  ],
+  "Randy Villegas": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)",
+   "Leaders We Deserve (David Hogg)"
+  ],
+  "Jacqui Irwin": [
+   "New Democrat Action Fund"
+  ],
+  "Angela Gonzales-Torres": [
+   "Justice Democrats",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Leaders We Deserve (David Hogg)"
+  ],
+  "Marni von Wilpert": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)",
+   "DCCC Red to Blue"
+  ],
+  "Melat Kiros": [
+   "Justice Democrats",
+   "Denver DSA",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Eileen Laubacher": [
+   "Blue Dog PAC",
+   "VoteVets"
+  ],
+  "Jessica Killin": [
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Manny Rutinel": [
+   "New Democrat Action Fund"
+  ],
+  "Luke Bronin": [
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Pia Dandiya": [
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Donna Miller": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Patty García": [
+   "Our Revolution"
+  ],
+  "Melissa Bean": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Daniel Biss": [
+   "Our Revolution",
+   "Congressional Progressive Caucus PAC",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "J. D. Ford": [
+   "New Democrat Action Fund"
+  ],
+  "Christina Bohannan": [
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)"
+  ],
+  "Lindsay James": [
+   "New Democrat Action Fund"
+  ],
+  "Sarah Trone Garriott": [
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)"
+  ],
+  "Zach Dembo": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "DCCC Red to Blue",
+   "VoteVets"
+  ],
+  "Adrian Boafo": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Sean McCann": [
+   "New Democrat Action Fund"
+  ],
+  "William Lawrence": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)",
+   "DCCC Red to Blue"
+  ],
+  "Christina Hines": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)",
+   "DCCC Red to Blue"
+  ],
+  "Jeremy Moss": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Donavan McKinney": [
+   "Justice Democrats",
+   "Metro Detroit DSA",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)",
+   "Leaders We Deserve (David Hogg)"
+  ],
+  "Jake Johnson": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund"
+  ],
+  "Matt Little": [
+   "Our Revolution",
+   "Leaders We Deserve (David Hogg)"
+  ],
+  "Fred Wellman": [
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Sam Forstag": [
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Blue Dog PAC"
+  ],
+  "Denise Powell": [
+   "New Democrat Action Fund"
+  ],
+  "Teresa Benitez-Thompson": [
+   "New Democrat Action Fund"
+  ],
+  "Stefany Shaheen": [
+   "New Democrat Action Fund"
+  ],
+  "Zack Mullock": [
+   "Blue Dog PAC"
+  ],
+  "Rebecca Bennett": [
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Adam Hamawy": [
+   "Justice Democrats",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Claire Valdez": [
+   "Justice Democrats",
+   "NYC-DSA",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)",
+   "Leaders We Deserve (David Hogg)"
+  ],
+  "Brad Lander": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Darializa Avila Chevalier": [
+   "Justice Democrats",
+   "NYC-DSA",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Cait Conley": [
+   "Working Families Party (national + state affiliates)",
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)",
+   "DCCC Red to Blue",
+   "VoteVets"
+  ],
+  "Raymond Smith Jr.": [
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Jamie Ager": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)"
+  ],
+  "Paul Barringer": [
+   "Blue Dog PAC"
+  ],
+  "Brian Poindexter": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Blue Dog PAC"
+  ],
+  "Kristina Knickerbocker": [
+   "Leaders We Deserve (David Hogg)",
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Bob Harvie": [
+   "New Democrat Action Fund"
+  ],
+  "Chris Rabb": [
+   "Justice Democrats",
+   "Philly DSA",
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Progressive Change Campaign Committee (PCCC)"
+  ],
+  "Bob Brooks": [
+   "Working Families Party (national + state affiliates)",
+   "Our Revolution",
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Blue Dog PAC",
+   "DCCC Red to Blue"
+  ],
+  "Paige Cognetti": [
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Janelle Stelson": [
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)",
+   "Democratic Majority for Israel (DMFI PAC)"
+  ],
+  "Nancy Lacore": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "VoteVets"
+  ],
+  "Bobby Pulido": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)",
+   "Democratic Majority for Israel (DMFI PAC)",
+   "DCCC Red to Blue"
+  ],
+  "Katy Padilla Stout": [
+   "Our Revolution"
+  ],
+  "Frederick Haynes III": [
+   "Justice Democrats",
+   "Our Revolution",
+   "Sunrise Movement"
+  ],
+  "Johnny Garcia": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)",
+   "DCCC Red to Blue"
+  ],
+  "Ben McAdams": [
+   "New Democrat Action Fund"
+  ],
+  "Shannon Taylor": [
+   "New Democrat Action Fund"
+  ],
+  "Elaine Luria": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel (DMFI PAC)",
+   "VoteVets"
+  ],
+  "Mitchell Berman": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund"
+  ],
+  "Rebecca Cooke": [
+   "Bernie Sanders (personal / Fighting Oligarchy)",
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "WelcomePAC (Win the Middle slate)"
+  ],
+  "Robert White": [
+   "Working Families Party (national + state affiliates)"
+  ]
+ },
+ "_meta": {
+  "compiled": "2026-11-11",
+  "roster_size": 93,
+  "members_with_any_endorsement": 69,
+  "members_with_none": [
+   "Juliana Stratton",
+   "Josh Turek",
+   "Adam Hamilton",
+   "Annie Andrews",
+   "Mike McGuire",
+   "Scott Wiener",
+   "Hilda Solis",
+   "Oliver Gilbert",
+   "Jasmine Clark",
+   "La Shawn Ford",
+   "Dan Koh",
+   "Micah Lasher",
+   "Cyril Jefferson",
+   "Richard Ojeda",
+   "LaKesha Womack",
+   "Don Leonard",
+   "Victoria Broderick",
+   "Leticia Gutierrez",
+   "Colin Allred",
+   "Alicia Limtiaco",
+   "Janelle Sarauw",
+   "Sherrod Brown",
+   "Mary Peltola",
+   "Scott Colom"
+  ]
+ }
+}

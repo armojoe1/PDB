@@ -1,0 +1,169 @@
+[
+ {
+  "id": "NEW-CA4",
+  "name": "Eric Jones",
+  "seat": "CA-04",
+  "call_status": "still uncalled (Dem-vs-Dem top-two general vs incumbent Mike Thompson). CA SOS districtwide report 10 Nov 2026 5:31pm: Jones 101,407 (52.1%) - Thompson 93,092 (47.9%), margin 8,315; KQED/AP page updated 11 Nov 1:08pm shows same totals with an AP estimate of ~75% of the vote counted. No AP call or Thompson concession found. Identity confirmed: Eric Jones, 35, Napa resident, ex-Dragoneer partner, FEC candidate ID H6CA04222 (not the 2022/24 Republican Jimih Jones, who also ran in the primary).",
+  "bio": {
+   "birth_year": 1990,
+   "education": "BA Yale University (full scholarship, first-generation college student)",
+   "career": "First hire and first non-founding partner at Dragoneer Investment Group in San Francisco (2013-c.2025), investing in and sitting on the boards of healthcare/fintech companies (Maven Clinic, Lyra Health, Chime, Nubank, Duolingo). Outside adviser on CMS rural senior-care pilots. Founded the American Dream Institute (501c3, 2024) and runs a family foundation in Napa.",
+   "prior_office": "none (first-time candidate)"
+  },
+  "self_description": "Calls himself 'an anti-establishment candidate and an independent politician' who is 'angry with his party'. Says he believes in 'an idealized version of the Democratic Party: one that works to maximize economic opportunity for the most people, and maximize liberty for the most people'. Explicitly says he is 'not a Democratic Socialist' and not a DSA member, and that he 'condemns communism' (ericjones.us/answers). Asked whether he is progressive or moderate, he declines the label.",
+  "primary_context": "In the 2 June 2026 top-two primary in the Prop 50-redrawn CA-4, incumbent Mike Thompson (a Blue Dog) took 40.97%, Jones 22.23% and Republican Ray Riehle 20.73%. Jones ran a generational, anti-corporate-PAC challenge on a progressive platform (Medicare for All, universal childcare, a $10k working-class tax refund) with Our Revolution backing. After the primary he pivoted to court Republicans and centrists and won Riehle's endorsement.",
+  "L": {
+   "L1": {
+    "v": 0,
+    "e": "Funds his plans by 'restoring fair corporate tax rates' and closing loopholes, but states no specific rate. No wealth tax found.",
+    "src": "https://www.ericjones.us/priorities/lower-cost-of-living"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign Q&A: 'Yes. Eric Jones supports Medicare for All... It has to be done the right way... fully paid for'. KQED voter guide: 'Jones says he supports Medicare for All.'",
+    "src": "https://www.ericjones.us/answers"
+   },
+   "L4": {
+    "v": 0,
+    "e": "Mixed evidence. He explicitly says he is 'not a Democratic Socialist' or DSA member. He also backs federal financing so towns can buy PG&E lines and run them 'as public power', which is local municipalisation, not national ownership.",
+    "src": "https://www.ericjones.us/answers"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "'Use federal powers to break up PG&E's monopoly' via antitrust; a law barring utility executive bonuses in any year rates rise faster than inflation; 'the first federal law against price gouging on power bills'; a statewide moratorium on new data centers; banning large-scale corporate ownership of single-family homes. Judgment call: the break-up targets a regulated utility monopoly, not big tech or banks.",
+    "src": "https://www.ericjones.us/answers"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0,
+    "e": "No misinformation-regulation stance found. His American Dream Institute works to 'protect and expand free speech online'.",
+    "src": "https://www.ericjones.us/meet-eric"
+   },
+   "L9": {
+    "v": 0,
+    "e": "Does not call for abolishing ICE. He would return immigration enforcement to the Justice Department ('where it lived until 2003'), require ICE body cameras and ban masks, and says 'security comes first'.",
+    "src": "https://www.kqed.org/elections/results/california/congress-4th-district"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "No Gaza genocide or embargo statement found. His platform says no military aid 'to any country without an up-or-down vote in Congress' and that 'all aid comes with conditions'. Says he is not funded by AIPAC.",
+    "src": "https://www.ericjones.us/priorities/protect-our-future"
+   }
+  },
+  "L13_endorsements": [
+   "Our Revolution"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All (the opposite of C2), alongside expanding Medicare to cover dental, vision, hearing and in-home care.",
+    "src": "https://www.ericjones.us/answers"
+   },
+   "C3": {
+    "v": 1,
+    "e": "'Balanced budget amendment in both Sacramento and Washington'; 'every new program comes with a way to pay for it... not by running up the debt'; cuts income tax on the first $150k; no wealth tax. He told Riehle he would prioritise 'fiscal discipline'. Caveat: pays for his plans by raising corporate rates to an unspecified level.",
+    "src": "https://www.ericjones.us/priorities/protect-our-future"
+   },
+   "C4": {
+    "v": 0,
+    "e": "Conflicting. He says 'a strong border and compassionate reform are not opposites... security comes first. Secure the border', but he would move ICE out of DHS, ban agents' masks and create an earned path to legal status.",
+    "src": "https://www.ericjones.us/answers"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Q&A: 'supports safe, effective policing and strong public safety'. Would go after repeat offenders and give first responders 'enough deputies to answer a call at two in the morning'. This is a website answer, not a headline theme. He also wants a moratorium on government use of Flock surveillance cameras.",
+    "src": "https://www.ericjones.us/answers"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by Republican Ray Riehle, the top GOP primary vote-getter, who launched 'Californians Against the Democratic Establishment' for him. The campaign says all his GOP and independent primary opponents and some Yuba/Sutter Republican officials also back him. He hired GOP consultant Rob Stutzman, attended Republican events, calls himself an 'independent politician' running against the 'Democratic establishment', and said he was 'ashamed' of how the party celebrated Prop 50.",
+    "src": "https://calmatters.org/politics/2026/09/california-congressional-race-thompson-jones/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-housing-supply: 'Build 2 million homes a year', 'cut red tape for local builders', 'modernize zoning' and permitting, and a National Housing Construction Bank. Caveat: elsewhere strongly anti-corporate, including a data-center moratorium.",
+    "src": "https://www.ericjones.us/priorities/lower-cost-of-living"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 2,
+   "note": "office 0: has never held office; his CMS work was as an outside adviser, not an appointee. cred 2: Yale BA plus a senior finance career (first non-founding partner at Dragoneer, a ~$24B investment firm; board seats). policy 2: 27 detailed policy pages (~50,000 words) with specific mechanisms (no income tax on the first $150k, zero-down Fannie/Freddie mortgages, a National Housing Construction Bank, a federal complaint to cut PG&E's transmission profit rate, conditions on PG&E's $15B federal loan guarantee, VA staffing minimums, named flood projects). CalMatters noted he was vague on how he would get these passed."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: Thompson's campaign says the two did 11 debates and candidate forums before the primary. Jones then challenged Thompson to nine county debates plus a televised one, and accepted a KCRA televised debate that Thompson did not take up. Jones took part in every general-election event Thompson agreed to: the Yuba-Sutter Farm Bureau forum (25 Aug) and the LWV Yolo debate-style forum aired by NorCal Public Media/PBS (15 Oct). Media: the campaign claims 100+ town halls and meet-and-greets in all nine counties. He attended Republican events (Gallagher's St. Patrick's fundraiser, the Sutter County Lincoln Dinner), gave interviews to KQED, CalMatters and CapRadio, and answered a critical Fox News Digital story. Substance: a long public Q&A answers specific attacks (self-funding, super PAC, Dragoneer holdings, data-center position). Negatives: a contested ad claiming Thompson 'plans to die in office' (seven ex-staffers called it unsubstantiated), and an NCPSSM attack over his 'sunset reviews' proposal, which he later narrowed to exempt Social Security and Medicare."
+  },
+  "fec_note": "FEC candidate summary (H6CA04222, Eric Jones for Congress C00919100), 1 Jul 2025-14 Oct 2026: total receipts $18,058,057, of which self-funding was $14.86M (candidate contributions $10,064,133 plus candidate loans $4,800,000, about 82% of receipts). Individual contributions were $3,185,821 (itemized $3,172,675; unitemized under-$200 $13,145), so the small-dollar share is 13,145/3,185,821 = 0.004 (0.4%): a self-funded, large-donor campaign. Disbursements $16.52M; cash on hand $1.54M; debts $5.88M (mostly candidate loans); no PAC money. A pro-Jones super PAC, New Leadership Now (C00900993), had raised $1.797M by 31 Mar 2026, about $1.5M of it from Elisa Stad (wife of Dragoneer founder Marc Stad). For comparison, Thompson raised $5.48M, $2.44M from PACs, with a 7.7% small-dollar share.",
+  "small_dollar_share": 0.004,
+  "outside_support": [
+   "New Leadership Now super PAC (Dragoneer-linked donors, ~$1.8M raised by Mar 2026)",
+   "Californians Against the Democratic Establishment (Ray Riehle's GOP/independent outreach project)",
+   "Our Revolution",
+   "Indivisible Yolo",
+   "Yolo County Pride Democratic Club",
+   "Center for Biological Diversity Action Fund",
+   "Pipefitters and Steamfitters union (per campaign)",
+   "Saikat Chakrabarti (ex-AOC chief of staff), Luis von Ahn (Duolingo CEO), Michael Vernal (VC) - individual backers per KQED"
+  ],
+  "notable_positions": [
+   "Supports Medicare for All 'as the goal, done the right way and fully paid for'. Would expand Medicare to dental, vision, hearing and in-home care, and make generic drugs free (https://www.ericjones.us/answers)",
+   "Would end federal income tax on the first $150,000 of income (a 'Working Class Refund'), paid for by 'restoring fair corporate tax rates' and closing loopholes, plus a balanced budget amendment (https://www.ericjones.us/priorities/lower-cost-of-living; https://www.ericjones.us/priorities/protect-our-future)",
+   "Would break up PG&E's monopoly using federal antitrust powers, expand municipal public power, and bar utility executive bonuses when rates outpace inflation (https://www.ericjones.us/answers)",
+   "Wants a moratorium on new data centers across California until national clean-power and water standards exist (https://www.ericjones.us/answers)",
+   "On immigration, says 'security comes first' but would move enforcement from DHS/ICE to DOJ, require body cameras, ban agents' masks, and create an earned path to legal status (https://www.kqed.org/elections/results/california/congress-4th-district)",
+   "Calls himself 'antiwar': no military aid to any country without an up-or-down vote in Congress, conditions on all aid. Backs a 12-year term-limit pledge, a congressional stock-trading ban, no corporate PAC money, and an end to gerrymandering (https://www.ericjones.us/priorities/protect-our-future)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Neither threshold is met: LI = 3 (Medicare for All, the PG&E break-up and other anti-corporate measures, Our Revolution) and CI = 3 (balanced budget, policing, Republican endorsements, housing supply, minus 1 for Medicare for All). EPD (4) and EO (5) are both high, so under the decision sequence this is a tie and an imperfect fit. He is placed nearer Category 1 because his primary platform and core economic agenda are left-populist and he ran against a Blue Dog incumbent. His general-election pitch, however, was anti-establishment and cross-partisan (Republican endorsements, a GOP consultant, balanced-budget and term-limit pledges), not Clinton-style centrism. The race is uncalled, and his campaign was over 80% self-funded with a negligible small-dollar share.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/4",
+   "https://www.kqed.org/elections/results/california/congress-4th-district",
+   "https://www.kqed.org/news/12107102/early-results-show-rep-mike-thompson-in-tight-race-with-challenger-eric-jones",
+   "https://www.kqed.org/news/12087322/democrat-eric-jones-set-up-for-runoff-battle-against-longtime-napa-valley-congressman",
+   "https://calmatters.org/politics/2026/09/california-congressional-race-thompson-jones/",
+   "https://www.capradio.org/articles/2026/06/01/what-to-know-about-congressional-district-4-race/",
+   "https://ourrevolution.com/eric-jones-for-ca-4/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_4",
+   "https://www.ericjones.us/answers",
+   "https://www.ericjones.us/priorities/lower-cost-of-living",
+   "https://www.ericjones.us/priorities/protect-our-future",
+   "https://www.ericjones.us/meet-eric",
+   "https://www.ericjones.us/newsroom",
+   "https://www.ericjones.us/news/riehle-endorses-jones",
+   "https://www.ericjones.us/news/kcra-debate",
+   "https://www.ericjones.us/news/eric-jones-campaign-tops-25-million-raised-with-nearly-2-million-cash-on-hand-powered-by-people-not-special-interests-y5ybz",
+   "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-announces-participation-two-debates-cd-04",
+   "https://www.pbs.org/video/candidate-forum-californias-4th-us-congressional-district-w3aukf/",
+   "https://www.gridleyherald.com/2026/07/28/578932/jones-challenges-thompson-to-debates",
+   "https://www.foxnews.com/politics/lavish-lifestyle-ultra-wealthy-dem-endorsed-top-bernie-sanders-group",
+   "https://www.ncpssm.org/documents/latest-news/ca-04-congressional-candidate-floats-proposal-that-threatens-social-security-medicare/",
+   "https://davisite.org/2026/04/25/eric-joness-close-ties-to-a-super-pac/",
+   "https://kioncentralcoast.com/news/top-stories/2026/10/29/rep-mike-thompson-faces-fellow-democrat-eric-jones-in-contentious-race-for-4th-district/",
+   "https://www.fec.gov/data/candidate/H6CA04222/?cycle=2026",
+   "https://www.fec.gov/data/candidate/H8CA01109/?cycle=2026"
+  ]
+ }
+]

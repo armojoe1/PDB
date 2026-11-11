@@ -1,0 +1,1338 @@
+[
+ {
+  "id": 11,
+  "name": "Amish Shah",
+  "seat": "AZ-1",
+  "call_status": "confirmed winner (AP called 5 Nov 2026 per States Newsroom; beat Jay Feely (R) ~52.5-45.4 on early count)",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA economics Northwestern; MD Northwestern Feinberg; MPH UC Berkeley",
+   "career": "Emergency physician (Mayo Clinic Arizona); former NY Jets team physician; ex-CMO of Urgent Consult",
+   "prior_office": "Arizona House of Representatives 2019-2024 (LD24, then LD5); 2024 Democratic nominee AZ-1 (lost to Schweikert 48.1-51.9)"
+  },
+  "self_description": "Does not use an ideological label; stresses bipartisanship: \"I'm willing to work in a bipartisan way\"; said in debate he \"believes in capitalism\" and denies being a socialist. AP/Wikipedia describe him as a moderate.",
+  "primary_context": "Won 21 Jul 2026 primary 39-34 over DCCC-backed former Republican TV journalist Marlene Galan-Woods; AP said both were moderates and race was not a progressive-vs-centrist proxy fight (anti-establishment framing: 'not exactly my party's pick').",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Backed single-payer M4A in 2019 but in 2026 campaign switched to a Medicare buy-in public option, saying a M4A transition would cause serious disruption; scored 0 as current position is public option",
+    "src": "https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": -1,
+    "e": "In 2026 general campaign said he has 'never endorsed any Green New Deal'",
+    "src": "https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "As AZ state rep voted against 2022 bills banning trans girls from female school sports and banning gender-transition surgery for minors (party-line votes; reported by Daily Wire citing AZ bill-status pages); no recent public statement found",
+    "src": "https://www.dailywire.com/news/key-house-race-features-pro-trans-doctor-pushing-universal-healthcare"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "In Oct 2026 debate said 'The Biden administration failed at the border' and agreed undocumented immigrants should not be on Medicaid; issues page pledges to stop fentanyl flow across border; voted for 2023 AZ budget with $200M border security",
+    "src": "https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Issues page pledges to 'fully fund police'; endorsed by Combined Law Enforcement Associations of Arizona and Maricopa County Sheriff's deputies association over Trump-backed Feely",
+    "src": "https://www.axios.com/local/phoenix/2026/08/24/arizona-amish-shah-second-police-endorsement-feely"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by former Republican AZ House Speaker Rusty Bowers and other Republicans; touts bipartisan record in legislature; said DCCC 'should not be interfering in competitive primaries'",
+    "src": "https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund (6 Aug 2026)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "State legislator ~5 yrs; MD + MPH, practising ER physician; issues page mostly general but some concrete items (Medicare buy-in public option, codify Roe, roll back tariffs, no tax on tips/overtime)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Did Cave Creek primary forum (May), Clean Elections primary debate (23 Jun) and the only general debate (7 Oct) with Feely; regular KJZZ/local TV interviews incl. post-election; engaged attacks directly (explained M4A shift, data-center vote)."
+  },
+  "outside_support": [
+   "DCCC Red to Blue (added late Jul 2026)",
+   "New Dem Action Fund",
+   "Human Rights Campaign PAC",
+   "Giffords",
+   "Indian American Impact",
+   "law-enforcement unions (CLEAA, MCSO deputies)"
+  ],
+  "notable_positions": [
+   "Now backs a Medicare buy-in public option rather than single-payer, citing disruption risk (https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat)",
+   "Said 'The Biden administration failed at the border'; agreed undocumented immigrants should not be on Medicaid (https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat)",
+   "Pledges to fully fund police; won two police-union endorsements over GOP opponent (https://www.amishforarizona.com/issues)",
+   "Opposes new data centers in district; wants tariffs rolled back (https://www.amishforarizona.com/issues)",
+   "Supports codifying Roe; 100% pro-choice voting record (https://www.amishforarizona.com/issues)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Credentialed (MD/MPH, state legislator) and engaged (debated in primary and general, frequent local press), with New Dem endorsement, police-union backing, Republican endorsers and a pivot from single-payer to a public option. CI of about 4 falls just short of the Cat 4 threshold while LI is ~1, so this is a step-5 'imperfect fit' nearest Cat 4; earlier Sanders-era M4A support and state trans votes add uncertainty.",
+  "sources": [
+   "https://ktar.com/arizona-politics-news/election/amish-shah-jay-feely-cd1-race-results",
+   "https://www.newsfromthestates.com/node/437060",
+   "https://wtop.com/national/2026/07/amish-shah-wins-democratic-congressional-primary-in-arizona-a-blow-to-the-party-establishment/",
+   "https://www.azfamily.com/2026/10/07/feely-shah-meet-high-stakes-debate-competitive-house-race/",
+   "https://ktar.com/arizona-politics-news/election/amish-shah-jay-feely-debate",
+   "https://www.kjzz.org/elections/2026-10-20/arizona-cd1-voters-to-decide-maga-republican-or-democrat",
+   "https://www.kjzz.org/the-show/2026-11-09/az-cd1-congressman-elect-amish-shah-says-he-will-focus-on-everyday-concerns-like-gas-and-healthcare",
+   "https://www.amishforarizona.com/issues",
+   "https://en.wikipedia.org/wiki/Amish_Shah",
+   "https://www.newdemactionfund.com/news/new-dems-endorse-shah-in-az-01-hines-in-mi-10",
+   "https://dccc.org/amish-shah-added-to-dcccs-coveted-red-to-blue-program",
+   "https://www.axios.com/local/phoenix/2026/08/24/arizona-amish-shah-second-police-endorsement-feely",
+   "https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-dr-amish-shah-for-arizonas-first-district",
+   "https://giffords.org/candidates/amish-shah-2/",
+   "https://www.dailywire.com/news/key-house-race-features-pro-trans-doctor-pushing-universal-healthcare"
+  ]
+ },
+ {
+  "id": 12,
+  "name": "JoAnna Mendoza",
+  "seat": "AZ-6",
+  "call_status": "confirmed winner (AP called 5 Nov 2026; ~53.0-44.9 over incumbent Juan Ciscomani (R))",
+  "bio": {
+   "birth_year": null,
+   "education": "MS Leadership, Grand Canyon University (per EMILY's List / personal site); certificates Georgetown, Univ. of Richmond",
+   "career": "20-year military career (US Navy 1994-97, US Marine Corps 1998-2016, retired gunnery sergeant/drill instructor; Iraq & Afghanistan); later military leadership training and veterans' advocacy",
+   "prior_office": "none (lost 2020 race for Arizona State Senate LD11 to Vince Leach, 46-54)"
+  },
+  "self_description": "Frames herself non-ideologically as a 'servant leader' and retired Marine who 'will work with anyone – Democrat, Republican, or Independent'; 'JoAnna isn't a politician'.",
+  "primary_context": "Won 21 Jul 2026 Democratic primary as clear frontrunner over a field of little-known candidates (Becerra, Bellows, Donat, Longoria, Olivas, Reid, Rodriguez, Stanhibel); no ideological contest reported.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Campaign: 'she has repeatedly stated that she does not support defunding the police'; issues page: 'does not support slashing police budgets' (note: in 2020 she backed 'reallocation of funding' to social services when asked about defunding, and later deleted 2020 posts on policing)",
+    "src": "https://www.foxnews.com/politics/unearthed-video-shows-dem-candidate-supporting-reallocation-police-funding-social-service-programs.print"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Issues plank 'Safe Communities, Strong Borders': strengthen border security at ports of entry, deport violent criminals, hold cartels accountable; national-security page says security 'starts in Arizona's backyard by securing our Southern border' (also backs pathway to citizenship and ICE excessive-force limits)",
+    "src": "https://www.joannamendoza.com/issues/police-border-immigration/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Issues page: 'supports funding for law enforcement' incl. training and body cameras, 'does not support slashing police budgets'; campaign says police need 'MORE resources'",
+    "src": "https://www.joannamendoza.com/issues/police-border-immigration/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior elected office (lost 2020 state senate race); senior enlisted (E-7) rather than O-5/O-6; master's in leadership from Grand Canyon Univ. not a strong professional programme; issues pages contain some concrete items (congressional stock-trading ban, Stop Excessive Force in Immigration Act, 5-year Farm Bill, expand Medicare drug negotiation, Major Richard Star Act)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the only general-election debate (Clean Elections, 10 Sep 2026); no record of a second debate offered/declined. Media mostly local TV, PBS and friendly national (MS NOW); campaign did not respond to Arizona Republic on deleted posts. Engaged on tariffs/OBBB substance in debate; pledges town halls."
+  },
+  "outside_support": [
+   "Blue Dog PAC",
+   "EMILY's List",
+   "VoteVets",
+   "BOLD PAC",
+   "J Street PAC",
+   "JDCA PAC",
+   "End Citizens United",
+   "Brady PAC",
+   "Giffords PAC",
+   "AFGE",
+   "Foreign Policy for America",
+   "New Politics",
+   "LGBTQ+ Victory Fund",
+   "Reproductive Freedom for All",
+   "DCCC Red to Blue (race listed as Red to Blue)"
+  ],
+  "notable_positions": [
+   "Campaigns on 'Strong Borders' – port-of-entry security, deporting violent criminals – alongside a pathway to citizenship (https://www.joannamendoza.com/issues/police-border-immigration/)",
+   "Funds police, opposes slashing police budgets; disavows 'defund' despite 2020 'reallocation' remarks (https://www.foxnews.com/politics/unearthed-video-shows-dem-candidate-supporting-reallocation-police-funding-social-service-programs.print)",
+   "Reverse OBBB Medicaid/AHCCCS cuts, restore enhanced ACA subsidies, expand Medicare negotiation; opposes Medicare privatisation (https://www.joannamendoza.com/issues/healthcare/)",
+   "Opposes 'reckless tariffs'; ban on congressional stock trading (https://www.joannamendoza.com/issues/mendoza-lower-costs-and-protecting-seniors/)",
+   "Wants congressional approval before new troop deployments; opposes another prolonged Middle East conflict (https://www.joannamendoza.com/issues/national-security/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "First-time officeholder with no prior elected office and a thin policy record; positions track mainstream/moderate Democratic messaging (Blue Dog endorsement, police funding, border-security plank) without enough markers to reach the Cat 4 threshold (CI ~4). EPD ~2 places her in Cat 2; small-dollar share (0.42) is high, consistent with base-funded campaign.",
+  "sources": [
+   "https://www.kold.com/2026/11/05/update-joanna-mendoza-defeats-republican-incumbent-juan-ciscomani-cd6-race/",
+   "https://www.kold.com/2026/09/11/ciscomani-mendoza-clash-first-cd6-debate/",
+   "https://www.tucsonspotlight.org/marine-vet-joanna-mendoza-challenges-ciscomani-in-az-6/",
+   "https://www.joannamendoza.com/issues/",
+   "https://www.joannamendoza.com/issues/police-border-immigration/",
+   "https://www.joannamendoza.com/issues/healthcare/",
+   "https://www.joannamendoza.com/issues/mendoza-lower-costs-and-protecting-seniors/",
+   "https://www.joannamendoza.com/issues/national-security/",
+   "https://www.joannamendoza.com/issues/oversight-corruption/",
+   "https://www.joannamendoza.com/endorsements/",
+   "https://www.foxnews.com/politics/unearthed-video-shows-dem-candidate-supporting-reallocation-police-funding-social-service-programs.print",
+   "https://arizonaglobe.com/election/breaking-mendozas-past-anti-police-comments-resurface-in-buried-video/amp/",
+   "https://californiaglobe.com/fr/az-democrat-mendoza-scrubbed-social-media-on-policing-racism-and-lgbtq-issues-before-congressional-run/",
+   "https://bluedogdems.com/blue-dog-pac-endorses-six-new-candidates-built-to-win-in-competitive-districts/",
+   "https://bluedogdems.com/joanna-mendoza/",
+   "https://emilyslist.org/candidate/joanna-mendoza/",
+   "https://jstreetpac.org/candidate/joanna-mendoza/",
+   "https://www.kold.com/2026/10/30/tucson-now-joanna-mendozas-plan-az-congressional-district-6/",
+   "https://ballotpedia.org/JoAnna_Mendoza"
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Mike McGuire",
+  "seat": "CA-1",
+  "call_status": "confirmed winner (CBS/AP projected; Wikipedia: 56.4-43.6 over Rep. James Gallagher (R) at 69% reporting)",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA political science, Sonoma State University",
+   "career": "Career local/state politician from a Healdsburg grape-and-prune farming family",
+   "prior_office": "Healdsburg School Board (1998); Healdsburg City Council/mayor (2004-10); Sonoma County Supervisor (2011-14); CA State Senate 2014-present (Majority Leader 2022-24, President pro Tem Feb 2024-Nov 2025); lost Jun 2026 CA-1 special election (old lines) to Gallagher"
+  },
+  "self_description": "\"In rural Northern California, we've shown that you can be bold, you can be progressive and you can win\" (CPC PAC release); calls himself \"one of the few rural Democrats in the state of California.\"",
+  "primary_context": "Top-two primary (2 Jun 2026): Gallagher (R) 42.2%, McGuire 41.8%, Audrey Denney (D) 14.2%. McGuire was the establishment/labor choice (Pelosi, Schiff, Padilla, Newsom, CDP); Denney was backed by Our Revolution, PDA, EMILY's List; DSA-aligned Kyle Wilson withdrew and endorsed Denney.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign site: 'In Congress, I'll fight to pass Medicare for All, guaranteeing healthcare to every American — full stop... no more tying your healthcare to your job'; endorsed by National Nurses United on M4A pledge",
+    "src": "https://www.votemikemcguire.com/issues/healthcare"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC (Jun/Jul 2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "State Senate leader (pro tem) and ex-county supervisor/mayor (state legislature tier, not statewide office); BA only; long authored record (SB 643 medical-cannabis regulation, SB 27 tax-return disclosure, statewide emergency-alert law, Great Redwood Trail)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No record found of general-election debates with Gallagher (searches unavailable; scored neutral, unverified). Campaign emphasises door-knocking/'earn every vote'; issue pages contain concrete pledges (ICE body cameras, judicial warrants, liability)."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus PAC",
+   "National Nurses United",
+   "SEIU California / SEIU-UHW",
+   "California Labor Federation",
+   "National Union of Healthcare Workers",
+   "California Environmental Voters",
+   "Center for Biological Diversity Action Fund",
+   "J Street PAC",
+   "California Democratic Party",
+   "Sierra Club / LCV / NRDC (per campaign)"
+  ],
+  "notable_positions": [
+   "Pledges to 'pass Medicare for All' ending job-based insurance (https://www.votemikemcguire.com/issues/healthcare)",
+   "Hold ICE accountable: mandatory body cameras, liability for constitutional violations, judicial warrants; authored CA ICE mask/school/church/hospital limits (https://www.votemikemcguire.com/issues/holdingiceaccountable)",
+   "'Make billionaires pay their fair share'; repeal tax cuts for the wealthy (generic) (https://www.cbsnews.com/sacramento/news/california-congressional-district-1-james-gallagher-mike-mcguire/)",
+   "Opposes offshore oil drilling; 'bold climate action' (https://www.votemikemcguire.com/issues/fighting-for-climate-action-and-wildfire-safety)",
+   "Calls Iran conflict an 'illegal war of choice' (https://www.votemikemcguire.com/issues/power-abroad)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Veteran state legislative leader with an authored record (EPD ~5) who ran explicitly on Medicare for All with CPC PAC and nurses-union backing, but other left markers (wealth tax, abolish ICE, Gaza, court expansion) were not found, so LI is only ~2 and CI ~0. Falls to the step-5 'imperfect fit', nearest Cat 1 by LI>CI; debate/media record could not be verified.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mike_McGuire_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://www.cbsnews.com/sacramento/news/california-congressional-district-1-james-gallagher-mike-mcguire/",
+   "https://www.yahoo.com/news/politics/articles/james-gallagher-faces-tough-reelection-140000193.html",
+   "https://www.pressdemocrat.com/2025/11/13/i-want-to-earn-every-vote-mike-mcguire-announces-run-for-congress-in-redrawn-north-coast-district/",
+   "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-mike-mcguire-for-ca-01/",
+   "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-mike-mcguire-for-californias-1st-district",
+   "https://www.votemikemcguire.com/issues/healthcare",
+   "https://www.votemikemcguire.com/issues/holdingiceaccountable",
+   "https://www.votemikemcguire.com/issues/fighting-for-climate-action-and-wildfire-safety",
+   "https://www.votemikemcguire.com/issues/power-abroad"
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Richard Pan",
+  "seat": "CA-6",
+  "call_status": "confirmed winner (AP 4 Nov 2026; Wikipedia 58.6-41.4 over Rep. Kevin Kiley, who ran as an independent/NPP, at 63% reporting)",
+  "bio": {
+   "birth_year": 1965,
+   "education": "BS Johns Hopkins; MD Univ. of Pittsburgh; MPH Harvard",
+   "career": "Pediatrician; UC Davis professor/pediatric residency director; small-business co-owner",
+   "prior_office": "CA State Assembly 2010-14; CA State Senate 2014-22; 3rd place Sacramento mayoral primary 2024"
+  },
+  "self_description": "Presents himself as a doctor and 'public health advocate' running 'to fight Trump and Robert F. Kennedy Jr.'s attack on healthcare and science'; no ideological label found.",
+  "primary_context": "Top-two primary (Jun 2026): incumbent Kiley (NPP) first, Pan second (23%) ahead of Democrats Lauren Babb Tomlinson (CPC PAC, Leaders We Deserve, EMILY's List), Sacramento DA Thien Ho (Blue Dog PAC) and West Sacramento mayor Martha Guerrero; Pan was the labor/CDP-aligned candidate between the progressive and Blue Dog lanes.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Campaign site: 'Trump's ICE must be overhauled and replaced with an agency that doesn't kill Americans and separate families' (replacement of ICE as an agency; not framed as 'abolish')",
+    "src": "http://drrichardpan.com"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "12 years in CA legislature; MD + Harvard MPH, academic pediatrician; authored SB 277 (ended non-medical school vaccine exemptions), SB 742, newborn-screening and Medi-Cal laws; platform includes concrete items (universal background checks, assault-weapons ban, codify Roe, insulin cost cuts)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No debate record with Kiley found (search budget exhausted; scored neutral, unverified). Media visible mostly via campaign-curated press (Sacramento Bee, Center Square); issue positions stated concretely."
+  },
+  "outside_support": [
+   "DCCC Red to Blue (10 Jun 2026)",
+   "California Democratic Party",
+   "SEIU California / SEIU-UHW",
+   "AFSCME California",
+   "California Labor Federation",
+   "United Nurses Associations of California",
+   "National Union of Healthcare Workers",
+   "314 Action",
+   "J Street PAC",
+   "ASPIRE PAC / AAPI Victory Fund",
+   "Kamala Harris",
+   "Xavier Becerra"
+  ],
+  "notable_positions": [
+   "Replace ICE with a new agency that 'enforces the law fairly'; pathway to citizenship (http://drrichardpan.com)",
+   "Stop Trump from gutting the ACA, protect Medicare, curb insurer care denials, lower drug prices (http://drrichardpan.com)",
+   "Universal background checks and assault-weapons ban (http://drrichardpan.com)",
+   "End Trump tariffs; reduce red tape for small businesses (http://drrichardpan.com)",
+   "Science-based vaccine policy against RFK Jr.; authored CA SB 277 (https://en.wikipedia.org/wiki/Richard_Pan)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Highly credentialed physician-legislator with a substantial authored record (EPD ~6); platform is mainstream Democratic health/science-focused with one left marker (replacing ICE) and no centrist markers found, giving LI ~1 vs CI 0. Step-5 'imperfect fit' nearest Cat 1 only marginally; could equally be read as a mainstream technocrat, and debate/media engagement is unverified.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richard_Pan",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "http://drrichardpan.com",
+   "https://drpanforcongress.com/news",
+   "https://drpanforcongress.com/endorsements",
+   "https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)"
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Scott Wiener",
+  "seat": "CA-11",
+  "call_status": "confirmed winner (Connie Chan (D) conceded 4 Nov 2026; Wiener 55.5-44.5 in latest tally)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA Duke; JD Harvard Law School",
+   "career": "Litigation attorney (Heller Ehrman); SF deputy city attorney; LGBTQ rights advocate; chair SF Democratic County Central Committee",
+   "prior_office": "SF Board of Supervisors 2011-16; CA State Senate 2016-present (Senate Budget Chair); SF Democratic Party chair"
+  },
+  "self_description": "No single label found; campaign brands him a YIMBY/housing leader and fighter against Trump/'MAGA'; opponent Chan called him 'a corporate Democrat'.",
+  "primary_context": "Top-two primary 2 Jun 2026 finished first; general was D-vs-D against Supervisor Connie Chan, backed by Pelosi, labor, WFP, Our Revolution, PDA, Jayapal/Khanna and eliminated Justice Democrats/Sunrise candidate Saikat Chakrabarti. Race framed as pro-growth/YIMBY Wiener vs. labor-left, development-sceptic Chan.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Priorities page: 'We need Medicare for All'; healthcare page pledges to 'Pass Medicare for All' and says he has 'consistently championed single-payer health care'",
+    "src": "https://scottwiener.com/healthcare"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Housing plan: 'Create a Mixed-Income Social Housing Program to build 4 million homes' as a 'generational investment in social housing'; also authoring legislation to let SF 'break up with PG&E and form its own public utility'",
+    "src": "https://scottwiener.com/housing"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Campaign climate page: 'He also authored a bill to ban fracking in California'",
+    "src": "https://scottwiener.com/climate"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 1,
+    "e": "Tech page: 'Combat AI-powered misinformation and deepfakes with enforceable federal standards' (disclosure-focused regulation of AI-generated disinformation)",
+    "src": "https://scottwiener.com/tech-policy"
+   },
+   "L9": {
+    "v": 1,
+    "e": "Immigration page: 'In Congress, Scott will work to... Abolish ICE'; 'Since 2018, Scott has supported abolishing ICE'",
+    "src": "https://scottwiener.com/immigration-fighting-ice"
+   },
+   "L10": {
+    "v": 1,
+    "e": "Democracy page: 'Expand the Supreme Court to take back control of one of our most important institutions from far-right ideologues'",
+    "src": "https://scottwiener.com/defending-democracy"
+   },
+   "L11": {
+    "v": 1,
+    "e": "Democracy page: 'Grant statehood to Washington D.C. and Puerto Rico'",
+    "src": "https://scottwiener.com/defending-democracy"
+   },
+   "L12": {
+    "v": 1,
+    "e": "Said 11 Jan 2026 he views the Netanyahu government's actions in Gaza as genocide (resigned as Jewish Caucus co-chair after); campaign: 'declare the Netanyahu government has committed genocide in Gaza', opposes offensive arms sales to an Israeli government 'not committed to peace' (but backs defensive systems); took Reject AIPAC pledge",
+    "src": "https://scottwiener.com/foreign-policy"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Public-safety page: ensure cities have federal funds 'to assist with fully staffed police departments AND increased crisis and mental healthcare'",
+    "src": "https://scottwiener.com/public-safety"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Leading YIMBY/'abundance' legislator (SB 79, SB 9/10); pledges 8 million new homes, permitting reform and cutting red tape; backed by pro-growth PACs Abundant Future/Grow USA, GrowSF, Garry Tan",
+    "src": "https://prospect.org/2026/09/28/california-house-districts-where-democrats-are-still-fighting-each-other/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "State Senator ~10 yrs + SF supervisor; Harvard JD; very detailed platform with numbers/bill names and large authored record (SB 79, SB 1047, SB 53, SB 627 No Secret Police Act, SB 822 net neutrality)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate count vs Chan not verified (scored neutral). Highly visible in press and engages critics (met Jewish community after genocide statement; spoke publicly on Trans March heckling); but campaign ran an AI chatbot mocking Chan's accent, later removed."
+  },
+  "outside_support": [
+   "Abundant Future / Grow USA (>$1M)",
+   "GrowSF",
+   "J Street PAC",
+   "JDCA",
+   "Public First Action",
+   "Democrats for Education Reform",
+   "HRC / Equality PAC / LGBTQ Victory Fund",
+   "California Democratic Party",
+   "NUHW, IUOE Local 3, UFCW Western States (SEIU endorsements rescinded)"
+  ],
+  "notable_positions": [
+   "Medicare for All / single payer (https://scottwiener.com/healthcare)",
+   "Abolish ICE; ban agent masks; let people sue federal agents (https://scottwiener.com/immigration-fighting-ice)",
+   "Netanyahu government 'committed genocide in Gaza'; no offensive arms to Israel; Reject AIPAC pledge (https://scottwiener.com/foreign-policy)",
+   "Expand the Supreme Court; DC and Puerto Rico statehood; end filibuster (https://scottwiener.com/defending-democracy)",
+   "4-million-home federal social housing program plus YIMBY permitting reform (https://scottwiener.com/housing)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Platform explicitly backs Medicare for All, abolishing ICE, Supreme Court expansion, DC/PR statehood, national social housing and a Gaza 'genocide' characterisation, giving LI well above 6 even excluding borderline markers. He coexists with pro-growth/abundance positions and a business-heavy donor base (small-dollar share 0.04) and beat a labor-left opponent, so the left classification rests on stated positions rather than movement alignment.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scott_Wiener",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://sfstandard.com/2026/11/04/wiener-wins-connie-chan-concedes-congressional-race-succeed-pelosi/",
+   "https://sfstandard.com/2026/01/22/scott-wiener-jewish-caucus-gaza-israel-resigns/",
+   "https://prospect.org/2026/09/28/california-house-districts-where-democrats-are-still-fighting-each-other/",
+   "https://scottwiener.com/priorities",
+   "https://scottwiener.com/healthcare",
+   "https://scottwiener.com/housing",
+   "https://scottwiener.com/climate",
+   "https://scottwiener.com/tech-policy",
+   "https://scottwiener.com/immigration-fighting-ice",
+   "https://scottwiener.com/defending-democracy",
+   "https://scottwiener.com/foreign-policy",
+   "https://scottwiener.com/public-safety"
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Randy Villegas",
+  "seat": "CA-22",
+  "call_status": "confirmed winner (defeated Rep. David Valadao (R); Wikipedia/NYT results, 68.1-31.9 at 71% reporting)",
+  "bio": {
+   "birth_year": 1994,
+   "education": "AA Bakersfield College; BA CSU Bakersfield; MA and PhD in politics, UC Santa Cruz",
+   "career": "Political science professor, College of the Sequoias; co-owner of family auto-body shop; former journalist/community organizer",
+   "prior_office": "Visalia Unified School District board trustee (appointed 2021, elected 2022)"
+  },
+  "self_description": "Calls himself a 'populist' and rejects the socialist label (The Intercept); campaign ads bill him as a 'Populist Democrat'; AP called him a 'populist insurgent'.",
+  "primary_context": "Top-two primary Jun 2026: Valadao 40.7, Villegas 32.4, Assemblymember Jasmeet Bains 26.9. Bains was backed by the DCCC, Blue Dog PAC, New Dem Action Fund, WelcomePAC and DMFI (DMFI spent >$500k against Villegas); Villegas ran as the progressive anti-establishment candidate backed by Sanders, AOC, CPC and WFP.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign issues page: 'I believe healthcare is a human right, and am a strong supporter of Medicare for All'; 'Any Medicare for All bill I sign will include Dental and Vision'",
+    "src": "https://www.villegasforcongress.com/issues/healthcare"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Pledges to 'cap the price of medical procedures and prescription drugs across the board' (federal price caps) and says 'No corporations should be allowed to become large enough to control an entire sector'",
+    "src": "https://www.villegasforcongress.com/issues"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Opposes abolishing ICE; backs reforms instead (prosecuting unlawful ICE conduct, banning private detention) and a 'secure border'",
+    "src": "https://theintercept.com/2026/11/04/villegas-valadao-california-election-ice/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "The Intercept reports he ran on halting the flow of U.S. weapons to Israel (secondary source; his own wording not captured)",
+    "src": "https://theintercept.com/2026/11/04/villegas-valadao-california-election-ice/"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders",
+   "Alexandria Ocasio-Cortez",
+   "California Working Families Party",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "Progressive Change Campaign Committee",
+   "Leaders We Deserve"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 1,
+   "cred": 2,
+   "policy": 1,
+   "note": "School-board trustee only; PhD (UC Santa Cruz) and community-college professor; platform has concrete planks (M4A incl. dental/vision, drug/procedure price caps, raise the minimum wage, one-year data-center moratorium, suspend federal gas tax) but no authored legislative record."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Challenged Valadao to three debates and primary rivals to a televised debate; debated Valadao 6 Oct 2026; ran a district town-hall tour incl. 'Guaranteed Healthcare Town Hall'; one-on-one interviews with KGET and KVPR; engaged opponents on Medicaid/tariff/Iran votes."
+  },
+  "outside_support": [
+   "Bernie Sanders (campaigned Sept 2026)",
+   "Congressional Progressive Caucus PAC",
+   "California WFP",
+   "Leaders We Deserve",
+   "Our Revolution",
+   "PCCC",
+   "Indivisible",
+   "National Nurses United",
+   "UAW",
+   "CTA/NEA",
+   "BOLD PAC",
+   "Latino Victory Fund",
+   "End Citizens United",
+   "Patriotic Millionaires",
+   "DCCC Red to Blue (post-primary, Sept 2026)",
+   "SEIU California (general)",
+   "opposed in primary by DMFI (>$500k)"
+  ],
+  "notable_positions": [
+   "Strong supporter of Medicare for All, incl. dental and vision (https://www.villegasforcongress.com/issues/healthcare)",
+   "Cap prices of prescription drugs and medical procedures 'across the board' (https://www.villegasforcongress.com/issues)",
+   "Tax 'the top 1% of income earners and wealth holders'; break up monopolies (https://www.villegasforcongress.com/issues)",
+   "Opposes abolishing ICE but wants it reformed and unlawful conduct prosecuted (https://theintercept.com/2026/11/04/villegas-valadao-california-election-ice/)",
+   "One-year moratorium on new data centers (https://en.wikipedia.org/wiki/Randy_Villegas)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Ran explicitly as a Sanders/AOC-backed populist with Medicare for All, across-the-board health price caps and (per The Intercept) a halt to weapons for Israel, plus maximum left-movement endorsement points, giving LI ~6. He rejects the socialist label and opposes abolishing ICE, so the left score rests partly on endorsements; he is highly engaged (debates, town halls), so even without the Gaza marker he would land nearest Cat 1.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Randy_Villegas",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://www.villegasforcongress.com/issues",
+   "https://www.villegasforcongress.com/issues/healthcare",
+   "https://www.villegasforcongress.com/news/randy-villegas-wins-ca-22-debate-holds-david-valadao-accountable-for-career-of-selling-out-valley",
+   "https://theintercept.com/2026/11/04/villegas-valadao-california-election-ice/",
+   "https://jacobin.com/2026/05/israel-democrats-money-california-primary",
+   "https://www.nbcnews.com/politics/2026-election/bernie-sanders-endorses-randy-villegas-wading-democratic-fight-key-hou-rcna244291"
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Jacqui Irwin",
+  "seat": "CA-26",
+  "call_status": "confirmed winner (Wikipedia: 62.1-37.9 over Sam Gallucci (R) at 77% reporting; open seat after Julia Brownley (D) retired)",
+  "bio": {
+   "birth_year": 1962,
+   "education": "BS systems engineering, UC San Diego",
+   "career": "Systems engineer (Johns Hopkins Applied Physics Lab, Teledyne)",
+   "prior_office": "Thousand Oaks Planning Commission (2003); Thousand Oaks City Council 2004-14 incl. two terms as mayor; CA State Assembly 2014-present (chair Revenue & Taxation; chair Select Committee on Cybersecurity; ex-chair Military & Veterans Affairs)"
+  },
+  "self_description": "\"Works across party lines to help create jobs, balance our local and state budgets, and... keep our communities safe\"; running to fight 'Trump's assault on our democracy' while 'prioritizing public safety, affordability'. No ideological label found.",
+  "primary_context": "Top-two primary 2 Jun 2026 (41.3%) with Republican pastor Sam Gallucci; eliminated progressive Chris Espinosa (ex-Grijalva staffer; PDA, CBD Action Fund, Climate Hawks) and others. Irwin was the CDP/Newsom/Brownley establishment pick.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "12 years in CA Assembly plus mayor of Thousand Oaks (~125k); BS engineering with mid-level technical career; substantial authored record (IoT security law, gun-violence restraining orders, community-college remediation reform AB 705-era, food date labels AB 660, recycled-content mandate)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 0,
+   "note": "Debate record vs Gallucci not found (search budget exhausted; scored neutral, unverified). Campaign website has no issues/policy page at all — only bio and endorsements — and no stated positions on contested national issues were found; substance scored 0 on that basis (weak evidence)."
+  },
+  "outside_support": [
+   "California Democratic Party",
+   "Gov. Gavin Newsom",
+   "SEIU California / SEIU-UHW",
+   "California Labor Federation",
+   "National Union of Healthcare Workers",
+   "California Environmental Voters",
+   "314 Action Fund",
+   "Giffords",
+   "Elect Democratic Women"
+  ],
+  "notable_positions": [
+   "Campaign focus: 'public safety, affordability' and fighting Trump's 'assault on our democracy' (http://www.jacquiirwin.com/)",
+   "Touts working 'across party lines' and balancing local/state budgets (https://jacquiirwin.com/about-jacqui)",
+   "Authored CA gun-violence restraining-order expansion after Borderline shooting (https://en.wikipedia.org/wiki/Jacqui_Irwin)",
+   "Cybersecurity/tech-privacy focus; pushed AI training-data disclosure (https://en.wikipedia.org/wiki/Jacqui_Irwin)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "Experienced legislator with an authored record (EPD ~5) but a campaign that published no federal policy platform; no left or centrist markers were found (LI 0, CI 0). On the rubric this falls to Cat 3 only because engagement could not be evidenced (EO ~2 with debate record unverified), so the call is weak and should be revisited if debate/interview evidence emerges. Small-dollar share is very low (0.03) and PAC share high (0.26).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacqui_Irwin",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "http://www.jacquiirwin.com/",
+   "https://jacquiirwin.com/about-jacqui",
+   "https://jacquiirwin.com/endorsements2026",
+   "https://keyt.com/news/ventura-county/2026/01/08/assemblymember-jacqui-irwin-announces-congressional-campaign-thursday/"
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Angela Gonzales-Torres",
+  "seat": "CA-34",
+  "call_status": "confirmed winner (defeated Rep. Jimmy Gomez (D) in D-vs-D general per Wikipedia; campaign site styles her 'Congresswoman-elect'; margin not captured)",
+  "bio": {
+   "birth_year": 1994,
+   "education": "BA Chicano studies & anthropology, UCLA (attended Pasadena City College)",
+   "career": "Academic counselor in Pasadena City College's formerly-incarcerated student programme (CORTE); programme director at an Altadena affordable-housing project; tenant organizer",
+   "prior_office": "President, Historic Highland Park Neighborhood Council (2023-25)"
+  },
+  "self_description": "Self-identifies as a democratic socialist and DSA member (CBS News interview); frames race as 'working class vs. the political establishment'; inspired by Zohran Mamdani.",
+  "primary_context": "Top-two primary 2 Jun 2026: Gomez 46.0, Gonzales-Torres 30.7; D-vs-D general. She challenged CPC-member Gomez from the left over AIPAC/crypto money and his ICE-raid response; Gomez later faced a House Ethics sexual-misconduct inquiry and she called on him to withdraw.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Issues page: 'Angela will co-sponsor Medicare for All, cancel medical debt, break up the healthcare monopolies'",
+    "src": "https://angela4congress.com/issues"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Identifies as a democratic socialist and is a DSA member; endorsed by Los Angeles DSA",
+    "src": "https://www.youtube.com/watch?v=jqTBz9GfnsM"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Supports a Green New Deal (OC Register primary questionnaire / The Occidental, as summarised by Wikipedia)",
+    "src": "https://www.theoccidentalnews.com/community/2026/03/04/three-ca-34-contenders-share-campaign-priorities/2916977"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Issues page: fighting 'for a Guaranteed Basic Income pilot'; pledges to 'break up the healthcare monopolies'",
+    "src": "https://angela4congress.com/issues"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Issues page: 'She'll fight to abolish ICE'; homepage slogan 'Abolish ICE'",
+    "src": "https://angela4congress.com/issues"
+   },
+   "L10": {
+    "v": 1,
+    "e": "Issues page: 'Angela supports expanding the Court, imposing term limits, and requiring a binding ethics code'",
+    "src": "https://angela4congress.com/issues"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Issues page: 'refuses to let AIPAC buy her silence on the genocide in Gaza, will fight for an arms embargo and ceasefire'",
+    "src": "https://angela4congress.com/issues"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "Los Angeles DSA",
+   "California Working Families Party",
+   "Our Revolution",
+   "Leaders We Deserve"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Would not commit to backing Hakeem Jeffries: 'Hakeem Jeffries and the broader Democratic establishment leadership are not learning these lessons... we should be open and welcoming of new leadership' (independence from party leadership, from the left)",
+    "src": "https://angela4congress.com/issues"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 1,
+   "note": "Only prior post is neighborhood-council president; BA; platform lists concrete planks (co-sponsor M4A, GBI pilot, gig-worker bargaining, Court expansion, data-center moratorium, abolish super PACs) but no legislative record."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate record vs Gomez not verified (scored neutral). Did a CBS News interview and wide progressive-media coverage; ran Know-Your-Rights sessions in district; engaged Gomez on specific votes/funding (AIPAC, crypto, Block the Bombs)."
+  },
+  "outside_support": [
+   "Justice Democrats",
+   "Los Angeles DSA",
+   "California WFP",
+   "Our Revolution",
+   "Leaders We Deserve",
+   "Track AIPAC",
+   "IfNotNow LA",
+   "CAIR Action",
+   "Peace Action",
+   "Jane Fonda Climate PAC",
+   "National Union of Healthcare Workers",
+   "Ro Khanna"
+  ],
+  "notable_positions": [
+   "Democratic socialist/DSA member (https://www.youtube.com/watch?v=jqTBz9GfnsM)",
+   "Co-sponsor Medicare for All; cancel medical debt (https://angela4congress.com/issues)",
+   "Abolish ICE; pathway to citizenship (https://angela4congress.com/issues)",
+   "Calls Gaza a genocide; arms embargo on Israel; rejects AIPAC money (https://angela4congress.com/issues)",
+   "Expand the Supreme Court; 'billionaire tax'; Guaranteed Basic Income pilot (https://angela4congress.com/issues)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "A DSA member and self-described democratic socialist backed by Justice Democrats, DSA and WFP, whose platform explicitly includes Medicare for All, abolishing ICE, Court expansion, a Gaza 'genocide' framing with an arms embargo, and a basic-income pilot. LI is far above the Cat 1 threshold (~10); her lone 'centrist' marker (non-commitment to Jeffries) is a left-flank critique.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://angela4congress.com/",
+   "https://angela4congress.com/issues",
+   "https://www.youtube.com/watch?v=jqTBz9GfnsM",
+   "https://www.theoccidentalnews.com/community/2026/03/04/three-ca-34-contenders-share-campaign-priorities/2916977",
+   "https://prospect.org/2026/09/28/california-house-districts-where-democrats-are-still-fighting-each-other/",
+   "https://theintercept.com/2025/09/04/aipac-la-jimmy-gomez-primary-gonzales-torres/",
+   "https://ourrevolution.com/angela-gonzales-torres-for-congress-ca-34/"
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Hilda Solis",
+  "seat": "CA-38",
+  "call_status": "confirmed winner (new seat; Wikipedia: 67.5-32.5 over Pedro Antonio Casas (R) at 96% reporting)",
+  "bio": {
+   "birth_year": 1957,
+   "education": "BA political science, Cal Poly Pomona; MPA, University of Southern California",
+   "career": "Career public official; early federal agency staff; Obama-era Secretary of Labor",
+   "prior_office": "Rio Hondo CC board (1985); CA Assembly 1992-94; CA Senate 1994-2000; US House 2001-09 (CPC member); US Secretary of Labor 2009-13; LA County Supervisor 2014-present (board chair)"
+  },
+  "self_description": "\"Champion for the People\" fighting Trump's assault on workers, immigrants and democracy; historically a Congressional Progressive Caucus member with a 99% ADA lifetime rating.",
+  "primary_context": "Top-two primary Jun 2026 with Republican Pedro Casas; defeated Pico Rivera mayor pro tem Monica Sánchez (backed by Rep. Linda Sánchez, Barragán, Torres) and councilor Erik Lutz; no ideological contest reported — framed around establishment/regional loyalties.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former member of Congress and cabinet secretary; MPA (USC) and senior federal executive career; long authored record (CA environmental-justice law, minimum-wage ballot initiative, Green Jobs work, LA County Measure H)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 0,
+   "note": "No 2026 debate record found (safe seat; search budget exhausted; scored neutral, unverified). 2026 campaign site is essentially her county-supervisor page with generic priorities and no stated positions on contested federal issues; substance scored 0 on that basis (weak evidence). Historically, at her 2009 confirmation she declined to discuss specific policy issues."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus PAC",
+   "California Democratic Party",
+   "SEIU California / SEIU-UHW",
+   "California Labor Federation",
+   "National Union of Healthcare Workers",
+   "California Environmental Voters",
+   "PODER PAC",
+   "Nancy Pelosi",
+   "Karen Bass",
+   "Pramila Jayapal / Greg Casar / Maxwell Frost"
+  ],
+  "notable_positions": [
+   "Fight Trump attacks on workers, immigrants, ACA and Medicaid/Medi-Cal (https://www.hildasolis.com/)",
+   "Public safety: 'shift the focus from punishment and incarceration to support and resources' (https://www.hildasolis.com/)",
+   "Environmental justice and affordable housing as signature issues (https://www.hildasolis.com/)",
+   "Backed Prop 50 redistricting: 'We must fight fire with fire' (https://www.hildasolis.com/)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "Highest-experience profile in the batch (ex-member of Congress, ex-Labor Secretary; EPD 7) with a historically progressive record and CPC PAC backing, but her 2026 campaign stated almost no specific federal positions, so LI is only ~1 and CI 0. The Cat 3 call rests on weak engagement evidence (unverified debates, vague platform) and should be revisited; the alternative reading is a mainstream progressive nearest Cat 1. Very low small-dollar share (0.04).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hilda_Solis",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://www.hildasolis.com/"
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Marni von Wilpert",
+  "seat": "CA-48",
+  "call_status": "confirmed winner (Politico 4 Nov 2026; Wikipedia 59.9-40.1 over San Diego County Supervisor Jim Desmond (R) at 70% reporting; open seat after Darrell Issa retired)",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BA peace & conflict studies, UC Berkeley; JD Fordham",
+   "career": "Labor/civil-rights attorney: Peace Corps (Botswana); Mississippi Center for Justice; clerk to Judge James E. Graves Jr.; NLRB attorney; House Education & Labor Committee detail staffer (PRO Act); Economic Policy Institute; San Diego deputy city attorney",
+   "prior_office": "San Diego City Council, District 5 (2020-present)"
+  },
+  "self_description": "\"I've spent my entire career in public service\"; CalMatters describes her as 'sticking to her record as a moderate, pro-Israel Democrat' and 'a true blue establishment type' (reporters' characterisation).",
+  "primary_context": "Top-two primary Jun 2026 (Desmond 38.9, von Wilpert 20.6); beat Ammar Campa-Najjar (CPC PAC, VoteVets, BOLD PAC) and Vista councilmember Corinna Contreras among others; she was the labor/EMILY's List/DMFI-backed candidate vs the CPC-backed Campa-Najjar.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the San Diego Police Officers Association (Aug 2026), featured on campaign homepage",
+    "src": "https://www.marnivonwilpert.com/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund (post-primary)"
+  ],
+  "EPD": {
+   "office": 1,
+   "cred": 2,
+   "policy": 1,
+   "note": "City councilmember (local office); JD and labor-law career including NLRB and House committee staff work (mid-level, not senior); platform has some specifics (ACA public option, expand Medicare drug negotiation/out-of-pocket caps, congressional stock-trading ban, oppose Golden Pacific Powerlink, first-in-nation digital-coupon ordinance)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No debate with Desmond found (search budget exhausted; scored neutral, unverified); campaign accused Desmond of 'ghosting' seniors/hiding. Media mainly friendly national (MS NOW's The Last Word) and local press; campaign site states concrete positions."
+  },
+  "outside_support": [
+   "House Majority PAC (>$4M)",
+   "Democratic Majority for Israel (~$2M)",
+   "DCCC Red to Blue",
+   "New Dem Action Fund",
+   "EMILY's List",
+   "J Street",
+   "JACPAC",
+   "JDCA",
+   "LPAC",
+   "LGBTQ Victory Fund",
+   "Equality PAC",
+   "Brady",
+   "California Labor Federation",
+   "CTA",
+   "SEIU California",
+   "San Diego POA",
+   "IAFF Local 145",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Protect/expand ACA with a public option; expand Medicare drug-price negotiation (https://www.marnivonwilpert.com/issues)",
+   "'Hold ICE accountable': joined Minneapolis lawsuit against ICE; get 'masked mobs' off streets (https://www.marnivonwilpert.com/issues)",
+   "Two-state solution; end 'Trump's costly Iran War'; pro-Israel (DMFI-backed) (https://calmatters.org/politics/2026/10/congress-48-wonwilpert-desmond/)",
+   "Repeal Trump tariffs; ban congressional stock trading; codify Roe (https://www.marnivonwilpert.com/issues)",
+   "Oppose offshore oil drilling and the Golden Pacific Powerlink (https://www.marnivonwilpert.com/issues)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream establishment Democrat (New Dem Action Fund, police-union and DMFI backing; public option rather than M4A) with no left markers found (LI 0) but only ~2 centrist markers (CI 2). EPD ~4 and unverified-but-neutral EO put her at the step-5 'imperfect fit', nearest Cat 4 by CI>LI; her labor-lawyer background and ICE-accountability messaging make the centrist label tentative.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marni_von_Wilpert",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://www.politico.com/news/2026/11/04/democrat-marni-von-wilpert-wins-redrawn-southern-california-district-01151056",
+   "https://calmatters.org/politics/2026/10/congress-48-wonwilpert-desmond/",
+   "https://timesofsandiego.com/politics/2026/10/11/von-wilpert-ca-48-congressional-race-desmond/",
+   "https://www.marnivonwilpert.com/",
+   "https://www.marnivonwilpert.com/issues"
+  ]
+ }
+]

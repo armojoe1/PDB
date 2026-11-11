@@ -1,0 +1,1160 @@
+[
+ {
+  "id": "V000128",
+  "name": "Chris Van Hollen",
+  "seat": "MD-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1959,
+   "education": "BA Swarthmore College; MPP Harvard Kennedy School; JD Georgetown University Law Center",
+   "career": "Attorney; Senate Foreign Relations Committee staffer and legislative aide to Maryland Gov. William Donald Schaefer before elective office",
+   "prior_office": "Maryland House of Delegates (1991-95); Maryland State Senate (1995-2003); US House MD-8 (2003-2017; DCCC chair 2007-11; House Budget Committee ranking member 2011-17); US Senate (2017-present; DSCC chair 2017-18)"
+  },
+  "self_description": "No explicit ideological label found in his own words; frames his message as 'we have to show people what we stand for and that we're fighting for working people' against 'a political system that has been corrupted by big money' (FOX 5 DC, 5 Nov 2026). Press (Al-Monitor, Nov 2026) describes him as 'a progressive'. Said he has been 'kicking the tires' on a 2028 presidential run.",
+  "primary_context": "Last on the ballot in 2022: won the Democratic primary easily over a little-known challenger and beat Republican Chris Chaffee ~66-34% in the general. Not up again until 2028. In Nov 2026 he is the name most often floated by progressives to challenge Schumer for leader; several 2026 left-leaning Senate nominees (e.g. Abdul El-Sayed) endorsed him for leader.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Co-sponsored the 2019 Green New Deal resolution (S.Res.59, 116th Congress).",
+    "src": "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Context only: 'Not 1 more dime for a lawless ICE' (Feb 2026) and 'we should not be funding an ICE operation that is completely lawless. It needs dramatic reform' (ABC, Mar 2026) - conditions funding on reform; no call to abolish ICE found.",
+    "src": "https://www.goodmorningamerica.com/news/story/sen-van-hollen-democrats-holding-dhs-funding-131518087"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Leading Senate critic of the Netanyahu government who voted for Sanders' joint resolutions to block offensive-weapons sales (Nov 2024, Jul 2025), but his Nov 2024 Dear Colleague letter states: 'I do not support an arms embargo on Israel, but I do believe that the United States should pause the delivery of offensive weapons...' and backs continued defensive transfers like Iron Dome. No use of the word 'genocide' by him found.",
+    "src": "https://www.vanhollen.senate.gov/imo/media/doc/dear_colleague_on_israel1.pdf"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Opposes funding ICE without 'dramatic reform' (2026); flew to El Salvador (Apr 2025) to meet deported Marylander Kilmar Abrego Garcia and made due-process objections to deportations a signature cause; voted Nay on Laken Riley Act (bulk).",
+    "src": "https://www.goodmorningamerica.com/news/story/sen-van-hollen-democrats-holding-dhs-funding-131518087"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0,
+    "e": "Context only: declined to endorse Schumer for leader ('I don't think it should be automatic'; 'nobody should get a blank check'), and is reportedly weighing a leadership challenge from the progressive side. Not centrist independence; did not say he would vote against Schumer.",
+    "src": "https://www.fox5dc.com/news/maryland-sen-van-hollen-eyes-2028-presidential-bid-declines-endorse-schumer-senate-majority-leader.amp"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator since 2017 after 14 years in the House and 12 in the Maryland legislature (office 3); JD Georgetown + MPP Harvard (cred 2); former House Budget Committee ranking member and DCCC/DSCC chair, Appropriations subcommittee leader, long record on budget, foreign-aid conditions (NSM-20 style human-rights requirements) and Gaza oversight (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: no record found of a 2022 general-election debate with low-profile Republican Chris Chaffee (unverified; set neutral). Media: held multiple in-person town halls in 2025 incl. a boisterous Eastern Shore (Trump-leaning) event, a 1,500-person Hagerstown town hall with Rep. McClain Delaney and a 17,000-person tele-town hall; went on Fox News Sunday (20 Apr 2025) where Shannon Bream pressed him on Abrego Garcia's alleged gang ties and trip funding; also sparred with ABC's Jon Karl on DHS funding (Mar 2026). Substance: engages opponents' arguments directly ('I am not defending the man. I'm defending the rights of this man to due process'; 'put any evidence before the court')."
+  },
+  "outside_support": [
+   "FEC 2022 cycle: small-dollar share 6.7% (large-donor funded); PAC share 22.5%",
+   "Endorsed for Senate leader by progressive 2026 nominees such as Abdul El-Sayed (MI); Peggy Flanagan (MN) said she was open to him as leader"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All, the Ultra-Millionaire Tax Act and DC statehood (bulk data)",
+   "Co-sponsored the 2019 Green New Deal resolution (https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors)",
+   "Voted to block offensive-weapons sales to Israel but explicitly rejects a full arms embargo (https://www.vanhollen.senate.gov/imo/media/doc/dear_colleague_on_israel1.pdf)",
+   "Traveled to El Salvador in Apr 2025 over the wrongful deportation of Kilmar Abrego Garcia; defended due process on Fox News Sunday (https://www.mediaite.com/tv/dem-senator-tells-fox-news-hes-not-vouching-for-the-man-in-abrego-garcia-case-will-support-a-court-deporting-him)",
+   "Opposed further ICE funding absent 'dramatic reform' during the 2026 DHS funding fight (https://www.goodmorningamerica.com/news/story/sen-van-hollen-democrats-holding-dhs-funding-131518087)",
+   "Declined to back Schumer automatically after the 2026 midterms; considering a 2028 presidential run (https://www.fox5dc.com/news/maryland-sen-van-hollen-eyes-2028-presidential-bid-declines-endorse-schumer-senate-majority-leader.amp)",
+   "Lugar Center Bipartisan Index 2023: 67th of 98 senators (https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (Medicare for All, Ultra-Millionaire Tax, DC statehood) plus his 2019 Green New Deal co-sponsorship give LI about 4 (progressive-leaning), and he has no centrist markers (CI 0); he explicitly rejects a full arms embargo on Israel and has not called for abolishing ICE, so he falls short of the LI>=6 bar. He is highly experienced and engaged (town halls in Trump-leaning areas, Fox News Sunday), so under the decision sequence he lands nearest Category 1 as an 'imperfect fit': a progressive institutionalist rather than a movement-left figure.",
+  "sources": [
+   "https://www.vanhollen.senate.gov/imo/media/doc/dear_colleague_on_israel1.pdf",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic",
+   "https://www.goodmorningamerica.com/news/story/sen-van-hollen-democrats-holding-dhs-funding-131518087",
+   "https://www.fox5dc.com/news/maryland-sen-van-hollen-eyes-2028-presidential-bid-declines-endorse-schumer-senate-majority-leader.amp",
+   "https://www.al-monitor.com/originals/2026/11/slotkin-van-hollen-emerge-potential-challengers-schumers-senate-leadership",
+   "https://www.newsweek.com/full-list-democrats-rallying-against-chuck-schumer-senate-12315442",
+   "https://www.mediaite.com/tv/dem-senator-tells-fox-news-hes-not-vouching-for-the-man-in-abrego-garcia-case-will-support-a-court-deporting-him",
+   "https://marylandmatters.org/2025/08/16/van-hollen-fills-cardins-well-worn-shoes-getting-testy-over-energy-policy-more-political-notes/",
+   "https://www.whcp.org/whcp-news-desk/2025-08-16/sen-van-hollen-rouses-eastern-shore-town-hall",
+   "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-van-hollen-host-town-hall-more-1500-attendees",
+   "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html",
+   "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors"
+  ]
+ },
+ {
+  "id": "K000383",
+  "name": "Angus S. King, Jr.",
+  "seat": "ME-SEN",
+  "call_status": "not up until 2030 (Independent; caucuses with Democrats)",
+  "bio": {
+   "birth_year": 1944,
+   "education": "BA Dartmouth College; JD University of Virginia School of Law",
+   "career": "Lawyer, public-TV host (MPBN 'Maine Watch') and alternative-energy/energy-conservation entrepreneur before entering office",
+   "prior_office": "Governor of Maine as an independent (1995-2003); US Senate (2013-present)"
+  },
+  "self_description": "Independent who caucuses with Democrats; casts himself as a non-partisan problem-solver ('It is high time we stopped thinking politically as Republicans and Democrats', invoking Margaret Chase Smith).",
+  "primary_context": "Runs as an independent (no party primary). In 2024 the Democratic Party ran its own nominee, environmental activist David Costello, against him; King won a third term with ~52% over Republican Demi Kouzounas (~35%) and Costello (~11%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only: opposed Sanders' arms-block resolutions in Nov 2024 (after backing one earlier) and in Apr 2025, then voted YES on both in Jul 2025 ('What's going on is unacceptable, and Israel has the power to fix it'). No genocide language or embargo call found.",
+    "src": "https://www.salon.com/2025/07/31/most-senate-democrats-vote-to-limit-arms-sales-to-israel"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Long-running deficit focus: with Sen. Kevin Cramer introduced the bipartisan '3% Resolution' to cut the deficit to 3% of GDP by 2030 (20 Mar 2026: 'Restoring fiscal discipline isn't about politics - it's about responsibility') and backs a fiscal commission; opposed the 2017 and 2025 GOP tax bills chiefly on debt grounds; argues a realistic plan needs both spending cuts and revenue. No wealth-tax backing found.",
+    "src": "https://www.king.senate.gov/newsroom/press-releases/king-cramer-take-action-to-reduce-federal-budget-deficit-avoid-passing-down-debt-to-next-generation"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Independent; one of eight Democratic-caucus senators who voted with Republicans to end the Oct-Nov 2025 shutdown, saying 'standing up to Donald Trump didn't work'; also voted for cloture on the Mar 2025 GOP stopgap. Lugar Center Bipartisan Index: 17th of 98 senators (2023), 20th (2021).",
+    "src": "https://www.foxnews.com/media/senator-voted-gop-open-government-admits-democrats-shutdown-strategy-didnt-work"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term governor and three-term senator (office 3); JD UVA plus business career (cred 2); co-chaired the Cyberspace Solarium Commission whose recommendations were enacted via NDAAs, senior Armed Services/Intelligence/Energy member, authored fiscal-commission and deficit bills (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate (2024): took part in the two televised general-election debates (CBS 13/Bangor Daily News, 28 Oct 2024; News Center Maine/Maine State Chamber four-way debate) but did not commit to Costello's proposed five-debate schedule and was absent from a final candidates' debate at Bowdoin College. Media: no in-person town halls in 2025 documented (constituents publicly urged him to hold them; his office did not explain why he doesn't), AARP tele-town hall; frequent unscripted national interviews (MSNBC Morning Joe, Katie Couric, Maine Public) defending unpopular-with-the-base votes such as ending the 2025 shutdown, but no hostile-outlet appearances confirmed. Substance: explains reasoning at length (e.g. filibuster 'what goes around, comes around')."
+  },
+  "outside_support": [
+   "FEC 2024 cycle: small-dollar share 12.7% (large-donor funded); PAC share 28%"
+  ],
+  "notable_positions": [
+   "Voted with Republicans to end the 2025 shutdown, saying the strategy 'didn't work' (https://www.foxnews.com/media/senator-voted-gop-open-government-admits-democrats-shutdown-strategy-didnt-work)",
+   "Supports tweaking but not abolishing the filibuster (https://www.bangordailynews.com/2024/10/28/politics/what-we-learned-debate-angus-king-demi-kouzounas-david-costello)",
+   "Co-led the bipartisan '3% Resolution' to cut deficits to 3% of GDP by 2030 (https://www.king.senate.gov/newsroom/press-releases/king-cramer-take-action-to-reduce-federal-budget-deficit-avoid-passing-down-debt-to-next-generation)",
+   "Shifted to backing Sanders' Israel arms-block resolutions in Jul 2025 after opposing them in Apr 2025 (https://www.salon.com/2025/07/31/most-senate-democrats-vote-to-limit-arms-sales-to-israel)",
+   "Voted Nay on the Laken Riley Act (bulk data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left markers found (LI 0) and no M4A/wealth-tax co-sponsorships; centrist markers are fiscal restraint and documented independence (C3, C7), giving CI about 2, well short of 5. He is highly experienced and reasonably engaged (EPD 7, EO about 4), so the decision sequence places him nearest Category 4 as an imperfect fit: an independent, deficit-minded institutionalist rather than a coalition-style Blue Dog.",
+  "sources": [
+   "https://www.bangordailynews.com/2024/10/28/politics/what-we-learned-debate-angus-king-demi-kouzounas-david-costello",
+   "https://www.bangordailynews.com/2024/06/24/politics/angus-king-david-costello-demi-kouzounas-debates-xoasq1i29i",
+   "https://bowdoinorient.com/2024/11/08/final-debate-for-maines-senate-race-held-on-bowdoins-campus/",
+   "https://www.foxnews.com/media/senator-voted-gop-open-government-admits-democrats-shutdown-strategy-didnt-work",
+   "https://www.npr.org/2025/11/15/nx-s1-5607162/maine-government-shutdown-democrats-rift-2026-election",
+   "https://www.king.senate.gov/newsroom/press-releases/king-cramer-take-action-to-reduce-federal-budget-deficit-avoid-passing-down-debt-to-next-generation",
+   "https://www.king.senate.gov/newsroom/press-releases/it-is-high-time-we-stopped-thinking-politically-as-republicans-and-democrats-king-says-as-he-invokes-former-maine-senator-margaret-chase-smith",
+   "https://www.centralmaine.com/2025/04/20/calling-on-sen-king-to-meet-with-constituents-letter",
+   "https://www.salon.com/2025/07/31/most-senate-democrats-vote-to-limit-arms-sales-to-israel",
+   "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
+  ]
+ },
+ {
+  "id": "S001208",
+  "name": "Elissa Slotkin",
+  "seat": "MI-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1976,
+   "education": "BA Cornell University (1998); Master of International Affairs, Columbia SIPA (2003)",
+   "career": "CIA analyst (three tours in Iraq); NSC, State and Defense Department Iraq/security posts; acting Assistant Secretary of Defense for International Security Affairs (2015-17); security consultant",
+   "prior_office": "US House MI-8/MI-7 (2019-2025); US Senate (2025-present)"
+  },
+  "self_description": "No explicit ideological label found; generally described as a moderate Democrat. After the 2024 election said identity politics 'needs to go the way of the dodo' and that Democrats must refocus on middle-class economics; gave the Democratic response to Trump's March 2025 address.",
+  "primary_context": "Won the 6 Aug 2024 Democratic Senate primary with ~76% over actor Hill Harper (running to her left); beat Republican Mike Rogers 48.7-48.3% in November 2024. Not up again until 2030. In Nov 2026 reported to be weighing a challenge to Schumer for leader.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "'U.S. Rep. Slotkin rejects Medicare for All, supports public buy-in option' (2019); has said 'no one can explain' how Medicare for All would be funded and backs a Medicare buy-in ('Medicare for All Who Want It').",
+    "src": "https://www.mlive.com/public-interest/2019/11/slotkin-rejects-medicare-for-all-supports-public-buy-in-option.html"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only: signed a Jan 2024 letter calling South Africa's genocide case against Israel 'grossly unfounded'; missed the Jul 2025 arms-block votes (Late Show taping) but said she would have backed them and would weigh offensive sales case by case while not blocking defensive sales. No embargo call.",
+    "src": "https://en.wikipedia.org/wiki/Elissa_Slotkin"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Rejects Medicare for All; supports building on the ACA with a public Medicare buy-in option.",
+    "src": "https://www.mlive.com/public-interest/2019/11/slotkin-rejects-medicare-for-all-supports-public-buy-in-option.html"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "One of 12 Senate Democrats who voted for the Laken Riley Act (Jan 2025) and one of seven who voted to confirm Kristi Noem as DHS Secretary.",
+    "src": "https://en.wikipedia.org/wiki/Elissa_Slotkin"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "After the 2024 election said Democratic identity politics 'needs to go the way of the dodo', publicly breaking with progressive cultural framing.",
+    "src": "https://en.wikipedia.org/wiki/Elissa_Slotkin"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Called for 'significant new leadership. The old models are no longer working' in the Senate Democratic caucus (2026) and is weighing a challenge to Schumer; endorsed in 2024 by Republican former Rep. Liz Cheney; ranked 9th most bipartisan House member on the Lugar Center index (2021).",
+    "src": "https://www.newsweek.com/full-list-democrats-rallying-against-chuck-schumer-senate-12315442"
+   },
+   "C8": {
+    "v": 1,
+    "e": "In May 2025 was the only Senate Democrat to vote to block California's 2035 ban on new gas-powered car sales, citing Michigan auto workers; pro-domestic-manufacturing 'economic war plan' framing.",
+    "src": "https://en.wikipedia.org/wiki/Elissa_Slotkin"
+   }
+  },
+  "C1_endorsements": [
+   "Member of the New Democrat Coalition while in the House (2019-25)",
+   "Member of the Problem Solvers Caucus while in the House"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator after three House terms; former acting Assistant Secretary of Defense (office 3); Columbia MIA plus senior national-security career (cred 2); chaired a House Homeland Security subcommittee, authored gun-storage (Safe Guns, Safe Kids) and defense/security legislation, now a lead Democratic voice on China/AI export controls (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate (2024 general): debated Republican Mike Rogers twice (WOOD-TV, 8 Oct 2024; WXYZ-TV, 14 Oct 2024); no record found of primary debates with Hill Harper. Media: very visible nationally - Democratic response to the Mar 2025 joint address, speeches at CAP/CFR/Brookings/Axios, Late Show appearance, a Jul 2026 Fox News clip on the SAVE Act - but in-person 2025-26 town halls and regular hostile-outlet interviews were not verified (search budget exhausted). Substance: argues positions in policy terms (e.g. explaining why M4A cannot be funded, Laken Riley/Noem votes)."
+  },
+  "outside_support": [
+   "EMILY's List",
+   "End Citizens United",
+   "League of Conservation Voters",
+   "Planned Parenthood Action Fund",
+   "VoteVets",
+   "UAW",
+   "Republican Liz Cheney (2024)",
+   "FEC 2024 cycle: small-dollar share 36.2% (typical); PAC share 2.3%; $51.9M raised"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act and to confirm Kristi Noem as DHS Secretary (https://en.wikipedia.org/wiki/Elissa_Slotkin)",
+   "Opposes Medicare for All; favours a public Medicare buy-in (https://www.mlive.com/public-interest/2019/11/slotkin-rejects-medicare-for-all-supports-public-buy-in-option.html)",
+   "Only Senate Democrat to vote to overturn California's 2035 gas-car phase-out (May 2025) (https://en.wikipedia.org/wiki/Elissa_Slotkin)",
+   "Said Democrats need 'significant new leadership'; weighing a challenge to Schumer (https://www.newsweek.com/full-list-democrats-rallying-against-chuck-schumer-senate-12315442)",
+   "Called identity politics something that 'needs to go the way of the dodo' (https://en.wikipedia.org/wiki/Elissa_Slotkin)",
+   "Co-sponsor of DC statehood (bulk data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Centrist markers are numerous and explicit: rejects Medicare for All, voted for Laken Riley and for Noem's confirmation, broke with progressive identity politics, voted against California's EV mandate, has Republican (Cheney) backing and calls for new leadership, plus past New Dem/Problem Solvers membership (CI about 6-7). The only left marker is DC statehood co-sponsorship (LI 1), so she meets the Category 4 test clearly.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elissa_Slotkin",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Michigan",
+   "https://www.mlive.com/public-interest/2019/11/slotkin-rejects-medicare-for-all-supports-public-buy-in-option.html",
+   "https://www.newsweek.com/full-list-democrats-rallying-against-chuck-schumer-senate-12315442",
+   "https://www.al-monitor.com/originals/2026/11/slotkin-van-hollen-emerge-potential-challengers-schumers-senate-leadership",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic",
+   "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
+  ]
+ },
+ {
+  "id": "K000367",
+  "name": "Amy Klobuchar",
+  "seat": "MN-SEN",
+  "call_status": "Senate term runs to 2031 (re-elected 2024), BUT elected Governor of Minnesota on 3 Nov 2026 (55.5% to Republican Lisa Demuth's 42.6%); due to take office as governor on 4 Jan 2027, so expected to resign and NOT serve in the 120th Congress beyond its opening days - an appointee will take the seat. ROSTER FLAG.",
+  "bio": {
+   "birth_year": 1960,
+   "education": "BA Yale University (1982); JD University of Chicago Law School (1985)",
+   "career": "Corporate/communications lawyer and partner (Dorsey & Whitney; Gray Plant Mooty); Hennepin County Attorney (chief prosecutor) 1999-2007",
+   "prior_office": "Hennepin County Attorney (1999-2007); US Senate (2007-present; Rules Committee chair 2021-25; Agriculture ranking member and Democratic Steering & Policy chair from 2025); 2020 presidential candidate; Governor-elect of Minnesota (2026)"
+  },
+  "self_description": "Pitched her 2020 presidential campaign as 'moderate and pragmatic', saying no to proposals she considered unrealistic (free four-year college, Medicare for All) out of concern for the debt.",
+  "primary_context": "2024 Senate: won the DFL primary with ~94% against minor candidates, then beat Republican Royce White ~56-41%. 2026 governor: entered Jan 2026 after Gov. Walz withdrew; won the DFL endorsement on the first ballot and the 11 Aug 2026 primary with 89.7% over left-wing organizer Kobey Layne (5.8%); won the general.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Did not support Medicare for All in 2019-20; backed a public option as a first step and said she was looking for solutions 'that will work now'.",
+    "src": "https://www.cnn.com/2019/02/18/politics/klobuchar-pragmatic-approach/index.html"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Co-sponsored the 2019 Green New Deal resolution (S.Res.59, 116th Congress) and told Fox News' Bret Baier 'I see it as aspirational... So I would vote yes', while calling its timetable 'not realistic'.",
+    "src": "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 1,
+    "e": "Co-introduced (with Ben Ray Lujan) the Health Misinformation Act (23 Jul 2021), stripping Section 230 protection from platforms whose algorithms promote health misinformation during a public-health emergency, with HHS defining 'health misinformation'.",
+    "src": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-klobuchar-introduce-legislation-to-hold-digital-platforms-accountable-for-vaccine-and-other-health-related-misinformation/"
+   },
+   "L9": {
+    "v": -1,
+    "e": "Asked in 2018 about abolishing ICE: 'I think what has to change are the policies'; the US will always 'need immigration enforcement'. No later abolish/defund call found.",
+    "src": "https://en.wikipedia.org/wiki/Political_positions_of_Amy_Klobuchar"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only: voted YES on Sanders' Jul 2025 resolutions to block some arms sales to Israel; no genocide language or embargo call found; endorsed by AIPAC and J Street PAC in 2024.",
+    "src": "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposed Medicare for All during the 2020 primary, favouring a public option/building on the ACA.",
+    "src": "https://www.cnn.com/2019/02/18/politics/klobuchar-pragmatic-approach/index.html"
+   },
+   "C3": {
+    "v": 1,
+    "e": "Cited the national debt as a main reason to oppose Medicare for All and free four-year college ('not realistic'; does not 'want to leave that on the shoulders' of the next generation); no wealth-tax backing found.",
+    "src": "https://www.cnn.com/2019/02/18/politics/klobuchar-pragmatic-approach/index.html"
+   },
+   "C4": {
+    "v": 0,
+    "e": "Context only: rejected abolishing ICE (2018) but voted Nay on the Laken Riley Act (bulk) and is not border-hawkish.",
+    "src": "https://en.wikipedia.org/wiki/Political_positions_of_Amy_Klobuchar"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented bipartisan record: Lugar Center Bipartisan Index 15th of 98 senators (2023) and 10th (2021); had passed more legislation than any other senator by the end of the 114th Congress.",
+    "src": "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Three-term senator, former county attorney for Minnesota's largest county, now governor-elect (office 3); Yale BA + U Chicago JD, law-firm partner (cred 2); former Rules Committee chair, Agriculture ranking member, antitrust subcommittee chair, prolific author of enacted bills (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: could not establish whether she debated Royce White (2024 Senate) or Lisa Demuth (2026 governor) - unverified, set neutral (search budget exhausted). Media: long-standing presence on all Sunday shows including Fox (e.g. Bret Baier interview on the Green New Deal, 2019), but 2025-26 town halls/hostile-outlet appearances not verified. Substance: explains why she rejects proposals on cost/feasibility grounds rather than labelling opponents."
+  },
+  "outside_support": [
+   "2024: AIPAC, J Street PAC, EMILY's List, End Citizens United, Giffords, League of Conservation Voters, NRDC, Planned Parenthood Action Fund",
+   "2026 governor: AFL-CIO, Education Minnesota, SEIU, Teamsters JC32, USW District 11, EMILY's List, Everytown, HRC, Pete Buttigieg",
+   "FEC 2024 cycle: small-dollar share 44% (high); PAC share 7.8%"
+  ],
+  "notable_positions": [
+   "Opposed Medicare for All and free four-year college in 2020 as unaffordable (https://www.cnn.com/2019/02/18/politics/klobuchar-pragmatic-approach/index.html)",
+   "Co-sponsored the 2019 Green New Deal resolution (https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors)",
+   "Co-authored the Health Misinformation Act to lift Section 230 protection for algorithmically promoted health misinformation (https://www.lujan.senate.gov/newsroom/press-releases/lujan-klobuchar-introduce-legislation-to-hold-digital-platforms-accountable-for-vaccine-and-other-health-related-misinformation/)",
+   "Voted for Sanders' Israel arms-block resolutions in Jul 2025 (https://zeteo.com/p/breaking-in-a-first-majority-of-democratic)",
+   "Lead Senate antitrust/big-tech regulation voice (antitrust subcommittee chair 117th-118th) (https://en.wikipedia.org/wiki/Amy_Klobuchar)",
+   "Elected Minnesota governor in Nov 2026 (https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A pragmatic, deal-making mainstream Democrat: explicitly rejected Medicare for All and free college on cost grounds and has a strong bipartisan record (CI about 3), but also co-sponsored the 2019 Green New Deal, DC statehood and a health-misinformation platform-liability bill (LI about 3). Neither threshold is met; with high experience (EPD 7) and EO about 3 she lands nearest Category 4 as an imperfect fit. Low confidence because markers conflict and debate/media data are unverified - and she is expected to resign to become governor in January 2027.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+   "https://en.wikipedia.org/wiki/Amy_Klobuchar_2020_presidential_campaign",
+   "https://en.wikipedia.org/wiki/Political_positions_of_Amy_Klobuchar",
+   "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Minnesota",
+   "https://www.cnn.com/2019/02/18/politics/klobuchar-pragmatic-approach/index.html",
+   "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors",
+   "https://www.lujan.senate.gov/newsroom/press-releases/lujan-klobuchar-introduce-legislation-to-hold-digital-platforms-accountable-for-vaccine-and-other-health-related-misinformation/",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic",
+   "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
+  ]
+ },
+ {
+  "id": "H001076",
+  "name": "Margaret Wood Hassan",
+  "seat": "NH-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1958,
+   "education": "BA Brown University (1980); JD Northeastern University School of Law (1985)",
+   "career": "Attorney at Palmer & Dodge; associate general counsel, Brigham and Women's Hospital; disability/education advocate",
+   "prior_office": "New Hampshire State Senate (2005-10, majority leader); Governor of New Hampshire (2013-17); US Senate (2017-present; Joint Economic Committee ranking member from 2025)"
+  },
+  "self_description": "No self-applied ideological label found; widely described as a centrist/moderate Democrat who prioritises bipartisanship. Frames border policy as 'We have to have a safe, secure, and orderly border' (2022 debate).",
+  "primary_context": "Last on the ballot in 2022: won the 13 Sep 2022 Democratic primary with ~94% over two minor candidates; beat Republican Don Bolduc 53.5-44.4%. Not up again until 2028.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Voted NO on Sanders' Jul 2025 resolutions to block arms sales to Israel (one of 17 Democrats); endorsed by AIPAC and Pro-Israel America in 2022 - rejects even partial arms restrictions.",
+    "src": "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Ran for governor opposing a broad-based or income tax and supporting a balanced budget; balanced two state budgets as governor; as senator pushed a federal gas-tax holiday (2022) and attacks tariffs as inflationary. No wealth-tax or large rate-hike backing found (supports lifting the Social Security payroll cap, a top-earner measure).",
+    "src": "https://en.wikipedia.org/wiki/Maggie_Hassan"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Broke with her party in 2022 to support keeping Title 42 expulsions, backs closing gaps in border barriers, said 'We have to have a safe, secure, and orderly border' and touted votes for more border funding; voted for the Laken Riley Act (2025).",
+    "src": "https://indepthnh.org/2022/11/02/hassan-bolduc-spar-on-abortion-inflation-energy-in-wmur-debate/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "One of eight Democratic-caucus senators who voted with Republicans to end the 2025 shutdown, and one of three who then voted to confirm Trump judicial nominees (drawing a progressive-group campaign against her); Lugar Center Bipartisan Index: most bipartisan senator in 2021, 3rd in 2023.",
+    "src": "https://apnews.com/article/senate-democrats-progressives-fetterman-hassan-king-b1e94b3f103dce85e6b872e5f3c259cc"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term governor and senator since 2017 (office 3); JD plus hospital general-counsel career (cred 2); JEC ranking member, chair of an HSGAC spending-oversight subcommittee, passed a 2020 law on hidden medical-billing fees and opioid/buprenorphine measures (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate (2022): debated Don Bolduc repeatedly - at least three televised debates (incl. ~19 Oct, ~27 Oct and the final WMUR debate on 1-2 Nov 2022). Media: 2025-26 town halls and hostile-outlet appearances not verified (search budget exhausted); critics describe her as scripted/'repetitive' in interviews. Substance: engages on policy specifics (border funding votes, oil-company pricing, Social Security cap)."
+  },
+  "outside_support": [
+   "2022: AIPAC, Pro-Israel America, EMILY's List, End Citizens United, Giffords, Brady, LCV, Sierra Club, NRDC, Planned Parenthood, HRC",
+   "FEC 2022 cycle: small-dollar share 31.6% (typical); PAC share 8.1%; $37M raised"
+  ],
+  "notable_positions": [
+   "Voted to end the Oct-Nov 2025 shutdown with Republicans and for the Mar 2025 GOP stopgap cloture (bulk data; https://www.cbsnews.com/amp/news/senate-democrats-vote-end-government-shutdown)",
+   "Voted for the Laken Riley Act; supported keeping Title 42 in 2022 (https://en.wikipedia.org/wiki/Maggie_Hassan)",
+   "Voted to confirm some Trump judicial nominees, targeted by progressive groups (https://apnews.com/article/senate-democrats-progressives-fetterman-hassan-king-b1e94b3f103dce85e6b872e5f3c259cc)",
+   "Ranked most bipartisan senator (2021) and 3rd (2023) by the Lugar Center (https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html)",
+   "Opposed Sanders' Jul 2025 Israel arms-block resolutions (https://zeteo.com/p/breaking-in-a-first-majority-of-democratic)",
+   "Backed ending the filibuster for voting-rights legislation (2021) (https://web.archive.org/web/20220511201234/https://thehill.com/homenews/senate/586265-hassan-backs-nixing-filibuster-on-voting-rights/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Hassan has the most centrist voting profile in this batch - Laken Riley, both GOP stopgaps, Trump judicial nominees, top Lugar bipartisanship rankings - plus border-security and fiscal-restraint positioning (CI about 3 with researched markers; C2/C8 not established), while her only left marker is DC statehood co-sponsorship (LI 1). She is experienced and debated in her last race, so the sequence places her nearest Category 4; confidence is Medium because explicit statements on Medicare for All or pro-business energy policy were not confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maggie_Hassan",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_New_Hampshire",
+   "https://indepthnh.org/2022/11/02/hassan-bolduc-spar-on-abortion-inflation-energy-in-wmur-debate/",
+   "https://www.nytimes.com/2022/10/27/us/politics/hassan-bolduc-debate-new-hampshire.html",
+   "https://www.nytimes.com/2022/10/19/us/politics/don-bolduc-social-security-income-tax-cap.html",
+   "https://apnews.com/article/senate-democrats-progressives-fetterman-hassan-king-b1e94b3f103dce85e6b872e5f3c259cc",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic",
+   "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
+  ]
+ },
+ {
+  "id": "K000394",
+  "name": "Andy Kim",
+  "seat": "NJ-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BA University of Chicago (2004); MPhil and DPhil (international relations), University of Oxford (Rhodes Scholar)",
+   "career": "National-security official: USAID, State Department and Pentagon posts; civilian adviser to Gens. Petraeus and Allen in Afghanistan; NSC director for Iraq under Obama",
+   "prior_office": "US House NJ-3 (2019-Dec 2024); US Senate (Dec 2024-present)"
+  },
+  "self_description": "Described (Wikipedia) as a progressive Democrat; was a Congressional Progressive Caucus member in the House. Ran his 2024 Senate campaign as an anti-machine reformer (sued to abolish New Jersey's 'county line' ballot design).",
+  "primary_context": "2024: challenged indicted Sen. Bob Menendez; his lawsuit struck down the county-line ballot system (Mar 2024); First Lady Tammy Murphy then withdrew; won the June 2024 primary with ~75% over Patricia Campos-Medina and Lawrence Hamm; beat Republican Curtis Bashaw 53.6-44.0%. Not up again until 2030.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Context only: has said since 2018 that he neither supports nor opposes Medicare for All; supports universal coverage and is open to single- or multi-payer systems.",
+    "src": "https://en.wikipedia.org/wiki/Andy_Kim_(politician)"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Context only: said he was pepper-sprayed by ICE agents at a May 2026 protest outside Newark's Delaney Hall detention center and called for that facility to be shut down; no call to abolish ICE as an agency found.",
+    "src": "https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only: voted for Sanders' resolutions blocking arms sales to Israel at least four times by Aug 2025 (incl. Apr 2025, when only 15 senators did); calls Gaza a 'humanitarian catastrophe' but has declined to call it genocide, saying he had not completed his due diligence; supports Iron Dome funding.",
+    "src": "https://en.wikipedia.org/wiki/Andy_Kim_(politician)"
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (2024 general election)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Senator after three House terms, former NSC director (office 3); Oxford DPhil, Rhodes Scholar (cred 2); policy 1 - an ordinary legislative record in two years as senator; his signature achievement (ending the county line) was a lawsuit rather than legislation; chamber-passed authored bills not verified."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: in the 2024 primary he accepted every debate, appearing alone before journalists when Tammy Murphy declined (4 Feb 2024) and debating in Feb and May 2024 forums; in the general he debated Curtis Bashaw three times (NJ Globe 6 Oct, NJ Spotlight/NJ PBS 15 Oct, News 12 NJ 22 Oct 2024). Media: in the House pledged at least one town hall a month; 2025-26 Senate town halls and hostile-outlet appearances not verified (search budget exhausted); frequent mainstream interviews (NPR, local TV). Substance: engages substantively, e.g. explaining why he would not yet use the word genocide."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "Indivisible",
+   "MoveOn",
+   "Daily Kos",
+   "EMILY's List",
+   "LCV",
+   "Sierra Club",
+   "VoteVets",
+   "With Honor Fund",
+   "CWA, SEIU 32BJ, 1199SEIU, AFSCME Council 63",
+   "FEC 2024 cycle: small-dollar share 25.6% (typical); PAC share 5.8%"
+  ],
+  "notable_positions": [
+   "Sued to abolish New Jersey's county-line primary ballot (struck down Mar 2024) (https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_New_Jersey)",
+   "Voted repeatedly to block offensive-arms sales to Israel, but declines to call Gaza a genocide (https://en.wikipedia.org/wiki/Andy_Kim_(politician))",
+   "Pepper-sprayed at Delaney Hall ICE protest (May 2026); called for the facility to close (https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey)",
+   "Supports ending the filibuster, overturning Citizens United and a congressional stock-trading ban (https://en.wikipedia.org/wiki/Andy_Kim_(politician))",
+   "Voted Nay on the Laken Riley Act and against both GOP stopgaps (bulk data)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Kim is a mainstream progressive (former CPC member, WFP-endorsed, DC statehood co-sponsor; LI about 2) with no centrist markers (CI 0), but he is non-committal on Medicare for All and has not embraced abolish-ICE or genocide language. Highly credentialed and a willing debater, he falls to step 5 and lands nearest Category 1 as an imperfect fit; low confidence because the LI total is small.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andy_Kim_(politician)",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_New_Jersey",
+   "https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey",
+   "https://www.nj.com/news/2026/05/ice-agents-pepper-spray-protesters-nj-senator-in-clash-outside-delaney-hall-in-newark.html",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic"
+  ]
+ },
+ {
+  "id": "B001288",
+  "name": "Cory A. Booker",
+  "seat": "NJ-SEN",
+  "call_status": "re-elected 2026 (62.3% to Republican Justin Murphy's 35.1%)",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA and MA Stanford University; Rhodes Scholar, University of Oxford; JD Yale Law School",
+   "career": "Tenant-rights attorney and nonprofit founder in Newark before elective office",
+   "prior_office": "Newark Municipal Council (1998-2002); Mayor of Newark (2006-2013); US Senate (Oct 2013-present); 2020 presidential candidate"
+  },
+  "self_description": "Calls himself a progressive: 'there's nothing in that realm of progressive politics where you won't find me' (Salon, 2013); also describes himself as 'a supporter of Israel'.",
+  "primary_context": "2026: unopposed on the June 2026 Democratic primary ballot (four minor challengers withdrew beforehand); beat Republican Justin Murphy, a former Tabernacle deputy mayor, 62.3-35.1% on 3 Nov 2026, flipping Hunterdon and Monmouth counties.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Co-sponsored the 2019 Green New Deal resolution (S.Res.59, 116th Congress).",
+    "src": "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Sponsored the Federal Jobs Guarantee Development Act of 2018 (S.2746), a federal jobs-guarantee pilot in high-unemployment areas. Conflicting evidence: in May 2019 he rejected Warren's call to break up big tech, saying a president shouldn't pick companies to break up.",
+    "src": "https://www.congress.gov/bill/115th-congress/senate-bill/2746"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Voted against Sanders' resolutions to block arms sales to Israel in Apr 2025 and Jul 2025 (one of 17 Democrats opposed in July) and has consistently voted for such sales; calls himself 'a supporter of Israel'; endorsed by AIPAC in 2026.",
+    "src": "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0,
+    "e": "Context only: co-sponsors Medicare for All (bulk) while saying he opposes abolishing private insurance.",
+    "src": "https://en.wikipedia.org/wiki/Political_positions_of_Cory_Booker"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Long record of pro-business/market positions: supports lower corporate tax rates and tax incentives, free-market enterprise zones and lighter tech regulation, defended Bain Capital (2012), and backs charter schools, vouchers and teacher merit pay (Democrats for Education Reform advisory board).",
+    "src": "https://en.wikipedia.org/wiki/Political_positions_of_Cory_Booker"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former Newark mayor and senator since 2013 (office 3); Yale JD, Rhodes Scholar (cred 2); recognised lead on criminal-justice reform (First Step Act), cannabis legalisation and baby bonds; holds the Senate record for the longest floor speech (25 hours, Apr 2025) (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate (2026): took part in the only general-election debate listed, vs Justin Murphy (New Jersey Globe/Rider University, 8 Oct 2026). Media: very high national profile (record 25-hour floor speech, frequent mainstream interviews); 2025-26 in-person town halls and hostile-outlet appearances not verified (search budget exhausted). Substance: engages arguments at length; willing to break with the left on Israel and education."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "Giffords",
+   "LCV",
+   "NRDC Action Fund",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "The Collective PAC",
+   "AFL-CIO, NEA, NJ Building & Construction Trades, NJ Teamsters, SEIU NJ",
+   "Gov. Mikie Sherrill",
+   "FEC 2026 cycle: small-dollar share 59.7% (high); PAC share 2.4%"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and DC statehood (bulk data)",
+   "Co-sponsored the 2019 Green New Deal resolution (https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors)",
+   "Sponsored a federal jobs-guarantee pilot bill (2018) (https://www.congress.gov/bill/115th-congress/senate-bill/2746)",
+   "Opposed breaking up big tech companies (2019) and backs charter schools/vouchers (https://en.wikipedia.org/wiki/Political_positions_of_Cory_Booker)",
+   "Voted against blocking arms sales to Israel in 2025 (https://zeteo.com/p/breaking-in-a-first-majority-of-democratic)",
+   "Voted Nay on the Laken Riley Act and both GOP stopgaps (bulk data)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Booker combines progressive economic markers (Medicare for All, DC statehood, Green New Deal, jobs-guarantee pilot; LI about 3-4) with a pro-Israel voting record and market-friendly positions on education and business (CI about 1). He is not a movement-left figure but sits on the progressive side; experienced and willing to debate, he falls to step 5 and lands nearest Category 1 as an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Political_positions_of_Cory_Booker",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+   "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors",
+   "https://www.congress.gov/bill/115th-congress/senate-bill/2746",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic",
+   "https://www.newsweek.com/full-list-democrats-rallying-against-chuck-schumer-senate-12315442"
+  ]
+ },
+ {
+  "id": "L000570",
+  "name": "Ben Ray Luján",
+  "seat": "NM-SEN",
+  "call_status": "re-elected 2026 (63.3% to Republican write-in nominee Larry Marker's 36.7%)",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BBA New Mexico Highlands University (attended University of New Mexico)",
+   "career": "State government administrator (NM Cultural Affairs Department finance/administration, deputy state treasurer); earlier casino blackjack dealer",
+   "prior_office": "NM Public Regulation Commission, District 3 (2005-08, chair); US House NM-3 (2009-2021; DCCC chair 2015-19; Assistant Speaker 2019-21); US Senate (2021-present; chaired Commerce Subcommittee on Communications, Media & Broadband)"
+  },
+  "self_description": "No self-applied label found; described (Wikipedia lead) as a progressive Democrat.",
+  "primary_context": "2026: challenged from the left by self-described democratic socialist Matt Dodson (Air Force veteran, Farmington); Luján won the 2 Jun 2026 primary ~84-16%. No Republican qualified for the ballot; former oil-and-gas operator Larry Marker won the GOP nomination by write-in; Luján won the general ~63-37%, flipping four counties.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Supports the Green New Deal and developed a net-zero plan (Wikipedia). Conflicting evidence: in Feb 2021 he was one of seven Democrats who joined Republicans to block a fracking ban.",
+    "src": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 1,
+    "e": "Lead sponsor (with Klobuchar) of the Health Misinformation Act (23 Jul 2021), removing Section 230 protection for platforms whose algorithms promote health misinformation in a public-health emergency, with HHS defining misinformation: 'Online platforms must stop the spread of deadly misinformation.'",
+    "src": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-klobuchar-introduce-legislation-to-hold-digital-platforms-accountable-for-vaccine-and-other-health-related-misinformation/"
+   },
+   "L9": {
+    "v": 0,
+    "e": "Context only: in Jan 2026, after fatal shootings by federal agents in Minneapolis, said he would vote against DHS appropriations without oversight and accountability and demanded Kristi Noem's and Stephen Miller's removal; no abolish-ICE call found.",
+    "src": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only: voted for Sanders' Jan 2024 resolution to apply human-rights conditions to aid to Israel (one of 11) and for the Jul 2025 arms-block resolutions; no genocide language or embargo call found.",
+    "src": "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "In Feb 2021 was one of seven Democrats who voted with Republicans against a federal fracking ban - a pro-oil-and-gas vote reflecting New Mexico's energy economy.",
+    "src": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Senator since 2021 after 12 House years incl. DCCC chair and Assistant Speaker (office 3); BBA and mid-level state-finance career (cred 1); chaired a Commerce subcommittee, authored broadband, energy-training and health-misinformation bills (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: no record found of a 2026 debate with write-in Republican Larry Marker or primary challenger Matt Dodson (unverified; set neutral; search budget exhausted). Media: mainly New Mexico and mainstream outlets; 2025-26 town halls/hostile-outlet appearances not verified. Substance: states conditions for his votes in specific terms (e.g. DHS funding tied to oversight)."
+  },
+  "outside_support": [
+   "Planned Parenthood Action Fund",
+   "Latino Victory",
+   "J Street",
+   "LCV",
+   "Reproductive Freedom for All",
+   "AFGE",
+   "NEA",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "FEC 2026 cycle: small-dollar share 37.5% (typical); PAC share 32.1% (high)"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and DC statehood (bulk data)",
+   "Lead sponsor of the Health Misinformation Act targeting platform liability (https://www.lujan.senate.gov/newsroom/press-releases/lujan-klobuchar-introduce-legislation-to-hold-digital-platforms-accountable-for-vaccine-and-other-health-related-misinformation/)",
+   "Voted against a federal fracking ban (Feb 2021) while supporting the Green New Deal (https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n)",
+   "Opposed DHS funding without accountability after the Jan 2026 Minneapolis shootings (https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n)",
+   "Voted to condition and block some arms to Israel (2024-25) (https://zeteo.com/p/breaking-in-a-first-majority-of-democratic)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Luján's markers lean progressive - Medicare for All and DC statehood (bulk), Green New Deal support and a platform-liability misinformation bill (LI about 4) - offset only by a vote against a fracking ban (CI 1). With substantial experience but unverified debate/media engagement, he falls to step 5 nearest Category 1 as an imperfect fit; a party-establishment figure (former DCCC chair) rather than a movement-left one, who beat a democratic-socialist primary challenger.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
+   "https://www.lujan.senate.gov/newsroom/press-releases/lujan-klobuchar-introduce-legislation-to-hold-digital-platforms-accountable-for-vaccine-and-other-health-related-misinformation/",
+   "https://zeteo.com/p/breaking-in-a-first-majority-of-democratic"
+  ]
+ },
+ {
+  "id": "H001046",
+  "name": "Martin Heinrich",
+  "seat": "NM-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BS mechanical engineering, University of Missouri (1995); graduate coursework at University of New Mexico",
+   "career": "AmeriCorps fellow; executive director of the Cottonwood Gulch Foundation (1996-2001); founded a public-affairs consulting firm (2002)",
+   "prior_office": "Albuquerque City Council (2004-08, president 2006); NM Natural Resources Trustee (2006); US House NM-1 (2009-2013); US Senate (2013-present; JEC chair 2023-25; Energy & Natural Resources ranking member from 2025)"
+  },
+  "self_description": "Describes himself as an outdoorsman, hunter and gun owner; no explicit ideological label found. Pitches his bipartisan energy bill as delivering 'exactly what Americans told us they wanted on election day' (cheaper energy).",
+  "primary_context": "2024: unopposed in the Democratic primary; beat Republican Nella Domenici 55-45%. Not up again until 2030.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Co-sponsored the 2019 Green New Deal resolution (S.Res.59, 116th Congress). Conflicting evidence: in Feb 2021 was one of seven Democrats who joined Republicans to block a fracking ban.",
+    "src": "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only: voted for Sanders' Jan 2024 human-rights-conditions resolution (one of 11), the Nov 2024 arms-block resolutions, the Apr 2025 resolutions (one of 15) and Jul 2025; no genocide language or full-embargo call found.",
+    "src": "https://en.wikipedia.org/wiki/Martin_Heinrich"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0,
+    "e": "Context only: hunter and gun owner, former NRA member (NRA 'A' and endorsement in 2010), voted against regulating assault weapons in 2013; but later backed bump-stock and no-fly-list sales bans and gun-violence research. Mixed record.",
+    "src": "https://en.wikipedia.org/wiki/Martin_Heinrich"
+   },
+   "C7": {
+    "v": 0,
+    "e": "Context only: occasional crossover votes on nominees (Bernhardt for Interior 2019; one of two Democrats to advance Markwayne Mullin's DHS nomination, Mar 2026); Lugar Bipartisan Index mid-pack (56th of 98, 2023).",
+    "src": "https://en.wikipedia.org/wiki/Martin_Heinrich"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Lead author of the bipartisan permitting/energy 'American Affordability and Jobs Act' that advanced in the Senate in Nov 2026 (backed by Tom Steyer as 'our best chance to build clean energy at scale'); voted with Republicans against a fracking ban (Feb 2021); pushes Strategic Petroleum Reserve modernisation.",
+    "src": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrichs-bipartisan-american-affordability-and-jobs-act-passes-key-senate-vote"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Senator since 2013 after House and city-council service (office 3); engineering BS and nonprofit/consulting career, no advanced degree (cred 1); ENR ranking member, former JEC chair, lead author of a bipartisan permitting bill advancing in the Senate (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: could not establish whether he debated Nella Domenici in 2024 (unverified; set neutral; search budget exhausted). Media: regular New Mexico TV interviews (KOB, KRQE) and op-eds; 2025-26 town halls and hostile-outlet appearances not verified. Substance: argues energy/permitting trade-offs on the merits and courts progressive critics of his permitting deal."
+  },
+  "outside_support": [
+   "314 Action",
+   "End Citizens United",
+   "J Street PAC",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "LCV",
+   "NRDC",
+   "Planned Parenthood Action Fund",
+   "AFSCME Council 18",
+   "FEC 2024 cycle: small-dollar share 17.7% (large-donor funded); PAC share 18.7%"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and DC statehood (bulk); introduced a Puerto Rico statehood bill (2021) (https://en.wikipedia.org/wiki/Martin_Heinrich)",
+   "Lead author of the bipartisan American Affordability and Jobs Act on permitting/grid costs (Nov 2026) (https://www.heinrich.senate.gov/newsroom/press-releases/heinrichs-bipartisan-american-affordability-and-jobs-act-passes-key-senate-vote)",
+   "Co-sponsored the 2019 Green New Deal but voted against a fracking ban in 2021 (https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors)",
+   "Repeatedly voted to block or condition arms sales to Israel (2024-25) (https://en.wikipedia.org/wiki/Martin_Heinrich)",
+   "Called on Biden to withdraw from the 2024 race; member of the 'Fight Club' of senators pressing Schumer (https://en.wikipedia.org/wiki/Martin_Heinrich)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Heinrich has progressive co-sponsorships (Medicare for All, DC statehood, Green New Deal; LI about 3) but also a pro-supply energy agenda (bipartisan permitting bill, vote against a fracking ban; CI about 1) and a gun-owner profile. Neither threshold is met; with EPD 6 and EO about 3 (debate unverified), the step-5 rule places him nearest Category 1 as an imperfect fit - he could equally be read as a pragmatic western Democrat, hence low confidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Martin_Heinrich",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_New_Mexico",
+   "https://www.congress.gov/bill/116th-congress/senate-resolution/59/cosponsors",
+   "https://www.heinrich.senate.gov/newsroom/press-releases/heinrichs-bipartisan-american-affordability-and-jobs-act-passes-key-senate-vote",
+   "https://www.heinrich.senate.gov/newsroom/press-releases/tom-steyer-heinrichs-bipartisan-permitting-deal-is-our-best-chance-to-build-clean-energy-at-scale-with-urgency-climate-change-demands",
+   "https://www.heinrich.senate.gov/newsroom/press-releases",
+   "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
+  ]
+ }
+]

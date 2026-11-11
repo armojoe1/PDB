@@ -1,0 +1,543 @@
+[
+ {
+  "id": "S001159",
+  "name": "Marilyn Strickland",
+  "seat": "WA-10",
+  "call_status": "re-elected 2026 (general vs Chris D. Chung (R); Safe D; vote totals not yet posted in sources checked)",
+  "bio": {
+   "birth_year": 1962,
+   "education": "BA (business) University of Washington; MBA Clark Atlanta University",
+   "career": "Clerical work at Northern Life Insurance; manager of Starbucks online business; helped launch Tacoma's public broadband service (Click!); President/CEO, Seattle Metropolitan Chamber of Commerce 2018-2020",
+   "prior_office": "Tacoma City Council 2008-2010; Mayor of Tacoma 2010-2018; U.S. House 2021-present (Chief Deputy Whip; CBC Secretary 119th; New Dem Vice Chair & Whip 119th, Vice Chair for Communications 120th)"
+  },
+  "self_description": "No ideological label found in her own words. Campaign bio: 'Army brat. Two-term Mayor. Private sector leader & small business advocate.' At a March 2025 Rotary talk she said lawmakers must spend time 'with people outside of our political bubble' and 'find common ground where it still exists'. Wikipedia (citing 2020 coverage) says she has been described as a political moderate or centrist.",
+  "primary_context": "Aug 2026 top-two primary: Strickland 47.3%, Chris D. Chung (R) 31.4%, Alex Scheel (D, community organizer endorsed by CAIR Action) 10.3%, Adam Arafat (D) 9.4%. Two minor Democrats ran against her, one backed by CAIR Action, and drew about 20% between them. In 2020 she beat the more progressive state Rep. Beth Doglio (D) in the general.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0,
+    "e": "Context only, not scored: she called ICE tactics 'domestic terrorism' and ICE 'the President's personal police force' (Jan 2026), and framed her position as 'Reform ICE' (KOMO, Feb 2026). That is not abolish, and also not hawkish. Voted Nay on Laken Riley.",
+    "src": "https://strickland.house.gov/2026/02/04/strickland-on-komo-connect-to-congress-reform-ice/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Secured $960K for the Tacoma Police Department's Community Safety Officer program (2024). Said: 'To improve public safety, we must support local law enforcement... Police departments play a crucial role in keeping the South Sound safe.'",
+    "src": "https://strickland.house.gov/2024/09/04/strickland-delivers-960k-for-community-safety-officers/"
+   },
+   "C6": {
+    "v": 0,
+    "e": "Mixed, so scored 0. At a March 2025 Yelm town hall she agreed with GOP state Rep. Matt Marshall in backing the Second Amendment ('I'm down with that'), yet she is endorsed by the Alliance for Gun Responsibility. Fuse's progressive guide (2026) criticised her votes for two bills it says targeted trans youth. One she voted for, the minors' gender-care restriction for military dependents (most likely via an NDAA). The other is the sports bill, but roll-call data show she voted Nay on H.R. 28.",
+    "src": "https://strickland.house.gov/2025/04/01/marshall-strickland-voice-bipartisan-support-for-second-amendment-at-yelm-town-hall/"
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce (22 Jul 2026). Former Seattle Chamber CEO who opposed Seattle's employee head tax (2018). Introduced the bipartisan Build More Housing Near Transit Act, which rewards local upzoning and lower parking minimums.",
+    "src": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-marilyn-strickland-for-washingtons-tenth-district"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition leadership: Vice Chair & Whip (119th Congress); elected New Dem Vice Chair for Communications for the 120th Congress on 10 Nov 2026"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term Tacoma mayor and three-term House member. MBA, plus a senior private-sector role as Seattle Metropolitan Chamber CEO. H.R. 970, the Fairness for Servicemembers and their Families Act, became Public Law 119-54 (congress.gov). She is Chief Deputy Whip and sits on Armed Services and Transportation & Infrastructure."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate unverified. No record found of a 2026 debate with Chris Chung (R); Ballotpedia was not reachable and web search was unavailable. Media: an in-person Yelm community town hall alongside a conservative Republican state legislator (Mar 2025); a telephone town hall with 22,000 people (Mar 2025); a Seattle Rotary Q&A pitched at 'people outside of our political bubble'; a KOMO (Sinclair) 'Connect to Congress' interview (Feb 2026); a Forbes Breaking News clip. No Fox News appearances found. Statements engage policy substance (housing, military pay, DHS accountability)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "U.S. Chamber of Commerce",
+   "Washington State Labor Council",
+   "Planned Parenthood Action Fund",
+   "National Women's Political Caucus",
+   "WFSE Council 28",
+   "Washington Education Association",
+   "Alliance for Gun Responsibility",
+   "Fuse Progressive Voters Guide (recommended, with criticism)",
+   "FEC: small-dollar share 0.077, PAC share of receipts 0.46 (large-donor/PAC funded)"
+  ],
+  "notable_positions": [
+   "Called DHS/ICE operations 'domestic terrorism' and ICE 'the President's personal police force', but framed her position as 'Reform ICE' (Jan-Feb 2026) (https://strickland.house.gov/2026/01/14/strickland-criticizes-trump-administration-over-ice-actions/)",
+   "As Seattle Chamber CEO, opposed Seattle's employee head tax (2018) (https://mynorthwest.com/940358/head-tax-seattle-businesses/)",
+   "Bipartisan Build More Housing Near Transit Act, which ties transit grants to local pro-housing zoning (2023) (https://strickland.house.gov/2023/11/11/media-press-releases-strickland-reintroduces-bipartisan-bicameral-bill-tackle-americas-housing/)",
+   "On Gaza (Apr 2024): urged the IDF to 'do more to minimize the deaths of innocent Palestinian civilians' while saying the 'easiest path' is for Hamas to surrender. Signed a statement rejecting 'from the river to the sea'. AIPAC- and DMFI-endorsed (https://strickland.house.gov/2024/04/12/media-press-releases-strickland-statement-war-between-israel-and-hamas/)",
+   "Voiced support for the Second Amendment at a Yelm town hall with a GOP legislator: 'I'm down with that' (Mar 2025) (https://strickland.house.gov/2025/04/01/marshall-strickland-voice-bipartisan-support-for-second-amendment-at-yelm-town-hall/)",
+   "Post-election (Nov 2026): would vote to impeach Defense Secretary Hegseth, but doesn't want impeachment 'to turn into a media circus'. Priority is 'lowering costs, ending corruption' (https://strickland.house.gov/2026/11/05/impeach-trump-work-with-him-washington-democrats-consider-what-to-do-with-new-majorities-in-congress/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "She is a pro-business New Democrat leader: former Chamber of Commerce CEO, endorsed by the U.S. Chamber and AIPAC, publicly backs funding police, and has almost no left markers (only DC statehood from bulk data). Her centrist index comes to about 3, below the Cat 4 threshold of 5. She lands in Cat 4 only through the step-5 tie-break (credentialed, engaged, CI > LI), so this is an imperfect fit. Her votes against Laken Riley, the trans-sports bill and the Nov 2025 CR keep her inside the party mainstream.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marilyn_Strickland",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "https://stricklandforwashington.com/about/",
+   "https://stricklandforwashington.com/priorities/",
+   "https://stricklandforwashington.com/archive/",
+   "https://strickland.house.gov/2026/11/10/strickland-elected-vice-chair-for-communications-for-the-new-democrat-coalition/",
+   "https://strickland.house.gov/2026/02/04/strickland-on-komo-connect-to-congress-reform-ice/",
+   "https://strickland.house.gov/2026/01/13/strickland-speaks-out-against-trump-weaponization-of-ice/",
+   "https://strickland.house.gov/2026/01/14/strickland-criticizes-trump-administration-over-ice-actions/",
+   "https://strickland.house.gov/2024/09/04/strickland-delivers-960k-for-community-safety-officers/",
+   "https://strickland.house.gov/2025/04/01/marshall-strickland-voice-bipartisan-support-for-second-amendment-at-yelm-town-hall/",
+   "https://strickland.house.gov/2025/03/26/strickland-hosts-her-largest-telephone-townhall-ever/",
+   "https://strickland.house.gov/2025/03/25/rep-marilyn-strickland-talks-housing-immigration-challenges-and-solutions-at-rotary-club-meeting/",
+   "https://strickland.house.gov/2024/04/12/media-press-releases-strickland-statement-war-between-israel-and-hamas/",
+   "https://strickland.house.gov/2026/11/05/impeach-trump-work-with-him-washington-democrats-consider-what-to-do-with-new-majorities-in-congress/",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-marilyn-strickland-for-washingtons-tenth-district",
+   "https://mynorthwest.com/940358/head-tax-seattle-businesses/",
+   "https://progressivevotersguide.com/washington/2026/general/marilyn-strickland",
+   "https://www.congress.gov/member/marilyn-strickland/S001159"
+  ]
+ },
+ {
+  "id": "P000607",
+  "name": "Mark Pocan",
+  "seat": "WI-2",
+  "call_status": "re-elected 2026 (no Republican filed; effectively unopposed in the general)",
+  "bio": {
+   "birth_year": 1964,
+   "education": "BA (journalism) University of Wisconsin-Madison, 1986",
+   "career": "Founder and owner of Budget Signs & Specialties, a Madison printing business. AFL-CIO member",
+   "prior_office": "Dane County Board of Supervisors 1991-1996; Wisconsin State Assembly 1999-2013 (Joint Finance Committee co-chair); U.S. House 2013-present (Congressional Progressive Caucus co-chair 2017-2021; Appropriations; Foreign Affairs from 2026)"
+  },
+  "self_description": "Identifies as a progressive Democrat (Wikipedia). Calls himself an opponent of 'corporate power' and of corporations 'that get too big'. Former CPC co-chair; endorsed Bernie Sanders for president in 2020.",
+  "primary_context": "Aug 2026 Democratic primary: beat Douglas Alexander 87.9%-11.9%. No Republican filed for the general (WXOW, June 2026).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Authored the Food and Agribusiness Merger Moratorium and Antitrust Review Act, an 'immediate moratorium on large acquisitions and mergers' in food and agriculture. The 2019 version made the halt 'indefinite'; he reintroduced it in 2022. This is a statutory anti-concentration measure beyond the party mainstream.",
+    "src": "https://pocan.house.gov/media-center/press-releases/pocan-reintroduces-bill-to-halt-large-ag-mergers-immediately"
+   },
+   "L7": {
+    "v": 1,
+    "e": "Jan 2026 letters urged UW Health and Children's Wisconsin to 'immediately resume' gender-affirming care for patients under 18. Said 'Restricting access to medical care for transgender youth... endangers their health', which is opposition to age restrictions on minors' care.",
+    "src": "https://pocan.house.gov/media-center/press-releases/pocan-urges-wi-hospitals-resume-providing-gender-affirming-care"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "June 2018: announced legislation to abolish ICE; introduced the Establishing a Humane Immigration Enforcement System Act with Jayapal and Espaillat in July 2018. In 2026 says ICE 'has waged a campaign of fear and terror'.",
+    "src": "https://www.usatoday.com/story/news/politics/2018/07/12/democrats-introduce-abolish-ice-bill/780906002/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Our Revolution (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Thirteen years in the Assembly, including Joint Finance co-chair, and seven House terms. BA plus small-business owner. Authored the 21st Century President Act (Public Law 117-272). Former CPC co-chair and an Appropriations Committee member."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: no Republican filed in 2026, so there was no general-election debate. A primary debate with Douglas Alexander is unverified, so scored neutral 1. Media: holds open town halls, including a March 2025 Belmont (Lafayette County) event near GOP-held WI-3 where he welcomed constituents 'even those who disagree with me'. Publicly offered (Feb 2025) to join WI GOP members at public town halls to debate Medicaid and food-aid cuts. His press releases argue with specific figures. Caveat: in June 2025 he told Stephen Miller to 'go back to 1930's Germany' and said he would not engage the 'racist base of the GOP' (Politico). No Fox appearances verified."
+  },
+  "outside_support": [
+   "Wisconsin AFL-CIO",
+   "UAW",
+   "Our Revolution",
+   "Progressive Democrats of America",
+   "J Street",
+   "Track AIPAC",
+   "Citizens Against AIPAC Corruption",
+   "End Citizens United",
+   "Human Rights Campaign",
+   "LGBTQ Victory Fund",
+   "Equality PAC",
+   "Fair Wisconsin",
+   "Planned Parenthood Action Fund",
+   "Sierra Club",
+   "Peace Action",
+   "FEC: small-dollar share 0.332 (typical), PAC share of receipts 0.53"
+  ],
+  "notable_positions": [
+   "Introduced legislation to abolish ICE and replace it with a 'humane immigration enforcement system' (2018) (https://pocan.house.gov/media-center/press-releases/following-trip-to-southern-border-pocan-to-introduce-legislation-that)",
+   "Urged Wisconsin hospitals to resume gender-affirming care for minors (Jan 2026) (https://pocan.house.gov/media-center/press-releases/pocan-urges-wi-hospitals-resume-providing-gender-affirming-care)",
+   "Authored an indefinite moratorium on large food and agribusiness mergers (2019, 2022) (https://pocan.house.gov/media-center/press-releases/pocan-reintroduces-bill-to-halt-large-ag-mergers-immediately)",
+   "Co-sponsor of Medicare for All and the Block the Bombs to Israel Act. Skipped Netanyahu's 2024 address. Called the U.S. energy embargo on Cuba a 'silent Gaza' after a July 2026 Havana visit (https://en.wikipedia.org/wiki/Mark_Pocan)",
+   "Defense Spending Reduction Caucus: opposes 'trillion dollar' defense budgets. Co-led the Audit the Pentagon Act with Rep. Biggs (R) (https://pocan.house.gov/media-center/press-releases/pocan-rejects-trillion-dollar-defense-budget)",
+   "Holds open town halls near GOP-held districts and challenged Wisconsin Republicans to debate Medicaid cuts publicly (2025) (https://pocan.house.gov/media-center/press-releases/pocan-offers-join-public-town-halls-debate-wi-gop-members-who-voted)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "From bulk data he co-sponsors Medicare for All, the Green New Deal, DC statehood and Block the Bombs. His own record adds an abolish-ICE bill, opposition to restrictions on minors' gender care, an indefinite agribusiness merger moratorium, and a 2026 Our Revolution endorsement. That gives LI of about 8, well above the Cat 1 threshold, with no centrist markers. He is a former CPC co-chair and a long-standing movement-left figure, though he also engages opponents in open town halls.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Pocan",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "https://ourrevolution.com/mark-pocan-for-congress-in-wisconsins-2nd-district",
+   "https://www.wxow.com/news/wisconsin-politics/june-surprise-no-republican-files-to-run-against-pocan-in-2nd-congressional-district/article_19e86db1-8285-5ea9-a9dd-057ce7017165.html",
+   "https://pocan.house.gov/media-center/press-releases/pocan-urges-wi-hospitals-resume-providing-gender-affirming-care",
+   "https://pocan.house.gov/media-center/press-releases/pocan-reintroduces-bill-to-halt-large-ag-mergers-immediately",
+   "https://pocan.house.gov/media-center/press-releases/following-trip-to-southern-border-pocan-to-introduce-legislation-that",
+   "https://www.usatoday.com/story/news/politics/2018/07/12/democrats-introduce-abolish-ice-bill/780906002/",
+   "https://pocan.house.gov/media-center/press-releases/pocan-host-town-hall-lafayette-county",
+   "https://pocan.house.gov/media-center/press-releases/pocan-offers-join-public-town-halls-debate-wi-gop-members-who-voted",
+   "https://pocan.house.gov/media-center/press-releases/pocan-statement-ice-illegally-holding-salah-sarsour-more-week",
+   "https://pocan.house.gov/media-center/press-releases/pocan-moore-statement-ice-visit-dodge-county-wi",
+   "https://pocan.house.gov/media-center/press-releases/pocan-introduce-tax-grift-act",
+   "https://www.politico.com/news/2025/06/26/mark-pocan-stephen-miller-00427251",
+   "https://www.congress.gov/member/mark-pocan/P000607",
+   "https://pocanforcongress.com/"
+  ]
+ },
+ {
+  "id": "M001160",
+  "name": "Gwen Moore",
+  "seat": "WI-4",
+  "call_status": "re-elected 2026 (80.0% vs Tim Rogers (R) 17.5%)",
+  "bio": {
+   "birth_year": 1951,
+   "education": "BA (political science) Marquette University, 1973",
+   "career": "AmeriCorps VISTA organizer who helped found the Cream City Community Development Credit Union; City of Milwaukee neighborhood development strategist; housing officer at WHEDA (Wisconsin's housing finance authority)",
+   "prior_office": "Wisconsin State Assembly 1989-1993; Wisconsin State Senate 1993-2005; U.S. House 2005-present (Ways and Means Committee)"
+  },
+  "self_description": "No explicit ideological self-label found. CPC member. Wikipedia describes her legislative focus as 'traditional Democratic and progressive issues', with the federal government playing 'a significant role in the amelioration of poverty'.",
+  "primary_context": "Aug 2026 Democratic primary: beat Amy Donahue 71.9%-27.9%, a challenge from the left. Donahue is a Milwaukee DSA member who ran on Medicare for All and Block the Bombs and spoke of 'genocide' in Gaza.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "Jan 2025 statement opposing H.R. 28: 'Trans children have a right to exist as they are and participate in the sports they enjoy with their peers.' Says many programs are inclusive of trans people.",
+    "src": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5496"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Context only, not scored: she calls ICE 'a rogue agency', 'refused to give this out-of-control agency one more penny' and demands 'serious reforms'. She stops short of abolish/defund (Jun-Jul 2026).",
+    "src": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5952"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Context only, not scored: her Gaza statements (Aug 2025, Oct 2025) condemn the planned full occupation and the weaponization of food, and back the ceasefire framework. No 'genocide' language or arms-embargo call found. Not a Block the Bombs co-sponsor (bulk data).",
+    "src": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5724"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Sixteen years in the state legislature and eleven House terms. BA plus a community-development and housing-finance career. Senior Ways and Means member. Her Survivor Justice Tax Prevention Act passed the House in April 2026, and Scarlett's Sunshine on SUID Act passed the House in 2019."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debates unverified: no record found of a debate with Amy Donahue (primary) or Tim Rogers (general) in a safe D+ seat, so scored neutral 1. Media: local TV and newspaper interviews and op-eds, including WI outlets on the budget bill and the Dodge County jail ICE visit. No town halls in 2025-26 or hostile-outlet appearances found on her official site. Statements engage policy specifics (EITC, Medicaid and FoodShare cuts, ICE detention conditions), though they lean on partisan framing such as 'Big Bonanza for Billionaires'."
+  },
+  "outside_support": [
+   "Wisconsin AFL-CIO",
+   "UAW",
+   "Fair Wisconsin",
+   "J Street",
+   "Planned Parenthood Action Fund",
+   "Sierra Club",
+   "Shepherd Express (newspaper)",
+   "FEC: small-dollar share 0.097, PAC share of receipts 0.67 (large-donor/PAC funded)"
+  ],
+  "notable_positions": [
+   "Opposed the trans sports bill, saying trans children should 'participate in the sports they enjoy with their peers' (Jan 2025) (https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5496)",
+   "Voted against more ICE/CBP funding, calling ICE 'a rogue agency' and demanding reforms (Jun-Jul 2026) (https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5945)",
+   "Gaza: opposed Netanyahu's full-occupation plan and the weaponization of food, and backs the ceasefire framework, but no genocide or embargo language (2025) (https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5724)",
+   "Ways and Means anti-poverty focus: EITC expansion (2025) and EITC Age Parity Act (Nov 2026) (https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5995)",
+   "Voted against the 2023 Fiscal Responsibility Act debt-limit deal, as one of 46 Democrats (https://en.wikipedia.org/wiki/Gwen_Moore)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "She is a long-serving CPC member with a progressive voting record, but few movement-left markers: GND co-sponsorship and DC statehood from bulk data, plus trans-sports inclusion. That puts LI at about 3, short of the Cat 1 threshold of 6. She is not a 119th Medicare for All or Block the Bombs co-sponsor and beat a DSA-member challenger from her left. She is credentialed (EPD 6) and EO scores a neutral 3 on unverified debates, so the step-5 tie-break (LI > CI = 0) puts her in Cat 1, an imperfect fit. If she in fact skipped debates (EO ≤ 2) she would fall to Cat 3.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gwen_Moore",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "https://urbanmilwaukee.com/pressrelease/amy-donahue-is-officially-running-for-congressional-district-4/",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5496",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5724",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5780",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5945",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5952",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5924",
+   "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5995",
+   "https://gwenmoore.house.gov/news/documentquery.aspx?DocumentTypeID=1951",
+   "https://www.congress.gov/member/gwen-moore/M001160"
+  ]
+ },
+ {
+  "id": "NEW-NC5",
+  "name": "Chuck Hubbard",
+  "seat": "NC-5",
+  "call_status": "uncalled. Unofficial results: Hubbard 139,672 (48.74%) vs Foxx (R, incumbent) 139,347 (48.62%), a lead of about 325 votes; WFMY on 5 Nov reported the lead as 99 votes before later counts. Foxx says the count isn't over, and a recount is expected since the margin is far inside NC's recount range.",
+  "bio": {
+   "birth_year": 1962,
+   "education": "BA Wofford College",
+   "career": "More than 40 years as a local journalist at the Wilkes Journal-Patriot, the family paper founded by his grandfather. Boards of Wilkes Recovery Revolution, Wilkes Child Abuse Prevention Team and Wilkes Prison Ministry. Eagle Scout",
+   "prior_office": "none (2024 Democratic nominee for NC-5; lost to Foxx by about 19 points)"
+  },
+  "self_description": "Campaign site: 'Chuck never let his personal beliefs influence his reporting. In Congress, he'll take that same mindset, rejecting political theater and focusing on what's important – improving the lives of the folks back home.' No ideological label found. Birth year is approximate: 1961 or 1962 (age 64 in Nov 2026).",
+  "primary_context": "March 2026 Democratic primary: beat Kyah Creekmore 56.7%-43.3%. Creekmore was a retail worker and activist endorsed by Winston-Salem DSA and Track AIPAC. Hubbard was endorsed by former Rep. Kathy Manning (NC-6) and the Young Democrats of NC, so he was the non-DSA candidate.",
+  "L": {
+   "L1": {
+    "v": 0,
+    "e": "Context only, not scored: platform says 'we must shift the tax base more to rich people and wealth[y] corporations', a generic statement that does not reach the L1 threshold.",
+    "src": "https://hubbardforcongress.com/platform"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Context only, not scored: backs 'a government option that can be used to support health care infrastructure in rural areas', which is a public option, not single payer.",
+    "src": "https://hubbardforcongress.com/platform"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior office. BA plus a long local-journalism career at a family-owned weekly. The platform has some concrete items: raise the minimum wage, ban congressional stock trading, overturn Citizens United, a public health option, an independent Epstein-files investigation, and FEMA transparency on Helene funds. Few numbers or bill names."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: no record found of a Hubbard-Foxx debate in 2024 or 2026, and web search was unavailable, so scored neutral 1. Media: local outlets only (Wilkes Journal-Patriot, WFMY 'Meet the Candidates', NC Health News profile, NC Newsline). No hostile-outlet appearances found. His campaign's Foxx page calls her 'a dangerous extremist' but backs this with a list of specific votes."
+  },
+  "outside_support": [
+   "Equality NC PAC",
+   "Young Democrats of North Carolina",
+   "Former Rep. Kathy Manning",
+   "FEC: raised $863,260 through 14 Oct 2026. Small-dollar share 0.572 ($491,029 unitemized of $858,308 individual), so high and base-funded. PAC contributions only $1,850"
+  ],
+  "notable_positions": [
+   "Wants a public 'government option' for health care to support rural hospitals and keep prices low (https://hubbardforcongress.com/platform)",
+   "'We need to raise the minimum wage' and 'shift the tax base more to rich people and wealth[y] corporations' (https://hubbardforcongress.com/platform)",
+   "Ban members of Congress from trading stocks and push to overturn Citizens United (https://hubbardforcongress.com/platform)",
+   "Codify abortion rights nationally: 'should have been codified into law nationally long ago' (https://hubbardforcongress.com/platform)",
+   "Demands 'fierce transparency' from FEMA on Hurricane Helene recovery funds (https://hubbardforcongress.com/platform)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "A first-time officeholder (if his narrow lead holds) with no prior office and a thin, mostly generic platform, so EPD is 2. He is clearly in the Cat 2 band under the decision sequence. No left-movement or centrist-coalition markers were found, and he beat a DSA-endorsed primary rival. His funding is unusually small-dollar heavy (57%). The race is not called and faces a likely recount.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chuck_Hubbard",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://hubbardforcongress.com/",
+   "https://hubbardforcongress.com/platform",
+   "https://hubbardforcongress.com/about",
+   "https://hubbardforcongress.com/virginia-foxx",
+   "https://www.northcarolinahealthnews.org/govpack_profiles/chuck-hubbard-2/",
+   "https://www.journalpatriot.com/news/hubbard-candidate-for-congress-again/article_ae4aa6bb-2576-5876-afa2-707e56a0e538.html",
+   "https://www.yahoo.com/news/politics/articles/nc-rep-virginia-foxx-loses-053802596.html",
+   "https://www.wfmynews2.com/article/news/politics/elections/chuck-hubbard-leads-virginia-foxx-99-votes-nc-5th-district-recount-likely-us-house-race/83-6d8668b3-b58f-4144-9d82-95f97295e846",
+   "https://ncnewsline.com/2026/11/04/us-rep-virginia-foxx-says-vote-count-isnt-over-as-she-trails-dem-in-ncs-5th-district/",
+   "https://www.fec.gov/data/candidate/H4NC05294/?cycle=2026",
+   "https://equalityncpac.org/2026-endorsements/"
+  ]
+ }
+]

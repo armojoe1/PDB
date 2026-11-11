@@ -1,0 +1,1890 @@
+[
+ {
+  "id": "T000468",
+  "name": "Dina Titus",
+  "seat": "NV-01",
+  "call_status": "re-elected 2026 (59.2% to 37.7% over state Sen. Carrie Buck (R), 99% reporting)",
+  "bio": {
+   "birth_year": 1950,
+   "education": "BA College of William & Mary; MA University of Georgia; PhD Florida State University",
+   "career": "Political science professor at UNLV for about three decades; author of books on atomic testing and Nevada federal-state relations",
+   "prior_office": "Nevada State Senate 1989-2008 (minority leader); Democratic nominee for governor 2006; U.S. House NV-3 2009-2011; NV-1 2013-present"
+  },
+  "self_description": "No explicit ideological label found. Lists membership in the Medicare for All Caucus (Wikipedia caucus list) and campaigned in 2026 on affordability, tariffs and Medicaid.",
+  "primary_context": "Won the 9 Jun 2026 Democratic primary easily over minor challengers Gabriel Cornejo, Joy Hoover and Luis Paniagua. In 2022 she beat progressive Amy Vilela about 80-20.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "In the 2026 Nevada Independent questionnaire she opposed reducing U.S. support for Israel, calling it an ally that remains 'a democracy that upholds our interests'.",
+    "src": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senior House member since 2009/2013, plus 20 years in the state senate (office 3). PhD and a long academic career (cred 2). Ranking member of the T&I Railroads, Pipelines and Hazardous Materials Subcommittee and of the House Democracy Partnership (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified: no report of a Titus-Buck debate was found in Nevada Independent, Ballotpedia News or other coverage (NV Independent ran questionnaire comparisons only). Media is mostly local TV and statements; she gave sharp TV interviews on ICE in Dec 2025, criticised by the conservative Nevada Globe. No Fox News or hostile-outlet appearances were documented. She answered the issue questionnaire with specific positions (substance 1)."
+  },
+  "outside_support": [
+   "DCCC Frontline",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "EMILY's List",
+   "LCV Action Fund",
+   "NEA",
+   "Professional Firefighters of Nevada",
+   "Progressive Leadership Alliance of Nevada Action",
+   "Giffords",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "NOW PAC"
+  ],
+  "notable_positions": [
+   "Co-sponsor of the Medicare for All Act (H.R.3069, 119th) and a Medicare for All Caucus member (bulk data; https://en.wikipedia.org/wiki/Dina_Titus)",
+   "Voted Yea on the Laken Riley Act, Jan 2025 (bulk data)",
+   "Opposed the $70bn ICE add-on as a 'blank check': 'ICE does not need more money; it needs reform'. Compared ICE agents to 'secret police' in Jan 2026 (https://capitolreleases.com/house/titus-dina)",
+   "Opposes reducing U.S. support for Israel; calls Medicaid work requirements 'a ploy' to cut the rolls (https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district)",
+   "Calls the 2026 Iran war one with 'no defined purpose and no end in sight'; says tariffs drove up the cost of living (https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A mainstream senior Democrat. Her left markers come from bulk co-sponsorships (Medicare for All, DC statehood) and her only centrist marker is the Laken Riley vote, so both indices are low. She is highly credentialed (EPD 7) and her debate record is unverified. On the rubric this is an imperfect step-5 fit: LI 2 narrowly exceeds CI 1, which points to Cat 1, though nothing marks her as movement-left.",
+  "sources": [
+   "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+   "https://news.ballotpedia.org/2026/08/26/democratic-and-republican-campaign-committees-target-nevadas-1st-congressional-district/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "https://en.wikipedia.org/wiki/Dina_Titus",
+   "https://capitolreleases.com/house/titus-dina"
+  ]
+ },
+ {
+  "id": "L000590",
+  "name": "Susie Lee",
+  "seat": "NV-03",
+  "call_status": "re-elected 2026 (59.6% to 38.1% over Marty O'Donnell (R), 99% reporting)",
+  "bio": {
+   "birth_year": 1966,
+   "education": "BA policy management and MS public management, Carnegie Mellon University",
+   "career": "Education-nonprofit leader in Las Vegas (Communities In Schools of Nevada, After-School All-Stars)",
+   "prior_office": "No office before Congress; U.S. House NV-3 2019-present; House Democrats' Battleground Leadership Representative (elected Nov 2024); Appropriations Committee"
+  },
+  "self_description": "Describes herself as a centrist (Wikipedia, citing the Las Vegas Review-Journal). Vice chair of the Problem Solvers Caucus and a New Democrat. Signed the anti-socialist 'Promise to America' pledge in June 2026 ('We are capitalist, not socialist').",
+  "primary_context": "Won the June 2026 primary over cardiologist James Lally, who ran to her left (Track AIPAC backed him), and Brandon West.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Opposes reducing U.S. support for Israel: 'The U.S.-Israel alliance must continue to remain strong' (she also voiced concern about Gaza and the West Bank).",
+    "src": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Opposes raising federal tax rates and backs 'no tax on tips and no tax on overtime' (NV Independent 2026). Signed the Promise to America, whose fiscal plank reads 'We are responsible, not reckless'. No wealth-tax support found.",
+    "src": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Beyond the Laken Riley Yea vote: 'if you're here illegally and you commit a crime, you should be deported'. She promoted a 2024 border-security plan and backs stricter enforcement alongside legal pathways (Dignity Act).",
+    "src": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Ranked 7th most bipartisan House member in the Lugar Center/McCourt Bipartisan Index for 2023 (10th for 2021). Among House Democrats who broke with the party most often (CQ). Signed the June 2026 anti-socialist Promise to America pledge.",
+    "src": "https://susielee.house.gov/media/press-releases/rep-susie-lee-recognized-one-top-10-most-bipartisan-members-us-house"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce for re-election in 2026.",
+    "src": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-susie-lee-for-nevadas-third-congressional-district"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member",
+   "Problem Solvers Caucus vice chair",
+   "Promise to America signer (centrist pledge led by Suozzi/Gray; https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "House member since 2019 (office 3). Master's in public management from CMU and a long run as a nonprofit executive (cred 2). Appropriations member, Battleground Leadership Representative in the caucus leadership, and sponsor of the bipartisan LWCF permanent-funding push (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate with O'Donnell unverified: none was found in NV Independent, News 3 or Fox5 coverage, which used separate candidate interviews (News 3 voter-questions segment, 29 Oct 2026). She historically pushed for debates (challenged Tarkanian to 2 TV debates in 2018; her 2022 opponent declined a KLAS debate). Media is mainly local TV interviews (KSNV, Fox5 Vegas 'Got a Minute'). She gives specific positions in interviews (substance 1)."
+  },
+  "outside_support": [
+   "U.S. Chamber of Commerce",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "EMILY's List",
+   "NEA",
+   "Professional Firefighters of Nevada",
+   "LCV Action Fund",
+   "Giffords",
+   "Brady",
+   "Planned Parenthood Action Fund",
+   "Wes Moore (personal)"
+  ],
+  "notable_positions": [
+   "Voted Yea on the Laken Riley Act; supports the bipartisan Dignity Act (https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues)",
+   "Opposes raising federal tax rates; backs no tax on tips/overtime; voted against the OBBBA over Medicaid cuts (https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues)",
+   "Top-10 in the Lugar Center Bipartisan Index (https://susielee.house.gov/media/press-releases/rep-susie-lee-recognized-one-top-10-most-bipartisan-members-us-house)",
+   "Signed the June 2026 'Promise to America' pro-capitalist, anti-socialist pledge (https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html)",
+   "Voted for Iran war-powers resolutions; opposes the SAVE America Act (https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "A self-described centrist and Problem Solvers vice chair with a top-10 Lugar bipartisanship ranking and a U.S. Chamber endorsement. She opposes tax-rate increases, voted for Laken Riley, and signed the 2026 anti-socialist Promise to America pledge. CI is about 6-7 and LI is 0, so she clears the Cat 4 test comfortably.",
+  "sources": [
+   "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "https://en.wikipedia.org/wiki/Susie_Lee",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-susie-lee-for-nevadas-third-congressional-district",
+   "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html",
+   "https://news3lv.com/news/local/news-3-asks-voter-questions-to-nv-03-candidates-rep-susie-lee-and-marty-odonnell"
+  ]
+ },
+ {
+  "id": "H001066",
+  "name": "Steven Horsford",
+  "seat": "NV-04",
+  "call_status": "re-elected 2026 (60.4% to 37.7% over Cody Whipple (R), 99% reporting)",
+  "bio": {
+   "birth_year": 1973,
+   "education": "BA University of Nevada, Reno (completed 2014)",
+   "career": "CEO of the Culinary Training Academy (Culinary Union job-training programme); earlier at R&R Partners",
+   "prior_office": "Nevada Senate 2005-2013 (Majority Leader 2009-2013); U.S. House 2013-2015 and 2019-present; Chair of the Congressional Black Caucus 2023-2025; Ways and Means"
+  },
+  "self_description": "No explicit ideological label found. Bulk data lists him in the Progressive Caucus, New Democrat Coalition and Problem Solvers Caucus at once. His CBC chairmanship centred on a 'Black Wealth Agenda'.",
+  "primary_context": "Unopposed in the 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)",
+   "Problem Solvers Caucus member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Former state Senate majority leader and multi-term House member (office 3). BA plus a senior non-profit/training-academy CEO role (cred 1, conservatively). Ways and Means member, former CBC chair, and author of the RELIEF Act tariff-refund bill and the FULL HOUSE Act (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate with Whipple unverified: none found, and NV Independent and KSNV ran separate questionnaires/interviews. Media is mainly local TV (Fox5 Vegas 'Got a Minute', KSNV). He answered the Nevada Independent questionnaire with nuanced answers ('not a yes or no answer') (substance 1)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Black Economic Alliance PAC",
+   "Brady",
+   "Giffords",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "LCV Action Fund",
+   "Planned Parenthood Action Fund",
+   "Progressive Leadership Alliance of Nevada Action",
+   "NEA",
+   "Professional Firefighters of Nevada",
+   "Wes Moore (personal)"
+  ],
+  "notable_positions": [
+   "Co-sponsor of the Block the Bombs to Israel Act (bulk), yet AIPAC-endorsed in 2026. Says 'support cannot mean a blank check for Netanyahu's government' and backs Iron Dome (https://thenevadaindependent.com/article/where-do-the-candidates-in-nevadas-4th-congressional-district-stand-on-the-issues)",
+   "'I do not support across-the-board tax increases'; would raise taxes 'on billionaires and mega-corporations' (https://thenevadaindependent.com/article/where-do-the-candidates-in-nevadas-4th-congressional-district-stand-on-the-issues)",
+   "Voted Yea on the Laken Riley Act; 'Deporting every undocumented immigrant is not serious policy' but supports 'securing the border and removing dangerous criminals' (https://thenevadaindependent.com/article/where-do-the-candidates-in-nevadas-4th-congressional-district-stand-on-the-issues)",
+   "Introduced the RELIEF Act to refund tariff costs to small businesses; opposes the Iran war (https://thenevadaindependent.com/article/where-do-the-candidates-in-nevadas-4th-congressional-district-stand-on-the-issues)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Horsford's markers cut both ways. He co-sponsored Block the Bombs and DC statehood (LI 2) but sits in the New Dem and Problem Solvers caucuses, voted for Laken Riley, and opposes across-the-board tax increases (CI about 3). He is credentialed (EPD 6) and his debate record is unverified, so this is an imperfect step-5 fit. CI slightly exceeds LI, which points to Cat 4, but he is really a mainstream labour-aligned Democrat.",
+  "sources": [
+   "https://thenevadaindependent.com/article/where-do-the-candidates-in-nevadas-4th-congressional-district-stand-on-the-issues",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "https://en.wikipedia.org/wiki/Steven_Horsford",
+   "https://horsford.house.gov/media/press-releases"
+  ]
+ },
+ {
+  "id": "S001201",
+  "name": "Thomas R. Suozzi",
+  "seat": "NY-03",
+  "call_status": "re-elected 2026 (54.8% to 44.9% over Mike LiPetri (R), 97% reporting)",
+  "bio": {
+   "birth_year": 1962,
+   "education": "BS accounting, Boston College; JD Fordham University",
+   "career": "CPA and attorney (Harris Beach, of counsel); consultant to Cablevision and Lazard; co-chair at Actum (2023)",
+   "prior_office": "Mayor of Glen Cove 1994-2001; Nassau County Executive 2002-2009; U.S. House 2017-2023 and Feb 2024-present; ran for governor 2006 and 2022 (lost primaries)"
+  },
+  "self_description": "Positions himself as a moderate, 'common sense' Democrat. He leads the 'Promise to America' centrist pledge ('we're for capitalism, not socialism. We're for safety, not lawlessness'), launched at WelcomeFest in June 2026.",
+  "primary_context": "Won the 2026 Democratic primary with 79.6% over public defender Danielle Welch, who ran to his left (backed by Showing Up for Racial Justice).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Built his reputation on rescuing Nassau County's finances (cut spending and debt, 11 bond upgrades). Co-leads the 2026 Promise to America, whose fiscal plank is 'We are responsible, not reckless'. No wealth-tax or rate-hike support found; his tax focus is restoring the SALT deduction.",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Co-chair of the Democrats for Border Security Task Force; campaigned on border security in the 2024 special election; voted Yea on Laken Riley and for the Jan 2026 DHS/ICE funding bill (later said he regretted the ICE vote after the Pretti killing).",
+    "src": "https://en.wikipedia.org/wiki/Tom_Suozzi"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "After the 2024 election he criticised the party's stance on transgender participation in girls' sports and a 'general attack on traditional values'.",
+    "src": "https://www.cityandstateny.com/politics/2024/11/suozzi-says-democrats-lost-votes-supporting-biological-boys-playing-girls-sports-teams/400930/"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Democratic co-chair of the bipartisan Problem Solvers Caucus (Jan 2025). Voted with Republicans to end the Nov 2025 shutdown (bulk). Launched the anti-socialist Promise to America to counter DSA candidates and promoted it on Fox & Friends.",
+    "src": "https://suozzi.house.gov/media/press-releases/suozzi-elected-chair-bipartisan-problem-solvers-caucus"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce in 2026. The Promise to America plank: 'We are capitalist, not socialist'.",
+    "src": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-tom-suozzi-for-new-yorks-third-district"
+   }
+  },
+  "C1_endorsements": [
+   "WelcomePAC (2026 endorsement: https://www.welcomestack.org/p/the-tom-suozzi-endorsement/)",
+   "Problem Solvers Caucus (Democratic co-chair)",
+   "New Democrat Coalition member (Wikipedia caucus list)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former county executive and multi-term House member (office 3). JD and CPA (cred 2). Ways and Means Tax Subcommittee, SALT Caucus co-chair, Problem Solvers co-chair (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 general-election debate with LiPetri unverified (none found; Ballotpedia blocked). He appears on cross-partisan and hostile outlets, including Fox & Friends to promote the Promise to America (June 2026), and regularly argues his case to non-Democratic audiences (media 2). He engages opponents' arguments directly, e.g. on socialism and immigration (substance 1)."
+  },
+  "outside_support": [
+   "WelcomePAC",
+   "U.S. Chamber of Commerce",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "End Citizens United",
+   "Giffords",
+   "Brady",
+   "LCV Action Fund",
+   "NRDC Action Fund",
+   "NYLCV",
+   "CWA District 1",
+   "NYC District Council of Carpenters"
+  ],
+  "notable_positions": [
+   "Leads the June 2026 'Promise to America' pledge: capitalism not socialism, border security, fiscal discipline (https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html)",
+   "Voted Yea on Laken Riley and with Republicans to end the Nov 2025 shutdown (bulk)",
+   "Said Democrats lost votes over 'biological boys playing girls' sports' (https://www.cityandstateny.com/politics/2024/11/suozzi-says-democrats-lost-votes-supporting-biological-boys-playing-girls-sports-teams/400930/)",
+   "Voted for Jan 2026 DHS/ICE funding, then said he regretted it after the Alex Pretti killing (https://www.politico.com/live-updates/2026/01/26/congress/tom-suozzi-dhs-funding-vote-00746598)",
+   "Champion of restoring the SALT deduction (https://en.wikipedia.org/wiki/Tom_Suozzi)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Suozzi is the organiser of the 2026 centrist anti-socialist pledge. He is Problem Solvers co-chair, WelcomePAC- and Chamber-endorsed, and voted with Republicans on Laken Riley and the Nov 2025 CR. He has also publicly broken with the party on trans athletes. CI is well above 5 with LI at 1 (DC statehood only), so this is a clear Cat 4.",
+  "sources": [
+   "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://en.wikipedia.org/wiki/Tom_Suozzi",
+   "https://www.cityandstateny.com/politics/2024/11/suozzi-says-democrats-lost-votes-supporting-biological-boys-playing-girls-sports-teams/400930/",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-tom-suozzi-for-new-yorks-third-district",
+   "https://vinnews.com/2026/06/26/moderate-democrats-launch-promise-to-america-pledge-backing-capitalism-strong-borders-and-patriotism/"
+  ]
+ },
+ {
+  "id": "G000602",
+  "name": "Laura Gillen",
+  "seat": "NY-04",
+  "call_status": "re-elected 2026 (56.2% to 43.5% over Jeanine Driscoll (R), 98% reporting)",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA Georgetown University (1991); JD New York University School of Law (2000)",
+   "career": "Litigator at Cahill Gordon & Reindel and Westerman Ball; adjunct professor at Hofstra Law",
+   "prior_office": "Hempstead Town Supervisor 2018-2019; U.S. House NY-4 2025-present (lost 2022 race, won 2024)"
+  },
+  "self_description": "Presents herself as a bipartisan, independent-minded centrist. Bridge Grades, Voteview and CQ list her among the most centrist and bipartisan members, and she says her bill sponsorship is '100% bipartisan'.",
+  "primary_context": "Unopposed in effect in 2026: challengers were disqualified (Kiana Bierria-Anderson, Nick Sciretta), and ex-Assemblymember Taylor Darling, who planned a left challenge over Gillen's ICE-funding vote, withdrew.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Refused to back Zohran Mamdani because his campaign was built on 'unachievable promises and higher taxes, which is the last thing New York needs'. Sponsors a Cost of Living Tax Cut Act and signed the Promise to America ('We are responsible, not reckless').",
+    "src": "https://time.com/7298136/zohran-mamdani-nyc-laura-gillen/"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted Yea on Laken Riley and for the Jan 2026 DHS funding bill including ICE (which prompted a planned primary challenge). Campaigned on securing the southern border.",
+    "src": "https://www.cityandstateny.com/politics/2026/02/former-assembly-member-plans-primary-rep-laura-gillen-over-ice-funding-vote/411448/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "One of 8 House Democrats to vote for H.R. 2616, the 'Stopping Indoctrination and Protecting Kids Act' (May 2026), which bars federally funded schools from teaching 'gender ideology' concepts and requires parental notification.",
+    "src": "https://www.advocate.com/politics/national/8-democrats-abandon-trans-kids"
+   },
+   "C7": {
+    "v": 1,
+    "e": "First House Democrat to refuse to support Mamdani after his 2025 primary win. Signed the anti-socialist Promise to America (June 2026). Rated among the most bipartisan and centrist members by Bridge Grades, Voteview and CQ Roll Call.",
+    "src": "https://time.com/7298136/zohran-mamdani-nyc-laura-gillen/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Signed the Promise to America, whose first plank is 'Growth, Competition, and Broad Prosperity... We are capitalist, not socialist'.",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member",
+   "Promise to America signer"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected to Congress in 2024; previously town supervisor of Hempstead, managing a ~$500M budget (office 2 per brief rule). NYU JD and BigLaw litigator (cred 2). Her first bill, Haitian TPS (H.R.1689), passed the House 224-204 (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate with Driscoll unverified: no record found and Ballotpedia was blocked. Media: local and mainstream outlets (NY1, Newsday, TIME interview on Mamdani). No hostile-outlet appearances were documented. She explains her votes on substance, e.g. Mamdani and taxes (substance 1)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "EMILY's List",
+   "End Citizens United",
+   "Giffords",
+   "Brady",
+   "NYSUT",
+   "CWA District 1",
+   "LCV Action Fund",
+   "NRDC",
+   "Hakeem Jeffries, Katherine Clark, Pete Aguilar, Gregory Meeks (personal)"
+  ],
+  "notable_positions": [
+   "Declined to support Mamdani over 'unachievable promises and higher taxes' (https://time.com/7298136/zohran-mamdani-nyc-laura-gillen/)",
+   "Voted for H.R. 2616 'Stopping Indoctrination and Protecting Kids Act', one of 8 Democrats (https://www.advocate.com/politics/national/8-democrats-abandon-trans-kids)",
+   "Voted for Laken Riley and for Jan 2026 DHS/ICE funding (https://thehill.com/homenews/house/5702347-house-democrats-homeland-security-funding/)",
+   "Signed the June 2026 'Promise to America' centrist pledge (https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html)",
+   "Original co-sponsor of the bipartisan Dignity Act; passed a Haitian TPS bill through the House (https://en.wikipedia.org/wiki/Laura_Gillen)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Gillen has one of the most centrist records in the caucus. She refused to back Mamdani over taxes, voted for Laken Riley, ICE funding and the GOP 'gender ideology' schools bill, and signed the anti-socialist Promise to America. CI is about 7 and LI is 0, so this is a clear Cat 4.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laura_Gillen",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://time.com/7298136/zohran-mamdani-nyc-laura-gillen/",
+   "https://www.advocate.com/politics/national/8-democrats-abandon-trans-kids",
+   "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html",
+   "https://www.cityandstateny.com/politics/2026/02/former-assembly-member-plans-primary-rep-laura-gillen-over-ice-funding-vote/411448/"
+  ]
+ },
+ {
+  "id": "M001137",
+  "name": "Gregory W. Meeks",
+  "seat": "NY-05",
+  "call_status": "re-elected 2026 (80.5% to 19.3% over George Marsh (R), 91% reporting)",
+  "bio": {
+   "birth_year": 1953,
+   "education": "BA Adelphi University; JD Howard University School of Law",
+   "career": "Assistant District Attorney (Queens) and Special Narcotics Prosecutor's office; NY State Investigations Commission; supervising judge, NYS Workers' Compensation system",
+   "prior_office": "NY State Assembly 1993-1998; U.S. House 1998-present; Chair of House Foreign Affairs 2021-2023, Ranking Member 2023-present; chair of the Queens County Democratic Party"
+  },
+  "self_description": "No explicit ideological label found. New Democrat Coalition member and Queens Democratic Party chair; an establishment figure who co-sponsors Medicare for All and the Green New Deal (bulk).",
+  "primary_context": "Effectively unopposed in 2026: the only challenger, Salvatore Padellaro (Track AIPAC-endorsed), was disqualified.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Fifteen-term member and former committee chair (office 3). JD and former prosecutor and judge (cred 2). Ranking Member of House Foreign Affairs (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified in an uncompetitive 2026 race (80% seat); no debate record was found. Media is mainly national mainstream foreign-policy interviews and committee settings in his ranking-member role. No hostile-outlet pattern was documented. He engages on the substance of foreign-policy disputes, e.g. war powers and arms-sale reviews (substance 1)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "J Street PAC",
+   "DC 37",
+   "CWA District 1",
+   "NYC District Council of Carpenters",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All (H.R.3069), the Green New Deal resolution (118th) and DC statehood (bulk)",
+   "Voted Nay on the Laken Riley Act (bulk)",
+   "Sept 2026: placed a hold on a $2.8bn weapons sale to Israel over international-humanitarian-law concerns; a targeted review, not a full embargo (https://www.aa.com.tr/en/americas/us-lawmaker-blocks-28-billion-weapons-sale-to-israel-report/4062176)",
+   "Leads Democratic opposition on Iran war powers as HFAC ranking member (https://meeks.house.gov/media/press-releases)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Meeks is a credentialed establishment Democrat (EPD 7) whose left markers come only from bulk co-sponsorships (Medicare for All, Green New Deal, DC statehood; LI 3). His only centrist marker is New Dem membership (CI 1). The debate record is unverified, so this is an imperfect step-5 fit that points to Cat 1 by LI vs CI, though he is not a movement-left figure.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://en.wikipedia.org/wiki/Gregory_Meeks",
+   "https://www.aa.com.tr/en/americas/us-lawmaker-blocks-28-billion-weapons-sale-to-israel-report/4062176",
+   "https://meeks.house.gov/media/press-releases"
+  ]
+ },
+ {
+  "id": "M001188",
+  "name": "Grace Meng",
+  "seat": "NY-06",
+  "call_status": "re-elected 2026 (68.6% to 30.6% over Joseph Chou (R), 88% reporting)",
+  "bio": {
+   "birth_year": 1975,
+   "education": "BA University of Michigan; JD Yeshiva University (Cardozo School of Law)",
+   "career": "Attorney; community advocate in Queens",
+   "prior_office": "NY State Assembly 2009-2012; U.S. House 2013-present; DNC vice chair 2017-2021; Appropriations Committee"
+  },
+  "self_description": "No ideological label found; calls herself a 'compassionate leader and a good listener' and a 'champion of women's rights and diversity' (QNS, May 2026). She is a Progressive Caucus member and was endorsed by CPC PAC.",
+  "primary_context": "Challenged from the left in June 2026 by ex-diplomat Chuck Park, who attacked her AIPAC money, her casino stance and her weak opposition to ICE, and backed abolishing ICE. Meng won with about 57%. WFP considered Park but did not endorse him, and did not endorse Meng either.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Has repeatedly voted to send offensive and defensive weapons to Israel, cites Iron Dome, calls the issue 'complex' and does not use the word 'genocide' (QNS candidate profile, May 2026). AIPAC endorsed her and gave more than $200k this cycle.",
+    "src": "https://qns.com/2026/05/candidate-profile-grace-meng-is-fighting-for-queens/"
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC (https://qns.com/2026/05/candidate-profile-grace-meng-is-fighting-for-queens/)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Seven-term member and former state assemblymember (office 3). JD (cred 2). Appropriations member and House lead on the COVID-19 Hate Crimes Act, enacted 2021; seven state bills became law (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Primary: challenger Chuck Park repeatedly called for a debate. Meng was noncommittal ('That's his right... We'll see', QNS), and Salon reported on 4 Jun 2026 that 'there have been no debates and none are planned'. No primary debate was found, which suggests avoidance but is not a documented refusal. General-election debate unverified. Media is mainly friendly local outlets (QNS, Queens Eagle); her campaign site had no events page (Salon). She gives substantive answers on ICE and housing but declined to take a position on the Metropolitan Park casino (substance 1, borderline)."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus PAC",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "1199SEIU",
+   "NYS AFL-CIO",
+   "NYC Central Labor Council",
+   "NYSNA",
+   "LIUNA",
+   "DC 37",
+   "UNITE HERE Local 100",
+   "LCV Action Fund",
+   "Planned Parenthood Action Fund",
+   "Vote Mama PAC",
+   "Sen. Andy Kim, Rep. Nydia Velazquez, AG Letitia James (personal)"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All, the Ultra-Millionaire Tax Act (2026), the Green New Deal and DC statehood (bulk)",
+   "On ICE: the current agency 'cannot stay' and 'has gone rogue', but she backs a federal border agency, possibly moved under DOJ, rather than abolition (https://qns.com/2026/05/candidate-profile-grace-meng-is-fighting-for-queens/; https://www.salon.com/2026/06/04/inside-nycs-overlooked-primary/)",
+   "Votes for Israel weapons funding; AIPAC-backed (https://qns.com/2026/05/candidate-profile-grace-meng-is-fighting-for-queens/)",
+   "Working on the 'Housing is a Human Right Act' ($300bn housing investment); backs Mamdani's fare-free buses (https://qns.com/2026/05/candidate-profile-grace-meng-is-fighting-for-queens/)",
+   "Voted Nay on Laken Riley (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Meng's bulk co-sponsorships (Ultra-Millionaire Tax, Medicare for All, Green New Deal, DC statehood) plus a CPC PAC endorsement give LI about 5, short of the Cat 1 threshold. She has no centrist markers but is AIPAC-backed and pro-Israel. She is credentialed (EPD 7). She appears to have avoided a primary debate with a left challenger, but that is not a documented refusal, so EO stays at 3 and she lands in step 5, nearest Cat 1. If her debate avoidance were scored 0, she would fall to Cat 3.",
+  "sources": [
+   "https://qns.com/2026/05/candidate-profile-grace-meng-is-fighting-for-queens/",
+   "https://www.salon.com/2026/06/04/inside-nycs-overlooked-primary/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://en.wikipedia.org/wiki/Grace_Meng",
+   "https://www.cityandstateny.com/politics/2026/03/wfp-isnt-endorsing-meng-challenger-chuck-park-after-all/412259/"
+  ]
+ },
+ {
+  "id": "J000294",
+  "name": "Hakeem S. Jeffries",
+  "seat": "NY-08",
+  "call_status": "re-elected 2026 (78.9% to 19.7% over Lewis Mizrahi (R), 87% reporting)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA Binghamton University; MPP Georgetown University; JD New York University (magna cum laude)",
+   "career": "Litigator at Paul, Weiss; corporate litigator for Viacom/CBS",
+   "prior_office": "NY State Assembly 2007-2012; U.S. House 2013-present; House Democratic Caucus Chair 2019-2023; House Democratic Leader/Minority Leader 2023-present (expected Speaker in the 120th)"
+  },
+  "self_description": "'A Black progressive Democrat concerned with addressing racial and social and economic injustice' who will never 'bend the knee to hard-left democratic socialism' (The Atlantic, 2021). He was a CPC member before becoming leader.",
+  "primary_context": "DSA member and Council Member Chi Osse launched a left challenge, but NYC-DSA declined to endorse him (22 Nov 2025) and he dropped out in Dec 2025, so Jeffries was effectively unopposed.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Co-sponsored Medicare for All 2013-2021 but said in Aug 2026 it is 'not legislation he currently supports', backing ACA tax credits and reversing Medicaid cuts instead.",
+    "src": "https://www.nbcnews.com/meet-the-press/video/hakeem-jeffries-says-medicare-for-all-is-not-legislation-he-currently-supports-268371525570"
+   },
+   "L4": {
+    "v": -1,
+    "e": "Says he will never 'bend the knee to hard-left democratic socialism'.",
+    "src": "https://www.theatlantic.com/politics/archive/2021/08/hakeem-jeffries-nancy-pelosi-speaker-house/619695/"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Opposed and voted against Rep. Massie's July 2026 amendment to cut $3.3bn in military aid to Israel; has called the commitment to Israel's security 'ironclad' and rejected ceasefire calls in Nov 2023.",
+    "src": "https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Aug 2026: Medicare for All is 'not legislation he currently supports'; he prioritises extending ACA tax credits and reversing Medicaid cuts.",
+    "src": "https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "House Democratic leader and seven-term member (office 3). JD and MPP (cred 2). Lead House co-author of the First Step Act (law, 2018) and party leader (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "No 2026 general-election debate was found in a safe seat (unverified). As leader he holds weekly open press conferences with unscripted questions, does Sunday shows such as NBC Meet the Press; these pressers take questions from all outlets, including conservative ones (media 2, though no one-on-one hostile-outlet interviews were verified). He engages opponents' arguments, e.g. explaining his break with democratic socialism and his stance on Israel aid votes (substance 1)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street PAC",
+   "JACPAC",
+   "LCV Action Fund",
+   "NRDC Action Fund",
+   "NYSUT",
+   "DC 37",
+   "Association of Flight Attendants",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Rejected Medicare for All in Aug 2026 (https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842)",
+   "Voted against the July 2026 Massie amendment to strip $3.3bn of Israel military aid but did not whip it (https://www.politico.com/live-updates/2026/07/14/congress/hakeem-jeffries-israel-aid-00996273)",
+   "Opposed all major GOP bills in the 119th, including an 8h44m 'magic minute' speech against the OBBBA (https://www.nytimes.com/2025/07/03/us/politics/hakeem-jeffries-house-speech-magic-minute-trump-bill.html)",
+   "Voted Nay on Laken Riley and on the Nov 2025 CR (bulk)",
+   "Lead co-author of the First Step Act criminal-justice reform (https://jeffries.house.gov/2018/12/21/collins-jeffries-historic-criminal-justice-reform-bill-signed-into-law/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "As party leader, Jeffries explicitly rejects Medicare for All, 'hard-left democratic socialism' and cuts to Israel military aid, but he has few affirmative centrist markers (CI 1) and only DC statehood on the left (LI 1). He is highly credentialed (EPD 7) and openly engaged with the press (EO 4), so this is an imperfect step-5 fit with a tie. His explicit rejections of left positions tip it toward Cat 4, but he is better described as a mainstream establishment leader.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842",
+   "https://www.theatlantic.com/politics/archive/2021/08/hakeem-jeffries-nancy-pelosi-speaker-house/619695/",
+   "https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment/",
+   "https://www.cityandstateny.com/politics/2025/11/chi-osse-congress/409723/"
+  ]
+ },
+ {
+  "id": "C001067",
+  "name": "Yvette D. Clarke",
+  "seat": "NY-09",
+  "call_status": "re-elected 2026 (82.1% to 17.0% over Joel Anabilah-Azumah (R), 87% reporting)",
+  "bio": {
+   "birth_year": 1964,
+   "education": "Attended Oberlin College and Medgar Evers College (degree completion disputed/not confirmed)",
+   "career": "Child-care specialist; aide to state legislators; director of business development, Bronx Overall Economic Development Corp. (Bronx Empowerment Zone)",
+   "prior_office": "NYC Council 2002-2006; U.S. House 2007-present; Chair of the Congressional Black Caucus 2025-present; Energy & Commerce Committee"
+  },
+  "self_description": "No explicit ideological label found. Member of the Congressional Progressive Caucus, the Medicare for All Caucus and the CBC (chair).",
+  "primary_context": "Won the 2026 primary over activist Joshua Bristol and fintech executive Michael Goldfarb (not a strong ideological challenge).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 1,
+    "e": "Lead sponsor of the DEEPFAKES Accountability Act (H.R.3230 in the 116th; H.R.5586 in the 118th). It would require disclosure of synthetic media and create penalties for deceptive deepfakes, including election disinformation. She also co-led the Algorithmic Accountability Act. This counts as federal regulation of online deceptive content, though deepfake-specific.",
+    "src": "https://www.congress.gov/bill/118th-congress/house-bill/5586"
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 0,
+   "policy": 2,
+   "note": "Ten-term member and CBC chair (office 3). No confirmed degree, attended Oberlin and Medgar Evers (cred 0 under the strict reading of the rubric, though she had a mid-level economic-development career). Authored the No Fly List redress bill (passed the House 413-3) and leads on AI/deepfake legislation as CBC chair (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate unverified in a safe 82% seat; no record was found. Media is mainly friendly and controlled settings (CBC press events, local Brooklyn and Caribbean outlets). No hostile-outlet pattern was documented."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street PAC",
+   "Leading the Future (AI-industry super PAC)",
+   "NYSUT",
+   "NYS AFL-CIO",
+   "NYC Central Labor Council",
+   "DC 37",
+   "CWA District 1",
+   "LCV Action Fund",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Co-sponsor of the Melt ICE Act, Medicare for All, the Green New Deal and DC statehood (bulk)",
+   "Voted Nay on Laken Riley and against both 'denouncing socialism' resolutions (bulk)",
+   "Lead sponsor of the DEEPFAKES Accountability Act (https://www.congress.gov/bill/118th-congress/house-bill/5586)",
+   "Has long called for redirecting resources away from immigration enforcement and for a path to citizenship (https://en.wikipedia.org/wiki/Yvette_Clarke)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Clarke is one of the most liberal members by DW-NOMINATE. Her bulk markers (Melt ICE, Medicare for All, Green New Deal, DC) plus deepfake/disinformation regulation give LI about 5, one short of Cat 1. No left-movement endorsements were found for 2026. She has no centrist markers (CI 0), and her debate record is unverified, so this is a step-5 fit nearest Cat 1. EPD is 5 even with cred scored 0.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yvette_Clarke",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.congress.gov/bill/118th-congress/house-bill/5586"
+  ]
+ },
+ {
+  "id": "O000172",
+  "name": "Alexandria Ocasio-Cortez",
+  "seat": "NY-14",
+  "call_status": "re-elected 2026 (78.2% to 21.5% over Diamant Hysenaj (R), 92% reporting)",
+  "bio": {
+   "birth_year": 1989,
+   "education": "BA economics and international relations, Boston University (2011)",
+   "career": "Bartender/waitress; educational director at the National Hispanic Institute; Sanders 2016 campaign organiser; small publishing venture",
+   "prior_office": "None before Congress; U.S. House NY-14 2019-present; co-chair of the End Corruption Caucus (2026)"
+  },
+  "self_description": "A democratic socialist and DSA member. Her membership lapsed in 2019 and she rejoined DSA in 2026 (City & State, Aug 2026). She frames her politics as 'courage to brawl for the working class'.",
+  "primary_context": "Won the 23 Jun 2026 primary overwhelmingly against challengers from her right: investment banker Marty Dolan (moderate) and ex-business executive Felipe Garcia. NYC-DSA endorsed her in Apr 2026.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Proposed a top marginal rate as high as 70% on income above $10m (2019); co-sponsors the 2026 Ultra-Millionaire Tax Act (bulk).",
+    "src": "https://www.politico.com/story/2019/01/04/ocasio-cortez-70-percent-tax-1080874"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 1,
+    "e": "Self-identified democratic socialist and DSA member; listed among NYC-DSA's Socialists in Office; rejoined DSA in 2026.",
+    "src": "https://www.cityandstateny.com/politics/2026/08/aoc-rejoined-dsa-month-after-7-year-absence/415648/"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Has repeatedly backed defunding and abolishing ICE since 2018, calling it a paramilitary 'product of the Bush-era Patriot Act suite'.",
+    "src": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez"
+   },
+   "L10": {
+    "v": 1,
+    "e": "Urged Biden to expand the Supreme Court (2020), supported the April 2021 bill to increase the Court's size, and said in 2022 that expansion should be considered.",
+    "src": "https://www.foxnews.com/politics/aoc-backs-court-packing-push"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Has called Israel's assault on Gaza a genocide (NYT, Mar 2024; repeated at the Munich Security Conference, Feb 2026) and advocates halting weapons transfers; co-sponsors Block the Bombs (bulk).",
+    "src": "https://www.nytimes.com/2024/03/22/nyregion/aoc-genocide.html"
+   }
+  },
+  "L13_endorsements": [
+   "NYC-DSA (2026 endorsement: https://www.cityandstateny.com/politics/2026/04/dsa-unsurprisingly-votes-endorse-aoc-reelection/412729/)",
+   "Working Families Party (2026 NY slate: https://workingfamilies.org/candidates/)",
+   "Our Revolution (https://ourrevolution.com/aoc-for-re-election-to-congress-ny-14/)",
+   "Justice Democrats (original 2018 recruit; JD candidate page https://justicedemocrats.com/candidate/alexandria-ocasio-cortez/)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (bulk) and Medicare for All Caucus member.",
+    "src": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Supports abolishing ICE (see L9).",
+    "src": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Four-term member (office 3). BA plus mid-level career (cred 1). Lead author of the Green New Deal resolution; co-led the DEFIANCE Act (deepfake porn), which passed the Senate; High Court Gift Ban Act (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 primary and general debates unverified (no record found; NY1/PIX11 hosted debates only in NY-7/10/12). In past cycles she debated Crowley (2018, NY1) and Caruso-Cabrera (2020, NY1). Media: constant unscripted interviews and livestreams, Fighting Oligarchy Tour rallies including in deep-red areas (Folsom, CA), and adversarial Q&A at the Munich Security Conference, Feb 2026 (media 2). She argues policy substance at length (substance 1)."
+  },
+  "outside_support": [
+   "NYC-DSA",
+   "Working Families Party",
+   "Our Revolution",
+   "Justice Democrats",
+   "Progressive Democrats of America",
+   "Peace Action",
+   "Track AIPAC",
+   "UAW Region 9A",
+   "NYSNA",
+   "NYSUT",
+   "DC 37",
+   "Association of Flight Attendants",
+   "LCV Action Fund",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Democratic socialist and DSA member (https://www.cityandstateny.com/politics/2026/08/aoc-rejoined-dsa-month-after-7-year-absence/415648/)",
+   "Lead author of the Green New Deal; co-sponsor of Medicare for All, the Ultra-Millionaire Tax and Block the Bombs (bulk)",
+   "Calls the Gaza war a genocide and backs halting arms transfers (https://www.nytimes.com/2024/03/22/nyregion/aoc-genocide.html)",
+   "Backed Supreme Court expansion and filed impeachment articles against Justices Thomas and Alito (https://www.foxnews.com/politics/aoc-backs-court-packing-push)",
+   "Fighting Oligarchy Tour with Sanders in 2025; called Schumer's March 2025 CR vote 'a tremendous mistake' (https://abcnews.go.com/Politics/rep-alexandria-ocasio-cortez-blasts-schumer-gop-funding/story?id=119793415)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "AOC is a self-identified democratic socialist and DSA member, endorsed by NYC-DSA, WFP and Our Revolution. She backs a 70% top rate and a wealth tax, Medicare for All, the Green New Deal, abolishing ICE, Court expansion and an arms cut-off, calling Gaza a genocide. LI is far above 6, so this is a clear Cat 1.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://socialists.nyc/socialists-in-office",
+   "https://www.cityandstateny.com/politics/2026/04/dsa-unsurprisingly-votes-endorse-aoc-reelection/412729/",
+   "https://workingfamilies.org/candidates/",
+   "https://www.politico.com/story/2019/01/04/ocasio-cortez-70-percent-tax-1080874",
+   "https://www.foxnews.com/politics/aoc-backs-court-packing-push",
+   "https://www.nytimes.com/2024/03/22/nyregion/aoc-genocide.html"
+  ]
+ },
+ {
+  "id": "T000486",
+  "name": "Ritchie Torres",
+  "seat": "NY-15",
+  "call_status": "re-elected 2026 (76.8%; Stylo Sapaskis (R) 10.6%, Andre Easton (PSL) 8.7%, 90% reporting)",
+  "bio": {
+   "birth_year": 1988,
+   "education": "Attended New York University (left in sophomore year); no degree",
+   "career": "Housing organiser; intern in the mayor's and attorney general's offices; career in elected office from age 25",
+   "prior_office": "NYC Council 2014-2020 (chair of Public Housing and of Oversight & Investigations; deputy majority leader); U.S. House 2021-present; Financial Services Committee"
+  },
+  "self_description": "Was a 2016 Sanders delegate but has since moved to the centre: he blames the 'far-left flank' for Trump's 2024 win, has deleted left-wing posts, spoke at WelcomeFest, and said in 2025 he felt 'left behind' by the party. He is a prominent pro-Israel voice.",
+  "primary_context": "Challenged from the left in June 2026 by former DNC vice chair Michael Blake over Israel (Blake was backed by de Blasio, UNITE HERE Local 100, Citizen Action and Track AIPAC). Torres won about 72%. Mayor Mamdani declined to endorse.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Rejected ceasefire calls in Nov 2023 and called claims that Israel is committing genocide a 'blood libel'.",
+    "src": "https://www.nytimes.com/2023/11/11/nyregion/aoc-torres-israel-gaza.html"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Blamed the party's 'far-left flank' for Trump's 2024 re-election and said the far left has an 'outsized impact' on the party's image; commentators describe a shift to the centre (In These Times on WelcomeFest).",
+    "src": "https://thehill.com/homenews/house/4978981-ritchie-torres-far-left-impact-2024-election/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Widely seen as a crypto-industry ally: Congressional Blockchain Caucus member, prominent critic of SEC chair Gensler's 'regulation by enforcement', and urged regulators to permit election-betting markets. This is pro-business on financial innovation.",
+    "src": "https://en.wikipedia.org/wiki/Ritchie_Torres"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 0,
+   "policy": 1,
+   "note": "Three-term member and former Council committee chair (office 3). No degree and a career in politics from 25 (cred 0). Active legislator on Financial Services and public housing, but no enacted signature law was confirmed (policy 1). EPD is about 4."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 primary debate with Blake and the general debate both unverified (no record found; NY1/PIX11 debates covered NY-7/10/12 only). Media is unusually cross-lane: long-form interviews on centre-right and heterodox platforms (David Frum Show at The Atlantic, Matt Yglesias) and combative public engagement (media 2). He argues positions in detail (substance 1)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "Equality PAC",
+   "Congressional Black Caucus (endorsement)",
+   "Congressional Hispanic Caucus (endorsement)",
+   "NYSUT",
+   "CWA District 1",
+   "Planned Parenthood Action Fund",
+   "Hakeem Jeffries, Nancy Pelosi, Adriano Espaillat (personal)"
+  ],
+  "notable_positions": [
+   "Voted Yea on Laken Riley (bulk; one of 48 Democrats)",
+   "Called Gaza genocide claims a 'blood libel'; the leading pro-Israel Democrat in NYC (https://www.nytimes.com/2023/11/11/nyregion/aoc-torres-israel-gaza.html)",
+   "Co-sponsor of Medicare for All and the Green New Deal (bulk) despite his centrist turn",
+   "Blamed the 'far-left flank' for the 2024 loss (https://thehill.com/homenews/house/4978981-ritchie-torres-far-left-impact-2024-election/)",
+   "Crypto-industry ally and Gensler critic (https://en.wikipedia.org/wiki/Ritchie_Torres)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Torres combines legacy left co-sponsorships (Medicare for All, Green New Deal, DC; LI 3) with a pronounced centrist turn: the Laken Riley vote, attacks on the far left, a pro-crypto stance and staunch pro-Israel positions (CI 3). With no degree, EPD is about 4. He is unusually engaged with cross-partisan media (EO 4), so this is an imperfect step-5 tie that leans Cat 4 on the trajectory of his recent positioning.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ritchie_Torres",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.nytimes.com/2023/11/11/nyregion/aoc-torres-israel-gaza.html",
+   "https://thehill.com/homenews/house/4978981-ritchie-torres-far-left-impact-2024-election/",
+   "https://www.usatoday.com/story/news/politics/2025/11/10/michael-blake-primary-challenge-ritchie-torres-israel/87122311007/",
+   "https://www.theatlantic.com/podcasts/archive/2025/07/david-frum-show-ritchie-torres/683641/"
+  ]
+ },
+ {
+  "id": "L000606",
+  "name": "George Latimer",
+  "seat": "NY-16",
+  "call_status": "re-elected 2026 (75.7% to 24.0% over Joseph Cinquemani (R), 82% reporting)",
+  "bio": {
+   "birth_year": 1953,
+   "education": "BA Fordham University (1974); MPA NYU Wagner School",
+   "career": "Career local and state public official since 1987",
+   "prior_office": "Rye City Council; Westchester County Board of Legislators (chair 1998-2001); NY Assembly 2005-2012; NY Senate 2013-2017; Westchester County Executive 2018-2024; U.S. House 2025-present"
+  },
+  "self_description": "Campaign site: 'a career in public service by delivering unparalleled progressive results' and 'a longtime champion for progressive policies'. He won the 2024 primary as the pro-Israel, establishment alternative to Jamaal Bowman.",
+  "primary_context": "Unopposed in the 2026 Democratic primary; Bowman declined a rematch.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaign platform touts that as County Executive he 'significantly increased the funding for Public Safety', cutting violent crime to record lows. He pairs this with gun reform and 'enhanced police accountability measures'.",
+    "src": "https://latimerforny.com/priorities/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected to Congress in 2024; prior county executive, state senator and assemblymember (office 2 per the brief rule for 2024+ entrants). MPA from NYU Wagner and a senior executive record (cred 2). Freshman legislator: introduced the POINT Act on election interference; no enacted law (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general debate with Cinquemani unverified (none found). He debated Bowman in the 2024 primary. Media is mainly local (Westchester outlets, NY1). No hostile-outlet pattern was documented."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "LCV Action Fund",
+   "Planned Parenthood Action Fund",
+   "CWA District 1",
+   "NYC District Council of Carpenters"
+  ],
+  "notable_positions": [
+   "Voted Nay on the Laken Riley Act and the Nov 2025 CR; co-sponsor of DC statehood (bulk)",
+   "Voted for the Illegitimate Court Counteraction Act sanctioning the ICC over its Israel warrants, one of 45 Democrats (https://www.congress.gov/votes/house/119-1/7)",
+   "'Will continue to stand with Israel' while backing a two-state solution; comprehensive immigration reform with a path to citizenship (https://latimerforny.com/priorities/)",
+   "Introduced the POINT Act to criminalise election interference and bar the military from influencing elections (https://ny1.com/nyc/all-boroughs/news/2026/03/10/n-y--congressman-pushes-back-with-election-legislation-as-trump-zeroes-in-on-reform)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Latimer is a veteran, credentialed executive who calls himself progressive but has few markers on either index: LI 1 (DC statehood) against CI about 2 (New Dem, public-safety funding). His AIPAC-backed defeat of Bowman and his ICC-sanctions vote place him in the party's pro-Israel mainstream. His debate record is unverified, so this is an imperfect step-5 fit, leaning Cat 4 only marginally.",
+  "sources": [
+   "https://latimerforny.com/priorities/",
+   "https://latimerforny.com/",
+   "https://en.wikipedia.org/wiki/George_Latimer_(New_York_politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+  ]
+ },
+ {
+  "id": "R000579",
+  "name": "Patrick Ryan",
+  "seat": "NY-18",
+  "call_status": "re-elected 2026 (62.9% to 37.1% over Jacqueline Auringer (R), 89% reporting)",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BS United States Military Academy (West Point); MA security studies, Georgetown University",
+   "career": "Army military-intelligence officer 2004-2009 (two Iraq tours, two Bronze Stars, captain); tech entrepreneur (co-founder Praescient Analytics; SVP Dataminr)",
+   "prior_office": "Ulster County Executive 2019-2022; U.S. House NY-19 2022-2023 (special election); NY-18 2023-present; Armed Services Committee"
+  },
+  "self_description": "No ideological label found. Runs as an anti-monopoly, no-corporate-PAC 'fighter' ('build an economy that works for everyone -- not just the ultrarich').",
+  "primary_context": "Unopposed in the 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Campaign priorities say he 'is leading the fight to break up UnitedHealth and Optum'. As Ulster County Executive he piloted a universal basic income programme ($500/month to 100 families).",
+    "src": "https://www.patryanforcongress.com/priorities"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "On 15 Jul 2026 voted for Massie's amendment to eliminate $3.3bn in U.S. military aid to Israel and said he would refund AIPAC donors. He rejected AIPAC and DMFI endorsements and co-sponsors Block the Bombs (bulk).",
+    "src": "https://jewishinsider.com/2026/07/pat-ryan-says-hell-refund-aipac-donors-who-ask-following-vote-to-end-u-s-aid-to-israel/"
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (2026 NY slate: https://workingfamilies.org/candidates/)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Housing Affordability Agenda 'to build more housing, cut through red tape, and bring down costs' (pro-housing-supply).",
+    "src": "https://www.patryanforcongress.com/priorities"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former county executive and House member since 2022 (office 3). West Point, Georgetown MA, Army captain and tech executive (cred 2). His Hudson River Protection Act barge ban became law and his first bill passed the House (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general debate with Auringer unverified (none found). Media is mainly mainstream and local (NY1, Hudson Valley outlets) plus national cable on Iran and the Pentagon. No hostile-outlet pattern was documented. He explains his votes on substance, e.g. his Israel aid vote and AIPAC refunds (substance 1)."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "End Citizens United (no-corporate-PAC incumbent)",
+   "Citizen Action of New York",
+   "NYSNA",
+   "CWA District 1",
+   "Brady",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Rejected: AIPAC, DMFI (2026)"
+  ],
+  "notable_positions": [
+   "Voted to eliminate $3.3bn in military aid to Israel (Massie amendment, July 2026); rejected AIPAC/DMFI endorsements (https://jewishinsider.com/2026/07/pat-ryan-says-hell-refund-aipac-donors-who-ask-following-vote-to-end-u-s-aid-to-israel/)",
+   "Wants to break up UnitedHealth/Optum; piloted UBI as county executive (https://www.patryanforcongress.com/priorities; https://www.wamc.org/hudson-valley-news/2021-02-18/ulster-county-exec-details-universal-basic-income-program-and-more)",
+   "Co-sponsor of the Green New Deal resolution, Block the Bombs and DC statehood (bulk); voted Nay on Laken Riley",
+   "Introduced the 'No Troops in Our Streets Act'; backs Iran war-powers limits (https://patryan.house.gov/media/press-releases)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Ryan is a veteran and former county executive who has moved sharply left on Israel (voted to end military aid, rejected AIPAC) and on corporate power (UnitedHealth break-up, a UBI pilot). He also has bulk Green New Deal and DC markers and a WFP endorsement, for LI about 5, just short of Cat 1. He has one centrist marker (pro-housing supply). He is highly credentialed and his debate record is unverified, so this is an imperfect step-5 fit nearest Cat 1.",
+  "sources": [
+   "https://www.patryanforcongress.com/priorities",
+   "https://jewishinsider.com/2026/07/pat-ryan-says-hell-refund-aipac-donors-who-ask-following-vote-to-end-u-s-aid-to-israel/",
+   "https://en.wikipedia.org/wiki/Pat_Ryan_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://workingfamilies.org/candidates/",
+   "https://patryan.house.gov/media/press-releases"
+  ]
+ },
+ {
+  "id": "R000622",
+  "name": "Josh Riley",
+  "seat": "NY-19",
+  "call_status": "re-elected 2026 (57.3% to 42.6% over state Sen. Peter Oberacker (R), 97% reporting)",
+  "bio": {
+   "birth_year": 1981,
+   "education": "BS College of William & Mary (2003); JD Harvard Law School (2007)",
+   "career": "DOL policy analyst; Boies Schiller associate then partner; clerk to Judge Wardlaw (9th Cir.); general counsel to Sen. Al Franken on Senate Judiciary 2011-14; partner at Jenner & Block",
+   "prior_office": "No elected office before Congress (lost NY-19 in 2022); U.S. House 2025-present"
+  },
+  "self_description": "An economic populist: 'our political and economic systems have been rigged to benefit special interests at the expense of working folks'. Takes no corporate PAC money and is a New Democrat.",
+  "primary_context": "Unopposed in the 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (2026 NY slate: https://workingfamilies.org/candidates/)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Campaign platform: 'The Southern Border is an absolute disaster' and both parties 'failed us by refusing to secure it'. He backs hiring new border agents and giving law enforcement resources to 'stop and deter illegal immigration'.",
+    "src": "https://joshrileyforcongress.com/policy-positions/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "'Josh is adamantly opposed to proposals to \"defund the police\"' and wants New York's cashless bail law changed. He touts $30M for police bulletproof vests and his work on bills backed by the National Sheriffs' Association and NAPO.",
+    "src": "https://joshrileyforcongress.com/policy-positions/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected in 2024 with no prior elected office; senior federal staff role as Senate Judiciary general counsel (office 2 per the brief rule). Harvard JD and BigLaw partner (cred 2). Freshman bills on weatherization, egg prices and avian-flu aid, with detailed campaign platform; no enacted law confirmed (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general debate with Oberacker unverified (none found). Media is mainly regional outlets (Spectrum News, WAMC, Ithaca Times). No hostile-outlet pattern was documented. His platform is specific and engages Republican attacks on border and crime directly (substance 1)."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "End Citizens United",
+   "Giffords",
+   "Brady",
+   "LCV Action Fund",
+   "NRDC",
+   "Planned Parenthood Action Fund",
+   "CWA District 1"
+  ],
+  "notable_positions": [
+   "Campaigns on border security: 'The Southern Border is an absolute disaster' (https://joshrileyforcongress.com/policy-positions/)",
+   "'Adamantly opposed' to defunding the police; wants cashless-bail changes (https://joshrileyforcongress.com/policy-positions/)",
+   "Populist anti-utility agenda: ban foreign ownership of utilities and utility-CEO bonuses; ban corporate PACs; ban congressional stock trading (https://joshrileyforcongress.com/policy-positions/)",
+   "Supreme Court term limits and ethics code, not expansion (https://joshrileyforcongress.com/policy-positions/)",
+   "Did not vote on Laken Riley; voted Nay on the Nov 2025 CR (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Riley is a credentialed frontliner (EPD 5) who blends economic populism and a WFP endorsement (LI 2) with New Dem membership, hawkish border rhetoric and an explicit anti-defund, pro-police platform (CI 3). His debate record is unverified (EO 3), so this is an imperfect step-5 fit, leaning Cat 4 by CI over LI.",
+  "sources": [
+   "https://joshrileyforcongress.com/policy-positions/",
+   "https://joshrileyforcongress.com/",
+   "https://en.wikipedia.org/wiki/Josh_Riley",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://workingfamilies.org/candidates/"
+  ]
+ },
+ {
+  "id": "T000469",
+  "name": "Paul Tonko",
+  "seat": "NY-20",
+  "call_status": "re-elected 2026 (63.6% to 36.3% over Ralph Ambrosio (R), 96% reporting)",
+  "bio": {
+   "birth_year": 1949,
+   "education": "BS mechanical and industrial engineering, Clarkson University (1971)",
+   "career": "Engineer at the NY Public Service Commission; President/CEO of NYSERDA 2007-2008",
+   "prior_office": "Montgomery County Board of Supervisors 1976-1983 (chair 1981-83); NY Assembly 1983-2007 (Energy Committee chair 1992-2007); U.S. House 2009-present; Ranking Member, E&C Environment Subcommittee"
+  },
+  "self_description": "Called 'a staunch progressive' (Daily Gazette). Progressive Caucus member.",
+  "primary_context": "Unopposed in the 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Official video, 5 Feb 2026: 'ICE needs to be abolished.'",
+    "src": "https://www.youtube.com/watch?v=ax1toDTbT54"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (2026 NY slate: https://workingfamilies.org/candidates/)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Called for abolishing ICE (Feb 2026) and voted Nay on Laken Riley.",
+    "src": "https://www.youtube.com/watch?v=ax1toDTbT54"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Nine-term member, 24 years in the Assembly, former NYSERDA CEO (office 3). Engineering BS and professional engineering career (cred 1). Long-time top Democrat on the E&C Environment Subcommittee (chair 2019-23) and author of NY mental-health parity law 'Timothy's Law' (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general debate with Ambrosio unverified (none found). Media is mainly local Capital Region outlets and official video statements. No hostile-outlet pattern was documented. He is known for detailed, technical policy engagement on energy and the environment (substance 1)."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "J Street PAC",
+   "Peace Action",
+   "LCV Action Fund",
+   "Planned Parenthood Action Fund",
+   "CWA District 1"
+  ],
+  "notable_positions": [
+   "'ICE needs to be abolished' (5 Feb 2026) (https://www.youtube.com/watch?v=ax1toDTbT54)",
+   "Co-sponsor of Medicare for All, Block the Bombs and DC statehood (bulk)",
+   "Voted Nay on Laken Riley and against both 'denouncing socialism' resolutions (bulk)",
+   "Senior Democratic voice on EPA/climate policy as E&C Environment ranking member (https://en.wikipedia.org/wiki/Paul_Tonko)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "A staunch progressive who called for abolishing ICE in 2026. Bulk data shows co-sponsorship of Medicare for All, Block the Bombs and DC statehood, and he has a WFP endorsement, for LI about 5, one short of Cat 1. He has no centrist markers and is highly experienced (EPD 6). His debate record is unverified, so this is a step-5 fit nearest Cat 1.",
+  "sources": [
+   "https://www.youtube.com/watch?v=ax1toDTbT54",
+   "https://en.wikipedia.org/wiki/Paul_Tonko",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://workingfamilies.org/candidates/"
+  ]
+ }
+]

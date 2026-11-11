@@ -1,0 +1,1369 @@
+[
+ {
+  "id": 31,
+  "name": "La Shawn Ford",
+  "seat": "IL-07",
+  "call_status": "confirmed winner (safe D seat; Wikipedia lists him as member-elect, term from 3 Jan 2027)",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BA elementary education (minor political science), Loyola University Chicago; attended Niles College Seminary and UIC",
+   "career": "Former Chicago Public Schools history teacher/basketball coach; real-estate broker (Ford Desired Real Estate, 2001)",
+   "prior_office": "Illinois House of Representatives, 8th district, 2007–2027 (former chair, Appropriations–Higher Education); 2019 Chicago mayoral candidate"
+  },
+  "self_description": "Told WTTW after the primary that the party should 'unite' and 'be as progressive [as] possible' (auto-transcript); otherwise runs as a constituent-services/health-care Democrat endorsed by retiring Rep. Danny Davis.",
+  "primary_context": "Won a 13-candidate open primary (17 Mar 2026) with ~24–29% over Chicago Treasurer Melissa Conyears-Ervin (backed by ~$500k+ from AIPAC's United Democracy Project) and progressive Kina Collins; Fairshake (crypto) spent ~$2.5M attacking Ford over his state crypto-regulation vote. Contest was over experience/machine backing more than ideology.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "In post-primary WTTW interview said Democrats must restore Obamacare and 'that is Medicare for all' (auto-generated transcript; did not answer the M4A question at a March forum)",
+    "src": "https://www.pbs.org/video/democratic-candidates-donna-miller-la-shawn-ford-on-their-congressional-races-w89km9"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Confirmed Fraternal Order of Police endorsement when challenged by Kina Collins at a West Side forum: 'The endorsement means that I will hold them accountable.'",
+    "src": "https://thetriibe.com/2026/03/il-07-candidates-describe-plans-to-address-affordable-housing-child-care-and-health-care-during-west-side-forum/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "19 years in the Illinois House (authored legislative record, chaired Approps–Higher Ed, created Black-community economic commission); BA only; campaign platform fairly general (ACA restoration, seniors' Medicare task force, Medicaid-for-housing, supervised drug-use sites, regulated hemp)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 0,
+   "note": "Attended multiple primary candidate forums (Collins Academy 27 Jan; West Side forum March) but a 'Debate Illinois 7' petition demanded a formal debate; no general-election debate with Republican Chad Koppie found. Media mostly local/public outlets (WTTW, N'DIGO, Austin Weekly). At the March forum he did not answer the Medicare-for-All question, using the time to rebut Collins (TRiiBE); responded to crypto attack ads with a cease-and-desist rather than substantive rebuttal."
+  },
+  "outside_support": [
+   "Rep. Danny Davis endorsement",
+   "Giffords PAC",
+   "Cook County Democratic Women",
+   "Fraternal Order of Police",
+   "Opposed: Fairshake crypto super PAC (~$2.5M against)",
+   "Opposed indirectly: UDP/AIPAC backed rival Conyears-Ervin"
+  ],
+  "notable_positions": [
+   "Restore ACA subsidies and reverse 'Big Beautiful Bill' Medicaid cuts; prioritise safety-net hospitals/FQHCs (https://www.austinweeklynews.com/2026/02/02/7th-congressional-primary-candidates/)",
+   "Medicare for All named as the party's priority in WTTW interview (https://www.pbs.org/video/democratic-candidates-donna-miller-la-shawn-ford-on-their-congressional-races-w89km9)",
+   "Shift federal spending from defense and incarceration toward housing; use Medicaid to keep people housed (https://thetriibe.com/2026/03/il-07-candidates-describe-plans-to-address-affordable-housing-child-care-and-health-care-during-west-side-forum/)",
+   "Supports ending cash bail: 'No one should be sitting in jail because they can't afford $100' (https://thetriibe.com/2026/03/il-07-candidates-describe-plans-to-address-affordable-housing-child-care-and-health-care-during-west-side-forum/)",
+   "Has pushed regulated hemp sales and supervised drug-use sites on the West Side (https://www.axios.com/local/chicago/2026/02/12/illinois-7th-district-voter-guide)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "Few left or centrist markers (M4A remark vs. FOP endorsement), so neither index is decisive. A long-serving state legislator (EPD 5) whose campaign was locally focused and generic, with no formal debates found and a documented dodge of the M4A question at a forum, so the rubric points to Cat 3; the evidence on engagement is thin and the call is borderline with a mainstream-party Cat 2/imperfect-fit reading.",
+  "sources": [
+   "https://thetriibe.com/2026/03/il-07-candidates-describe-plans-to-address-affordable-housing-child-care-and-health-care-during-west-side-forum/",
+   "https://www.pbs.org/video/democratic-candidates-donna-miller-la-shawn-ford-on-their-congressional-races-w89km9",
+   "https://news.wttw.com/2026/03/19/congressional-candidates-donna-miller-la-shawn-ford-primary-wins-and-what-comes-next",
+   "https://news.wttw.com/2026/03/17/ford-conyears-ervin-tight-race-replace-danny-davis-illinois-7th-district-primary",
+   "https://en.wikipedia.org/wiki/La_Shawn_Ford",
+   "https://www.austinweeklynews.com/2026/02/02/7th-congressional-primary-candidates/",
+   "https://www.axios.com/local/chicago/2026/02/12/illinois-7th-district-voter-guide",
+   "https://theintercept.com/2026/03/15/crypto-spending-illinois-house-primaries/",
+   "https://jewishinsider.com/2026/02/aipac-super-pac-united-democracy-project-melissa-conyears-ervin/",
+   "https://giffords.org/candidates/la-shawn-k-ford/",
+   "https://ndigo.com/?p=28930",
+   "https://www.oakpark.com/2026/03/10/voting-for-la-shawn-ford",
+   "https://www.change.org/p/illinois-7th-district-voters-demand-a-public-debate"
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Melissa Bean",
+  "seat": "IL-08",
+  "call_status": "confirmed winner (Wikipedia lists her as member-elect, term from 3 Jan 2027)",
+  "bio": {
+   "birth_year": 1962,
+   "education": "AA Oakton Community College (1982); BA Roosevelt University (2000)",
+   "career": "Sales/business owner; after Congress CEO of the Executives Club of Chicago, Midwest chair at JPMorgan Chase, CEO of Mesirow Wealth Advisors (2019)",
+   "prior_office": "U.S. House, IL-08, 2005–2011 (Blue Dog Coalition and New Democrat Coalition member; lost 2010)"
+  },
+  "self_description": "No explicit 2026 ideological self-label found; campaign casts her as an 'architect of Obamacare' focused on middle-class affordability, 'immigration fairness and due process' and health care. Endorser Rep. Scott Peters called her a 'pragmatic leader'; press uniformly describes her as the moderate in the race.",
+  "primary_context": "Won 8-way open primary (17 Mar 2026) with ~32% over Justice Democrats/Sanders/Warren/AOC-backed Junaid Ahmed (~26.5%) and Kevin Morrison; framed by Roll Call and The Prospect as moderate vs. progressive, with ~$4M from AIPAC-linked 'Elect Chicago Women' plus AI and crypto super PACs supporting her.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Congressional record: one of 9 Democrats backing extension of capital-gains/dividend cuts (2005), one of 15 backing ~$70B Bush tax-cut extension (2006), voted to repeal the estate tax; no 2026 wealth-tax/rate-hike support found (historical evidence)",
+    "src": "https://en.wikipedia.org/wiki/Melissa_Bean"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented cross-party voting record 2005–11 (Bush tax-cut extensions, estate-tax repeal, CAFTA); described as 'perhaps the most conservative Democrat in Washington'",
+    "src": "https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-trade record (one of 15 Democrats for CAFTA, costing AFL-CIO endorsement); backed in 2026 by pro-AI Leading the Future/Think Big ($1.1M) and crypto Protect Progress ($557k); former Executives Club of Chicago CEO",
+    "src": "https://rollcall.com/2026/03/18/illinois-house-election-democrats-melissa-bean/"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition (former member 2005–11)",
+   "New Democrat Coalition (former member)",
+   "New Democrat Majority super PAC (~$935k IE in 2026 primary)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former three-term member of Congress (Financial Services, Small Business; New Dem financial-services task force co-chair); senior executive career (CEO roles, JPMorgan); authored legislative record (Dodd-Frank preemption amendment)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 0,
+   "note": "Took part in the Daily Herald primary forum (Jan 2026, ~300 attendees) with other Democrats; no general-election debate with Republican Jennifer Davis found. Campaign leaned heavily on paid TV (self and super PAC). Rival Ahmed accused her of attending an anti-ICE rally only for photos; rival Morrison called her 'MIA for nearly two decades'. No evidence found either way of substantive engagement with critics."
+  },
+  "outside_support": [
+   "Elect Chicago Women (reported AIPAC/UDP-linked, ~$4M)",
+   "Think Big / Leading the Future (pro-AI, ~$1.1M)",
+   "New Democrat Majority (~$935k)",
+   "Protect Progress (crypto, ~$557k)",
+   "DMFI PAC",
+   "Giffords PAC",
+   "Elect Democratic Women",
+   "Sen. Tammy Duckworth",
+   "Reps. Steny Hoyer, Debbie Wasserman Schultz, Bill Foster, Brad Schneider, Scott Peters",
+   "America's Credit Unions"
+  ],
+  "notable_positions": [
+   "Runs on her ACA vote ('architect of Obamacare'), saying it cost her re-election; defend health care from GOP cuts (https://rollcall.com/2026/03/18/illinois-house-election-democrats-melissa-bean/)",
+   "2026 mailers promise to 'kick ICE out of our communities'; questionnaire calls for pulling ICE from communities until reforms (bodycams, no masks, end agent immunity) (https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/)",
+   "Comprehensive immigration reform while opposing mass deportation; previously opposed amnesty and backed employer penalties (https://www.nbcchicago.com/illinois-election-2026/melissa-bean-projected-to-win-8th-district-race-in-illinois-democratic-primary/3909567/?amp=1)",
+   "Congressional record: Bush tax-cut extensions, estate-tax repeal, CAFTA, stimulus, cap-and-trade, ACA (https://en.wikipedia.org/wiki/Melissa_Bean)",
+   "Pro-Israel record in office; backed by DMFI and AIPAC-linked super PAC (https://jewishinsider.com/2026/02/illinois-ad-buy-moderates-laura-fine-melissa-bean-donna-miller/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left-index markers found; centrist coalition ties (former Blue Dog/New Dem, New Democrat Majority spending) plus a documented cross-party fiscal and trade record and business/AI/crypto backing give CI around 6. Much of the centrist evidence is from her 2005–11 record rather than 2026 statements, and her 2026 immigration messaging ('kick ICE out') moved left, so confidence is Medium.",
+  "sources": [
+   "https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/",
+   "https://rollcall.com/2026/03/18/illinois-house-election-democrats-melissa-bean/",
+   "https://jewishinsider.com/2026/02/illinois-ad-buy-moderates-laura-fine-melissa-bean-donna-miller/",
+   "https://en.wikipedia.org/wiki/Melissa_Bean",
+   "https://capitolfax.com/2026/02/05/catching-up-with-the-federal-candidates-33",
+   "https://www.dailyherald.com/?p=1344401",
+   "https://www.dailyherald.com/?p=1341294",
+   "https://www.nbcchicago.com/illinois-election-2026/melissa-bean-projected-to-win-8th-district-race-in-illinois-democratic-primary/3909567/?amp=1",
+   "https://bluevoterguide.org/IL/candidate_Melissa_Bean/38885",
+   "https://news.wttw.com/2026/03/17/melissa-bean-declared-winner-democratic-primary-race-krishnamoorthi-s-open-8th"
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Daniel Biss",
+  "seat": "IL-09",
+  "call_status": "confirmed winner (campaign site now styles him 'Congressman-Elect'; safe D seat)",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA mathematics, Harvard (summa cum laude); MA/PhD mathematics, MIT",
+   "career": "University of Chicago math professor (2002–08); policy adviser to Gov. Pat Quinn; executive director, Rust Belt Rising",
+   "prior_office": "Illinois House 2011–13; Illinois Senate 2013–19; 2018 gubernatorial primary candidate; Mayor of Evanston 2021–Oct 2026"
+  },
+  "self_description": "Says he is running to push progressive causes and resist Trump: 'I just don't think we can afford to compromise on either of those two things' (NPR); endorsed by the Congressional Progressive Caucus PAC and CPC chair Greg Casar.",
+  "primary_context": "Won 15-way open primary (17 Mar 2026) with ~29.5% over Kat Abughazaleh (~26%, left insurgent who called Gaza a genocide) and state Sen. Laura Fine (~20%, backed by AIPAC-aligned spending that also attacked Biss). Biss ran as the progressive establishment option between the two.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Issues page: 'We should implement a modest wealth tax on the assets of billionaires and ultra-millionaires'",
+    "src": "https://www.danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Issues page: 'It's past time we had a national single-payer health system such as Medicare for All'; 'We need to pass Medicare for All'",
+    "src": "https://www.danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Issues page: 'We need to pass a Green New Deal'; will 'fight against federal authorization of new fossil fuel infrastructure'; No Fossil Fuel Money pledge",
+    "src": "https://www.danielbiss.com/issues/protecting-our-democracy"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Calls for 'Breaking up Amazon, Facebook, Google, and Apple' and for worker 'representation on corporate boards of large companies'",
+    "src": "https://www.danielbiss.com/issues/holding-big-tech-accountable"
+   },
+   "L7": {
+    "v": 1,
+    "e": "Issues page: protect access to gender-affirming care, 'defend the right of individuals and families to make private medical decisions without the government interfering' and 'prevent states from passing discriminatory laws against transgender youth' (implies opposing state age limits; borderline)",
+    "src": "https://www.danielbiss.com/issues/protecting-civil-rights-and-civil-liberties-for-all"
+   },
+   "L8": {
+    "v": 1,
+    "e": "Would 'require platforms to strengthen safeguards against coordinated disinformation campaigns' and wants federal enforcement against 'misinformation tactics' (moderate-strength evidence)",
+    "src": "https://www.danielbiss.com/issues/holding-big-tech-accountable"
+   },
+   "L9": {
+    "v": 1,
+    "e": "Immigration page: 'We must abolish ICE.'",
+    "src": "https://www.danielbiss.com/issues/a-welcoming-immigration-policy"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 1,
+    "e": "Calls for 'Abolishing the Electoral College' and moving to a national popular vote",
+    "src": "https://www.danielbiss.com/issues/cleaning-up-corruption-and-restoring-trust-in-our-democracy"
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Backs Medicare for All / national single payer",
+    "src": "https://www.danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first"
+   },
+   "C3": {
+    "v": -1,
+    "e": "Backs a wealth tax, capital gains taxed as wages above $1M, higher corporate rate",
+    "src": "https://www.danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding"
+   },
+   "C4": {
+    "v": -1,
+    "e": "'We must abolish ICE.'",
+    "src": "https://www.danielbiss.com/issues/a-welcoming-immigration-policy"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "State legislator 8 years and mayor of Evanston; MIT math PhD/ex-UChicago professor; very detailed issues platform naming bills (PRO Act, Stop Wall Street Looting Act, End Hedge Fund Control of American Homes Act, $17 minimum wage, 7% child-care cap) and an authored state record."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Participated in numerous primary forums and the televised 25 Feb 2026 debate with Fine and Abughazaleh; no general-election debate with Republican John Elleson found. Gave interviews to NPR/WTTW and fielded hostile Jewish Insider coverage. Engaged substance on Israel (shifted on Iron Dome, defended conditioning aid: 'we cannot allow unconditional aid ... no matter what they do in Gaza')."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus PAC",
+   "Sen. Elizabeth Warren",
+   "Rep. Jan Schakowsky",
+   "Sen. Tammy Duckworth",
+   "Illinois AFL-CIO",
+   "SEIU State Council",
+   "National Nurses United",
+   "Chicago Federation of Labor",
+   "Sierra Club",
+   "LCV Action Fund",
+   "NRDC Action Fund",
+   "J Street",
+   "End Citizens United",
+   "Planned Parenthood Action Fund",
+   "Giffords",
+   "3.14 Action",
+   "Opposed: AIPAC-aligned super PAC spending (millions against Biss, for Laura Fine)"
+  ],
+  "notable_positions": [
+   "Medicare for All / national single payer (https://www.danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first)",
+   "'Modest wealth tax' on billionaires; tax capital gains as wages above $1M; raise corporate rate (https://www.danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding)",
+   "'We must abolish ICE' (https://www.danielbiss.com/issues/a-welcoming-immigration-policy)",
+   "Green New Deal; oppose new federal fossil-fuel infrastructure approvals (https://www.danielbiss.com/issues/protecting-our-democracy)",
+   "Break up Amazon/Facebook/Google/Apple; worker seats on corporate boards (https://www.danielbiss.com/issues/holding-big-tech-accountable)",
+   "Condition aid to Israel, back Block the Bombs Act, recognise a Palestinian state; supports Iron Dome funding (https://jewishinsider.com/2026/02/kat-abughazaleh-televised-debate-illinois-9th-congressional-district/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "His own platform explicitly backs a wealth tax, Medicare for All, a Green New Deal, Big Tech break-ups, abolishing ICE and abolishing the Electoral College, plus a CPC PAC endorsement, giving an LI of about 7–9 even before the borderline trans and misinformation markers. He also has extensive credentials and debated actively, but the ideological markers are decisive.",
+  "sources": [
+   "https://www.danielbiss.com/issues/combating-income-inequality-by-taking-on-wealth-hoarding",
+   "https://www.danielbiss.com/issues/lowering-the-cost-of-essentials-putting-working-families-first",
+   "https://www.danielbiss.com/issues/protecting-our-democracy",
+   "https://www.danielbiss.com/issues/holding-big-tech-accountable",
+   "https://www.danielbiss.com/issues/issue-2",
+   "https://www.danielbiss.com/issues/a-welcoming-immigration-policy",
+   "https://www.danielbiss.com/issues/cleaning-up-corruption-and-restoring-trust-in-our-democracy",
+   "https://www.danielbiss.com/issues/protecting-civil-rights-and-civil-liberties-for-all",
+   "https://www.danielbiss.com/issues/a-foreign-policy-rooted-in-peace-democracy-and-global-justice",
+   "https://www.danielbiss.com/endorsements",
+   "https://jewishinsider.com/2026/02/kat-abughazaleh-televised-debate-illinois-9th-congressional-district/",
+   "https://www.hppr.org/npr-news/2026-03-17/daniel-biss-wins-democratic-primary-for-closely-watched-illinois-house-seat",
+   "https://en.wikipedia.org/wiki/Daniel_Biss",
+   "https://heartlandsignal.com/2026/01/20/new-and-notable-2026-candidates-in-the-midwest-who-support-medicare-for-all/"
+  ]
+ },
+ {
+  "id": 34,
+  "name": "J. D. Ford",
+  "seat": "IN-05",
+  "call_status": "confirmed winner (51.7%–48.3% over incumbent Victoria Spartz per Wikipedia results; campaign declared flip 4 Nov)",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BA criminal justice & political science, University of Akron; MEd, Purdue University Northwest",
+   "career": "Substitute teacher and nonprofit career before office",
+   "prior_office": "Indiana Senate, District 29, 2018–2026 (Senate Democratic Caucus Chair 2020/2025, Minority Whip; first openly LGBTQ+ Indiana legislator)"
+  },
+  "self_description": "No ideological label found; brands himself as a working-class, 'accessible' problem-solver ('We can't AFFORD politics as usual'); endorser Rep. Sue Errington says he 'works across the aisle'.",
+  "primary_context": "Won 7-way primary (May 2026) with 42.5% over paramedic Jackson Franklin (17%, Track AIPAC-endorsed) and 2024 nominee Deborah Pickett (14%); labor-backed frontrunner, no clear ideological contest.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "Two-term state senator in caucus leadership; BA + MEd (not an advanced professional degree); authored state bills (data-centre disclosure bill two years running, insulin/epi-pen caps; '100 bills introduced, 3 laws'); platform has concrete items (ban corporate/foreign home-buying, data-centre transparency)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Campaign says Spartz challenged him to a debate then refused a public-audience format; Ford said he remained 'ready and willing' (6 Oct). No confirmation a general debate took place. Sat for WFYI, WTHR and IndyStar interviews (mainstream local media); promises regular town halls. States positions on contested issues (e.g. ICE reforms, voter ID) rather than dodging."
+  },
+  "outside_support": [
+   "DCCC target list (Aug 2026)",
+   "AFL-CIO Indiana",
+   "UAW",
+   "United Steelworkers District 7",
+   "SMART-TD",
+   "LIUNA",
+   "AFT Indiana",
+   "UFCW 700",
+   "IAFF firefighter locals",
+   "NEA",
+   "Planned Parenthood Action Fund",
+   "HRC PAC",
+   "LGBTQ+ Victory Fund",
+   "Equality PAC",
+   "Committee to Protect Health Care",
+   "Alliance for Retired Americans",
+   "Pete Buttigieg",
+   "Joe Donnelly",
+   "Martin O'Malley"
+  ],
+  "notable_positions": [
+   "Ban international investors and big corporations from buying homes; end 7% Indiana sales tax on utility bills (https://www.electjdford.com/platform)",
+   "Data-centre transparency and community-impact assessments before construction; opposed $650M data-centre tax incentives (https://www.electjdford.com/platform)",
+   "ICE: enforce against dangerous criminals but administration has 'gone a little too far'; more training, signed warrants, no courthouse arrests; supports path to citizenship (https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-5th-congressional-district)",
+   "Says voters should show ID but calls SAVE America Act a political move; backs John Lewis VRA (https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-5th-congressional-district)",
+   "Restore Medicaid funding, codify Roe, Equality Act, universal background checks, marijuana modernisation (https://www.electjdford.com/platform)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "No left or centrist index markers found (LI 0, CI 0): a labor-backed mainstream Democrat whose platform centres on affordability, data centres and anti-corruption. Credentialed legislator (EPD 5) who sought debates, so the rubric lands at step 5 'imperfect fit' with an LI/CI tie; Cat 4 is suggested only on his swing-seat pragmatic positioning (voter ID, ICE reform not abolition). Treat as a weak call.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/J._D._Ford",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "https://www.electjdford.com/platform",
+   "https://www.electjdford.com/endorsements",
+   "https://www.electjdford.com/about",
+   "https://www.electjdford.com/news",
+   "https://www.electjdford.com/post/victoria-spartz-refuses-to-debate-in-front-of-constituents",
+   "https://www.electjdford.com/post/jd-ford-announces-campaign",
+   "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-5th-congressional-district",
+   "https://readthereporter.com/anderson-firefighters-pac-endorses-j-d-ford-for-congress/"
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Christina Bohannan",
+  "seat": "IA-01",
+  "call_status": "confirmed winner (52.8%–43.6% over incumbent Mariannette Miller-Meeks per Wikipedia results)",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BS environmental engineering, University of Florida; JD, University of Florida Levin College of Law",
+   "career": "Environmental engineer (Florida DEP); clerk, U.S. Court of Appeals 11th Cir.; University of Iowa law professor since 2000 (faculty senate president)",
+   "prior_office": "Iowa House of Representatives, District 85, 2021–2023; IA-01 nominee 2022 and 2024"
+  },
+  "self_description": "Positions herself as 'an independent voice for Iowa' who 'stood up to both parties'; notes 'thousands of Iowans who voted for President Trump also voted for me'.",
+  "primary_context": "Won June 2026 primary 81.5%–18.5% over healthcare worker Travis Terrell (Track AIPAC-endorsed); no substantive ideological contest.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "'I oppose forcing everyone onto Medicare, so I oppose a single-payer system'; backs Medicare buy-in at any age",
+    "src": "https://bohannanforcongress.com/priorities/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Explicitly opposes single payer; wants to extend ACA tax credits and add an optional Medicare buy-in",
+    "src": "https://bohannanforcongress.com/priorities/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "NewDem Action Fund",
+   "WelcomePAC"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "One term in Iowa House; JD and 26-year law-professor career; detailed platform naming specific measures (stock-trading ban incl. divestment, term limits and age caps, Let America Vote Act, $35 insulin/epi-pen/inhaler caps, Medicare buy-in)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated Miller-Meeks once (KWQC/KCRG at St. Ambrose, 20 Oct 2026). An Iowa PBS debate was not held because both major-party candidates refused to debate with independent Michael Bridgford included. Media mostly local Iowa outlets and campaign events; explains reasoning on contested issues (e.g. why she rejects single payer)."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "NewDem Action Fund",
+   "WelcomePAC",
+   "314 Action Fund",
+   "Giffords",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "LCV Action Fund",
+   "Reproductive Freedom for All",
+   "Vote Common Good",
+   "Elect Democratic Women",
+   "AFGE",
+   "NEA",
+   "Human Rights Campaign",
+   "Planned Parenthood Action Fund",
+   "Ob-GynPAC"
+  ],
+  "notable_positions": [
+   "Opposes single payer; Medicare buy-in at any age plus extended ACA credits (https://bohannanforcongress.com/priorities/)",
+   "Congressional ethics package: stock-trading ban with divestment, lifetime lobbying ban, term limits and age caps, constitutional amendment to reverse Citizens United (https://bohannanforcongress.com/priorities/)",
+   "End Trump tariffs and expand farm export markets; crack down on Big Ag anti-competitive practices (https://bohannanforcongress.com/priorities/)",
+   "Codify Roe v. Wade; criticises Iowa's six-week ban (https://bohannanforcongress.com/priorities/)",
+   "Takes no corporate PAC money (https://bohannanforcongress.com/priorities/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "No left markers, and she explicitly rejects single payer. Centrist evidence is limited to New Dem and WelcomePAC backing plus the M4A rejection (CI 3), short of the Cat 4 threshold. Highly credentialed (EPD 6) and debated once, though she skipped the three-way PBS debate (EO 3), so the rubric gives step 5 'imperfect fit', nearest Cat 4.",
+  "sources": [
+   "https://bohannanforcongress.com/priorities/",
+   "https://bohannanforcongress.com/about/",
+   "https://bohannanforcongress.com/news/",
+   "https://en.wikipedia.org/wiki/Christina_Bohannan",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "https://newdemactionfund.com/press-releases/2025/7/14/new-dems-endorse-christina-bohannan-rebecca-cooke-and-janelle-stelson-in-first-endorsement-slate-for-2026-midterms",
+   "https://welcome.team/elect",
+   "https://www.kwqc.com/2026/09/16/kwqc-kcrg-partner-iowas-1st-congressional-district-debate/"
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Lindsay James",
+  "seat": "IA-02",
+  "call_status": "confirmed winner (49.5%–45.6% over Joe Mitchell per Wikipedia results)",
+  "bio": {
+   "birth_year": 1980,
+   "education": "BA communications, Santa Clara University; MDiv, Fuller Theological Seminary",
+   "career": "Presbyterian (PCUSA) minister and chaplain; adjunct professor, University of Dubuque; co-founder/director, Loras College Peace Institute",
+   "prior_office": "Iowa House of Representatives 2019–2027 (HD-99 then HD-71), House Minority Whip from 2022"
+  },
+  "self_description": "Faith-rooted economic-justice framing ('my faith compels me to fix it'); stresses bipartisanship: 'Politics should be about solving problems, not playing partisan games.'",
+  "primary_context": "Won 3-way primary (June 2026) with 57.8% over nonprofit founder Clint Twedt-Ball (24.1%) and former nursing dean Kathy Dolter (18.1%); all three debated once; no clear ideological split.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Immigration plank: 'We need to invest in border security' alongside more judges and a path to citizenship; would 'Reform ICE' (not abolish). Moderate-strength evidence",
+    "src": "https://www.lindsayforiowa.com/issues/keep-our-communities-safe"
+   },
+   "C5": {
+    "v": 1,
+    "e": "'Invest in Law Enforcement: ... ensure law enforcement is fully funded, paid well, and their benefits are protected'",
+    "src": "https://www.lindsayforiowa.com/issues/keep-our-communities-safe"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Says she co-founded Iowa's first bipartisan, bicameral legislative caucus and 'worked across party lines'",
+    "src": "https://www.lindsayforiowa.com/about"
+   },
+   "C8": {
+    "v": 1,
+    "e": "'Cut red tape and roll back tariffs on building materials so we can build millions of new homes ... simple supply and demand'; 'unleash the American energy enterprise and fast track innovative new sources of energy'",
+    "src": "https://www.lindsayforiowa.com/issues/issue-1"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Eight years in the Iowa House, minority whip; MDiv (professional graduate degree) and ministry/academic career; specific proposals (Medicare buy-in at 55, Restore Trust in Congress Act, BLAST Act, 12-year term limits, child-care cost cap, national right-to-repair)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Took part in the primary debate and both general-election debates with Joe Mitchell (Wikipedia debate tables). Says she has held '50+ town halls' and proposes requiring members to hold them. Engages substantively on immigration and policing trade-offs."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "End Citizens United",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Reproductive Freedom for All",
+   "National Women's Political Caucus",
+   "Vote Common Good",
+   "Teamsters Iowa",
+   "AFGE",
+   "NEA",
+   "Matthew Yglesias (Slow Boring)"
+  ],
+  "notable_positions": [
+   "Invest in border security plus more immigration judges and a path to citizenship; reform (not abolish) ICE (https://www.lindsayforiowa.com/issues/keep-our-communities-safe)",
+   "Fully fund law enforcement; also universal background checks, red-flag laws, assault-weapons ban (https://www.lindsayforiowa.com/issues/keep-our-communities-safe)",
+   "Supply-side housing: cut red tape and building-material tariffs to build 'millions of new homes' (https://www.lindsayforiowa.com/issues/issue-1)",
+   "Lower Medicare buy-in age to 55; reverse Medicaid cuts (https://www.lindsayforiowa.com/issues/issue-2)",
+   "Congressional stock-trading ban, lifetime lobbying ban, 12-year term limits, mandatory town halls (https://www.lindsayforiowa.com/issues/ending-dc-corruption)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left markers. Moderate centrist signals (border security, funding police, bipartisan caucus, supply-side housing and energy) give CI about 4, just under the Cat 4 threshold, with no centrist-coalition endorsement found. Credentialed and highly engaged (EPD 6, EO 5), so the rubric gives step 5 'imperfect fit', nearest Cat 4.",
+  "sources": [
+   "https://www.lindsayforiowa.com/issues",
+   "https://www.lindsayforiowa.com/issues/issue-1",
+   "https://www.lindsayforiowa.com/issues/issue-2",
+   "https://www.lindsayforiowa.com/issues/keep-our-communities-safe",
+   "https://www.lindsayforiowa.com/issues/ending-dc-corruption",
+   "https://www.lindsayforiowa.com/issues/agriculture",
+   "https://www.lindsayforiowa.com/about",
+   "https://en.wikipedia.org/wiki/Lindsay_James_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "https://www.slowboring.com/p/the-midterm-candidates-who-deserve",
+   "https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program/"
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Sarah Trone Garriott",
+  "seat": "IA-03",
+  "call_status": "confirmed winner (53.6%–46.4% over incumbent Zach Nunn per Wikipedia results)",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BA history, College of St. Scholastica; MTS, Harvard Divinity School; MDiv, Lutheran School of Theology at Chicago",
+   "career": "ELCA pastor and hospital chaplain; coordinator of interfaith engagement, Des Moines Area Religious Council (2017–)",
+   "prior_office": "Iowa Senate 2021–2027 (SD-22 then SD-14), former Senate Minority Whip"
+  },
+  "self_description": "Cross-party appeal: 'Most Iowans don't see their neighbors as red or blue ... I'll work just as hard for the folks who didn't vote for me'; pledges stock-trading ban, term limits and 'cutting taxes for hardworking Iowans'.",
+  "primary_context": "Unopposed in the June 2026 primary after former House Minority Leader Jennifer Konfrst (Booker-endorsed) withdrew in Jan 2026 and endorsed her.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Immigration page: 'we also need a system that enforces the law and secures our borders'; reform that 'secures the border' plus Dreamers protection and ICE accountability (moderate-strength)",
+    "src": "https://sarahforiowa.com/issue/immigration-thats-smart-fair-and-reflects-our-values/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "'My brother is a police officer ... I'll support investing in what local law enforcement needs'",
+    "src": "https://sarahforiowa.com/issue/public-safety-is-a-top-priority/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Launched 'Republicans for Sarah' with endorsements from 25 registered Republicans (28 Oct 2026)",
+    "src": "https://sarahforiowa.com/republicans-for-sarah/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "NewDem Action Fund",
+   "WelcomePAC"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term state senator, former minority whip, ranking member on Health & Human Services; Harvard MTS + MDiv; authored state bills (school-based Medicaid mental health, term-limit legislation) and specific federal pledges (12-year term limit, stock-trading ban, SCOTUS ethics code)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated Nunn on KCCI (27 Oct 2026); no record found of declining other debates. Media mainly Iowa outlets and campaign events; engages substance (health care, public safety)."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "NewDem Action Fund",
+   "WelcomePAC",
+   "End Citizens United",
+   "Future Forum",
+   "J Street",
+   "Elect Democratic Women",
+   "Reproductive Freedom for All",
+   "Vote Mama",
+   "Giffords",
+   "Human Rights Campaign",
+   "NEA",
+   "AFGE",
+   "Teamsters Local 238",
+   "Iron Workers Local 67",
+   "Sen. Elissa Slotkin",
+   "Pete Buttigieg",
+   "Gov. Tim Walz",
+   "25 registered Republicans"
+  ],
+  "notable_positions": [
+   "Immigration reform that 'secures the border', protects Dreamers and holds ICE to the law (https://sarahforiowa.com/issue/immigration-thats-smart-fair-and-reflects-our-values/)",
+   "Invest in local law enforcement plus community mental-health response teams (https://sarahforiowa.com/issue/public-safety-is-a-top-priority/)",
+   "Reverse Medicaid cuts, extend ACA credits, let more Iowans access Medicare earlier, public option (https://sarahforiowa.com/issue/health-care-thats-affordable-and-there-when-you-need-it/)",
+   "Stock-trading ban with jail for offenders, 12-year term limits, SCOTUS ethics code, end partisan gerrymandering, ban corporate PAC money (https://sarahforiowa.com/issue/higher-standard/)",
+   "Clean energy incl. biofuels, working with farmers on conservation (https://sarahforiowa.com/issue/protecting-iowas-land-water-and-clean-energy-future/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left markers found. New Dem and WelcomePAC backing (2) plus border-security, pro-police and Republican-endorsement markers give CI 5 with LI 0, meeting the Cat 4 rule. Two of the centrist markers are moderate-strength swing-seat framing rather than hard positions, so confidence is Medium.",
+  "sources": [
+   "https://sarahforiowa.com/issue/immigration-thats-smart-fair-and-reflects-our-values/",
+   "https://sarahforiowa.com/issue/public-safety-is-a-top-priority/",
+   "https://sarahforiowa.com/issue/health-care-thats-affordable-and-there-when-you-need-it/",
+   "https://sarahforiowa.com/issue/higher-standard/",
+   "https://sarahforiowa.com/issue/making-life-more-affordable-for-all-of-us/",
+   "https://sarahforiowa.com/issue/protecting-iowas-land-water-and-clean-energy-future/",
+   "https://sarahforiowa.com/republicans-for-sarah/",
+   "https://sarahforiowa.com/sarah-trone-garriott-wins-debate/",
+   "https://en.wikipedia.org/wiki/Sarah_Trone_Garriott",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "https://newdemactionfund.com/candidates",
+   "https://welcome.team/elect"
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Zach Dembo",
+  "seat": "KY-06",
+  "call_status": "confirmed winner (52.65% over Ralph Alvarado per Wikipedia results; AP call)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA history, Stanford; JD, University of Michigan Law School",
+   "career": "Teach For America teacher; U.S. Navy JAG officer (~5 yrs); DOJ Civil Rights Division prosecutor (2017–20); policy adviser then legislative director to Gov. Andy Beshear; AUSA, E.D. Kentucky (resigned 2025)",
+   "prior_office": "none elected (senior state staff and federal prosecutor)"
+  },
+  "self_description": "'Public service over politics'; runs as a Navy veteran and ex-prosecutor fighting corruption; endorsed by the 'moderate Blue Dog PAC' (Wikipedia).",
+  "primary_context": "First-time candidate; won 7-way primary (19 May 2026) with 39.6% over EMILY's List-backed ex-state Rep. Cherlynn Stevenson (31.5%) and Progressive Victory/Track AIPAC-backed Erin Petrey (15.8%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "'I will always be for immigration enforcement against violent criminals and a secure border', alongside sharp criticism of ICE conduct (mixed, moderate-strength)",
+    "src": "https://zachdembo.com/priority/commonsense-immigration-reform/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "'Support free and open trade that helps our farmers and distillers compete globally'; 'do everything we can to increase housing supply'",
+    "src": "https://zachdembo.com/priority/end-the-trade-war-and-get-costs-down-for-kentucky-families/"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC",
+   "New Democrat Coalition Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Federal prosecutor and governor's legislative director (senior staff); Stanford BA + Michigan JD; 10-point anti-corruption plan with specifics (DOJ independence, 6-year AG term removable only for cause, AI-displacement retraining fund)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Campaign cites a general-election 'debate victory' over Alvarado (Oct 2026); no record of ducking debates found. Held a town hall with End Citizens United; press mainly local Kentucky outlets. Engages specifics (ICE standards, DOJ structure)."
+  },
+  "outside_support": [
+   "Blue Dog PAC",
+   "New Dem Action Fund",
+   "DCCC Red to Blue",
+   "VoteVets",
+   "With Honor Fund",
+   "NEA",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "LCV",
+   "Gov. Andy Beshear",
+   "Gov. Mikie Sherrill",
+   "Kentuckians Not Corruption (supporting super PAC)",
+   "House Majority PAC (polling)"
+  ],
+  "notable_positions": [
+   "Secure border and enforcement against violent criminals; ICE body cameras, no masks, training reform (https://zachdembo.com/priority/commonsense-immigration-reform/)",
+   "End the trade war; 'free and open trade' for farmers and distillers (https://zachdembo.com/priority/end-the-trade-war-and-get-costs-down-for-kentucky-families/)",
+   "Restore and expand ACA credits, public option, reverse Medicaid cuts (https://zachdembo.com/priority/make-healthcare-affordable-for-everyone/)",
+   "Abortion 'safe, legal, and rare'; codify Roe (https://zachdembo.com/priority/let-women-make-their-own-healthcare-decisions-and-support-families/)",
+   "Make DOJ independent; ban congressional stock trading; lifetime lobbying ban (https://zachdembo.com/priority/root-out-corruption-and-restore-integrity-to-government/)",
+   "$15 minimum wage, PRO Act, data-centre local-consent rules (https://zachdembo.com/priority/rebuild-the-american-dream/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Blue Dog PAC and New Dem Action Fund endorsements max out C1 (3), and border-security and free-trade/housing-supply statements add 2, so CI 5 with LI 0 meets the Cat 4 rule. His platform is otherwise mainstream-Democratic (public option, PRO Act, $15 minimum wage), so the centrist read rests mainly on coalition ties.",
+  "sources": [
+   "https://zachdembo.com/",
+   "https://zachdembo.com/priorities/",
+   "https://zachdembo.com/priority/commonsense-immigration-reform/",
+   "https://zachdembo.com/priority/end-the-trade-war-and-get-costs-down-for-kentucky-families/",
+   "https://zachdembo.com/priority/make-healthcare-affordable-for-everyone/",
+   "https://zachdembo.com/priority/let-women-make-their-own-healthcare-decisions-and-support-families/",
+   "https://zachdembo.com/priority/root-out-corruption-and-restore-integrity-to-government/",
+   "https://zachdembo.com/priority/rebuild-the-american-dream/",
+   "https://en.wikipedia.org/wiki/Zach_Dembo",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "https://bluedogdems.com/zach-dembo/",
+   "https://www.newdemactionfund.com/news/new-dems-endorse-four-candidates-in-florida-kentucky-colorado"
+  ]
+ },
+ {
+  "id": 39,
+  "name": "Adrian Boafo",
+  "seat": "MD-05",
+  "call_status": "confirmed winner (defeated Republican Chris Chaffee in safe D seat; Wikipedia lists member-elect)",
+  "bio": {
+   "birth_year": 1994,
+   "education": "BA government & public policy, University of Baltimore; MBA, American University",
+   "career": "Congressional press aide (Becerra, Kihuen); campaign manager for Steny Hoyer 2018–21; federal lobbyist for Oracle",
+   "prior_office": "Bowie City Council / mayor pro tem 2019–2023; Maryland House of Delegates, District 23, 2023–present"
+  },
+  "self_description": "Generational-change establishment candidate ('a new generation of leadership'); Jewish Insider describes him as the establishment-backed, openly pro-Israel option.",
+  "primary_context": "Won 20+ candidate open primary (23 Jun 2026) with 32.7% against ex-County Exec Rushern Baker, state Sen. Arthur Ellis and ex-Capitol Police officer Harry Dunn; Hoyer/Moore/Alsobrooks-endorsed, boosted by ~$1.2M from AIPAC's UDP plus crypto-linked spending.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Issues page agenda item: 'Abolish ICE. Abolish ICE and pass comprehensive immigration reform'",
+    "src": "https://www.adrianboafo.com/issues"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls to 'Abolish ICE' (though also pledges to 'secure the border' with detection technology)",
+    "src": "https://www.adrianboafo.com/issues"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "'Cut federal red tape and incentivize the construction of mixed-income, workforce, and missing middle housing'; backs expanding AGOA trade; former Oracle lobbyist",
+    "src": "https://www.adrianboafo.com/issues"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition (listed on campaign endorsements page)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "State delegate (Economic Matters; Workers' Comp subcommittee chair) and former city council/mayor pro tem; BA + MBA (American Univ.); detailed agenda with named state bills (ICE Breaker Act, $25 minimum-wage bill, End Hedge Fund Control of Maryland Homes Act, Phone-Free Schools Act)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No record found either way of primary forums or a general-election debate with Chris Chaffee (safe seat); scored mid-range for lack of evidence. Gives interviews to local/student outlets (Capital News Service, DBK). States clear positions on contested issues (ICE, Israel aid, M4A-with-public-option)."
+  },
+  "outside_support": [
+   "United Democracy Project (AIPAC) ~$1.2M",
+   "Democratic Majority for Israel",
+   "crypto-linked super PAC spending",
+   "New Democrat Coalition",
+   "Future Forum",
+   "CollectivePAC",
+   "LCV",
+   "Giffords",
+   "NEA/MSEA",
+   "SEIU Local 500",
+   "AFGE",
+   "IAM",
+   "IBEW Local 26",
+   "Teamsters Local 639",
+   "Professional Firefighters of Maryland",
+   "Rep. Steny Hoyer",
+   "Gov. Wes Moore",
+   "Sen. Angela Alsobrooks"
+  ],
+  "notable_positions": [
+   "'Abolish ICE' plus comprehensive reform; also 'secure the border' with technology; sponsored state ICE Breaker Act (https://www.adrianboafo.com/issues)",
+   "'Medicare for All with a public option, so that if you like your private health insurance you can keep it' (not single payer replacing private insurance) (https://www.adrianboafo.com/issues)",
+   "Strengthen U.S.–Israel alliance and security assistance; more safeguarded humanitarian aid to Palestinian civilians (https://www.adrianboafo.com/issues)",
+   "$15 federal minimum wage indexed to inflation; sponsored $25 Maryland minimum-wage bill (https://en.wikipedia.org/wiki/Adrian_Boafo)",
+   "Federal investigation of Musk/DOGE; restore federal jobs (https://cnsmaryland.org/2026/10/22/if-elected-adrian-boafo-wants-to-launch-federal-investigation-into-elon-musk-doge/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mixed signals: 'Abolish ICE' (LI 1) against New Dem backing and supply-side housing/trade (CI 2), with heavy AIPAC/DMFI and establishment support. He has M4A branding but keeps private insurance. EPD 5 and EO about 3 put him at step 5 'imperfect fit', nominally nearest Cat 4. The debate record is unknown, and if it shows avoidance he would move to Cat 3.",
+  "sources": [
+   "https://www.adrianboafo.com/issues",
+   "https://www.adrianboafo.com/endorsements",
+   "https://en.wikipedia.org/wiki/Adrian_Boafo",
+   "https://jewishinsider.com/2026/06/aipac-betting-big-on-pro-israel-democrat-and-party-favorite-in-maryland/",
+   "https://cnsmaryland.org/2026/10/22/if-elected-adrian-boafo-wants-to-launch-federal-investigation-into-elon-musk-doge/",
+   "https://dbknews.com/2026/03/08/maryland-district-5-seat-prince-georges-county/",
+   "https://www.washingtonpost.com/politics/2026/06/21/adrian-boafo-boosted-by-aipac-crypto-maryland-house-democratic-primary/"
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Dan Koh",
+  "seat": "MA-06",
+  "call_status": "confirmed winner (won general; Wikipedia lists him as Representative-elect)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA, Harvard; MBA, Harvard Business School",
+   "career": "Chief of staff to Arianna Huffington; chief of staff to Boston Mayor Marty Walsh; chief of staff to Labor Sec. Walsh; White House Deputy Cabinet Secretary; Deputy Assistant to the President / deputy director, WH Intergovernmental Affairs",
+   "prior_office": "Andover Select Board 2019–2021; senior federal staff (Biden administration); lost 2018 MA-03 primary by ~145 votes"
+  },
+  "self_description": "Fighter against Trump who takes 'the fight to MAGA directly' using 'facts ... not hyperbole'; leans on Biden-administration record.",
+  "primary_context": "Won 6-way open primary (1 Sep 2026) with ~41% over state Rep. Tram Nguyen (29%, backed by Pressley, Trahan and Speaker Mariano), John Beccia, Jamie Belsito (Peace Action/Track AIPAC) and Beth Andres-Beck (Progressive Victory). Contest framed around Biden-era experience vs. affordability/economic justice rather than a sharp ideological split.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Top-priority heading 'Abolish Trump's ICE' (body text calls for full overhaul of immigration system; qualifier 'Trump's' makes this weaker evidence)",
+    "src": "https://www.kohforcongress.com/issues/your-issue-title-here"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Will back legislation making it 'easier for people to secure permits needed to build additional housing' and zoning changes; backed by pro-AI super PAC Leading the Future/Think Big (~$700k TV)",
+    "src": "https://www.kohforcongress.com/issues/affordable-housing"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senior federal staff (Deputy Assistant to the President; Labor chief of staff) plus a local select-board term; Harvard MBA; numbered affordability plan ($10/day child care, 30%-of-income rent cap via renter's tax credit, 6% energy cap, worked family example), plus named bills (Freedom to Vote Act, Democracy for All Amendment)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Primary-debate record not confirmed in sources reached (search budget exhausted). Seeks out hostile settings: says he has debated Scott Jennings on CNN and Tomi Lahren and appeared on Fox News Sunday. Argues with 'fact-based arguments ... not hyperbole'."
+  },
+  "outside_support": [
+   "Joe Biden",
+   "Kamala Harris",
+   "Pete Buttigieg",
+   "Marty Walsh",
+   "Sens. Chris Coons and Andy Kim",
+   "Massachusetts AFL-CIO",
+   "AFSCME Council 93",
+   "Professional Fire Fighters of Massachusetts",
+   "numerous building-trades locals (IBEW 103/104, Laborers 22, etc.)",
+   "End Citizens United",
+   "Leading the Future / Think Big (pro-AI super PAC, ~$700k)"
+  ],
+  "notable_positions": [
+   "'Medicare for All system that enrolls all Americans by default and preserves private insurance if desired' (not single payer replacing private insurance) (https://www.kohforcongress.com/issues/healthcare)",
+   "'Abolish Trump's ICE' / full immigration overhaul, more judges and asylum officers, expand legal pathways (https://www.kohforcongress.com/issues/your-issue-title-here)",
+   "Affordability plan: $10/day child care, rent capped at 30% of income via renter's credit, energy bills under 6% of income (https://www.kohforcongress.com/issues/delivering-affordability-for-the-north-shore)",
+   "Easier housing permits and zoning reform; expand LIHTC (https://www.kohforcongress.com/issues/affordable-housing)",
+   "No corporate PAC money; ban congressional stock trading; Democracy for All Amendment (https://www.kohforcongress.com/issues/issue-2)",
+   "Restore IRA climate credits and rejoin Paris (https://www.kohforcongress.com/issues/climate-change)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Biden-establishment candidate with progressive branding that he qualifies ('M4A' that preserves private insurance; 'Abolish Trump's ICE') plus pro-housing-supply and AI-industry backing, giving LI 1 and CI 1. Highly credentialed and unusually willing to engage hostile outlets (EPD 6, EO 4), so the rubric lands at step 5 'imperfect fit' with an LI/CI tie. Cat 4 is a weak nominal pick, and he could equally be read as mainstream-progressive.",
+  "sources": [
+   "https://www.kohforcongress.com/issues",
+   "https://www.kohforcongress.com/issues/healthcare",
+   "https://www.kohforcongress.com/issues/your-issue-title-here",
+   "https://www.kohforcongress.com/issues/delivering-affordability-for-the-north-shore",
+   "https://www.kohforcongress.com/issues/affordable-housing",
+   "https://www.kohforcongress.com/issues/issue-1",
+   "https://www.kohforcongress.com/issues/issue-2",
+   "https://www.kohforcongress.com/issues/winning-back-our-country",
+   "https://www.kohforcongress.com/issues/climate-change",
+   "https://en.wikipedia.org/wiki/Dan_Koh",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "https://commonwealthbeacon.org/politics/dan-koh-comes-out-on-top-in-crowded-primary-race-to-replace-moulton/",
+   "https://prospect.org/2026/08/31/vets-for-ai-max-rose-votevets/"
+  ]
+ }
+]

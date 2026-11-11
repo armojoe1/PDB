@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "dek": "All 320 Democrats who will sit in the House and Senate from 3 January 2027, sorted into four groups by a published, repeatable test. The test uses each member's votes, co-sponsorships, caucus memberships, endorsements, funding and campaign record.",
+  "items": [
+   [
+    " members",
+    "320"
+   ],
+   [
+    " House, incl. 4 delegates",
+    "264"
+   ],
+   [
+    " Senate, incl. 2 independents",
+    "56"
+   ],
+   [
+    " in uncalled races",
+    "8"
+   ],
+   [
+    " research cut-off",
+    "11 Nov 2026"
+   ]
+  ]
+ },
+ "categories": {
+  "1": {
+   "name": "Ideological left",
+   "brief": "Explicitly committed to the left programme: big tax rises on wealth and estates, single-payer health care, public ownership, aggressive anti-corporate rules, and the contested cultural and institutional positions (trans policy, speech regulation, Court expansion, statehood).",
+   "test": "Left-Ideology Index of 6 or more."
+  },
+  "2": {
+   "name": "Inexperienced & base-dependent",
+   "brief": "Not ideologues on the record, but thin prior experience and thin policy substance, funded heavily by small donors and the party's activist network. Most likely to follow wherever the base pushes.",
+   "test": "Not group 1 or 4, and Experience & Policy Depth of 3 or less. Small-donor dependence or activist-group backing raises confidence. In practice this group is all newcomers: sitting members score high on experience by definition."
+  },
+  "3": {
+   "name": "Credentialed but disengaged",
+   "brief": "Strong résumés and real experience, but no clear ideological identity of their own. A small core has a documented record of avoiding debates or scrutiny. Most are credentialed members who state few positions on the contested questions and vote with the party.",
+   "test": "Not group 1 or 4, Experience & Policy Depth of 4+, and Engagement & Openness of 2 or less. Credentialed members with no clear ideological signal also land here as a nearest fit."
+  },
+  "4": {
+   "name": "Clinton-style centrist",
+   "brief": "Fiscally moderate, against single payer and broad tax rises, hawkish on the border and police funding, socially liberal without the contested cultural positions, and visibly independent of party leadership.",
+   "test": "Centrism Index of 5 or more, with a Left-Ideology Index of 3 or less."
+  }
+ },
+ "findings": [
+  "The ideological left is the largest group, but the centre is close behind: 116 members (36%) sort left, 103 (32%) Clinton-style centrist, 86 (27%) credentialed party-liners and 15 (5%) inexperienced and base-dependent.",
+  "Clinton-style centrists are not a majority of the caucus. On a strict reading, only 42 members meet the centrist test outright, against 68 who meet the left test outright. The rest of each group is placed by nearest fit.",
+  "Most of the caucus does not sit at either pole. 186 of 320 members fall below both ideological thresholds and are placed by nearest fit. The page shows them as pale segments and rings, so the solid core of each group can be read separately.",
+  "The 2026 intake splits by how the seat was won. Of the 49 newcomers who flipped Republican seats, 25 sort centrist and only 4 left. Of the 46 who won Democratic-held or newly drawn seats, often through primaries, 17 sort left and 7 centrist. Insurgents who beat sitting Democrats mostly came from the left: Kiros, McKinney, Lander and Avila Chevalier in primaries and Gonzales-Torres in November all meet the left test outright. The exceptions are Luke Bronin and Jasmine Clark, who sort as party-liners, and Colin Allred and Eric Jones, who lean centrist.",
+  "The Senate is more centrist than the House: 39% centrist and 29% left, against 31% and 38% in the House. Six senators meet the left test outright: Sanders, Warren, Markey and three newcomers (El-Sayed, Flanagan, Jackson). Four meet the centrist test outright: Warner, Slotkin, Pappas, and Peltola if her race is confirmed.",
+  "Both party leaders, Hakeem Jeffries and Chuck Schumer, sort as credentialed party-liners rather than to either pole. Only 9 members fail the engagement test itself (6 on documented skips of debates or forums, 3 on partly unverified evidence). The rest of that group are experienced members who vote with the caucus without a distinctive ideological profile.",
+  "The inexperienced, base-dependent group is all newcomers (15), and 6 of them won flipped seats. Their median small-donor share is 28%, against 22% for other newcomers. Several were backed by both the Sanders–WFP network and the Blue Dog PAC (Brooks, Poindexter, Forstag), so their direction in office is open.",
+  "Caucus labels mostly agree with the scores: 73 of 84 returning Progressive Caucus members sort left. The New Democrat Coalition is a broad tent: of 104 members, 51 sort centrist, 27 are party-liners and 26 sort left.",
+  "The scores track how members actually vote. Among sitting members, left score minus centrist score correlates with Voteview's DW-NOMINATE ideology measure at r = 0.60 in the House and 0.64 in the Senate, although DW-NOMINATE was not used to score anyone."
+ ],
+ "steps": [
+  "If the Left-Ideology Index (LI) is 6 or more, the member is group 1.",
+  "Otherwise, if the Centrism Index (CI) is 5 or more and LI is 3 or less, the member is group 4.",
+  "Otherwise, if Experience & Policy Depth (EPD) is 3 or less, the member is group 2. Heavy small-donor funding (40%+ of individual money in sums under $200) or left-movement backing raises confidence; large-donor funding lowers it.",
+  "Otherwise, if Engagement & Openness (EO) is 2 or less, the member is group 3. A debate or media score of 0 requires a documented refusal or avoidance; missing evidence scores a neutral 1.",
+  "Everyone left is credentialed and engaged but below both ideological thresholds, and is placed by nearest fit: group 4 if CI is 3+ and at least LI; group 1 if LI is 4+ and above CI. A sitting member is also placed in group 4 if they have at least one centrist marker, no more than two left markers, and a voting record in the most moderate third of their chamber's Democrats (DW-NOMINATE). Everyone else goes to group 3: credentialed members who vote with the caucus without a distinctive ideological profile. All of these are marked 'nearest fit' with low confidence. DW-NOMINATE is never used on its own: in this Congress it rates some progressives as moderate when they vote no alongside Republicans, and party loyalists as very liberal."
+ ],
+ "method_cards": [
+  {
+   "k": 1,
+   "title": "Left-Ideology Index (0–16)",
+   "intro": "One point for each position with explicit public evidence; two for public ownership or democratic-socialist identity.",
+   "items": [
+    "Wealth tax, or a top income rate of 50%+ or corporate rate above 28%",
+    "Lowering the estate-tax exemption or raising estate-tax rates",
+    "Medicare for All / single payer (a public option does not count)",
+    "Public ownership of industry, or democratic-socialist / DSA identity (2 points)",
+    "Green New Deal or a fossil-fuel production ban",
+    "Statutory break-ups, buyback bans, price controls, jobs guarantee or UBI",
+    "Trans women in female sports, or no age limits on medical transition",
+    "Government regulation of online misinformation or hate speech",
+    "Defund the police, abolish ICE, or decriminalise border crossing",
+    "Adding seats to the Supreme Court",
+    "DC or Puerto Rico statehood, or ending the Electoral College",
+    "Calling Gaza a genocide, or a full arms embargo on Israel",
+    "Movement endorsements, capped at 3: Justice Democrats or DSA (2 each); WFP, Our Revolution, Sunrise, Sanders, Ocasio-Cortez, CPC PAC, PCCC, Leaders We Deserve (1 each)"
+   ]
+  },
+  {
+   "k": 4,
+   "title": "Centrism Index (0–10)",
+   "intro": "One point each, plus up to three for centrist coalition ties.",
+   "items": [
+    "Blue Dog endorsement (2); New Democrat Action Fund (1); WelcomePAC, Majority Democrats, Problem Solvers, No Labels or Third Way (1). Capped at 3",
+    "Opposes Medicare for All and would build on the ACA",
+    "Fiscal restraint: deficit focus and no broad tax rises",
+    "Campaigns on border security and enforcement",
+    "Rejects 'defund', campaigns on police funding, or has police-union backing",
+    "Breaks publicly with a progressive cultural position",
+    "Independent of party leadership: won't back Schumer or Jeffries, calls the party too far left, or has GOP endorsements or a bipartisan record",
+    "Pro-growth: all-of-the-above energy, permitting, housing supply, trade, or business endorsements"
+   ]
+  },
+  {
+   "k": 2,
+   "title": "Experience & Policy Depth (0–7)",
+   "intro": "Stands in for 'experience and intellectual heft'. It measures record and substance, not intelligence.",
+   "items": [
+    "Prior office (0–3): none; local office; state legislature, big-city mayor, prosecutor or senior federal staff; statewide, former member of Congress or flag officer",
+    "Credentials (0–2): thin record; degree and mid-level career; advanced professional degree or senior professional career",
+    "Policy depth (0–2): slogans only; some concrete proposals; detailed proposals or an authored legislative record"
+   ]
+  },
+  {
+   "k": 3,
+   "title": "Engagement & Openness (0–5)",
+   "intro": "Stands in for 'aloof, dismissive and won't debate'.",
+   "items": [
+    "Debates (0–2): skipped the debates offered; some; all or most",
+    "Media (0–2): avoided unscripted press; friendly or controlled settings; regular unscripted interviews and town halls, including hostile outlets",
+    "Substance (0–1): engages opposing arguments rather than dismissing opponents with labels or declining to take positions"
+   ]
+  },
+  {
+   "k": 0,
+   "title": "Evidence for sitting members",
+   "intro": "The 226 incumbents were scored on their record in Congress as well as their statements. These items count automatically:",
+   "items": [
+    "Co-sponsoring Medicare for All (2025), the Ultra-Millionaire Tax Act (2026), the Abolish ICE or Melt ICE Acts, the DC Admission Act, Block the Bombs to Israel, the Green New Deal resolution (2021 or 2023), the For the 99.5 Percent Act, or the Judiciary Act adding Supreme Court seats (2021 or 2023)",
+    "Voting for the July 2026 amendment to end all US military aid to Israel (left marker)",
+    "Voting for the Laken Riley Act (border marker), the Protection of Women and Girls in Sports Act (cultural marker), or breaking with party leadership on the 2025 stopgap funding votes (independence marker)",
+    "Membership of the Progressive Caucus (left), the New Democrat Coalition, Blue Dogs or the Problem Solvers Caucus (centrist)",
+    "DW-NOMINATE (Voteview) is shown for reference. It only tips a sitting member with weak position evidence into group 4, and only when they have at least one centrist marker and few left markers"
+   ]
+  }
+ ],
+ "limits": [
+  "Groups 2 and 3 rest on proxies. Experience & Policy Depth measures record and policy substance, not intelligence. Engagement & Openness measures debate participation and press access, which also reflects campaign strategy: safe-seat incumbents often skip debates.",
+  "Debate and media records were the hardest evidence to verify. A shared web-search allowance ran out early, so most of the research came from campaign sites, official pages, election results pages and news fetched directly. Where a debate record could not be confirmed it is scored neutral, so the 'credentialed but disengaged' group is probably under-counted.",
+  "The four groups are forced choices. Most of the caucus does not sit cleanly at either ideological pole: 177 of the 320 members are placed by nearest fit, and the page marks them. Read the solid segments as the defensible core of each group and the pale segments as tendencies.",
+  "Sitting members are scored partly on co-sponsorships and roll-call votes. Newcomers can only be scored on what they said as candidates, so their placements are less certain and can shift once they start voting.",
+  "Several left markers, such as DC statehood, are now mainstream Democratic positions, so a moderate can pick up a point or two. The threshold of 6 is set to require a pattern rather than a single position.",
+  "Endorsement data are incomplete for some groups: DSA national, AOC's PAC, No Labels and AIPAC's lists could not be retrieved. Missing endorsements score zero.",
+  "Individual entries can be wrong. Every scored position carries its source so it can be checked, and the full dataset is saved alongside this page."
+ ],
+ "pending": "Unsettled seats, included and flagged: Alaska (Peltola) and Mississippi (Colom) for the Senate; CO-4 (Laubacher), MN-1 (Johnson), TN-4 (Broderick) and NC-5 (Hubbard) flips; and two Democrat-vs-Democrat races: CA-4, where challenger Eric Jones led incumbent Mike Thompson 52–48 (Jones is counted), and CA-7, where Doris Matsui led a DSA-backed challenger. Amy Klobuchar is governor-elect of Minnesota and will resign; her appointed successor is not yet named. Mike Quigley is running for Chicago mayor in February 2027.",
+ "footer": "Prepared 11 November 2026. Sources: Wikipedia election results pages and 270toWin for the roster; Voteview roll calls and DW-NOMINATE; GovInfo bill-status co-sponsor files; FEC bulk candidate summaries (to 14 October 2026); caucus rosters; organisations' endorsement lists; and campaign sites, official pages and news coverage linked from each member's record. Categories are analytical groupings defined by the brief, not characterisations of anyone's ability or motives."
+}

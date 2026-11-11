@@ -1,0 +1,1156 @@
+[
+ {
+  "id": "C001113",
+  "name": "Catherine Cortez Masto",
+  "seat": "NV-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1964,
+   "education": "BS finance, University of Nevada, Reno (1986); JD, Gonzaga University School of Law (1990)",
+   "career": "Civil attorney in Las Vegas; federal prosecutor (US Attorney's Office, DC); chief of staff to Gov. Bob Miller; executive vice chancellor, Nevada System of Higher Education",
+   "prior_office": "Nevada Attorney General (2007-2015); US Senator (2017-present); DSCC chair for the 2020 cycle"
+  },
+  "self_description": "No self-applied ideological label found. Runs on Nevada-specific, bipartisan-coded issues; voted with Biden's stated position 96% of the time (FiveThirtyEight).",
+  "primary_context": "2022: renominated with 90.9% against minor candidates (Corey Reid 2.6%). No significant challenge from the left or right. Next up in 2028.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "One of 7 Senate Democrats who voted against BOTH Sanders resolutions (15 Apr 2026) to block bulldozer and 1,000-lb bomb sales to Israel; also among 23 Democrats backing continued sales in Aug 2025.",
+    "src": "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "2022 campaign endorsed by police unions Nevada Association of Public Safety Officers and Nevada Law Enforcement Coalition, and by Reno's (Republican) police chief Jason Soto.",
+    "src": "https://thenevadaindependent.com/article/laxalt-cortez-masto-both-tout-police-union-endorsements-after-groups-split-in-2020"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "2022 endorsements from Republican officials (mayors of Winnemucca and Ely, a former Churchill County commissioner, ex-GOP assemblyman Pete Ernaut, Reno police chief); one of eight Democrats who voted to end the Oct-Nov 2025 shutdown.",
+    "src": "https://www.rgj.com/story/news/2022/06/21/incumbent-democrat-catherine-cortez-mastro-wins-gop-mayor-senate-endorsement-over-adam-laxalt/7692406001/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former two-term Nevada AG and second-term senator (office 3); JD (cred 2); co-led the Savanna's Act / Not Invisible Act on missing and murdered Indigenous people, enacted 2020; Banking subcommittee ranking member; former DSCC chair (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: no general-election debate with Adam Laxalt (2022) appears in the sources checked. Whether either side declined is unverified, so neutral 1. Media: found no record of 2025-26 town halls or appearances on hostile outlets; mostly conventional local press. Default 1, unverified. Substance: states positions and explains her votes, e.g. her Jan 2026 statement opposing DHS funding."
+  },
+  "outside_support": [
+   "AIPAC (2022)",
+   "Pro-Israel America (2022)",
+   "EMILY's List",
+   "League of Conservation Voters",
+   "Culinary Workers Union",
+   "Nevada AFL-CIO",
+   "NAPSO and Nevada Law Enforcement Coalition (police unions)",
+   "Latino Victory",
+   "End Citizens United",
+   "Bernie Sanders campaigned for her in Oct 2022 (outside the 2024/26 L13 window)"
+  ],
+  "notable_positions": [
+   "One of eight Democrats who voted with Republicans to end the Oct-Nov 2025 shutdown; also voted for the Laken Riley Act (https://www.cnn.com/2025/11/09/politics/democrats-voting-government-shutdown-deal)",
+   "Jan 2026: opposed the DHS funding bill after the Minneapolis ICE killings, saying ICE operations were 'brutalizing U.S. citizens and law-abiding immigrants' (https://www.nbcnews.com/politics/congress/dhs-funding-bill-senate-hurdles-killed-minneapolis-rcna255769)",
+   "One of 7 Democrats who opposed both April 2026 Sanders resolutions to block arms sales to Israel (https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel)",
+   "Mar 2024: blocked Biden appellate nominee Adeel Mangi over his ties to a criminal-justice reform group (https://www.reuters.com/legal/government/senate-democrat-opposes-muslim-appellate-court-nominee-mangi-2024-03-20/)",
+   "Supports a 'talking filibuster' reform rather than outright abolition (https://www.npr.org/2022/01/12/1072372538/nevada-sen-cortez-maston-on-why-ditching-the-filibuster-is-the-wrong-choice)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Few left markers: only DC statehood, and she explicitly opposes arms restrictions on Israel. Several centrist markers: Laken Riley vote, police-union and Republican endorsements, and the Nov 2025 vote to end the shutdown. CI is about 3, below the Cat 4 threshold. EPD and EO are both high, so under step 5 she is nearest Cat 4 (imperfect fit). She did break with Republicans on the Jan 2026 DHS/ICE funding bill.",
+  "sources": [
+   "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel",
+   "https://thenevadaindependent.com/article/laxalt-cortez-masto-both-tout-police-union-endorsements-after-groups-split-in-2020",
+   "https://www.rgj.com/story/news/2022/06/21/incumbent-democrat-catherine-cortez-mastro-wins-gop-mayor-senate-endorsement-over-adam-laxalt/7692406001/",
+   "https://www.rgj.com/story/news/2022/08/10/reno-police-chief-jason-republican-endorses-democrat-cortez-masto-tight-us-senate-race-laxalt/10280540002/",
+   "https://www.nbcnews.com/politics/congress/dhs-funding-bill-senate-hurdles-killed-minneapolis-rcna255769",
+   "https://en.wikipedia.org/wiki/Catherine_Cortez_Masto",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Nevada"
+  ]
+ },
+ {
+  "id": "R000608",
+  "name": "Jacky Rosen",
+  "seat": "NV-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1957,
+   "education": "BA psychology, University of Minnesota (1979); AA computing and information technology, Clark County Community College (1985)",
+   "career": "Computer programmer, software developer and consultant; president of Congregation Ner Tamid (Henderson)",
+   "prior_office": "US House, NV-3 (2017-2019); US Senator (2019-present)"
+  },
+  "self_description": "Presents herself as bipartisan; described variously as liberal or moderate (Vox, Politico). No explicit ideological self-label found.",
+  "primary_context": "2024: renominated with 91.5% against minor candidates (Troy Walker 3.8%). No serious left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Supports 'comprehensive immigration reform' but does not believe ICE should be abolished; voted for the Laken Riley Act.",
+    "src": "https://thehill.com/homenews/senate/5095996-senate-passes-laken-riley-act/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "One of 7 Senate Democrats who voted against both April 2026 Sanders resolutions blocking arms sales to Israel; also backed continued sales in Aug 2025. Co-led the Antisemitism Awareness Act with Tim Scott.",
+    "src": "https://time.com/article/2026/04/16/the-seven-senate-democrats-who-caucused-with-republicans-to-continue-arms-sales-to-israel/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "In 2018 she was one of three House Democrats to vote with Republicans to make the TCJA individual tax cuts permanent. Co-sponsored the No Tax on Tips Act (2025). Not a cosponsor of wealth-tax bills.",
+    "src": "https://www.politico.com/story/2018/09/28/house-tax-puts-permanent-817246"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for the Laken Riley Act and says ICE should not be abolished.",
+    "src": "https://thehill.com/homenews/senate/5095996-senate-passes-laken-riley-act/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center ranked her 6th among senators for bipartisanship (2023). One of eight Democrats who voted to end the Nov 2025 shutdown.",
+    "src": "https://www.thelugarcenter.org/ourwork-85.html"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Problem Solvers Caucus member while in the House (2017-2019)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Two-term senator and former House member (office 3); bachelor's plus an associate degree and a software career (cred 1); ranking member of the Armed Services cybersecurity and Foreign Relations Near East subcommittees, and lead sponsor of the Antisemitism Awareness Act and other bipartisan bills (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: took part in the only general-election debate, against Sam Brown (KLAS-TV, 17 Oct 2024). Whether she declined other invitations is unverified, so 1. Media: found no record of 2025-26 town halls or appearances on hostile outlets; mostly controlled settings. Default 1. Substance: explains her votes on policy grounds."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "EMILY's List",
+   "Culinary Workers Union",
+   "Nevada AFL-CIO",
+   "AFSCME Nevada",
+   "Giffords",
+   "League of Conservation Voters",
+   "NextGen America PAC",
+   "Swing Left",
+   "314 Action",
+   "CHC BOLD PAC",
+   "Jewish Democratic Council of America",
+   "JACPAC"
+  ],
+  "notable_positions": [
+   "One of eight Democrats who voted to end the Nov 2025 shutdown; voted for the Laken Riley Act (https://www.cnn.com/2025/11/09/politics/democrats-voting-government-shutdown-deal)",
+   "Co-led the Antisemitism Awareness Act with Sen. Tim Scott, Feb 2025 (https://jewishinsider.com/2025/02/scott-rosen-reintroduce-antisemitism-awareness-act-in-the-senate/)",
+   "Opposed both April 2026 resolutions to block arms sales to Israel (https://time.com/article/2026/04/16/the-seven-senate-democrats-who-caucused-with-republicans-to-continue-arms-sales-to-israel/)",
+   "2018: voted with House Republicans to make the individual tax cuts permanent (https://www.politico.com/story/2018/09/28/house-tax-puts-permanent-817246)",
+   "Supports the ACA plus a Medicaid buy-in option rather than single payer (https://www.reviewjournal.com/news/politics-and-government/nevada/health-care-a-key-element-of-jacky-rosens-run-for-senate/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Left markers are minimal: DC statehood only, and she explicitly rejects both abolishing ICE and restricting arms to Israel. Centrist markers are consistent: former Problem Solvers member, tax-cut vote, Laken Riley, a Lugar bipartisanship ranking and the Nov 2025 shutdown vote, for a CI of about 4. That is just below the Cat 4 threshold, so step 5 makes Cat 4 the nearest fit (imperfect).",
+  "sources": [
+   "https://thehill.com/homenews/senate/5095996-senate-passes-laken-riley-act/",
+   "https://time.com/article/2026/04/16/the-seven-senate-democrats-who-caucused-with-republicans-to-continue-arms-sales-to-israel/",
+   "https://www.politico.com/story/2018/09/28/house-tax-puts-permanent-817246",
+   "https://www.thelugarcenter.org/ourwork-85.html",
+   "https://problemsolverscaucus-gottheimer.house.gov/members",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Nevada",
+   "https://en.wikipedia.org/wiki/Jacky_Rosen"
+  ]
+ },
+ {
+  "id": "S000148",
+  "name": "Charles E. Schumer",
+  "seat": "NY-SEN",
+  "call_status": "not up until 2028. Senate Democratic leader; NYT (7 Nov 2026) reports he says he has the votes to be majority leader in the December 2026 caucus election, though several incoming Democratic senators said they would not back him.",
+  "bio": {
+   "birth_year": 1950,
+   "education": "AB Harvard College (1971); JD Harvard Law School (1974)",
+   "career": "Lawyer turned career politician",
+   "prior_office": "NY State Assembly (1975-1980); US House (1981-1999); US Senator (1999-present); Senate Democratic leader (2017-present; Majority Leader 2021-2025)"
+  },
+  "self_description": "Says his decisions are guided by imaginary middle-class swing voters 'the Baileys' of Massapequa. Calls himself 'Shomer Yisrael' (guardian of Israel). 'My job is to keep the left pro-Israel' (Mar 2025).",
+  "primary_context": "2022: unopposed in the Democratic primary and cross-endorsed by the Working Families Party. Not up until 2028. Faced calls to step down as leader after the March 2025 CR reversal.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "One of 7 Democrats who voted against both April 2026 resolutions to block arms sales to Israel. Calls himself 'Shomer Yisrael' and said 'My job is to keep the left pro-Israel' (Mar 2025).",
+    "src": "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "(Dated, 2012) Disagreed with raising taxes on incomes above $250k and argued for a $1 million floor instead. Not a cosponsor of the Ultra-Millionaire Tax.",
+    "src": "https://www.theatlantic.com/politics/archive/2012/12/fiscal-cliff-pundits-250k-makes-you-rich/320020/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "(Dated) Long-standing financial-industry ally: in 2007 defended low carried-interest taxation of hedge-fund and private-equity managers (NYT); in 2018 the NYT reported he advanced Facebook's interests in regulation debates.",
+    "src": "https://www.nytimes.com/2007/07/30/washington/30schumer.html"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Party leader with 45+ years in elected office (office 3); Harvard JD (cred 2); authored major laws, e.g. CHIPS and Science as leader, and the 2013 Gang of Eight immigration bill (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: could not verify whether he debated Joe Pinion in 2022, so neutral 1 (unverified). Media: very high-volume but controlled press (weekly and Sunday press conferences, Daily Show, NYT interviews). His 2025 book tour was postponed for security reasons after the CR backlash. Found no 2025-26 town halls or Fox appearances: 1. Substance: argues his positions at length, e.g. the NYT op-ed defending his CR vote."
+  },
+  "outside_support": [
+   "Working Families Party (2022 ballot line; outside the 2024/26 L13 window)",
+   "CSEA",
+   "Public Employees Federation",
+   "Pro-Israel America",
+   "Jewish Democratic Council of America",
+   "NRDC Action Fund",
+   "Feminist Majority PAC"
+  ],
+  "notable_positions": [
+   "March 2025: reversed course and supplied votes to advance the GOP stopgap, arguing a shutdown would be worse (https://www.nytimes.com/2025/03/13/opinion/trump-musk-shutdown-senate.html)",
+   "Voted against the Laken Riley Act and against the Nov 2025 deal ending the shutdown (bulk votes)",
+   "Opposed both April 2026 resolutions to block arms sales to Israel; in 2024 called for Israeli elections to replace Netanyahu (https://www.nytimes.com/2024/03/19/us/politics/schumer-israel-netanyahu-gaza.html)",
+   "Declined to endorse Zohran Mamdani for NYC mayor in 2025, citing his criticism of Israel (https://www.politico.com/news/2025/09/19/hochuls-top-political-ally-weighs-resignation-after-mamdani-endorsement-00573154)",
+   "Endorsed Abdul El-Sayed in the 2026 Michigan Senate race (https://www.jpost.com/opinion/article-905621)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Establishment party leader with very few markers either way. LI is about 1 (DC statehood), and he explicitly opposes arms restrictions on Israel. Centrist markers rest on older evidence (2012 tax threshold, Wall Street ties), giving a CI of about 2. EPD is maximal and EO is about 3 (debate unverified), so step 5 puts him nearest Cat 4 (imperfect fit). He voted with the party on Laken Riley and the Nov 2025 CR.",
+  "sources": [
+   "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel",
+   "https://www.nytimes.com/2025/03/18/opinion/schumer-trump-antisemitism.html",
+   "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
+   "https://spectrumlocalnews.com/nys/central-ny/ny-state-of-politics/2022/02/22/working-families-party-endorses-schumer-s-re-election",
+   "https://www.theatlantic.com/politics/archive/2012/12/fiscal-cliff-pundits-250k-makes-you-rich/320020/",
+   "https://www.nytimes.com/2007/07/30/washington/30schumer.html",
+   "https://www.news4jax.com/news/politics/2026/10/12/chuck-schumer-has-broad-support-from-his-caucus-but-midterms-could-decide-his-future-as-leader/",
+   "https://en.wikipedia.org/wiki/Chuck_Schumer"
+  ]
+ },
+ {
+  "id": "G000555",
+  "name": "Kirsten E. Gillibrand",
+  "seat": "NY-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1966,
+   "education": "AB Dartmouth College (1988); JD UCLA School of Law (1991)",
+   "career": "Corporate litigator (Davis Polk & Wardwell; Boies Schiller Flexner)",
+   "prior_office": "US House, NY-20 (2007-2009; Blue Dog Coalition member); US Senator (2009-present, appointed then elected 2010/2012/2018/2024); 2020 presidential candidate; DSCC chair (2025-present)"
+  },
+  "self_description": "A centrist Blue Dog in the House, she has repositioned as a progressive in the Senate (M4A cosponsor, 2018 call to abolish ICE, economic populism) while remaining strongly pro-Israel.",
+  "primary_context": "2024: unopposed in the Democratic primary (AOC, Bowman and others declined to challenge her); also ran on the Working Families Party line. Won 58.9% against Mike Sapraicone.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "June 2018: called for abolishing ICE, calling it a 'deportation force' and urging a 'new agency with a very different mission'. Found no 2025-26 reaffirmation or retraction.",
+    "src": "https://www.cnn.com/2018/06/28/politics/gillibrand-ice-cnntv/index.html"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Oct 2024: 'I think the genocide accusation is inaccurate and inflammatory.' One of 7 Democrats who voted against both April 2026 resolutions to block arms sales to Israel.",
+    "src": "https://www.silive.com/politics/2024/10/sen-kirsten-gillibrand.html"
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (2024 ballot line/endorsement)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Cosponsor of the Sanders Medicare for All bill (2017 and S.1506 in the 119th).",
+    "src": "https://www.npr.org/2017/09/14/550768280/heres-whats-in-bernie-sanders-medicare-for-all-bill"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Called for abolishing and replacing ICE (2018); voted against the Laken Riley Act (2025).",
+    "src": "https://www.bloomberg.com/news/articles/2018-06-29/kirsten-gillibrand-embraces-liberal-rallying-cry-to-abolish-ice"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator since 2009 (office 3); JD and big-law career (cred 2); ranking member of the Aging Committee; led laws including the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act (2022) and military-justice reform in the FY22 NDAA (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: could not confirm whether she debated Mike Sapraicone in 2024, so neutral 1 (unverified). She did debate Chele Farley in 2018 (NY1). Media: does a regular live call-in on WNYC's Brian Lehrer show, where her June 2025 Mamdani 'global jihad' remark drew an on-air disclaimer; found no 2025-26 town halls or hostile-outlet appearances. 1. Substance: engages callers' arguments directly."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "EMILY's List",
+   "Democratic Majority for Israel",
+   "New York State AFL-CIO",
+   "NYSNA",
+   "DC 37",
+   "Giffords",
+   "League of Conservation Voters",
+   "End Citizens United",
+   "Planned Parenthood Action Fund",
+   "Jewish Democratic Council of America"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All (bulk; https://www.npr.org/2017/09/14/550768280/heres-whats-in-bernie-sanders-medicare-for-all-bill)",
+   "2018: called for abolishing ICE and creating a new agency (https://www.bloomberg.com/news/articles/2018-06-29/kirsten-gillibrand-embraces-liberal-rallying-cry-to-abolish-ice)",
+   "Rejects the Gaza 'genocide' label; opposed both April 2026 arms-blocking resolutions (https://www.silive.com/politics/2024/10/sen-kirsten-gillibrand.html)",
+   "June 2025: criticised Zohran Mamdani on WNYC over 'intifada' and 'global jihad' remarks (https://www.rollingstone.com/politics/politics-features/kirsten-gillibrand-zohran-mamdani-global-jihad-1235373902/)",
+   "As a House member she was a Blue Dog with an NRA A-rating and hard-line immigration votes; she reversed these positions in the Senate (https://www.washingtonpost.com/politics/i-will-stand-up-for-what-i-believe-in-sen-kirsten-gillibrand-says--but-what-she-believes-quickly-changed-as-she-moved-from-house-to-senate/2019/01/19/1534b4ce-1b55-11e9-9ebf-c5fed1b7a081_story.html)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Progressive-leaning on domestic markers: M4A, DC statehood, the 2018 abolish-ICE call and the WFP line give an LI of about 4. She is a firm pro-Israel voice who rejects the genocide label. There are no current centrist markers; her 2007-09 Blue Dog membership is excluded because she has explicitly repudiated those positions. With high EPD and EO around 3 (debate unverified), step 5 makes Cat 1 the nearest fit, but this is an imperfect fit for a mainstream liberal and DSCC chair.",
+  "sources": [
+   "https://www.cnn.com/2018/06/28/politics/gillibrand-ice-cnntv/index.html",
+   "https://www.bloomberg.com/news/articles/2018-06-29/kirsten-gillibrand-embraces-liberal-rallying-cry-to-abolish-ice",
+   "https://www.silive.com/politics/2024/10/sen-kirsten-gillibrand.html",
+   "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel",
+   "https://www.wnyc.org/story/call-your-senator-sen-gillibrand-on-trumps-big-beautiful-betrayal-mamdanis-victory-and-more/",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_New_York",
+   "https://en.wikipedia.org/wiki/Political_positions_of_Kirsten_Gillibrand"
+  ]
+ },
+ {
+  "id": "M001176",
+  "name": "Jeff Merkley",
+  "seat": "OR-SEN",
+  "call_status": "re-elected 2026 (defeated R state Sen. David Brock Smith about 57%-40%; called by AP/DDHQ 3-4 Nov 2026)",
+  "bio": {
+   "birth_year": 1956,
+   "education": "BA international relations, Stanford (1979); MPA, Princeton Woodrow Wilson School (1982)",
+   "career": "Presidential Management Fellow (Office of the Secretary of Defense); Congressional Budget Office analyst; executive director of Portland Habitat for Humanity; housing nonprofit director; president of World Affairs Council of Oregon",
+   "prior_office": "Oregon House of Representatives (1999-2009; Speaker 2007-2009); US Senator (2009-present)"
+  },
+  "self_description": "Progressive; the only senator to endorse Bernie Sanders in 2016. Frames 2026 as defending democracy against an 'authoritarian playbook' ('Our Republic's in deep trouble'). Willamette Week reports he is mulling a presidential run.",
+  "primary_context": "May 2026: renominated with 93.2% against Paul D. Wells. No serious challenge; he had considered retiring before deciding to run.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Lead sponsor of the Keep It in the Ground Act (reintroduced 18 Dec 2024) to stop new fossil-fuel extraction on public lands and waters: 'The only way to address this is to quit extracting and burning fossil fuels.'",
+    "src": "https://www.merkley.senate.gov/?p=21059"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Not scored. With Van Hollen he accused Israel of 'ethnic cleansing' in Gaza (2025) and voted for every Sanders arms-blocking resolution, including both in April 2026, but he has not used the word 'genocide' (Portland Mercury) or called for a full embargo."
+   }
+  },
+  "L13_endorsements": [
+   "Our Revolution (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Cosponsor of the Medicare for All Act (S.1506, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/senate-bill/1506/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Fourth-term senator and former Oregon House Speaker (office 3); Princeton MPA (cred 2); ranking member of the Budget Committee and long-time lead on filibuster reform and the Keep It in the Ground Act (policy 2)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: documented refusal. He told KTVZ he 'would not debate a candidate who is not prepared for the role', and KTVZ's 6 Oct 2026 Bend debate went ahead as a Brock Smith-only town hall (https://ktvz.com/news/election/2026/10/06/decision-2026-town-hall-for-u-s-senate-with-candidate-david-brock-smith/). Media: 600+ town halls, with 2025 meetings in all 36 counties including deep-red eastern Oregon (Malheur, Harney, Grant, Wallowa, Baker) and more in 2026 (https://www.merkley.senate.gov/town-halls/). Substance: engages policy in detail, though he dismissed his opponent as unprepared."
+  },
+  "outside_support": [
+   "Our Revolution",
+   "Oregon AFL-CIO",
+   "National Education Association",
+   "League of Conservation Voters",
+   "J Street",
+   "Track AIPAC",
+   "Peace Action",
+   "End Citizens United",
+   "Planned Parenthood Action Fund",
+   "JACPAC",
+   "Willamette Week (editorial)"
+  ],
+  "notable_positions": [
+   "Keep It in the Ground Act to end new fossil-fuel extraction on federal lands (https://www.merkley.senate.gov/?p=21059)",
+   "Accused Israel of 'ethnic cleansing' in Gaza after a 2025 trip with Van Hollen; voted for all Sanders arms-blocking resolutions (https://wjla.com/news/nation-world/us-senators-accuse-israel-of-ethnic-cleansing-in-gaza-after-middle-east-visit-oregon-jeff-merkley-senator-chris-van-hollen)",
+   "Cosponsor of Medicare for All and the Ultra-Millionaire Tax Act (bulk)",
+   "Senate's leading advocate of filibuster reform ('talking filibuster'); campaigned on it in 2026 (https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/)",
+   "Would cut deficits through defense cuts and by reversing tax breaks for the wealthy (https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Clearly movement-adjacent left: Sanders' 2016 endorser, M4A and Ultra-Millionaire Tax cosponsor, Keep It in the Ground sponsor, Our Revolution-endorsed. His LI is about 5, one short of the Cat 1 threshold, and he has no centrist markers. His heavy town-hall schedule offsets the 2026 debate refusal (EO about 3), so step 5 makes Cat 1 the nearest fit (imperfect, but close to the threshold).",
+  "sources": [
+   "https://ktvz.com/news/election/2026/10/06/decision-2026-town-hall-for-u-s-senate-with-candidate-david-brock-smith/",
+   "https://www.merkley.senate.gov/town-halls/",
+   "https://www.merkley.senate.gov/?p=21059",
+   "https://ourrevolution.com/jeff-merkley-for-re-election-u-s-senate/",
+   "https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/",
+   "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-federal/",
+   "https://www.portlandmercury.com/news/sen-merkley-us-aid-fuels-israels-ethnic-cleansing-of-palestine-48025869/",
+   "https://www.pollcheck.co.uk/us-midterms-2026/senate/oregon",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon"
+  ]
+ },
+ {
+  "id": "W000779",
+  "name": "Ron Wyden",
+  "seat": "OR-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1949,
+   "education": "BA political science, Stanford (1971); JD, University of Oregon School of Law (1974)",
+   "career": "Gerontology instructor; co-founder and director of the Oregon Gray Panthers (1974-80); director of the Oregon Legal Services Center for the Elderly",
+   "prior_office": "US House, OR-3 (1981-1996); US Senator (1996-present); Finance Committee chair (2021-2025) and ranking member (2025-present)"
+  },
+  "self_description": "No explicit ideological self-label found. Known as a policy-heavy liberal with civil-liberties and tech positions (Section 230 author, surveillance critic) and a record of bipartisan dealmaking.",
+  "primary_context": "2022: renominated with 89.4% against William Barlow (7.1%) and Brent Thompson. Cross-nominated by the Independent Party of Oregon. Next up in 2028.",
+  "L": {
+   "L1": {
+    "v": 0,
+    "e": "Not scored. As Finance Committee leader he authored the 'Billionaires Income Tax' (annual mark-to-market tax on billionaires' unrealized gains). That is not a net-worth tax under the rubric's definition, so the reviewer should consider it. Not an Ultra-Millionaire Tax cosponsor."
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": -1,
+    "e": "Co-author of Section 230 (1996) and its leading Senate defender against making platforms liable for user content.",
+    "src": "https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality"
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Not scored. Voted for both April 2026 Sanders resolutions blocking arms sales to Israel (he is not on the opposing list), but no 'genocide' or full-embargo statement found."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Cosponsor of the Medicare for All Act (S.1506, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/senate-bill/1506/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Long-time free-trade Democrat: voted for NAFTA in the House and was one of very few Senate Democrats to back CAFTA. Has also worked on bipartisan tax and health deals (e.g. the 2011 Wyden-Ryan Medicare plan).",
+    "src": "https://en.wikipedia.org/wiki/Ron_Wyden"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "45 years in Congress (office 3); JD (cred 2); top Democrat on Finance and author of major tax, health and privacy legislation (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: could not confirm whether he debated Jo Rae Perkins in 2022, so neutral 1 (unverified). Media: has held 1,149 open town halls, an annual every-county tradition that includes Republican-leaning rural counties, where he takes unscripted questions (https://www.wyden.senate.gov/town-halls). Substance: wonkish engagement with opposing arguments."
+  },
+  "outside_support": [
+   "Giffords (2022)",
+   "Feminist Majority PAC (2022)",
+   "Independent Party of Oregon cross-nomination (2022)",
+   "Bernie Sanders campaigned in Oregon for Democrats in Oct 2022 (outside the 2024/26 L13 window)"
+  ],
+  "notable_positions": [
+   "Cosponsor of Medicare for All in the 119th (bulk), but earlier backed market-based reform: Healthy Americans Act (2009) and the 2011 Wyden-Ryan Medicare plan (https://thehill.com/policy/healthcare/100522-obama-opposes-ryan-wyden-plan/)",
+   "Section 230 co-author and defender (https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality)",
+   "Co-sponsored the Stop Predatory Investing Act targeting large corporate single-family-home owners (2024) (https://thehill.com/business/4091602-senate-democrats-take-aim-at-investor-home-purchases/)",
+   "With Merkley and Markey, pushed to bar ICE's use of mobile facial-recognition apps (https://www.merkley.senate.gov/legislative-priorities/standing-up-for-human-and-civil-rights/13)",
+   "Voted against the Laken Riley Act and against both 2025 GOP stopgaps (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mainstream liberal and Finance Committee leader, not a movement-left figure. His LI is about 2 (M4A cosponsorship and DC statehood), he rejects platform-liability speech regulation, and his free-trade record gives a CI of about 1. EPD is maximal and EO is high (1,100+ town halls), so step 5 makes Cat 1 the nearest fit only narrowly. This is an imperfect fit.",
+  "sources": [
+   "https://www.wyden.senate.gov/town-halls",
+   "https://www.vox.com/recode/2019/5/16/18626779/ron-wyden-section-230-facebook-regulations-neutrality",
+   "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel",
+   "https://thehill.com/business/4091602-senate-democrats-take-aim-at-investor-home-purchases/",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Oregon",
+   "https://en.wikipedia.org/wiki/Ron_Wyden"
+  ]
+ },
+ {
+  "id": "F000479",
+  "name": "John Fetterman",
+  "seat": "PA-SEN",
+  "call_status": "not up until 2028. Party-switch speculation persists, but he says he will 'never' leave the Democrats (WaPo op-ed, May 2026; Sept 2026 statements).",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA finance, Albright College (1991); MBA, University of Connecticut (1993); MPP, Harvard Kennedy School (1999)",
+   "career": "Insurance underwriter (Chubb); AmeriCorps / GED instructor in Pittsburgh; community revitalisation work in Braddock",
+   "prior_office": "Mayor of Braddock, PA (2006-2019); Lieutenant Governor of Pennsylvania (2019-2023); US Senator (2023-present)"
+  },
+  "self_description": "'I'm not a progressive' (Dec 2023). Said his stroke gave him freedom to leave progressivism ('very liberating', 2024). 'A lifelong Democrat who votes overwhelmingly with my party' (Sept 2026). 'Always going to reject the extremes of socialism' (Trump convention video, Sept 2026).",
+  "primary_context": "2022: won the primary with 58.7% over Rep. Conor Lamb (26.3%, the moderate) and Malcolm Kenyatta (10.9%), running then as the Sanders/WFP-backed progressive. Spotlight PA (May 2026) reports talk of a 2028 primary challenge from the left.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "(Dated, 2021) Said he supports a wealth tax, using 'those who have yachts' as a benchmark. Found no reaffirmation since he dropped the progressive label in 2023.",
+    "src": "https://thephiladelphiacitizen.org/john-fetterman/"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "(Dated, Apr 2022 primary debate) Described himself as a Medicare for All supporter, calling healthcare a 'fundamental human need and right'. Not a cosponsor of S.1506 in the 119th.",
+    "src": "https://www.mcall.com/news/elections/mc-nws-democrat-senate-debate-20220422-wb2yjvpmurhtjiuckh4v7lzwua-story.html"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "Mar 2025: voted to block the federal ban on trans girls and women in female sports, saying 'The small handful of trans athletes in PA in a political maelstrom deserve an ally and I am one.' He also said the issue should be handled locally.",
+    "src": "https://www.pennlive.com/nation-world/2025/03/saying-hes-an-ally-pas-fetterman-helps-block-federal-anti-transgender-bill.html"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Calls 'defund the police' 'absurd' and describes himself as 'pro-policing'. Original cosponsor of the Laken Riley Act; in Feb 2026 he defended ICE agents wearing masks on Fox News.",
+    "src": "https://time.com/6175747/john-fetterman-pennsylvania-senate-primary/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Among the most pro-Israel Democrats: opposed both April 2026 arms-blocking resolutions and has said he would leave the party if it became 'anti-Israel'.",
+    "src": "https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "(Dated, 2022) Described himself as a Medicare for All supporter.",
+    "src": "https://www.mcall.com/news/elections/mc-nws-democrat-senate-debate-20220422-wb2yjvpmurhtjiuckh4v7lzwua-story.html"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Original cosponsor of the Laken Riley Act; called for a bipartisan border 'reset'; said 'I'm not a progressive' on immigration (Dec 2023); defends ICE agents masking (Fox News, Feb 2026).",
+    "src": "https://www.inquirer.com/politics/pennsylvania/pennsylvania-john-fetterman-fox-news-ice-agents-masks-government-shutdown-20260201.html"
+   },
+   "C5": {
+    "v": 1,
+    "e": "'Pro-policing'; called the defund movement 'absurd'.",
+    "src": "https://time.com/6175747/john-fetterman-pennsylvania-senate-primary/"
+   },
+   "C6": {
+    "v": -1,
+    "e": "Voted against the 2025 federal trans-sports ban and called himself an 'ally' of trans athletes.",
+    "src": "https://www.pennlive.com/nation-world/2025/03/saying-hes-an-ally-pas-fetterman-helps-block-federal-anti-transgender-bill.html"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Called the Democratic brand 'toxic'; told the FT that progressives won 2024 for Trump; only Democrat to vote to confirm AG Pam Bondi; appeared by video at Trump's Sept 2026 midterm convention ('always going to reject the extremes of socialism'); Trump calls him the 'most sensible' Democrat; his campaign reportedly solicited GOP donors (Sept 2026); voted to end the Nov 2025 shutdown.",
+    "src": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html"
+   },
+   "C8": {
+    "v": 1,
+    "e": "'I've always supported fracking' (Oct 2022 debate); backs rapid expansion of AI data centers (2026).",
+    "src": "https://www.usatoday.com/story/news/politics/elections/2022/10/25/pennsylvania-senate-debate-fetterman-oz/10564289002/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Former Lt. Governor (statewide) and senator (office 3); Harvard MPP plus MBA (cred 2); no signature legislation or committee leadership in the 119th, and the WSJ/CNN (Sept 2026) reported low engagement with legislative work (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: skipped the first 2022 primary debate (Muhlenberg, 3 Apr) but attended the second. Rejected Oz's early general-election debate offers and agreed to a single debate (25 Oct 2022), so 1. Media: has held no town halls since Jan 2025 (Independent). Frequent Fox News and conservative-media appearances, plus Bill Maher, FT and NYT interviews. The WSJ (Sept 2026) says he focuses on 'cultivating relationships with conservative media figures'. Those outlets are now friendly to him, so 1. Substance: states and defends his positions bluntly."
+  },
+  "outside_support": [
+   "(2022, outside the 2024/26 L13 window) Working Families Party, Our Revolution, Bernie Sanders",
+   "(2022) labor unions; DSCC",
+   "Sept 2026: campaign reportedly solicited donations from congressional Republicans (https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/)"
+  ],
+  "notable_positions": [
+   "Only Democrat to vote to confirm Pam Bondi as Attorney General (https://www.cnn.com/2025/02/04/politics/pam-bondi-confirmed-attorney-general/)",
+   "Voted with Republicans to end the Nov 2025 shutdown, saying Democrats had 'crossed a line' (https://www.foxnews.com/media/john-fetterman-sides-gop-senate-vote-end-government-shutdown-says-democrats-crossed-line.amp)",
+   "Called himself an 'ally' of trans athletes while helping block the March 2025 federal sports ban (https://www.pennlive.com/nation-world/2025/03/saying-hes-an-ally-pas-fetterman-helps-block-federal-anti-transgender-bill.html)",
+   "Staunchly pro-Israel; opposed every Sanders arms-blocking resolution (https://newrepublic.com/post/209101/list-democrats-vote-against-bernie-sanders-bill-block-arms-sales-israel)",
+   "Appeared at Trump's Sept 2026 midterm convention by video pledging to 'work with President Trump' (https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "His current conduct is clearly centrist and party-independent: Laken Riley cosponsor, the Bondi vote, the Nov 2025 shutdown vote, pro-police, pro-fracking and pro-Israel. He has the most moderate DW-NOMINATE score among Senate Democrats. His CI is about 4. His LI also reaches about 4, but only because of 2021-22 wealth-tax and M4A statements plus his 2025 trans-athlete 'ally' stance, so the markers tie. Cat 4 is the better fit for who he is now, flagged as imperfect.",
+  "sources": [
+   "https://www.inquirer.com/politics/pennsylvania/john-fetterman-switching-parties-republican-democrat-20260507.html",
+   "https://www.washingtonpost.com/opinions/2026/05/07/sen-john-fetterman-im-not-leaving-democratic-party/",
+   "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
+   "https://www.pennlive.com/nation-world/2025/03/saying-hes-an-ally-pas-fetterman-helps-block-federal-anti-transgender-bill.html",
+   "https://time.com/6175747/john-fetterman-pennsylvania-senate-primary/",
+   "https://www.independent.co.uk/news/world/americas/us-politics/democrats-pennsylvania-town-hall-john-fetterman-conor-lamb-b2724771.html",
+   "https://www.nbcnews.com/politics/2022-election/fetterman-rejects-oz-offer-hold-first-debate-calls-list-concessions-in-rcna45574",
+   "https://edition.cnn.com/2026/09/06/politics/john-fetterman-staffers-report",
+   "https://www.spotlightpa.org/news/2026/05/fetterman-democrats-primary-challenge-pennsylvania-2028-federal-government/",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Pennsylvania",
+   "https://en.wikipedia.org/wiki/John_Fetterman"
+  ]
+ },
+ {
+  "id": "R000122",
+  "name": "Jack Reed",
+  "seat": "RI-SEN",
+  "call_status": "re-elected 2026 (sixth term; about 66.6% vs 29.4% for R Raymond McKay, with independent Michael Bahry also on the ballot)",
+  "bio": {
+   "birth_year": 1949,
+   "education": "BS, US Military Academy West Point (1971); MPP, Harvard Kennedy School; JD, Harvard Law School (1982)",
+   "career": "Army officer in the 82nd Airborne (Ranger, paratrooper; captain, later Army Reserve major); associate professor at West Point; lawyer (Sutherland Asbill & Brennan; Edwards & Angell)",
+   "prior_office": "Rhode Island State Senate (1985-1991); US House, RI-2 (1991-1997); US Senator (1997-present); Armed Services Committee chair (2021-2025) and ranking member (2025-present)"
+  },
+  "self_description": "No ideological self-label found. A defense-focused, mainstream New England Democrat who votes with the party about 95% of the time; ranked among the most popular senators (Morning Consult 2024).",
+  "primary_context": "8 Sep 2026: renominated with 76.8% over two challengers to his left, Connor Burbridge (13.4%) and Luis Daniel Muñoz (9.8%), who ran on abolishing ICE, taxing wealth, ending aid to Israel and M4A. Burbridge said Reed ignored his debate challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Supports continued military aid to Israel. In April 2026 he backed blocking a bulldozer sale but was one of 11 Democrats who voted against blocking 1,000-lb bomb sales, i.e. he rejects a full embargo.",
+    "src": "https://theintercept.com/2026/04/15/senate-democrats-block-arms-sales-israel/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Does not support Medicare for All. Instead proposed the Choose Medicare Act (2019), a public option built on existing coverage.",
+    "src": "https://www.reed.senate.gov/news/releases/reed-offers-bill-to-make-medicare-an-affordable-healthcare-option-for-more-americans"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Five-term senator (office 3); West Point, Harvard MPP and JD (cred 2); top Democrat on Armed Services and a lead author of the annual NDAA (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: found no 2026 general-election debate with McKay. The two appeared separately on WPRI 'Community Focus' and WJAR. His primary challenger said Reed did not answer a debate challenge (https://www.oceanstatemedia.org/elections/2026-08-24/taking-on-jack-reed-inside-a-longshot-campaign-for-u-s-senate). General-election refusal is unverified, so 1. Media: regular national security interviews and local TV; found no 2025-26 town halls or hostile-outlet appearances. 1. Substance: detailed policy engagement on defense."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street",
+   "VoteVets",
+   "League of Conservation Voters",
+   "Giffords",
+   "Association of Flight Attendants-CWA",
+   "Jewish Democratic Council of America",
+   "JACPAC",
+   "Planned Parenthood Action Fund",
+   "Population Connection"
+  ],
+  "notable_positions": [
+   "Split April 2026 vote: for blocking the bulldozer sale, against blocking the bomb sale to Israel (https://theintercept.com/2026/04/15/senate-democrats-block-arms-sales-israel/)",
+   "Called Israel's June 2025 strikes on Iran a 'reckless escalation' (https://www.aljazeera.com/news/liveblog/2025/6/13/live-explosions-reported-in-iran-amid-israel-tensions?update=3771076)",
+   "Opposes Medicare for All; Choose Medicare Act public option (https://www.reed.senate.gov/news/releases/reed-offers-bill-to-make-medicare-an-affordable-healthcare-option-for-more-americans)",
+   "Criticised ICE agents wearing masks and the use of troops in LA (WJAR, June 2025, via https://ontheissues.org/2026_RI_Senate.htm)",
+   "Voted against the Laken Riley Act and both 2025 GOP stopgaps (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream, defense-focused Democrat with very few markers on either side. LI is about 1 (DC statehood), and he rejects a full arms embargo on Israel. CI is about 1 (explicit M4A opposition), and he votes with the party on immigration and the CRs. Step 5 gives a tie between Cat 1 and Cat 4; Cat 4 is suggested because he beat left challengers while rejecting their platform. If 2026 debate avoidance is confirmed (EO 2 or below), he would fall into Cat 3.",
+  "sources": [
+   "https://www.foxnews.com/politics/veteran-dem-senator-cruises-past-progressive-primary-challengers-bid-sixth-term.print",
+   "https://www.oceanstatemedia.org/elections/2026-08-24/taking-on-jack-reed-inside-a-longshot-campaign-for-u-s-senate",
+   "https://ground.news/article/jack-reed-wins-sixth-term-in-us-senate",
+   "https://turnto10.com/news/gene-off-script/gene-off-script-republican-candidate-ray-mckay-says-no-checks-and-balances-on-democratic-senator-jack-reed-us-senate-race-trump-american-dream-army-veteran-iran-war-june-17-2026",
+   "https://www.wpri.com/news/local-news/community-focus/community-focus-senator-jack-reed/amp/",
+   "https://theintercept.com/2026/04/15/senate-democrats-block-arms-sales-israel/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+   "https://en.wikipedia.org/wiki/Jack_Reed"
+  ]
+ },
+ {
+  "id": "W000802",
+  "name": "Sheldon Whitehouse",
+  "seat": "RI-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1955,
+   "education": "BA Yale (1978); JD, University of Virginia School of Law (1982)",
+   "career": "Prosecutor and state official: Rhode Island Director of Business Regulation; US Attorney for Rhode Island (1994-1998)",
+   "prior_office": "Rhode Island Attorney General (1999-2003); US Senator (2007-present); Budget Committee chair (2023-2025); Environment & Public Works ranking member (2025-present)"
+  },
+  "self_description": "Described as a progressive and 'climate hawk'; calls himself 'ardently pro-Israel'. Has given hundreds of 'Time to Wake Up' climate floor speeches.",
+  "primary_context": "2024: renominated with 83.8% over Michael Costa (16.2%), an investment manager. Beat Patricia Morgan 59.9%-39.9% in the general.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0,
+    "e": "Not scored. Champions Supreme Court ethics rules and 18-year term limits (said in Aug 2024 these would pass with a Democratic trifecta), but no statement found backing additional seats."
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Says he is 'ardently pro-Israel'. Voted against S.J.Res.34 (July 2025) and against the April 2026 resolution blocking 1,000-lb bomb sales, though he backed blocking bulldozers.",
+    "src": "https://theintercept.com/2026/04/15/senate-democrats-block-arms-sales-israel/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Cosponsor of the Medicare for All Act (S.1506, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/senate-bill/1506/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former state AG and US Attorney, four-term senator (office 3); JD (cred 2); former Budget chair, current EPW ranking member, and lead on Supreme Court ethics and dark-money legislation (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: could not confirm whether he debated Patricia Morgan in 2024, so neutral 1 (unverified). Media: national TV (CNN) and occasional cross-partisan outlets such as an interview with The Dispatch (2026). Found no 2025-26 town halls. 1. Substance: argues positions in depth (climate, courts, dark money)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "J Street PAC",
+   "Council for a Livable World",
+   "End Citizens United",
+   "Giffords",
+   "League of Conservation Voters",
+   "JACPAC",
+   "Humane Society Legislative Fund",
+   "Feminist Majority PAC"
+  ],
+  "notable_positions": [
+   "Leading Senate climate hawk; urged RICO-style accountability for the fossil-fuel industry (2015) and a carbon tax (https://www.washingtonpost.com/opinions/the-fossil-fuel-industrys-campaign-to-mislead-the-american-people/2015/05/29/04a2c448-0574-11e5-8bda-c7b4e9a8f7ac_story.html)",
+   "Supreme Court reform via 18-year term limits and an ethics code, passed with a simple majority, rather than adding seats (https://thedispatch.com/newsletter/dispatch-politics/democrats-still-hope-to-remake-the-supreme-court-in-2025)",
+   "Cosponsor of the Ultra-Millionaire Tax and Medicare for All (bulk)",
+   "Opposed DC statehood in 2018, then cosponsored it from 2020 (https://www.congress.gov/bill/116th-congress/senate-bill/631/cosponsors)",
+   "Backed Graham Platner in Maine, then withdrew support in July 2026 after assault allegations (https://www.providencejournal.com/story/news/politics/elections/2026/07/07/graham-platner-sexual-assault-allegations-sheldon-whitehouse-democrats-drop-support/90827112007/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Progressive on economics and climate (Ultra-Millionaire Tax, M4A, DC statehood: LI about 3) but pro-Israel and not a movement-left figure. There are no centrist markers (CI about 0). With high EPD and EO around 3 (debate unverified), step 5 makes Cat 1 the nearest fit, but this is an imperfect fit for an establishment liberal.",
+  "sources": [
+   "https://theintercept.com/2026/04/15/senate-democrats-block-arms-sales-israel/",
+   "https://thedispatch.com/newsletter/dispatch-politics/democrats-still-hope-to-remake-the-supreme-court-in-2025",
+   "https://www.providencejournal.com/story/news/politics/elections/2026/07/07/graham-platner-sexual-assault-allegations-sheldon-whitehouse-democrats-drop-support/90827112007/",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Rhode_Island",
+   "https://en.wikipedia.org/wiki/Sheldon_Whitehouse"
+  ]
+ }
+]

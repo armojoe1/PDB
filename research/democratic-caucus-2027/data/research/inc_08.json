@@ -1,0 +1,1721 @@
+[
+ {
+  "id": "T000474",
+  "name": "Norma J. Torres",
+  "seat": "CA-35",
+  "call_status": "re-elected 2026 (67.3% vs Mike Cargile (R); CA SOS, 100% precincts reporting, 10 Nov 2026)",
+  "bio": {
+   "birth_year": 1965,
+   "education": "BA, National Labor College",
+   "career": "LAPD 911 emergency dispatcher (17 years); born in Guatemala",
+   "prior_office": "Pomona City Council (2000-06); Mayor of Pomona (2006-08); California Assembly (2008-13); California Senate (2013-15); U.S. House 2015- (Appropriations Committee)"
+  },
+  "self_description": "No ideological self-label found. Member of the New Democrat Coalition and chair of its Housing, Infrastructure and Transportation Working Group; frames her agenda as affordability ('You should be able to afford a home, put food on the table, pay your bills, and access health care without going into debt').",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Mike Cargile (other candidates included W.H. Lane (D) and Michael Horvath (R)). No serious left or centrist Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "As chair of the New Dem Housing, Infrastructure & Transportation Working Group she helped unveil and backed the New Dem Affordability Agenda (Feb 2026), which calls for cutting red tape to build more housing (pro-housing-supply).",
+    "src": "https://torres.house.gov/media-center/press-releases/new-dem-housing-chair-norma-torres-supports-new-dems-affordability-agenda-to-lower-costs-for-working-families"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; confirmed on newdemocratcoalition.house.gov/members)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Six-term House member (first elected 2014) with prior mayoral and state-legislative office. Bachelor's degree plus a long dispatcher career. She sits on Appropriations and chairs a New Dem working group, but I could not verify a bill of hers that passed a chamber, so policy = 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Searches found no Torres-Cargile debate or forum in 2026 (safe seat, Cook: Solid D), so neutral 1. Media: in-district senior and 'luncheon' town halls (Montclair, Oct 2025; Claremont) on health-care cuts and the shutdown, plus press releases and oversight letters. No appearances on hostile or cross-partisan outlets found. Substance: states concrete positions and amendments (ICE/CBP transparency amendments, June 2026)."
+  },
+  "outside_support": [
+   "Giffords (gun-safety) endorsement",
+   "California Democratic Party pre-primary consent calendar"
+  ],
+  "notable_positions": [
+   "Demanded ICE accountability and transparency (GAO probe request June 2025; ICE/CBP oversight amendments June 2026) but no 'abolish ICE' call (https://torres.house.gov/media-center/press-releases/torres-introduces-amendments-to-force-transparency-and-congressional-oversight-on-ice-and-cbp)",
+   "Co-led Nov 2023 statement condemning 'from the river to the sea' rhetoric and Hamas; targeted by CODEPINK protests over Gaza (https://schneider.house.gov/media/press-releases/schneider-scholten-torres-torres-lead-statement-river-sea-and-ongoing-hamas)",
+   "New Dem housing working group chair backing the New Dem Affordability Agenda (https://torres.house.gov/media-center/press-releases/new-dem-housing-chair-norma-torres-supports-new-dems-affordability-agenda-to-lower-costs-for-working-families)",
+   "Voted Nay on Laken Riley Act and the trans sports bill; co-sponsor of the DC Admission Act (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream New Dem appropriator: no movement-left markers beyond the DC statehood co-sponsorship (LI about 1), and modest centrist markers (New Dem membership, pro-housing-supply agenda; CI about 2). She does not reach either ideological threshold. EPD (5) and EO (3) are both above the Cat 2/3 cutoffs, so the rubric's last step puts her nearest Cat 4 as an imperfect fit. In practice she votes as a party-line mainstream Democrat (she voted against the Laken Riley Act).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/35",
+   "https://torres.house.gov/media-center/press-releases/new-dem-housing-chair-norma-torres-supports-new-dems-affordability-agenda-to-lower-costs-for-working-families",
+   "https://torres.house.gov/media-center/press-releases/congresswoman-torres-demands-answers-from-ice-after-reports-of-aggressive-racially-targeted-arrests-in-the-inland-empire",
+   "https://torres.house.gov/media-center/press-releases/torres-introduces-amendments-to-force-transparency-and-congressional-oversight-on-ice-and-cbp",
+   "https://schneider.house.gov/media/press-releases/schneider-scholten-torres-torres-lead-statement-river-sea-and-ongoing-hamas",
+   "https://giffords.org/candidates/norma-torres/",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "L000582",
+  "name": "Ted Lieu",
+  "seat": "CA-36",
+  "call_status": "re-elected 2026 (72.9% vs Houston Brignano (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BS computer science and BA political science, Stanford; JD, Georgetown",
+   "career": "U.S. Air Force JAG officer (active duty 1995-99, then Reserve; retired colonel); attorney",
+   "prior_office": "Torrance City Council (2002-05); California Assembly (2005-10); California Senate (2011-14); U.S. House 2015-; Vice Chair, House Democratic Caucus (2025-); co-chair of the bipartisan House AI Task Force (2024)"
+  },
+  "self_description": "No ideological self-label found. Member of the Congressional Progressive Caucus. His public persona is that of an aggressive anti-Trump messenger and a tech/AI policy lead.",
+  "primary_context": "June 2, 2026 top-two primary against six challengers; Lieu and Republican Houston Brignano advanced (Daily Bruin). No significant intra-party challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Co-sponsored the Judiciary Act of 2021 (H.R.2584, 117th), which would expand the Supreme Court from 9 to 13 justices (co-sponsored 29 Jul 2021). He has also promised 'massive Supreme Court reform' when Democrats take control.",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Six-term member and elected House Democratic Caucus Vice Chair (leadership). Stanford degrees, Georgetown JD, retired USAF colonel. Recognised AI/tech policy lead (co-chaired the House bipartisan AI Task Force)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a 2026 Lieu-Brignano debate (safe seat), so neutral 1. Media: frequent unscripted national TV, including CBS Face the Nation (May 2026, where host Margaret Brennan pushed back on Democrats' DHS shutdown strategy), NBC Meet the Press NOW, SiriusXM's Julie Mason Show and FOX 11 LA's local politics show, plus telephone town halls (e.g. 29 Jan 2026 on ICE). No Fox News national guest appearances found. Mostly mainstream or friendly venues, so 1. Substance: takes clear positions (e.g. called for an ICE/CBP interior 'stand-down' rather than abolition)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Called for an immediate nationwide stand-down of ICE and CBP interior operations (Jan 2026); said 'We cannot be complicit in funding ICE', but did not call for abolition (https://lieu.house.gov/media-center/press-releases/rep-lieu-calls-immediate-nationwide-stand-down-ice-and-cbp-interior)",
+   "Co-sponsored the 2021 Judiciary Act to add four Supreme Court seats; earlier called for expanding the circuit courts (https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors)",
+   "Called GOP tax cuts 'morally wrong and fiscally stupid' (https://lieu.house.gov/media-center/in-the-news/gop-proposed-tax-cuts-are-morally-wrong-and-fiscally-stupid-house-democrat)",
+   "Co-sponsor of Medicare for All (119th) and the Green New Deal resolution (118th) (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Progressive-leaning establishment figure in leadership (Caucus Vice Chair). He co-sponsors M4A, the GND and DC statehood and co-sponsored the 2021 Court-expansion bill (LI about 4), but has no movement endorsements, abolition or genocide language, and no centrist markers (CI 0). With high EPD (7) and EO of 3, the rubric's last step puts him nearest Cat 1 as an imperfect fit (LI 4 vs CI 0).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/36",
+   "https://dailybruin.com/2026/06/08/ted-lieu-houston-brignano-win-36th-district-representative-primary/",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://lieu.house.gov/media-center/press-releases/rep-lieu-calls-immediate-nationwide-stand-down-ice-and-cbp-interior",
+   "https://easyreadernews.com/?p=343938",
+   "https://www.foxnews.com/media/cbs-host-gives-dem-rep-brutal-reality-check-dhs-shutdown-lost-fight",
+   "https://www.washingtonexaminer.com/?p=1802969",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "K000400",
+  "name": "Sydney Kamlager-Dove",
+  "seat": "CA-37",
+  "call_status": "re-elected 2026 (60.9% vs fellow Democrat Samantha Mota; CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BA, University of Southern California; Master of Arts Management, Carnegie Mellon University",
+   "career": "Arts/nonprofit management and political staff work",
+   "prior_office": "Los Angeles Community College District Board of Trustees (2015-18); California Assembly (2018-21); California Senate (2021-22); U.S. House 2023-; Ranking Member, HFAC Subcommittee on South and Central Asia"
+  },
+  "self_description": "No ideological self-label found. Member of the Congressional Progressive Caucus.",
+  "primary_context": "June 2, 2026 top-two primary: finished first (about 55% in an SOS snapshot) and advanced to a Democrat-vs-Democrat general against Samantha Mota, who ran as a self-described progressive (pathway to citizenship, separating local policing from immigration enforcement). Won 60.9-39.1. So a challenge from her left flank, or at least a progressive one.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2022 with prior state Assembly and Senate service. Graduate management degree (Carnegie Mellon MAM). Ranking Member of the HFAC South and Central Asia subcommittee; several of her bills cleared committee (Afghan women and girls bill H.R.7669, YALI Act, Export Controls Enforcement Act)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Kamlager-Dove-Mota debate in the D-vs-D general, so neutral 1. Media: oversight visits and press conferences (Adelanto ICE facility, June 2025) and an October 2025 Chicago 'shadow hearing' on immigration enforcement. No town halls or hostile-outlet interviews found. Substance: no evidence either way, default 1."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Conducted oversight of the Adelanto ICE facility and condemned the Los Angeles ICE raids (2025) (https://kamlager-dove.house.gov/media/press-releases/icymi-reps-kamlager-dove-chu-colleagues-conduct-oversight-adelanto-ice)",
+   "Ranking Member, HFAC South & Central Asia subcommittee; led the bipartisan Export Controls Enforcement Act through committee (https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-huizenga-meeks-shreve-celebrate-committee-passage-bipartisan)",
+   "Co-sponsor of Medicare for All, the Block the Bombs to Israel Act, the GND (118th) and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships (M4A, Block the Bombs, GND, DC statehood) give LI of about 4. I found no extra movement-left statements or endorsements and no centrist markers (CI 0). EPD is high (7) and EO (3) is neutral-unverified, so the rubric's last step puts her nearest Cat 1 as an imperfect fit. Evidence on debates and media is thin.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/37",
+   "https://www.predictionedge.com/elections/profile/samantha-mota/",
+   "https://kamlager-dove.house.gov/media/press-releases/icymi-reps-kamlager-dove-chu-colleagues-conduct-oversight-adelanto-ice",
+   "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-huizenga-meeks-shreve-celebrate-committee-passage-bipartisan",
+   "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-celebrates-committee-passage-bill-protect-afghan-women-and-girls",
+   "https://ramirez.house.gov/media/press-releases/ramirez-jayapal-members-congress-convene-oversight-forums-trumps-lawless-1"
+  ]
+ },
+ {
+  "id": "T000472",
+  "name": "Mark Takano",
+  "seat": "CA-39",
+  "call_status": "re-elected 2026 (67.0% vs Steve Manos (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1960,
+   "education": "BA, Harvard; MFA creative writing, UC Riverside",
+   "career": "Public high-school teacher (about 23 years)",
+   "prior_office": "Riverside Community College District Board of Trustees (1990-2012); U.S. House 2013-; Chair (2019-23) then Ranking Member (2023-) of House Veterans' Affairs Committee; Chair, Congressional Equality Caucus (119th)"
+  },
+  "self_description": "No ideological self-label found. CPC member and chair of the Congressional Equality Caucus. Told NOTUS (Mar 2025), rebutting Newsom on trans athletes, that it is 'critical that Democrats remain committed to our values'.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Steve Manos (mayor and business owner). No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "As Equality Caucus chair he opposes categorical bans on trans girls in girls' sports. On the June 2026 SCOTUS ruling upholding state bans (West Virginia v. B.P.J., Little v. Hecox) he called it 'a devastating ruling for so many young people who just want to play with their friends at school' and said states 'should be focusing on breaking down barriers to participation, not building them up'. He also called the House-passed trans sports bill 'shameful' (2025) and rebutted Newsom's March 2025 comments.",
+    "src": "https://equality.house.gov/media-center/press-releases/cec-condemns-scotus-ruling-upholding-anti-trans-sports-bans"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Co-sponsored the Judiciary Act of 2021 (H.R.2584, 117th) to expand the Supreme Court to 13 justices (co-sponsored 20 Apr 2021).",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Seven-term member. Chaired, now ranking member of, the House Veterans' Affairs Committee and was lead sponsor of the Honoring our PACT Act, enacted in 2022. Harvard BA plus MFA and a teaching career, so cred = 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Takano-Manos debate (safe seat), so neutral 1. Media: mainly press statements and interviews with friendly or mainstream outlets (e.g. NOTUS). No hostile-outlet appearances found. Substance: engages arguments directly (e.g. rebutted Newsom's trans-athlete comments and argued the Olympic sports bill's mechanics)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Opposes categorical bans on trans girls in school sports; condemned the June 2026 SCOTUS ruling upholding them (https://equality.house.gov/media-center/press-releases/cec-condemns-scotus-ruling-upholding-anti-trans-sports-bans)",
+   "Pushed back on Gov. Newsom's March 2025 trans-athlete comments (https://www.notus.org/california/gavin-newsom-trans-athletes)",
+   "Co-sponsored the 2021 Judiciary Act to add Supreme Court seats (https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors)",
+   "Co-sponsor of the Ultra-Millionaire Tax Act, Medicare for All, Block the Bombs and the GND (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships (wealth tax, M4A, GND, DC statehood, Block the Bombs) give LI 5. His explicit opposition to trans-sports bans (L7) and co-sponsorship of the 2021 Court-expansion bill (L10) bring LI to about 7, clearing the Cat 1 threshold. There are no centrist markers.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/39",
+   "https://equality.house.gov/media-center/press-releases/cec-condemns-scotus-ruling-upholding-anti-trans-sports-bans",
+   "https://equality.house.gov/cec-dwc-trump-trans-sports-eo-feb2025",
+   "https://www.notus.org/california/gavin-newsom-trans-athletes",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://asharq.com/الانتخابات-النصفية-الأميركية-2026/races/مجلس-النواب-كاليفورنيا-الدائرة-39-2026/"
+  ]
+ },
+ {
+  "id": "S001156",
+  "name": "Linda T. Sánchez",
+  "seat": "CA-41",
+  "call_status": "re-elected 2026 in the redrawn (Prop 50) CA-41 (67.5% vs Mitch Clemmons (R); CA SOS, 100% precincts reporting). She previously represented CA-38.",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA Spanish literature, UC Berkeley; JD, UCLA",
+   "career": "Labor and employment attorney; executive secretary-treasurer, Orange County Central Labor Council AFL-CIO",
+   "prior_office": "U.S. House 2003- (12 terms); Vice Chair, House Democratic Caucus (2017-19); senior Ways and Means member"
+  },
+  "self_description": "No ideological self-label found. CPC member; campaigned in 2026 on lowering costs ('Republicans in Congress have done nothing to address rising costs').",
+  "primary_context": "June 2, 2026 top-two primary in the redrawn 41st (Prop 50 turned the GOP-held seat Democratic): she and Republican Mitch Clemmons advanced. No serious Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Co-sponsored the Judiciary Act of 2021 (H.R.2584, 117th) to expand the Supreme Court to 13 justices (co-sponsored 24 Mar 2022).",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Twelve-term member, former Democratic Caucus Vice Chair, senior member of Ways and Means. UCLA JD and labor-law career."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Ballotpedia News race preview mentions no debate with Clemmons, so neutral 1. Media: mostly press releases and statements. No town halls or hostile-outlet appearances found in this pass. Substance: states concrete positions (e.g. ICE reforms: body cameras, background checks for new hires)."
+  },
+  "outside_support": [
+   "Organised labor (former Orange County Central Labor Council leader)"
+  ],
+  "notable_positions": [
+   "Opposed the FY26 Homeland Security bill and voted to block ICE funding: 'not one more dime ... until it's brought under control'. This is a conditional, reform framing, not abolition (https://lindasanchez.house.gov/media-center/press-releases/sanchez-opposes-homeland-security-bill-will-vote-block-ice-funding)",
+   "Called for ICE reforms such as body cameras and background checks for new hires (https://voteforlinda.com/?p=254)",
+   "Co-sponsored the 2021 Judiciary Act to add Supreme Court seats (https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors)",
+   "Co-sponsor of the Ultra-Millionaire Tax Act, Medicare for All, Block the Bombs, the GND and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give LI 5 (wealth tax, M4A, GND, DC, Block the Bombs). Co-sponsoring the 2021 Court-expansion bill (L10) takes her to the Cat 1 threshold of 6. She has no movement endorsements or centrist markers. The call rests on co-sponsorships rather than movement-left rhetoric; her style is labor-establishment.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/41",
+   "https://news.ballotpedia.org/2026/07/15/u-s-rep-linda-sanchez-d-ca-38-and-mitch-clemmons-r-compete-for-californias-redrawn-41st-congressional-district/",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://lindasanchez.house.gov/media-center/press-releases/sanchez-opposes-homeland-security-bill-will-vote-block-ice-funding",
+   "https://voteforlinda.com/?p=254"
+  ]
+ },
+ {
+  "id": "G000598",
+  "name": "Robert Garcia",
+  "seat": "CA-42",
+  "call_status": "re-elected 2026 (61.9% vs Brian Burley (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA communication studies, CSU Long Beach; MA, USC; EdD, CSU Long Beach",
+   "career": "College instructor/administrator; born in Lima, Peru",
+   "prior_office": "Long Beach City Council (2009-14); Mayor of Long Beach (2014-22); U.S. House 2023-; Ranking Member, House Oversight and Government Reform Committee (June 2025-); earlier Democratic Caucus Leadership Representative and freshman class president"
+  },
+  "self_description": "No ideological self-label found. Member of the Congressional Progressive Caucus, co-chair of the Equality Caucus and co-chair of the Congressional YIMBY Caucus. Frames Oversight work as 'holding the Trump Administration accountable' and 'rebuilding and reforming government'.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Brian Burley. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Self-described 'strong advocate for Guaranteed Income'. As mayor he launched Long Beach's guaranteed-income pilot (which his office calls a 'universal basic income pilot'). In Congress he introduced, with Ilhan Omar and Mayors for a Guaranteed Income, the Guaranteed Income for Foster Youth Act ($1,000/month for 5 years to young adults leaving foster care). Note: this is a targeted guaranteed-income programme, not a universal UBI.",
+    "src": "https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-continues-champion-guaranteed-income-introduces-0"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Co-chair of the Congressional YIMBY Caucus, which promotes 'removing barriers to the construction of new homes' (pro-housing-supply).",
+    "src": "https://robertgarcia.house.gov/about/committees-and-caucuses"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term member, former two-term mayor of a large city, now Ranking Member of House Oversight. Doctorate (EdD). Authored the Eliminate Useless Reports Act (signed into law, Dec 2024) and the Common Cents Act (passed the House)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Garcia-Burley debate (safe seat), so neutral 1. Media: very high-volume national presence as Oversight ranking member (CNN, MS NOW 'The Weeknight', Epstein-files coverage), mostly friendly or mainstream venues. No Fox News or other hostile-outlet appearances found in the pages checked. Substance: states detailed positions (ICE restructuring bill; Israel/Gaza statements)."
+  },
+  "outside_support": [
+   "Mayors for a Guaranteed Income (bill endorsement)"
+  ],
+  "notable_positions": [
+   "Voted for an amendment to withhold $3.3B in Foreign Military Financing to Israel ('block $3.3 billion ... for Benjamin Netanyahu and the Israeli military') (https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-statement-massie-amendment)",
+   "Introduced the ICE Security Reform Act to split Homeland Security Investigations out of ICE: restructuring, not abolition (https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-reintroduces-ice-security-reform-act-establish)",
+   "Guaranteed-income advocate; Guaranteed Income for Foster Youth Act (https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-continues-champion-guaranteed-income-introduces-0)",
+   "Co-chair of the YIMBY Caucus (https://robertgarcia.house.gov/about/committees-and-caucuses)",
+   "Co-sponsor of the Ultra-Millionaire Tax Act, Medicare for All, Block the Bombs, the GND and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give LI 5 (wealth tax, M4A, GND, DC statehood, Block the Bombs). His guaranteed-income advocacy (L6) takes him to the Cat 1 threshold of 6. The L6 call is a judgement, because the programme he champions is targeted rather than universal. His only centrist marker is YIMBY Caucus co-chair (CI 1). If L6 is not accepted he would be LI 5: EPD 7, EO 3, and nearest Cat 1 anyway.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/42",
+   "https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-continues-champion-guaranteed-income-introduces-0",
+   "https://robertgarcia.house.gov/about/committees-and-caucuses",
+   "https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-statement-israel-palestine",
+   "https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-statement-massie-amendment",
+   "https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-reintroduces-ice-security-reform-act-establish",
+   "https://robertgarcia.house.gov/media/in-the-news"
+  ]
+ },
+ {
+  "id": "W000187",
+  "name": "Maxine Waters",
+  "seat": "CA-43",
+  "call_status": "re-elected 2026 (82.9% vs Cristian Morales (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1938,
+   "education": "BA sociology, California State University, Los Angeles",
+   "career": "Head Start teacher/coordinator; political organiser",
+   "prior_office": "California Assembly (1976-90); U.S. House 1991- (18 terms); Chair (2019-23) then Ranking Member (2023-) of House Financial Services Committee"
+  },
+  "self_description": "No formal ideological label found. CPC member and long-time progressive and anti-Trump voice. Describes herself as 'a supporter of Israel' while calling for a Gaza ceasefire (Nov 2023).",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Cristian Morales. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Co-sponsored the Judiciary Act of 2021 (H.R.2584, 117th) to expand the Supreme Court to 13 justices (co-sponsored 15 Oct 2021).",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Eighteen-term member. Chaired, and is now Ranking Member of, House Financial Services. Bachelor's degree."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Waters-Morales debate (82.9% safe seat), so neutral 1. Media: frequent national appearances on friendly outlets. Openly adversarial with Fox News (2021 statements calling it a network 'manufacturing lies' and considering a lawsuit), so 1. Substance: default 1."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Called for an immediate Gaza ceasefire (Nov 2023); introduced the Food for Palestinian Children and Families in Gaza Act (https://waters.house.gov/media-center/press-releases/congresswoman-maxine-waters-calls-for-an-immediate-cease-fire-in-gaza)",
+   "Co-sponsored the 2021 Judiciary Act to add Supreme Court seats (https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors)",
+   "Attacked Fox News as spreading misinformation and threatened a lawsuit (2021) (https://waters.house.gov/media-center/press-releases/rep-waters-slams-fox-news-publishing-unsubstantiated-claims-considers)",
+   "Co-sponsor of the Ultra-Millionaire Tax Act, Medicare for All, Block the Bombs, the GND and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships give LI 5 (wealth tax, M4A, GND, DC statehood, Block the Bombs). Co-sponsoring the 2021 Court-expansion bill takes her to LI 6. She has the most liberal DW-NOMINATE score in this batch and no centrist markers.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/43",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://waters.house.gov/media-center/press-releases/congresswoman-maxine-waters-calls-for-an-immediate-cease-fire-in-gaza",
+   "https://waters.house.gov/media-center/press-releases/rep-waters-slams-fox-news-publishing-unsubstantiated-claims-considers"
+  ]
+ },
+ {
+  "id": "B001300",
+  "name": "Nanette Diaz Barragán",
+  "seat": "CA-44",
+  "call_status": "re-elected 2026 (81.7% vs Genevieve Angel (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1976,
+   "education": "BA political science, UCLA; JD, USC",
+   "career": "Attorney; earlier White House Office of Public Liaison (Clinton administration) and NAACP staff",
+   "prior_office": "Hermosa Beach City Council (2013-16; Mayor 2015); U.S. House 2017-; Chair, Congressional Hispanic Caucus (2023-24); Energy and Commerce Committee"
+  },
+  "self_description": "No ideological self-label found. CPC member.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Genevieve Angel. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Co-sponsored the Judiciary Act of 2021 (H.R.2584, 117th) to expand the Supreme Court to 13 justices (co-sponsored 6 May 2022).",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Five-term member, former CHC chair, Energy and Commerce member. USC JD. Steady stream of introduced bills (National Patient Safety Board Act, CARE for Blood Cancer Act)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Barragán-Angel debate (safe seat), so neutral 1. Media: large telephone town halls (16,000+ participants on health care; June 2025 tele-town hall on the ICE raids and National Guard deployment) and a roundtable on ICE raids near schools. These are controlled formats, and no hostile-outlet appearances were found, so 1."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Led a letter from 53 members demanding HHS/CMS halt Medicaid data sharing with ICE (https://barragan.house.gov/category/press-releases/)",
+   "Hosted a tele-town hall on the 2025 Los Angeles ICE raids and Guard deployment (https://barragan.house.gov/2025/06/18/press-release-congresswoman-barragan-holds-tele-town-hall-on-the-ongoing-ice-raids-and-deployment-of-the-national-guard-in-los-angeles-county/)",
+   "Co-sponsored the 2021 Judiciary Act to add Supreme Court seats (https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors)",
+   "Co-sponsor of Medicare for All, Block the Bombs, the GND and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships (M4A, GND, DC statehood, Block the Bombs) plus the 2021 Court-expansion co-sponsorship give LI about 5, one short of the Cat 1 threshold. There are no centrist markers. With high EPD (7) and EO 3, the rubric's last step puts her nearest Cat 1 as an imperfect fit.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/44",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://barragan.house.gov/category/press-releases/",
+   "https://barragan.house.gov/2025/06/18/press-release-congresswoman-barragan-holds-tele-town-hall-on-the-ongoing-ice-raids-and-deployment-of-the-national-guard-in-los-angeles-county/"
+  ]
+ },
+ {
+  "id": "T000491",
+  "name": "Derek Tran",
+  "seat": "CA-45",
+  "call_status": "re-elected 2026 (60.8% vs Chuong Vo (R); CA SOS, 100% precincts reporting; Ballotpedia News 6 Nov 2026)",
+  "bio": {
+   "birth_year": 1980,
+   "education": "Bachelor's degree; JD, University of La Verne College of Law",
+   "career": "U.S. Army veteran; consumer-rights attorney and small-business owner; son of Vietnamese refugees",
+   "prior_office": "None before Congress; U.S. House 2025- (first elected 2024); House Armed Services and Small Business committees"
+  },
+  "self_description": "Campaign: 'I'm running for Congress to put people ahead of politics, protect our democracy, and ensure everyone ... has the opportunity to succeed.' New Dem member. Emphasises bipartisanship, veterans, small business and public safety.",
+  "primary_context": "June 2, 2026 top-two primary: Tran 52.5%; Chuong Vo (R) and four other Republicans 47.5% combined. Redrawn seat moved from D+1 to D+5 (Inside Elections). No Democratic challenger of note.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for the Laken Riley Act (bulk). He backs 'resources for border technology, additional personnel' via the bipartisan Senate DHS bill while opposing ICE funding without reforms (Mar 2026).",
+    "src": "https://tran.house.gov/media/press-releases/representative-tran-rejects-dhs-funding-plan-fails-reform-ice-protect-public"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaigns on funding police: co-sponsor of the COPS Reauthorization Act to fund officer hiring (the bill is endorsed by the FOP and NAPO); member of the Bipartisan Congressional Law Enforcement Caucus; met with local police and the LA Deputy Sheriffs association during Police Week to push higher pay and benefits for officers.",
+    "src": "https://tran.house.gov/media/press-releases/representative-tran-backs-bipartisan-effort-prevent-crime"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; confirmed on newdemocratcoalition.house.gov/members)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024 with no prior office, so office = 2. JD, attorney and Army veteran. Co-authored the SBIR Foreign Interference Safeguard Act with Don Bacon, signed into law in April 2026 as part of the Small Business Innovation and Economic Security Act."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Searches did not establish whether he debated Chuong Vo in this competitive race, so neutral 1. Media: Forbes interview, local outreach (Police Week meetings, mobile office hours). No town halls or hostile-outlet appearances documented, so 1. Substance: explains votes in detail (e.g. why he backed the Massie Israel-aid amendment while supporting Iron Dome funding)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Supported the Massie amendment to eliminate $3.3B in FY27 military aid to Israel, while backing continued Iron Dome funding (https://tran.house.gov/media/press-releases/representative-derek-tran-supports-massie-amendment-block-us-military-funding)",
+   "Co-sponsor of the COPS Reauthorization Act; Law Enforcement Caucus member (https://tran.house.gov/media/press-releases/representative-tran-backs-bipartisan-effort-prevent-crime)",
+   "Voted against the GOP DHS stopgap without ICE reforms, backing the bipartisan Senate bill with border technology and personnel funding (https://tran.house.gov/media/press-releases/representative-tran-rejects-dhs-funding-plan-fails-reform-ice-protect-public)",
+   "Voted Yea on the Laken Riley Act; co-sponsor of Block the Bombs and DC statehood (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mixed profile. Centrist markers: New Dem membership, Laken Riley Yea, and pro-police-funding advocacy (CI about 3). Left markers come from co-sponsoring Block the Bombs and DC statehood (LI about 2), and he backed cutting Israel's military aid. He meets neither threshold. With EPD 6 and EO 3, the rubric's last step puts him nearest Cat 4 as an imperfect fit.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/45",
+   "https://news.ballotpedia.org/2026/08/03/tran-d-and-vo-r-running-in-californias-redrawn-45th-congressional-district-on-november-3/",
+   "https://tran.house.gov/media/press-releases/representative-derek-tran-supports-massie-amendment-block-us-military-funding",
+   "https://tran.house.gov/media/press-releases/representative-tran-backs-bipartisan-effort-prevent-crime",
+   "https://tran.house.gov/media/press-releases/representative-tran-stands-local-law-enforcement-during-national-police-week",
+   "https://tran.house.gov/media/press-releases/representative-tran-rejects-dhs-funding-plan-fails-reform-ice-protect-public",
+   "https://tran.house.gov/media/press-releases/representatives-tran-and-bacon-celebrate-bipartisan-small-business-legislation",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ },
+ {
+  "id": "C001110",
+  "name": "J. Luis Correa",
+  "seat": "CA-46",
+  "call_status": "re-elected 2026 (71.1% vs David Pan (R); CA SOS, 100% precincts reporting). Note: on 9 Nov 2026 he announced a medical procedure and is working from the district on doctor's advice.",
+  "bio": {
+   "birth_year": 1958,
+   "education": "BA economics, CSU Fullerton; JD and MBA, UCLA",
+   "career": "Investment banker, real-estate broker and attorney",
+   "prior_office": "California Assembly (1998-2004); Orange County Board of Supervisors (2005-06); California Senate (2006-14); U.S. House 2017-; Ranking Member, Homeland Security Subcommittee on Border Security and Enforcement; Blue Dog Coalition Policy Chair"
+  },
+  "self_description": "Blue Dog: the coalition's Policy Chair, leading pushes for 'bipartisan, fiscally responsible' and 'budget-neutral' tax policy. Co-chairs the bipartisan Congressional Energy Export Caucus and the Family Business Caucus.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican David Pan. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "As Blue Dog Policy Chair he led a Feb 2025 letter urging a 'bipartisan, budget-neutral' approach to the TCJA expiration and warning that 'We spent more on interest payments than on education, veterans, and transportation combined'. Deficit framing; no wealth-tax or large-rate-hike co-sponsorships.",
+    "src": "https://correa.house.gov/news/press-releases/correa-leads-blue-dog-coalition-push-for-bipartisan-fiscally-responsible-talks-ahead-of-tax-cuts-and-jobs-act-expiration-budget-reconciliation-process"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Top Democrat on the Border Security and Enforcement Subcommittee. Authored the Emerging Innovative Border Technologies Act (passed the House, Mar 2025) with Morgan Luttrell, plus bipartisan bills on smuggling tunnels (with Eli Crane) and the CBP canine programme ('Border security means keeping drugs ... away from our communities'). He also opposes interior-enforcement excesses and voted against added ICE funding, so he is hawkish on border security tech, not on deportations.",
+    "src": "https://correa.house.gov/news/press-releases/03/11/2025/house-passes-correa-luttrell-bipartisan-bill-to-integrate-technology-and-border-security"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaigns on resourcing police: the DRONE Act with Troy Nehls (supported by the Orange County Sheriff's Department) lets local police use federal grants for drones and passed the House in the NDAA (Dec 2025). Also a bill with LaLota to help law enforcement fight fentanyl/xylazine and the SERVICE Act for veterans in law enforcement.",
+    "src": "https://correa.house.gov/news/press-releases/correa-bipartisan-effort-to-provide-funding-for-local-law-enforcement-passes-house-heads-to-senate"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center/McCourt Bipartisan Index: ranked #95 of the House in the 117th Congress (score +0.23). Routinely co-leads bills with Republicans (Luttrell, Crane, Nehls, Lawler, LaLota).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/117_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Co-chair of the bipartisan Congressional Energy Export Caucus. Welcomed the lifting of the LNG export pause (Jan 2025): 'ensure that America continues to be the world's top oil and natural gas producer'. With the Blue Dogs, earlier criticised the Biden LNG export pause.",
+    "src": "https://correa.house.gov/news/press-releases/correa-energy-export-caucus-co-chairs-statement-on-trumps-lift-on-pause-of-lng-exports"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition member and Policy Chair (official roster bluedogcaucus-golden.house.gov/members; NOTE: missing from bulk caucus data)",
+   "New Democrat Coalition member (newdemocratcoalition.house.gov/members; NOTE: missing from bulk caucus data)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Five-term member with long state-legislative and county-supervisor record. UCLA JD/MBA. Ranking member of the Border Security subcommittee; authored bills passed by the House (Emerging Innovative Border Technologies Act; DRONE Act in the NDAA; HOPR Act)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Correa-Pan debate (safe seat), so neutral 1. Media: interviews with NewsNation and Spectrum News; no town halls or Fox appearances documented in the pages checked, so 1. Substance: offers concrete policy alternatives (e.g. a one-page registry-date immigration reform)."
+  },
+  "outside_support": [
+   "Orange County Sheriff's Department support for his DRONE Act (issue support, not an electoral endorsement)"
+  ],
+  "notable_positions": [
+   "Blue Dog Policy Chair; led the coalition's push for budget-neutral TCJA talks (https://correa.house.gov/news/press-releases/correa-leads-blue-dog-coalition-push-for-bipartisan-fiscally-responsible-talks-ahead-of-tax-cuts-and-jobs-act-expiration-budget-reconciliation-process)",
+   "Energy Export Caucus co-chair cheering the end of the LNG export pause (https://correa.house.gov/news/press-releases/correa-energy-export-caucus-co-chairs-statement-on-trumps-lift-on-pause-of-lng-exports)",
+   "House passed his bipartisan border technology bill (https://correa.house.gov/news/press-releases/03/11/2025/house-passes-correa-luttrell-bipartisan-bill-to-integrate-technology-and-border-security)",
+   "Opposed Biden's 2024 border-closure executive order as lacking a pathway to citizenship (https://correa.house.gov/news/press-releases/correa-statement-on-biden-administration-executive-order-to-shut-down-the-border)",
+   "Voted against additional ICE funding ('another blank check for ICE') (https://correa.house.gov/news/press-releases/correa-votes-against-another-blank-check-for-ice)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Blue Dog Policy Chair and New Dem member (C1 = 3) with explicit deficit framing, border-security legislating, police-resourcing bills, a documented bipartisan record and pro-oil-and-gas-export advocacy (CI about 8). His only left marker is DC statehood co-sponsorship (LI about 1). Clear Cat 4. Bulk caucus data omitted his Blue Dog and New Dem memberships.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/46",
+   "https://bluedogcaucus-golden.house.gov/members",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://correa.house.gov/news/press-releases/correa-leads-blue-dog-coalition-push-for-bipartisan-fiscally-responsible-talks-ahead-of-tax-cuts-and-jobs-act-expiration-budget-reconciliation-process",
+   "https://correa.house.gov/news/press-releases/correa-energy-export-caucus-co-chairs-statement-on-trumps-lift-on-pause-of-lng-exports",
+   "https://correa.house.gov/news/press-releases/03/11/2025/house-passes-correa-luttrell-bipartisan-bill-to-integrate-technology-and-border-security",
+   "https://correa.house.gov/news/press-releases/correa-bipartisan-effort-to-provide-funding-for-local-law-enforcement-passes-house-heads-to-senate",
+   "https://correa.house.gov/news/press-releases/11/11/2026/correa-statement-on-missing-votes",
+   "https://www.thelugarcenter.org/assets/htmldocuments/117_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "M001241",
+  "name": "Dave Min",
+  "seat": "CA-47",
+  "call_status": "re-elected 2026 (58.3% vs Jenny Rae Le Roux (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1976,
+   "education": "BA, UC Berkeley; JD, Harvard Law School",
+   "career": "SEC attorney, Senate Banking Committee counsel, Center for American Progress; UC Irvine law professor",
+   "prior_office": "California Senate (2020-24); U.S. House 2025- (first elected 2024); House Oversight Committee"
+  },
+  "self_description": "No ideological self-label found. CPC member; calls himself 'an ardent advocate for strong border security' while condemning ICE 'lawlessness'.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Jenny Rae Le Roux in the competitive Orange County seat. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for the Laken Riley Act (bulk). Sept 2025: 'While I am an ardent advocate for strong border security, H.R. 3486 will make it harder for local law enforcement to keep our communities safe' (voted no on that bill).",
+    "src": "https://min.house.gov/media/press-releases/statement-rep-dave-min-votes-against-bill-hamper-local-law-enforcement-and"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024 after a four-year state Senate term, so office = 2. Harvard JD and law professor. The House passed his bipartisan Brush Fires Act and Taxpayer Funds Oversight and Accountability Act, and another of his bills passed the Senate."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Searches did not establish whether he debated Le Roux in this competitive race, so neutral 1. Media: in-person community forums, including an Apr 2026 Irvine town hall on an ICE office lease, a Planned Parenthood town hall, and an Aug 2026 forum with Jewish constituents where he defended his conditional-arms stance on Israel (a cross-pressured audience). Also interviews with CNN, Spectrum News and the OC Register. No hostile partisan outlets documented, so 1 (borderline 2). Substance: engages opposing arguments directly (detailed Israel statement after the forum)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Will 'not support US taxpayers providing or subsidizing offensive weapons to Israel unless and until there is a meaningful change in Israeli policy', while backing defensive aid (Sept 2026) (https://min.house.gov/media/press-releases/update-rep-min-following-jewish-community-town-hall)",
+   "OC Register op-ed: 'ICE is essentially operating as a lawless paramilitary operation' (Jul 2025) (https://min.house.gov/media/press-releases/new-op-ed-rep-dave-min-ice-making-our-communities-more-dangerous-not-safer)",
+   "'Ardent advocate for strong border security'; voted against H.R.3486 as unfunded mandates on local police (https://min.house.gov/media/press-releases/statement-rep-dave-min-votes-against-bill-hamper-local-law-enforcement-and)",
+   "Voted Yea on the Laken Riley Act; co-sponsor of Medicare for All, Block the Bombs and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Cross-pressured profile. CPC member who co-sponsors M4A, Block the Bombs and DC statehood (LI about 3), yet voted for the Laken Riley Act and stresses border security (CI about 1). His DW-NOMINATE score is among the most moderate Democrats. He meets neither threshold. With EPD 6 and EO 3, the rubric's last step puts him nearest Cat 1 (LI 3 vs CI 1) as an imperfect fit.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/47",
+   "https://min.house.gov/media/press-releases/update-rep-min-following-jewish-community-town-hall",
+   "https://min.house.gov/media/press-releases/new-op-ed-rep-dave-min-ice-making-our-communities-more-dangerous-not-safer",
+   "https://min.house.gov/media/press-releases/icymi-rep-dave-min-mn-ice-operation-un-american-evil-and-completely-illegal",
+   "https://min.house.gov/media/press-releases/statement-rep-dave-min-votes-against-bill-hamper-local-law-enforcement-and",
+   "https://min.house.gov/media/press-releases/rep-dave-min-hosts-community-forum-demanding-transparency-new-ice-lease-irvine",
+   "https://min.house.gov/media/press-releases/house-passes-rep-mins-bipartisan-wildfire-prevention-bill-brush-fires-act"
+  ]
+ },
+ {
+  "id": "L000593",
+  "name": "Mike Levin",
+  "seat": "CA-49",
+  "call_status": "re-elected 2026 (58.7% vs Armen Kurdian (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BA political science, Stanford; JD, Duke",
+   "career": "Environmental/clean-energy attorney; former executive director, Orange County Democratic Party",
+   "prior_office": "U.S. House 2019- (4 terms); Appropriations Committee (119th); previously Veterans' Affairs subcommittee chair"
+  },
+  "self_description": "No ideological self-label found. Member of both the CPC and the New Democrat Coalition. Brands himself on clean energy, veterans, San Onofre nuclear-waste removal and constituent accessibility (monthly town halls).",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Armen Kurdian in a competitive coastal seat. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center/McCourt Bipartisan Index: ranked #96 in the House in the 117th Congress (+0.23) and #95 in 2023 (+0.17); above-average bipartisanship.",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; confirmed on newdemocratcoalition.house.gov/members)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term member, now on Appropriations, where he secured report language on Interior permitting. Duke JD. Recognised lead on San Onofre nuclear waste and clean-energy policy."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: unverified. Searches did not establish whether he debated Kurdian in 2026, so neutral 1. Media: holds monthly in-person town halls ('138th town hall since entering Congress in 2019', San Clemente, Aug 2026) with open Q&A in a swing district, so 2. Substance: engages policy detail (energy costs, permitting oversight)."
+  },
+  "outside_support": [
+   "California Environmental Voters (appeared at his town hall)"
+  ],
+  "notable_positions": [
+   "Hosts monthly town halls (138 since 2019) (https://levin.house.gov/media/press-releases/rep-mike-levin-hosts-138th-town-hall-to-address-skyrocketing-energy-costs)",
+   "Pressed Interior to stop delaying clean-energy permits; secured permitting-report language in the FY26 bill (https://levin.house.gov/media/press-releases/rep-mike-levin-pushes-interior-department-on-renewable-energy-permitting)",
+   "Leads the push to remove spent nuclear fuel from San Onofre (https://levin.house.gov/media/press-releases/rep-mike-levin-outlines-progress-and-next-steps-to-remove-nuclear-waste-from-san-onofre-nuclear-generating-station)",
+   "Voted Yea on the Laken Riley Act; co-sponsor of Medicare for All, the GND (118th) and DC statehood (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Genuinely mixed. Left markers come from co-sponsoring M4A, the GND and DC statehood (LI about 3). Centrist markers are New Dem membership, the Laken Riley Yea and a top-100 Lugar bipartisanship rank (CI about 3). He meets neither threshold. EPD is 7 and EO 4 (monthly town halls), so the rubric's last step applies with LI and CI tied. On relative distance to thresholds (3/5 vs 3/6) he sits marginally nearer Cat 4, but this is effectively a coin-flip, imperfect fit.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/49",
+   "https://levin.house.gov/media/press-releases/rep-mike-levin-hosts-138th-town-hall-to-address-skyrocketing-energy-costs",
+   "https://levin.house.gov/media/press-releases/rep-mike-levin-pushes-interior-department-on-renewable-energy-permitting",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf",
+   "https://www.thelugarcenter.org/assets/htmldocuments/117_BPI_House_FULL.pdf",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ },
+ {
+  "id": "P000608",
+  "name": "Scott H. Peters",
+  "seat": "CA-50",
+  "call_status": "re-elected 2026 (62.9% vs Steve Cohen (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1958,
+   "education": "BA economics, Duke; JD, NYU",
+   "career": "Environmental attorney; EPA economist early in career",
+   "prior_office": "San Diego City Council (2000-08; Council President 2006-08); Port of San Diego Commissioner; U.S. House 2013- (7 terms); co-chair, Bipartisan Fiscal Forum; Problem Solvers Caucus"
+  },
+  "self_description": "Pragmatic centrist: Problem Solvers Caucus and New Dem member and Bipartisan Fiscal Forum co-chair. Warns that 'Failing to act to address our increasing debt will have real consequences for our economy'.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Steve Cohen. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Co-chairs the Bipartisan Fiscal Forum with Bill Huizenga; co-sponsors the Fiscal Commission Act, No Budget No Pay Act and Responsible Budgeting Act. In 2026, after the debt passed $40T, urged House leaders to adopt their fiscal reforms. Does not co-sponsor the wealth tax.",
+    "src": "https://scottpeters.house.gov/press-releases/peters-huizenga-urge-house-leadership-to-adopt-their-fiscal-reforms-as-national-debt-tops-40-trillion"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Sponsors the bipartisan Providing Child Care for Police Officers Act (with Valadao and Issa) to address 'nationwide police staffing shortages'; the Problem Solvers Caucus endorsed it.",
+    "src": "https://scottpeters.house.gov/press-releases/rep-peters-reintroduces-the-providing-child-care-for-police-officers-act"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center/McCourt Bipartisan Index: #43 in the House in the 117th Congress (+0.84) and #105 in 2023. Problem Solvers Caucus member. DW-NOMINATE among the most moderate House Democrats.",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/117_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Leads the bipartisan CERTAIN Act permitting overhaul ('ensure all energy projects are built efficiently'), transmission/permitting bills with Republicans (Evans, Barr, Johnson), and housing-supply bills (national supply bill; building-code reform with Lawler). Also the PROVE IT Act with Curtis on trade competitiveness and opposition to tariffs alongside San Diego business leaders.",
+    "src": "https://scottpeters.house.gov/press-releases/peters-leads-sweeping-bipartisan-federal-permitting-overhaul"
+   }
+  },
+  "C1_endorsements": [
+   "Problem Solvers Caucus member (bulk; confirmed on problemsolverscaucus.house.gov)",
+   "New Democrat Coalition member (newdemocratcoalition.house.gov/members; NOTE: missing from bulk caucus data)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Seven-term member, former San Diego City Council president. Duke and NYU law. His clean nuclear energy bills passed the Senate and were sent to the President. Recognised permitting, fiscal and housing-supply policy lead."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Peters-Cohen debate (safe-ish seat at 62.9%), so neutral 1. Media: public events with business, labor and health leaders and webinars; no town halls or hostile-outlet appearances documented in the pages checked, so 1. Substance: policy-dense, engages trade-offs (e.g. voted for the Jan 2026 funding package, saying 'shutting the government down is not a strategy', while introducing ICE use-of-force limits)."
+  },
+  "outside_support": [
+   "Labor and industry groups backing his permitting overhaul (issue support)",
+   "Problem Solvers Caucus endorsement of his police child-care bill"
+  ],
+  "notable_positions": [
+   "Bipartisan Fiscal Forum co-chair pushing debt-reduction reforms (https://scottpeters.house.gov/press-releases/peters-huizenga-urge-house-leadership-to-adopt-their-fiscal-reforms-as-national-debt-tops-40-trillion)",
+   "Lead Democrat on the CERTAIN Act federal permitting overhaul (https://scottpeters.house.gov/press-releases/peters-leads-sweeping-bipartisan-federal-permitting-overhaul)",
+   "Voted for the Jan 2026 funding package with a DHS stopgap ('shutting the government down is not a strategy') while proposing ICE use-of-force limits (https://scottpeters.house.gov/press-releases/peters-votes-to-open-government-and-continue-negotiations-on-ice-funding)",
+   "Providing Child Care for Police Officers Act (https://scottpeters.house.gov/press-releases/rep-peters-reintroduces-the-providing-child-care-for-police-officers-act)",
+   "Voted Nay on the Laken Riley Act and the trans sports bill (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Problem Solvers and New Dem member (C1 = 2) with explicit deficit-reduction leadership, permitting, housing-supply and pro-trade advocacy, police-support legislation and a top-tier bipartisanship ranking (CI about 6). His only left marker is DC statehood co-sponsorship (LI about 1). Clear Cat 4, although he voted against the Laken Riley Act.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/50",
+   "https://scottpeters.house.gov/press-releases/peters-huizenga-urge-house-leadership-to-adopt-their-fiscal-reforms-as-national-debt-tops-40-trillion",
+   "https://scottpeters.house.gov/press-releases/peters-leads-sweeping-bipartisan-federal-permitting-overhaul",
+   "https://scottpeters.house.gov/press-releases/rep-peters-reintroduces-the-providing-child-care-for-police-officers-act",
+   "https://scottpeters.house.gov/press-releases/peters-votes-to-open-government-and-continue-negotiations-on-ice-funding",
+   "https://scottpeters.house.gov/press-releases/rep-peters-bills-to-advance-clean-nuclear-energy-pass-senate-head-to-president-s-desk-for-signature",
+   "https://www.thelugarcenter.org/assets/htmldocuments/117_BPI_House_FULL.pdf",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://problemsolverscaucus.house.gov/caucus-members"
+  ]
+ },
+ {
+  "id": "J000305",
+  "name": "Sara Jacobs",
+  "seat": "CA-51",
+  "call_status": "re-elected 2026 (65.4% vs Ricardo Cabrera (R); CA SOS, 100% precincts reporting)",
+  "bio": {
+   "birth_year": 1989,
+   "education": "BA and Master of International Affairs, Columbia University",
+   "career": "Foreign-policy work at the UN/UNICEF and State Department; Clinton 2016 campaign policy adviser; founded the nonprofit San Diego for Every Child",
+   "prior_office": "U.S. House 2021- (3 terms); Ranking Member, HFAC Subcommittee on Africa; House Armed Services Committee"
+  },
+  "self_description": "No ideological self-label found. Member of both the CPC and the New Democrat Coalition. Leading congressional voice on conditioning arms sales and civilian harm.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Ricardo Cabrera. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Introduced the AI Tax and Work Protection Act (Aug 2026, with Greg Casar and Valerie Foushee). It would impose a new tax on large AI companies (on token sales or AI revenue) to fund a federal 'Work Protection Administration' that creates jobs to offset AI layoffs, with the tax rate rising as unemployment rises. This is a WPA-style public jobs programme plus a novel sectoral tax, beyond the party mainstream (though not a universal jobs guarantee).",
+    "src": "https://sarajacobs.house.gov/news/press-releases/as-ai-companies-threaten-great-depression-levels-of-mass-unemployment-jacobs-casar-foushee-would-tax-companies-to-pay-for-jobs"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; confirmed on newdemocratcoalition.house.gov/members)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Three-term member, Ranking Member of the HFAC Africa subcommittee, on Armed Services. Columbia MIA plus foreign-policy career. Bills passed committee (Conflict Prevention Act) and a post-office naming bill passed the House."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Jacobs-Cabrera debate (safe seat), so neutral 1. Media: large telephone town halls with live Q&A (about 7,000 participants, Feb 2025) and a Fox News op-ed (May 2025, IVF for military families) aimed at a cross-partisan audience. Mostly controlled formats, so 1. Substance: engages specifics (arms-sales conditions, IVF coverage details)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "AI Tax and Work Protection Act: tax AI firms to fund a federal jobs programme (https://sarajacobs.house.gov/news/press-releases/as-ai-companies-threaten-great-depression-levels-of-mass-unemployment-jacobs-casar-foushee-would-tax-companies-to-pay-for-jobs)",
+   "Co-led legislation with Ramirez, Jayapal and Pocan to condition weapons to Israel; bill demanding accountability for the killing of Hind Rajab (https://sarajacobs.house.gov/news/press-releases/ramirez-jacobs-jayapal-pocan-18-members-of-congress-introduce-legislation-to-condition-weapons-to-israel-save-lives)",
+   "Leads bills to bar US arms sales to the UAE until it stops arming Sudan's RSF (https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-leads-bill-to-prohibit-us-arms-sales-to-uae-until-they-cease-support-of-rsf-in-sudan)",
+   "Fox News op-ed urging Trump to back IVF for military families (https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-pens-fox-news-op-ed-calling-on-president-trump-to-support-expanding-ivf-coverage-for-service-members)",
+   "Co-sponsor of Medicare for All, Block the Bombs, the GND and DC statehood (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (M4A, Block the Bombs, GND, DC statehood) plus her AI-tax-funded federal jobs programme (L6) give LI about 5, one short of the Cat 1 threshold. Her only centrist tie is New Dem membership (CI about 1). With EPD 7 and EO 3, the rubric's last step puts her nearest Cat 1 as an imperfect fit.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/51",
+   "https://sarajacobs.house.gov/news/press-releases/as-ai-companies-threaten-great-depression-levels-of-mass-unemployment-jacobs-casar-foushee-would-tax-companies-to-pay-for-jobs",
+   "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-pens-fox-news-op-ed-calling-on-president-trump-to-support-expanding-ivf-coverage-for-service-members",
+   "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-hosts-nearly-7000-san-diegans-on-telephone-town-hall",
+   "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-elected-ranking-member-of-house-foreign-affairs-subcommittee-on-africa",
+   "https://sarajacobs.house.gov/news/press-releases/ramirez-jacobs-jayapal-pocan-18-members-of-congress-introduce-legislation-to-condition-weapons-to-israel-save-lives"
+  ]
+ },
+ {
+  "id": "V000130",
+  "name": "Juan Vargas",
+  "seat": "CA-52",
+  "call_status": "re-elected 2026 (71.1% vs Jeff Belle (R); CA SOS, 100% precincts reporting). Batch 'status' field shows '*Jeff Belle (Republican)', which is a parsing artefact; Vargas won.",
+  "bio": {
+   "birth_year": 1961,
+   "education": "BA, University of San Diego; MA, Fordham; JD, Harvard",
+   "career": "Former Jesuit novice; attorney; insurance-industry executive (Safeco)",
+   "prior_office": "San Diego City Council (1993-2000); California Assembly (2000-06); California Senate (2010-12); U.S. House 2013-; Ranking Member, House Financial Services Task Force on Monetary Policy"
+  },
+  "self_description": "No ideological self-label found. Member of both the CPC and the New Democrat Coalition. Strongly pro-Israel voice within the caucus.",
+  "primary_context": "June 2, 2026 top-two primary: advanced with Republican Jeff Belle. No significant Democratic challenge found.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Sponsor of the 'Donald J. Trump Wealth Tax Act' (reintroduced 15 Apr 2026): a 14.25% net-worth tax on individuals and trusts worth $10M or more, framed as holding Trump to his 1999 proposal. A wealth-tax bill he sponsors, though partly a political jab.",
+    "src": "https://vargas.house.gov/media/press-releases/on-tax-day-rep-juan-vargas-reintroduces-the-donald-j-trump-wealth-tax-act"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "May 2024: urged the Biden administration to 'work quickly to resolve any differences with our friend and ally Israel regarding arms shipments' after the arms delay, rejecting a pause on weapons to Israel. Not a co-sponsor of Block the Bombs.",
+    "src": "https://vargas.house.gov/media/press-releases/rep-vargas-statement-on-arms-delay"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th).",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; confirmed on newdemocratcoalition.house.gov/members)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Seven-term member with city council and state-legislative background. Harvard JD. Ranking Member of the HFSC Task Force on Monetary Policy; Fed-independence and climate-risk-disclosure lead."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. Nothing found on a Vargas-Belle debate (safe seat), so neutral 1. Media: Know-Your-Rights webinar with Peters; press releases and committee work. No town halls or hostile-outlet appearances documented, so 1. Substance: default 1."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Reintroduced the 'Donald J. Trump Wealth Tax Act' (14.25% on net worth over $10M) (https://vargas.house.gov/media/press-releases/on-tax-day-rep-juan-vargas-reintroduces-the-donald-j-trump-wealth-tax-act)",
+   "Urged Biden to resolve the 2024 Israel arms-shipment delay quickly (https://vargas.house.gov/media/press-releases/rep-vargas-statement-on-arms-delay)",
+   "Defends Federal Reserve independence as HFSC task-force ranking member (https://vargas.house.gov/media/press-releases/ranking-member-juan-vargas-reaffirms-importance-of-federal-reserve-independence)",
+   "Voted against the $70B 'blank check' for ICE (https://vargas.house.gov/media/press-releases/rep-juan-vargas-votes-against-70-billion-blank-check-to-ice)",
+   "Co-sponsor of Medicare for All, the GND (118th) and DC statehood (bulk); voted Nay on the Laken Riley Act"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Co-sponsors M4A, the GND and DC statehood and sponsors a (Trump-branded) wealth-tax bill (LI about 4). He explicitly opposed slowing arms to Israel (L12 = -1), and his only centrist marker is New Dem membership (CI about 1). He meets neither threshold. With EPD 7 and EO 3, the rubric's last step puts him nearest Cat 1 as an imperfect fit; in practice a mainstream liberal.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/52",
+   "https://vargas.house.gov/media/press-releases/on-tax-day-rep-juan-vargas-reintroduces-the-donald-j-trump-wealth-tax-act",
+   "https://vargas.house.gov/media/press-releases/rep-vargas-statement-on-arms-delay",
+   "https://vargas.house.gov/media/press-releases/ranking-member-juan-vargas-reaffirms-importance-of-federal-reserve-independence",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ }
+]

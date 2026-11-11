@@ -1,0 +1,1390 @@
+[
+ {
+  "id": 41,
+  "name": "Sean McCann",
+  "seat": "MI-4",
+  "call_status": "confirmed winner (AP called 4 Nov; 50.1%-48.3%; Huizenga conceded)",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BA political science, Western Michigan University (1993)",
+   "career": "Neighbourhood-association director and Kalamazoo Red Cross staffer before a long career in elected office; chairs Michigan Senate Energy & Environment Committee",
+   "prior_office": "Kalamazoo City Commission (1999-2009); Michigan House, 60th district (2011-2014); Michigan Senate (2019-2026)"
+  },
+  "self_description": "No ideological label found. Presents as a pragmatic, bipartisan, anti-corruption Democrat: says he serves constituents regardless of party and cites Carl Levin, Fred Upton and Debbie Stabenow as models; post-election pledged to 'work with anyone to make life better'. Declined to say how he voted in the El-Sayed vs Stevens Senate primary ('private'): 'I'm really just focused on the difference between Huizenga's votes and mine.'",
+  "primary_context": "Won 4 Aug primary with 65.7% over Diop Harris (Potawatomi organiser running on Medicare for All, Block the Bombs Act, Line 5 opposition; backed by MDP Progressive Caucus and Track AIPAC) and Richard Aaron. McCann was the DCCC Red-to-Blue, New Dem, Whitmer and Slotkin-backed pick running on ACA credits and affordability.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed post-primary by several former Republican members of Congress (Chris Shays, Jim Greenwood, Claudine Schneider, Steve Bartlett, Peter Smith); former GOP state Rep. David Maturen spoke for him and pledged to campaign for him; pitched a bipartisan approach after winning",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "State senator (2019-26) and former state rep/city commissioner; BA only; authored state legislative record (energy committee chair, 2023 clean-energy law) plus a specific federal 'McCann Plan' on ethics (stock-trading ban, revolving-door ban, travel-perk limits)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "UNKNOWN rather than documented refusal: no McCann-Huizenga general-election debate or forum found (Wikipedia race page lists none; Michigan Public/WMUK coverage shows only rallies and press events). Media: local interviews (WMUK, ABC57, Semafor); no hostile-outlet appearances found. Engages Huizenga's voting record directly, but was noncommittal when asked about continued military aid to Israel and declined to disclose his Senate-primary vote."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "House Majority PAC",
+   "New Democrat Action Fund",
+   "League of Conservation Voters",
+   "Sierra Club",
+   "Human Rights Campaign",
+   "Giffords",
+   "Reproductive Freedom for All",
+   "Michigan AFL-CIO",
+   "UAW Region 1D",
+   "AFSCME",
+   "Teamsters Local 406",
+   "Michigan Education Association",
+   "IAFF"
+  ],
+  "notable_positions": [
+   "'McCann Plan': ban members of Congress and the president from owning/trading stocks, bar ex-members from lobbying, end luxury taxpayer-funded travel (https://www.wmuk.org/wmuk-news/2026-08-28/sean-mccann-says-hell-fight-for-affordability-and-against-corruption-if-hes-elected-to-congress)",
+   "Health care: extend ACA premium tax credits and protect Medicaid; cites his state vote to expand Medicaid (https://ictnews.org/politics/election-2026/two-potawatomi-candidates-facing-off-in-michigan-primary/)",
+   "Undecided on continued military aid to Israel; says Congress must 'scrutinize' US Israel policy and voiced concern about the Netanyahu government and loss of life in Gaza (https://www.wmuk.org/wmuk-news/2026-08-28/sean-mccann-says-hell-fight-for-affordability-and-against-corruption-if-hes-elected-to-congress)",
+   "Voted for Michigan's 2023 clean-energy standard (100% clean by 2040) and still backs it; supports reopening the Palisades nuclear plant (https://www.mackinac.org/blog/2026/mccann-huizenga-fuel-up-in-close-campaign)",
+   "Blames Trump tariffs for higher prices and called the Iran conflict an 'unnecessary war' (https://abc57.com/news/abc57-sat-down-with-candidates-for-michigans-4th-congressional-district-ahead-of-the-primary-election)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "No left-ideology markers found (LI 0) and only moderate centrist signals (New Dem endorsement, Republican endorsements; CI 2), so he falls to the EPD/EO tests. He is credentialed by office (EPD 5); the Cat 3 call rests on the absence of any documented general-election debate and some evasive answers (Israel aid, Senate-primary vote). If evidence of a debate emerges, he would move to the 'imperfect fit' bucket nearest Cat 4.",
+  "sources": [
+   "https://www.newsfromthestates.com/article/mccann-declares-victory-against-huizenga-delivering-michigans-4th-congressional-district",
+   "https://en.wikipedia.org/wiki/Sean_McCann_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "https://www.newdemactionfund.com/news/new-dems-sweep-in-michigan-virginia-races",
+   "https://www.newdemactionfund.com/candidates",
+   "https://ictnews.org/politics/election-2026/two-potawatomi-candidates-facing-off-in-michigan-primary/",
+   "https://abc57.com/news/abc57-sat-down-with-candidates-for-michigans-4th-congressional-district-ahead-of-the-primary-election",
+   "https://www.wmuk.org/wmuk-news/2026-08-28/sean-mccann-says-hell-fight-for-affordability-and-against-corruption-if-hes-elected-to-congress",
+   "https://semafor.com/article/08/03/2026/battleground-democrats-try-to-stay-above-their-partys-fray",
+   "https://justthenews.com/nation/states/center-square/michigan-primary-candidates-debate-immigration-healthcare",
+   "https://www.foxnews.com/politics/dem-supported-green-new-deal-receiving-nearly-60k-energy-groups-now-wants-congressional-seat",
+   "https://www.mackinac.org/blog/2026/mccann-huizenga-fuel-up-in-close-campaign",
+   "https://www.breitbart.com/politics/2026/08/20/democrat-mi-candidate-sean-mccann-believes-nonsensical-question-voting-systems/",
+   "https://www.michiganpublic.org/tags/4th-congressional-district"
+  ]
+ },
+ {
+  "id": 42,
+  "name": "William Lawrence",
+  "seat": "MI-7",
+  "call_status": "confirmed winner (51%-48%, ~13,100-vote margin over Rep. Tom Barrett)",
+  "bio": {
+   "birth_year": 1990,
+   "education": "BA sociology & anthropology, Swarthmore College",
+   "career": "Climate and tenant organiser: co-founder of the Sunrise Movement (2015-2020), founder of Mid-Michigan Tenant Resource Center, coordinator of Michigan 'Rent Is Too Damn High' coalition",
+   "prior_office": "none (first run for office)"
+  },
+  "self_description": "Progressive organiser; described as an 'unabashed progressive'; campaign site says he is 'independent of DC insiders and unbought by corporate money'. Member of the Working Families Party; was a DSA member until July 2026, when he let membership lapse saying he disagreed with parts of DSA's platform (e.g., abolishing the presidency and Supreme Court).",
+  "primary_context": "Won 4 Aug primary by ~15 points over former Ambassador Bridget Brink and ex-Navy SEAL Matt Maasdam (Slotkin-backed), a progressive-vs-moderate contest; he was the only one of the three to call the Gaza war a genocide.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Platform: 'I support a billionaire minimum tax, which is a minimum wealth tax rate that the mega-wealthy must pay'",
+    "src": "https://wewill2026.com/platform/"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Platform: 'I support Medicare for All, which would remove the profit motive from health insurance'",
+    "src": "https://wewill2026.com/platform/"
+   },
+   "L4": {
+    "v": 0,
+    "e": "Ambiguous, scored 0: DSA member until July 2026 (lapsed during campaign); 2020-22 deleted posts backed nationalising fossil-fuel companies; supports more public housing / Montgomery County mixed-income model",
+    "src": "https://en.wikipedia.org/wiki/William_Lawrence_(Michigan_politician)"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Advocate of the Green New Deal; co-founded Sunrise Movement to push it and worked with the Green New Deal Network",
+    "src": "https://en.wikipedia.org/wiki/William_Lawrence_(Michigan_politician)"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Now says he does not support defunding the police or open borders; in Oct 6 debate: 'we do not want to defund the police' (earlier 2020-22 posts backed police/prison abolition)",
+    "src": "https://www.michiganpublic.org/politics-government/2026-10-06/barrett-lawrence-take-aim-at-records-during-first-head-to-head-debate"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Platform: 'we must stop arming Israel, which is pursuing a genocide of Palestinians in Gaza with U.S. weapons'",
+    "src": "https://wewill2026.com/platform/"
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party",
+   "Bernie Sanders",
+   "Congressional Progressive Caucus",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Progressive Change Campaign Committee"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "In the general-election debate said 'we do not want to defund the police' and backed police funding alongside violence-intervention programmes",
+    "src": "https://www.michiganpublic.org/politics-government/2026-10-06/barrett-lawrence-take-aim-at-records-during-first-head-to-head-debate"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 2,
+   "note": "No prior office; BA (Swarthmore) plus organiser career; detailed platform with named bills and numbers (billionaire minimum tax, lift payroll-tax cap, PRO Act, 12-month federal data-centre moratorium, federal tenant bill of rights, Big Tech/AI plan)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Debated Barrett on Oct 6 (WILX/WKAR/Fox 47) - the only general-election debate scheduled; a primary debate 'fell through' and he held a Lansing town hall instead. Took campaign to conservative Livingston County, many open events; answered CNN KFile and NRCC attacks on old posts and his 2013 arrest rather than avoiding them."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "House Majority PAC",
+   "Working Families Party",
+   "Congressional Progressive Caucus",
+   "Sunrise Movement",
+   "Our Revolution",
+   "PCCC",
+   "MoveOn",
+   "Indivisible",
+   "Track AIPAC",
+   "League of Conservation Voters",
+   "Sierra Club",
+   "National Nurses United",
+   "UAW",
+   "Michigan AFL-CIO",
+   "Human Rights Campaign",
+   "opposed in primary by Crush MAGA PAC ($500k+; affiliated with Save Democracy PAC, which received UDP money)"
+  ],
+  "notable_positions": [
+   "Medicare for All (https://wewill2026.com/platform/)",
+   "Billionaire minimum (wealth) tax; lift the Social Security payroll-tax cap (https://wewill2026.com/platform/)",
+   "Stop arming Israel; calls Gaza a genocide (https://wewill2026.com/platform/)",
+   "12-month federal moratorium on new data centres and regulation of AI/Big Tech (https://wewill2026.com/)",
+   "Green New Deal / climate investment; Sunrise Movement co-founder (https://en.wikipedia.org/wiki/William_Lawrence_(Michigan_politician))",
+   "Rejects 'defund the police' and open borders, disowning earlier posts (https://en.wikipedia.org/wiki/William_Lawrence_(Michigan_politician))"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Explicit support for a wealth tax, Medicare for All, the Green New Deal, and halting arms to Israel over 'genocide', plus WFP/Sanders/CPC/Sunrise/Our Revolution endorsements, give LI of about 7 (threshold 6). He has distanced himself from DSA and 'defund the police', which is recorded, but this does not change the category.",
+  "sources": [
+   "https://wewill2026.com/platform/",
+   "https://wewill2026.com/",
+   "https://en.wikipedia.org/wiki/William_Lawrence_(Michigan_politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "https://www.michiganpublic.org/politics-government/2026-07-24/michigans-7th-district-democratic-primary-meet-candidate-william-lawrence",
+   "https://jewishinsider.com/2026/07/william-lawrence-michigan-7th-congressional-district-democrats/",
+   "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
+   "https://lansingcitypulse.com/how-will-lawrence-win-a-congressional-seat/",
+   "https://www.michiganpublic.org/politics-government/2026-10-06/barrett-lawrence-take-aim-at-records-during-first-head-to-head-debate",
+   "https://michiganadvance.com/2026/10/06/iran-war-trump-tariffs-and-michigan-data-centers-dominate-questions-during-barrett-lawrence-debate/",
+   "https://michiganadvance.com/2026/07/10/after-primary-debate-falls-through-lawrence-takes-questions-at-lansing-town-hall/",
+   "https://www.foxnews.com/politics/sunrise-movement-co-founder-defeats-establishment-backed-dems-pivotal-michigan-race",
+   "https://ground.news/article/lawrence-the-victor-in-7th-district-democratic-primary"
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Christina Hines",
+  "seat": "MI-10",
+  "call_status": "confirmed winner (52.4%-45.3% over Michael Bouchard Jr.; open seat flip)",
+  "bio": {
+   "birth_year": 1989,
+   "education": "BA University of Michigan; JD Wayne State University Law School",
+   "career": "Assistant prosecutor, Wayne County (general trials) then Chief of Special Victims Unit, Washtenaw County Prosecutor's Office",
+   "prior_office": "none (lost 2024 race for Macomb County Prosecutor, 43%)"
+  },
+  "self_description": "'Prosecutor and Mom on a Mission' to 'lower costs, protect families, and fight corruption'; says 'both parties have left working families behind' and she will 'work with anyone - Democrat, Republican, or Independent'; refuses corporate PAC money.",
+  "primary_context": "Won 4 Aug primary (~45%) over former Commerce Dept attorney Eric Chung (~31%) and ex-Pontiac mayor Tim Greimel (~23%); contest was not fought on clear ideological lines. Backed by EMILY's List, End Citizens United, New Dems and the Southeast Michigan Chamber.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaign pledges 'the resources law enforcement needs to prevent violent crime'; endorsed by Macomb County Sheriff Anthony Wickersham and 'more than a dozen local sheriffs and law enforcement officials'",
+    "src": "https://www.christinahinesforcongress.com/facts"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the Southeast Michigan Chamber of Commerce (Democratic primary)",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Career prosecutor rising to SVU chief (rubric lists 'prosecutor/DA' at 2; she was not an elected DA - could be scored 1); JD; some concrete proposals (congressional stock-trading ban, ACA/Medicare/Medicaid expansion, premium/out-of-pocket caps, Medicare buy-in for public servants) but no numbers or bill names."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in Michigan Democratic Party primary candidate forum (with Chung and Greimel). No general-election debate with Bouchard found (unknown whether offered). Media mainly controlled settings (Obama/Whitmer rallies, Jeffries roundtable, post-election interview with Michigan Advance); campaign site rebuts specific GOP attacks on her prosecution record."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "Giffords PAC ($1M+ independent spending)",
+   "End Citizens United",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "Patriotic Millionaires",
+   "League of Conservation Voters",
+   "Jane Fonda Climate PAC",
+   "Democrats for Education Reform",
+   "Michigan AFL-CIO",
+   "MEA",
+   "NEA",
+   "Reproductive Freedom for All",
+   "Elect Democratic Women",
+   "Vote Mama"
+  ],
+  "notable_positions": [
+   "Health care: 'healthcare is a human right' but 'we don't have to start from scratch' - strengthen ACA, Medicare, Medicaid; Medicare early buy-in for public servants (https://christinahinesforcongress.substack.com/p/my-plan-to-fix-healthcare-lessons)",
+   "Ban members of Congress from trading stocks; refuses corporate PAC money (https://www.christinahinesforcongress.com)",
+   "Law-and-order framing: 'the resources law enforcement needs to prevent violent crime'; backed by Macomb County Sheriff (https://www.christinahinesforcongress.com/facts)",
+   "Regulate big tech/AI and social media to protect children (https://www.newsfromthestates.com/article/voters-task-dems-delivering-affordability-hines-keeps-her-family-close-heart)",
+   "Push back on 'price gouging', raise the minimum wage (https://www.foxnews.com/politics/dems-rally-behind-michigan-prosecutor-champion-party-crucial-house-race)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "No left markers (LI 0). Centrist signals are New Dem endorsement, law-enforcement framing and Chamber backing (CI 3, below the 5 threshold). With EPD 5 and EO 3 she reaches step 5 and sits nearest Cat 4 as an imperfect fit. The EO score depends on an undocumented general-election debate record: if she avoided debates, EO would be 2 and she would be Cat 3.",
+  "sources": [
+   "https://www.christinahinesforcongress.com",
+   "https://www.christinahinesforcongress.com/facts",
+   "https://christinahinesforcongress.substack.com/p/my-plan-to-fix-healthcare-lessons",
+   "https://en.wikipedia.org/wiki/Christina_Hines",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "https://www.newdemactionfund.com/news/new-dems-endorse-shah-in-az-01-hines-in-mi-10",
+   "https://www.michiganpublic.org/politics-government/2026-09-28/10th-congressional-race-michigan-michael-bouchard-christina-hines",
+   "https://www.foxnews.com/politics/dems-rally-behind-michigan-prosecutor-champion-party-crucial-house-race",
+   "https://www.newsfromthestates.com/article/voters-task-dems-delivering-affordability-hines-keeps-her-family-close-heart",
+   "https://midems.controlshift.app/events/michigan-10th-congressional-district-democratic-candidate-forum",
+   "https://giffords.org/press-release/2026/09/giffords-pac-announces-1-million-investment-to-elect-christina-hines-in-mi-10/",
+   "https://www.michiganpublic.org/tags/christina-hines"
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Jeremy Moss",
+  "seat": "MI-11",
+  "call_status": "confirmed winner (60.9%-36.8% over Ethan Baker; safe Democratic open seat)",
+  "bio": {
+   "birth_year": 1986,
+   "education": "BA journalism (additional major political science), Michigan State University",
+   "career": "Legislative/district staffer and campaign manager, then full-time legislator; first openly gay Michigan senator and Senate President pro tempore",
+   "prior_office": "Southfield City Council (2011-2014); Michigan House (2015-2018, Democratic whip); Michigan Senate (2019-2026), President pro tempore (2023-2026)"
+  },
+  "self_description": "Pitches 'bold new leadership to take action and fight back' and a 'record of delivering results and reforming government institutions'; per Wikipedia supports Israel and a two-state solution while opposing Netanyahu. No ideological label found.",
+  "primary_context": "Won 4 Aug primary with 49.9% over attorney Aisha Farooqi (31.5%; backed by Ro Khanna, CAIR Action, MDP Progressive Caucus, Track AIPAC), John Torres and Don Ufford (End Citizens United). Moss was backed by Whitmer, Nessel, Benson, DMFI, JDCA and the New Dems.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Priorities page: ICE 'must be dismantled' and cannot be reformed under Trump; wants a replacement interior agency with better training and oversight",
+    "src": "https://votejeremymoss.com/priorities/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the Detroit Regional Chamber PAC (general election)",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "12 years in the legislature incl. Senate President pro tempore; BA; authored legislative record (Elliott-Larsen civil-rights expansion, election-access laws, 2023 gun-safety package); specific federal stances (John Lewis VRA, PRO Act, assault-weapons ban, stock-trading/prediction-market ban)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "UNKNOWN: no primary or general-election debate/forum record found (Wikipedia race page lists none; safe seat). Detailed issues page states positions on contested topics (ICE, public option, guns). Media pattern not documented beyond endorsements/press releases."
+  },
+  "outside_support": [
+   "New Democrat Action Fund",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "Equality PAC",
+   "LGBTQ+ Victory Fund",
+   "Human Rights Campaign PAC",
+   "Giffords",
+   "UAW Region 1",
+   "Michigan AFL-CIO",
+   "MEA",
+   "NEA",
+   "Detroit Regional Chamber PAC"
+  ],
+  "notable_positions": [
+   "ICE 'must be dismantled' and replaced by an accountable interior agency; supports border security with due process and a path to citizenship for DACA/long-term residents (https://votejeremymoss.com/priorities/)",
+   "Health care: 'robust public option' as path to universal coverage while keeping employer/union plans (https://votejeremymoss.com/priorities/)",
+   "Federal assault-style rifle ban and expanded background checks (https://votejeremymoss.com/priorities/)",
+   "Total ban on stock trading and prediction-market use by members, staff and administration (https://votejeremymoss.com/priorities/)",
+   "Supports Israel and a two-state solution while opposing Netanyahu (https://en.wikipedia.org/wiki/Jeremy_Moss)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "Mixed, mostly mainstream profile: one left marker (dismantle ICE; LI 1) and modest centrist ties (New Dem, DMFI, Chamber; CI 2). He is highly experienced (EPD 5), so the outcome turns on EO. Cat 3 reflects that no debate or open-forum record could be found for this safe-seat race, not a documented refusal. With better engagement evidence he would be an 'imperfect fit', with neither index dominant.",
+  "sources": [
+   "https://votejeremymoss.com/",
+   "https://votejeremymoss.com/priorities/",
+   "https://en.wikipedia.org/wiki/Jeremy_Moss",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "https://www.newdemactionfund.com/news/new-dems-sweep-in-michigan-virginia-races",
+   "https://www.newdemactionfund.com/news/new-dems-endorse-five-candidates-in-california-florida-iowa-michigan-and-arizona",
+   "https://www.michiganpublic.org/tags/jeremy-moss"
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Donavan McKinney",
+  "seat": "MI-13",
+  "call_status": "confirmed winner (76.5% in safe Democratic seat)",
+  "bio": {
+   "birth_year": 1992,
+   "education": "BA public policy, University of Michigan (2014)",
+   "career": "Legislative director in the Michigan Legislature, community engagement at Community Development Advocates of Detroit, SEIU Healthcare Michigan organiser; Whitmer appointee to Environmental Justice Council",
+   "prior_office": "Michigan House of Representatives (2023-2026)"
+  },
+  "self_description": "DSA member; campaign: 'we deserve champions in Washington who aren't scared to dream - and fight for - a vision big enough to match the scale of our crises' and 'a Democratic Party that can actually fight back'.",
+  "primary_context": "Defeated incumbent Rep. Shri Thanedar (self-funding multimillionaire) on 4 Aug as the Justice Democrats/DSA/Tlaib/Sanders/WFP-backed insurgent from the left.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Priorities page: 'our families cannot afford anything less than Medicare for All'",
+    "src": "https://www.donavanmckinney.com/priorities"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Member of the Democratic Socialists of America; also proposes a national homes guarantee with 8.5 million new public housing units",
+    "src": "https://en.wikipedia.org/wiki/Donavan_McKinney"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Priorities page: 'A Green New Deal transitioning to 100% clean and renewable energy'",
+    "src": "https://www.donavanmckinney.com/priorities"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Priorities page backs 'a universal basic income' and 'nationwide rent control'",
+    "src": "https://www.donavanmckinney.com/priorities"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Has said he would like to abolish ICE",
+    "src": "https://en.wikipedia.org/wiki/Donavan_McKinney"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Priorities page: end US military aid and arms to Israel, co-sign Block the Bombs Act; 'Israel needs to immediately end the genocide'",
+    "src": "https://www.donavanmckinney.com/priorities"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "Democratic Socialists of America (national)",
+   "Metro Detroit DSA",
+   "Working Families Party",
+   "Bernie Sanders",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Progressive Change Campaign Committee",
+   "Leaders We Deserve",
+   "Congressional Progressive Caucus"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "Two-term state representative with sponsored bills (utility campaign-contribution ban, medication-aide law signed by Whitmer, police-accountability bills); BA; detailed federal platform with figures (8.5M public housing units, Faircloth repeal, EACH Act, Block the Bombs)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "No documented primary or general-election debate found (unknown; general was uncompetitive). Platform states positions plainly on contested issues."
+  },
+  "outside_support": [
+   "Justice Democrats",
+   "DSA",
+   "Working Families Party",
+   "Leaders We Deserve",
+   "Congressional Progressive Caucus",
+   "Sunrise Movement",
+   "Our Revolution",
+   "PCCC",
+   "Indivisible",
+   "Track AIPAC",
+   "CAIR Action",
+   "US Campaign for Palestinian Rights Action",
+   "Patriotic Millionaires",
+   "League of Conservation Voters",
+   "Sierra Club",
+   "SEIU Michigan",
+   "National Nurses United",
+   "Michigan AFL-CIO",
+   "End Citizens United"
+  ],
+  "notable_positions": [
+   "Medicare for All incl. dental, vision, long-term care (https://www.donavanmckinney.com/priorities)",
+   "National homes guarantee: 8.5M public housing units, repeal Faircloth Amendment, nationwide rent control (https://www.donavanmckinney.com/priorities)",
+   "Green New Deal to 100% renewable energy (https://www.donavanmckinney.com/priorities)",
+   "Universal basic income; tuition-free public college and cancel all student debt (https://www.donavanmckinney.com/priorities)",
+   "End military aid to Israel, Block the Bombs Act, calls Gaza a genocide (https://www.donavanmckinney.com/priorities)",
+   "Abolish ICE; end cash bail and qualified immunity (https://en.wikipedia.org/wiki/Donavan_McKinney)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "A DSA member endorsed by Justice Democrats and DSA. He explicitly backs Medicare for All, the Green New Deal, UBI/rent control, abolishing ICE, and ending arms to Israel over 'genocide'. LI is about 10, far above the threshold of 6.",
+  "sources": [
+   "https://www.donavanmckinney.com/priorities",
+   "https://www.donavanmckinney.com",
+   "https://en.wikipedia.org/wiki/Donavan_McKinney",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "id": 46,
+  "name": "Jake Johnson",
+  "seat": "MN-1",
+  "call_status": "still uncalled (Johnson leads Rep. Brad Finstad by ~321 votes, 50.0%-49.9%, <0.1%; AP had not called it as of 6 Nov; State Canvassing Board certifies 19 Nov; Finstad says he will seek a publicly funded recount, which can only be requested after certification). Johnson has declared victory and Wikipedia lists him as member-elect, but treat as provisional.",
+  "bio": {
+   "birth_year": 1984,
+   "education": "BA University of Wisconsin-La Crosse",
+   "career": "High-school math teacher in Rochester Public Schools for ~20 years (John Marshall HS, Mayo HS); teachers'-union government relations coordinator; board of Minnesota Jump$tart Coalition",
+   "prior_office": "none"
+  },
+  "self_description": "Math teacher and 'problem solver' running against both parties' failures: 'I will always stand up to corruption in government no matter which party or politician is responsible for it'; featured by Axios among Democrats who 'turn sharply against their own party'. Says there are 'some - not many - of Trump's policies that he supports' (Post Bulletin).",
+  "primary_context": "Won 11 Aug DFL primary with 81.7% over real-estate company owner Alex Eaton; DFL-endorsed, DCCC Red-to-Blue and New Dem/Blue Dog-backed; no ideological contest.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Priorities page: 'I'll support a balanced budget amendment and I'll vote against raising the debt ceiling until the budget is balanced'; supports tax cuts for working families and small businesses",
+    "src": "https://www.jakejohnsonforcongress.com/priorities"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Quoted: 'if somebody breaks the law, and if you're here illegally, they need to be deported. I don't think that should be controversial. I think that is common sense.' Finstad said they were in 'pretty close agreement' on immigration",
+    "src": "https://www.jakejohnsonforcongress.com/fact-checks"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Pledges to 'fully fund our rural clinics, police departments, and public schools'; endorsed by retired Red Wing police chief Tim Sletten",
+    "src": "https://www.jakejohnsonforcongress.com/about"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by former Republican Gov. Arne Carlson, Finstad's former campaign chair Gerald Woodley (R) and former Mower County GOP chair Paul Sween; supports some OBBBA tax cuts (no tax on tips/Social Security)",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pledges to 'cut red tape so we can quickly build new homes, expand childcare options, and support our small businesses'",
+    "src": "https://www.jakejohnsonforcongress.com/priorities"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC",
+   "New Democrat Action Fund"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 2,
+   "note": "No prior office; BA plus 20-year teaching career; specific commitments (balanced budget amendment, debt-ceiling stance, term limits, ban on pardons for family/donors, stock-trading and lobbying bans, data-centre moratorium, 'Taxpayer Protection Pledge', fraud-recovery plan)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Debated Finstad at least twice in October 2026 (KEYC debate 8 Oct; second debate 13 Oct) and posts an unedited debate video. Held 21 public, unscripted town halls, one in every county, and posts a full unedited town hall; pledges 21 more per term. Rebuts specific opposing claims on a fact-check page."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Blue Dog PAC",
+   "New Democrat Action Fund",
+   "End Citizens United",
+   "314 Action",
+   "League of Conservation Voters",
+   "NRDC Action Fund",
+   "Clean Water Action",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "J Street",
+   "Minnesota AFL-CIO",
+   "Education Minnesota",
+   "AFSCME",
+   "SEIU MN",
+   "UAW",
+   "United Steelworkers District 11",
+   "opposed by Trump-aligned super PAC (>$1M late ad buy per campaign)"
+  ],
+  "notable_positions": [
+   "Balanced budget amendment; vote against raising the debt ceiling until the budget is balanced (https://www.jakejohnsonforcongress.com/priorities)",
+   "Deport people who are here illegally: 'I think that is common sense' (https://www.jakejohnsonforcongress.com/fact-checks)",
+   "Tax cuts for working families/small businesses paid for by closing loopholes on corporations and the super-wealthy; backs no tax on tips and Social Security (https://www.jakejohnsonforcongress.com/fact-checks)",
+   "Term limits, stock-trading ban, no corporate PAC money, ban on pardons for family and donors (https://www.jakejohnsonforcongress.com/priorities)",
+   "Moratorium on data centres until protections are guaranteed; end tariffs and the Iran war (https://www.jakejohnsonforcongress.com/priorities)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Endorsed by both Blue Dog PAC and New Dems. He explicitly campaigned on a balanced budget amendment, deporting people here illegally, police funding and cutting red tape, and won Republican endorsements. That gives CI of about 8 with no left markers (LI 0). He was also highly engaged (two or more debates, 21 town halls). Note: the race remains uncalled pending certification and a likely recount.",
+  "sources": [
+   "https://www.jakejohnsonforcongress.com",
+   "https://www.jakejohnsonforcongress.com/priorities",
+   "https://www.jakejohnsonforcongress.com/fact-checks",
+   "https://www.jakejohnsonforcongress.com/about",
+   "https://www.jakejohnsonforcongress.com/news",
+   "https://en.wikipedia.org/wiki/Jake_Johnson_(Minnesota_politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "https://www.newdemactionfund.com/news/new-dem-candidates-rebecca-cooke-jake-johnson-win",
+   "https://www.newdemactionfund.com/news/dccc-names-ndaf-candidates-jake-johnson-lindsay-james-pia-dandiya-to-the-red-to-blue-program",
+   "https://www.kttc.com/2026/11/06/vote-spread-shifts-slightly-minnesotas-1st-district-race-ap-call-remains-pending/",
+   "https://www.kttc.com/2026/11/06/jake-johnson-campaign-responds-recount-process-remains-uncertain/",
+   "https://www.fox9.com/news/minnesota-cd-1-election-results-2026",
+   "https://www.mprnews.org/story/2026/11/05/jake-johnson-claims-victory-against-brad-finstad-district-1-election-recount-likely"
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Matt Little",
+  "seat": "MN-2",
+  "call_status": "confirmed winner (57.1%-42.8% over state Sen. Eric Pratt; DFL hold)",
+  "bio": {
+   "birth_year": 1984,
+   "education": "BA political science, University of Minnesota Morris; JD (magna cum laude), University of Minnesota Law School",
+   "career": "Personal-injury/medical-malpractice attorney (Little Law, Lakeville); former NALC field coordinator",
+   "prior_office": "Lakeville City Council (2010-2012); Mayor of Lakeville (2013-2016); Minnesota Senate, District 58 (2017-2021); lost 2022 Dakota County Attorney race"
+  },
+  "self_description": "Ran to the left in the DFL primary on Medicare for All, abolishing/replacing ICE and ending arms to Israel; refuses AIPAC, super PAC, health-insurer and corporate PAC money. Says he wants the party 'to take a more assertive position' on transgender rights. (Note: his Wikipedia article is flagged as possibly AI-generated; key positions below were checked on his campaign site and MPR.)",
+  "primary_context": "DFL-endorsed (63% at convention); won 11 Aug primary with 47.2% over state Sen. Matt Klein (30.4%; backed by 314 Action with ~$2.5M, DMFI) and state Rep. Kaela Berg (16.7%; EMILY's List). Race framed as progressive vs moderate wings; Little's call for an arms embargo on Israel was a key distinction from Klein.",
+  "L": {
+   "L1": {
+    "v": 0,
+    "e": "Unverified, scored 0: Wikipedia (AI-flagged) says he called for a wealth tax at the DFL convention; campaign tax page only says raise the corporate rate (no figure) and taxes on highest earners",
+    "src": "https://littleforcongress.com/key-issues/fighting-for-tax-cuts/"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign page: 'Medicare for All: We CAN guarantee affordable healthcare for everyone by simply making Medicare available for all Americans'; warns against 'incremental patchwork fixes'",
+    "src": "https://littleforcongress.com/key-issues/fighting-for-healthcare/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "MPR: Little and Berg 'have publicly called for the abolition of Immigration and Customs Enforcement'; Little: 'the sexism, racism and authoritarianism inherent in that agency cannot be rooted out, cannot be reformed'",
+    "src": "https://www.mprnews.org/story/2026/04/23/after-ice-surge-dfl-leans-into-immigration-as-a-campaign-issue-will-it-last"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Campaign page: Israel's response 'crossed the line ... to disproportionate, inhumane acts of genocide'; 'The United States must end all military aid and weapons sales to Israel'",
+    "src": "https://littleforcongress.com/key-issues/fighting-for-a-just-lasting-peace-in-israel-palestine/"
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus",
+   "Leaders We Deserve",
+   "Our Revolution"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaign page: opposed cuts to police staffing, offered to donate his mayoral salary to pay for police staffing, backs police pensions and hiring pathways (while seeking accountability for misconduct)",
+    "src": "https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former mayor of Lakeville (~70k) and state senator; JD; authored insulin-affordability work that fed into the Alec Smith Insulin Affordability Act; detailed federal platform (2% student-loan rate cap, Section 1983 changes for federal agents, Social Security cap lift)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Took part in the Jan 2026 DFL primary debate (Carleton College) with Berg and Klein; no general-election debate with Pratt found (unknown). Extensive social-media presence and interviews (WCCO, Star Tribune, MPR); answered criticism that he exploited anti-ICE activism."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus PAC",
+   "Leaders We Deserve",
+   "Our Revolution",
+   "MoveOn",
+   "National Nurses United",
+   "End Citizens United",
+   "Jane Fonda Climate PAC",
+   "Clean Water Action",
+   "Education Minnesota",
+   "UAW",
+   "AFGE",
+   "Minnesota DFL"
+  ],
+  "notable_positions": [
+   "Medicare for All; rejects 'incremental patchwork fixes' (https://littleforcongress.com/key-issues/fighting-for-healthcare/)",
+   "Abolish ICE and move its duties to another agency; 'cannot be reformed' (https://www.mprnews.org/story/2026/04/23/after-ice-surge-dfl-leans-into-immigration-as-a-campaign-issue-will-it-last)",
+   "Calls Israel's Gaza campaign genocide; end all US military aid and weapons sales to Israel (https://littleforcongress.com/key-issues/fighting-for-a-just-lasting-peace-in-israel-palestine/)",
+   "Raise corporate tax rate and taxes on highest earners, end carried-interest loophole (https://littleforcongress.com/key-issues/fighting-for-tax-cuts/)",
+   "Pro-police-funding record as Lakeville mayor alongside accountability for misconduct (https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Explicit Medicare for All, abolish-ICE and genocide/arms-embargo positions plus CPC, Leaders We Deserve and Our Revolution endorsements give LI = 6, exactly at the threshold (7 if the unverified wealth-tax claim holds). He is an experienced former mayor and state senator who backs police funding, so he is a borderline Category 1.",
+  "sources": [
+   "https://littleforcongress.com/key-issues/fighting-for-healthcare/",
+   "https://littleforcongress.com/key-issues/fighting-for-a-just-lasting-peace-in-israel-palestine/",
+   "https://littleforcongress.com/key-issues/fighting-for-tax-cuts/",
+   "https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/",
+   "https://www.mprnews.org/story/2026/04/23/after-ice-surge-dfl-leans-into-immigration-as-a-campaign-issue-will-it-last",
+   "https://en.wikipedia.org/wiki/Matt_Little",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "https://thecarletonian.com/20524/news/carldems-hosts-primary-debate-for-dfl-cd2-candidates/"
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Fred Wellman",
+  "seat": "MO-2",
+  "call_status": "confirmed winner (51.1%-46.2% over Rep. Ann Wagner)",
+  "bio": {
+   "birth_year": 1965,
+   "education": "BS US Military Academy (West Point, 1987); MPP Harvard Kennedy School",
+   "career": "22-year Army aviator (Desert Storm, three Iraq tours), retired lieutenant colonel (2010); founded veterans-focused firm ScoutComms; ran a COVID field hospital in NYC; Lincoln Project senior adviser then executive director; host of 'On Democracy with FPWellman' podcast (MeidasTouch Network)",
+   "prior_office": "none (military O-5)"
+  },
+  "self_description": "Veteran running on 'Cost, Corruption and Chaos'; 'I believe in a strong floor and no ceiling'; health care: 'Universal coverage must be our goal, but ... I am going to Congress to deliver real progress, not make promises' - favours incremental fixes.",
+  "primary_context": "Narrowly won 4 Aug primary (45.9%) over retired teacher Joan VonDras (43.0%) and physician Tim Bilash; endorsed by VoteVets, Missouri AFL-CIO and Reps. Vindman and Huffman. Ideological contrast between the two leading candidates not documented.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Retired Army lieutenant colonel (O-5) and former Lincoln Project executive director; Harvard MPP; specific positions naming bills (Block/'Stop the Bombs' Act, West Bank Violence Prevention Act, Leahy Law enforcement, opposes TCAVA Section 108, PACT Act)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No general-election debate found; coverage and campaign framed Wagner as the absent party ('Where's Ann Wagner?', 'no-show'), with no evidence Wellman declined - scored 1 provisionally. Campaign held town halls and community events across the district; local TV/radio interviews; hosts a partisan podcast. States positions on contested issues (Israel war crimes, public option)."
+  },
+  "outside_support": [
+   "New Democrat Action Fund",
+   "VoteVets",
+   "Serve America PAC",
+   "Common Defense",
+   "J Street PAC",
+   "End Citizens United",
+   "Sierra Club",
+   "Moms Demand Action",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Committee to Protect Healthcare",
+   "Missouri AFL-CIO",
+   "UAW Region 4",
+   "Teamsters Joint Council 13",
+   "St. Louis Building Trades"
+  ],
+  "notable_positions": [
+   "Health care: universal coverage as goal but immediate reforms - restore ACA subsidies, lower Medicare age, strong public option (https://www.wellmanformo.com/policy)",
+   "Israel: 'credible evidence' of Israeli war crimes; supports conditioning arms via the Stop/Block the Bombs Act and Leahy Law; two-state framing (https://www.wellmanformo.com/policy)",
+   "Immigration: 'reasonable to expect a secure border' plus fair, commonsense system (https://www.wellmanformo.com/policy)",
+   "Congress must reclaim war powers; critic of Iran war (https://www.wellmanformo.com/policy)",
+   "Labor: raise minimum wage, strengthen collective bargaining (https://www.wellmanformo.com/policy)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "No left markers (LI 0) and only a New Dem endorsement on the centrist side (CI 1). He is highly credentialed (EPD 6). With EO 3 he lands at step 5, nearest Cat 4 as an imperfect fit. If his debate/engagement record were judged weaker he would fall to Cat 3. The profile is a mainstream, incrementalist, anti-Trump veteran rather than a clear centrist.",
+  "sources": [
+   "https://www.wellmanformo.com",
+   "https://www.wellmanformo.com/policy",
+   "https://www.wellmanformo.com/endorsements",
+   "https://www.wellmanformo.com/meet-fred",
+   "https://www.wellmanformo.com/press-center",
+   "https://en.wikipedia.org/wiki/Fred_Wellman",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "https://rollcall.com/2026/10/16/new-democrat-coalition-endorsements-midterm-elections/",
+   "https://www.newdemactionfund.com/candidates",
+   "https://fox2now.com/news/hancock-kelley/hancock-kelley-wheres-ann-wagner-illinois-governor-debate-missouri-auditor-race/"
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Sam Forstag",
+  "seat": "MT-1",
+  "call_status": "confirmed winner (50.3%-46.8% over Aaron Flint; open seat flip)",
+  "bio": {
+   "birth_year": 1994,
+   "education": "BA (philosophy & political science), University of Montana",
+   "career": "Wildland firefighter for eight years incl. four as a US Forest Service smokejumper; off-season organiser/lobbyist for ACLU of Montana and Central House Strategies; vice president, NFFE Local 60 (Forest Service workers' union)",
+   "prior_office": "none (union local officer; UM student body president)"
+  },
+  "self_description": "'Whether it's fighting fire or fighting for progressive policies, you have to work with people regardless their political party ... to finally start passing the big, bold changes we need now!' Campaign slogan: 'No one else is coming. It's up to us.'",
+  "primary_context": "Won 2 June primary with 37.3% over Ryan Busse (33.1%; ex-gun-industry executive and 2024 governor nominee backed by Gallego, Schweitzer, LCV), Russell Cleveland and Matt Rains. Forstag was the Sanders/AOC/CPC-backed union candidate; Blue Dog PAC and Republican figures backed him for the general.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Policies page: 'Enact a Billionaire Tax of 5% on fortunes over $1 billion' and raise the corporate income tax rate to 35%",
+    "src": "https://samformontana.com/policies/"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders",
+   "Alexandria Ocasio-Cortez",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "General-election endorsements from former Republican Gov. and RNC chair Marc Racicot and former GOP state Rep. Brian Putnam (primary: former GOP Rep. Geraldine Custer)",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Policies page: incentivise zoning and regulatory reform to build housing, set 'clear, enforceable timelines' for NEPA litigation, expand responsible timber harvest and milling",
+    "src": "https://samformontana.com/policies/"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 2,
+   "note": "No public office (union local VP and former student body president do not meet the rubric's local-office bar); BA; very detailed platform with figures (35% corporate rate, 5% billionaire tax, 30% Buffett-rule minimum, $15 indexed minimum wage, ACA subsidies to $70k, PRO Act, Social Security Expansion Act)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "UNKNOWN: no record of primary or general-election debates found in sources reviewed (Wikipedia race page lists none). Platform engages contested trade-offs (NEPA reform, timber, immigration enforcement accountability rather than abolition). Does not affect the category because EPD is 3 or less."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Blue Dog PAC",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "MoveOn",
+   "End Citizens United",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Peace Action",
+   "Independent Leadership Council",
+   "Reproductive Freedom for All",
+   "Montana AFL-CIO",
+   "MFPE",
+   "NFFE",
+   "AFGE",
+   "IAFF locals",
+   "SEIU 775",
+   "UAW",
+   "NEA"
+  ],
+  "notable_positions": [
+   "5% billionaire wealth tax, 35% corporate rate, 30% minimum rate on income over $1M (https://samformontana.com/policies/)",
+   "'Give everyone the choice to join Medicare - and make it free for working people' (Medicare option, not single-payer) and end Medicare Advantage privatisation (https://samformontana.com/policies/)",
+   "Ban hedge-fund/private-equity purchase of homes plus zoning reform and housing investment (https://samformontana.com/policies/)",
+   "Immigration: comprehensive reform with accountability for agents (mask ban, body cameras, judicial warrants) rather than abolishing ICE (https://samformontana.com/policies/)",
+   "NEPA litigation timelines and responsible timber harvest; legalise corner crossing (https://samformontana.com/policies/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "Cross-pressured: a wealth tax and Sanders/AOC/CPC/Our Revolution backing give LI 4, while Blue Dog PAC, Republican endorsements and permitting/zoning reform give CI 4, so neither test fires. With no prior office and a BA, EPD is 3 despite a detailed platform, so the sequence yields Cat 2. This is a weak fit given the platform's specificity.",
+  "sources": [
+   "https://samformontana.com",
+   "https://samformontana.com/policies/",
+   "https://en.wikipedia.org/wiki/Sam_Forstag",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Denise Powell",
+  "seat": "NE-2",
+  "call_status": "confirmed winner (56.6%-40.8% over Omaha councilman Brinker Harding; open seat flip)",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BS University of Miami",
+   "career": "Small-business owner and political organiser; co-founder of Women Who Run Nebraska (candidate-training PAC); six years on board of Nebraska's largest immigration legal-services agency; reproductive-rights ballot campaigner",
+   "prior_office": "none"
+  },
+  "self_description": "Described as a 'center-left moderate Democrat'; campaign: 'Deliver for working people, not special interest groups' and 'tired of politicians who are more interested in scoring political points'.",
+  "primary_context": "Won 12 May primary with 38.8% over state Sen. John Cavanaugh (36.4%; endorsed by Reps. Jayapal, Khanna, Frost, Raskin and ex-Sens. Kerrey and Nelson) and Crystal Rhoades; >$5.6M outside spending in the primary, largely pro-Powell/anti-Cavanaugh (spenders not identified in sources reviewed). Powell was backed by EMILY's List, New Dems and BOLD PAC.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Priorities page: 'Support efforts to provide the personnel, training and technology needed to secure America's borders' and 'Invest in the people and technology needed to keep our borders safe' (alongside path to citizenship and ICE accountability)",
+    "src": "https://deniseforcongress.org/priorities/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Priorities page: 'Fully fund our police departments, providing access to training and mental health support for our officers'",
+    "src": "https://deniseforcongress.org/priorities/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Action Fund"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 2,
+   "note": "No prior office; BS and small-business/organiser career; platform names specific bills and figures (Right to Contraception Act, Right to IVF Act, VAWA reauthorisation, $35 insulin cap, $3,600 Child Tax Credit, congressional stock-trading ban, term limits)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in all three general-election debates with Harding (11, 14 and 15 Oct 2026). Media pattern beyond debates and campaign events not documented."
+  },
+  "outside_support": [
+   "New Democrat Action Fund",
+   "EMILY's List",
+   "CHC BOLD PAC",
+   "Latino Victory Fund",
+   "End Citizens United",
+   "Giffords",
+   "Human Rights Campaign",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Elect Democratic Women",
+   "Vote Mama",
+   "Nebraska Farmers Union PAC",
+   "NEA",
+   "AFGE"
+  ],
+  "notable_positions": [
+   "Medicare-like public option 'while protecting private insurance for those who want it'; build on the ACA (https://deniseforcongress.org/priorities/)",
+   "Border security personnel/technology plus a path to citizenship and accountability for ICE abuses (https://deniseforcongress.org/priorities/)",
+   "Fully fund police departments; universal background checks and red-flag laws (https://deniseforcongress.org/priorities/)",
+   "'Responsibly manage our deficits and debts'; address government waste; congressional term limits and stock-trading ban (https://deniseforcongress.org/priorities/)",
+   "Gaza: Netanyahu government has 'gone way too far'; supports a two-state solution (https://en.wikipedia.org/wiki/Denise_Powell)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "Mainstream centre-left: no left markers (LI 0), with New Dem endorsement, border-security and police-funding planks (CI 3, short of 5). With no prior office and a BA, EPD is 3 despite a reasonably specific platform, so the sequence gives Cat 2. She did debate fully (EO 4), so this is not a Cat 3 case.",
+  "sources": [
+   "https://deniseforcongress.org",
+   "https://deniseforcongress.org/priorities/",
+   "https://deniseforcongress.org/news/",
+   "https://deniseforcongress.org/endorsement-new-democrat-action-fund-endorses-denise-powell-for-congress/",
+   "https://en.wikipedia.org/wiki/Denise_Powell",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+   "https://www.newdemactionfund.com/candidates"
+  ]
+ }
+]

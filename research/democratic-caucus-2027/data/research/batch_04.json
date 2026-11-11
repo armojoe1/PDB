@@ -1,0 +1,1361 @@
+[
+ {
+  "id": 21,
+  "name": "Melat Kiros",
+  "seat": "CO-1",
+  "call_status": "confirmed winner (AP called 3 Nov; ~78% vs R Christy Peterson ~14%, unaffiliated Shimon Blau ~6% in early returns)",
+  "bio": {
+   "birth_year": 1997,
+   "education": "BA political science & economics, Washington College (MD); JD Univ. of Notre Dame (2022); doctoral student in public policy",
+   "career": "Former Sidley Austin associate (fired late 2023 after a Medium post on Gaza/pro-Palestine protests); PhD student and barista; first-time candidate",
+   "prior_office": "none"
+  },
+  "self_description": "Democratic socialist and DSA member; defines democratic socialism as extending democratic rights and public services ('socialism already exists in public services like fire departments and schools'). Said she did not consider herself a socialist until after her campaign began.",
+  "primary_context": "Defeated 15-term Rep. Diana DeGette (and Wanda James) on 30 June 2026 as a Justice Democrats / Denver DSA insurgent running on Medicare for All, abolish ICE and an Israel arms embargo; DeGette called her views 'really extreme'.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Platform: 'Ultra-Millionaire Tax on net worth above $50 million' (2% annual) and 'corporate tax rate should be raised back above 50%'",
+    "src": "https://kirosforco.com/priorities-pdf-final.pdf"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Medicare for All is a core plank; said 'single payer actually pays for itself' and called the ACA a 'band-aid'",
+    "src": "https://kirosforco.com/priorities-2"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Self-identified democratic socialist / DSA member; platform backs 'publicly-owned, mixed-income social housing', repeal of Faircloth Amendment, and expanding publicly owned utilities on the TVA model",
+    "src": "https://kirosforco.com/priorities-pdf-final.pdf"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Platform section 'Climate + Green New Deal': 'Investing in a Green New Deal that creates a just transition'; end fossil-fuel subsidies",
+    "src": "https://kirosforco.com/priorities-pdf-final.pdf"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Called for breaking up big pharmaceutical companies (backs Break Up Big Medicine Act), data-center moratorium, 10% credit-card interest cap, ending at-will employment",
+    "src": "https://www.denver7.com/news/politics/democracy-is-not-a-spectator-sport-cd1-democratic-nominee-melat-kiros-shares-policy-plans-if-elected"
+   },
+   "L7": {
+    "v": 1,
+    "e": "Trans Bill of Rights plank: 'Access to gender-affirming care for all ages, with medical decisions made by patients, families, and doctors, not politicians'",
+    "src": "https://kirosforco.com/priorities-pdf-final.pdf"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Platform: 'We must Abolish ICE' and replace it with a humane immigration system",
+    "src": "https://kirosforco.com/priorities-2"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Calls Israel's Gaza campaign a 'genocide' and supports 'an immediate and unconditional arms embargo on Israel'",
+    "src": "https://kirosforco.com/priorities-pdf-final.pdf"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "Denver DSA",
+   "Bernie Sanders",
+   "Working Families Party",
+   "Sunrise Movement"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Calls ACA a 'band-aid'; supports single payer replacing private insurers",
+    "src": "https://thepostmillennial.com/ethiopian-dsa-colorado-congressional-hopeful-melat-kiros-says-us-to-blame-for-9-11-single-payer-healthcare-pays-for-itself-feds-should-fund-national-social-housing"
+   },
+   "C3": {
+    "v": -1,
+    "e": "Backs net-worth tax and corporate rate above 50%",
+    "src": "https://kirosforco.com/priorities-pdf-final.pdf"
+   },
+   "C4": {
+    "v": -1,
+    "e": "Supports abolishing ICE",
+    "src": "https://kirosforco.com/priorities-2"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Per Colorado Politics, rejected several DSA platform planks including drastically reducing law enforcement (reporter's summary, not a direct quote)",
+    "src": "https://www.coloradopolitics.com/2026/11/03/melat-kiros-shimon-blau-election-results-cd1-colorado/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 2,
+   "note": "No prior office; JD (Notre Dame) and BigLaw associate; 14-page platform naming specific bills/figures (Ultra-Millionaire Tax at $50M, Faircloth repeal, Break Up Big Medicine Act, PRO Act)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debated DeGette and James at LWV forum (May) and Colorado Politics/Denver Press Club forum (19 June). No general-election debate with Peterson/Blau found (Peterson did not engage with voter guide). Gave unscripted interviews incl. PBS Firing Line (Margaret Hoover), 9News, NOTUS, Denverite; on 9News/NOTUS declined to call Boulder firebombing antisemitic. Engages critics on substance (e.g. defended DSA-aligned policies, distanced herself from some DSA planks)."
+  },
+  "outside_support": [
+   "Justice Democrats",
+   "Denver DSA (field)",
+   "Working Families Party",
+   "Sunrise Movement",
+   "Bernie Sanders"
+  ],
+  "notable_positions": [
+   "Medicare for All; 'single payer actually pays for itself' (https://thepostmillennial.com/ethiopian-dsa-colorado-congressional-hopeful-melat-kiros-says-us-to-blame-for-9-11-single-payer-healthcare-pays-for-itself-feds-should-fund-national-social-housing)",
+   "Abolish ICE; 'We will not wait to abolish ICE and pass Medicare for all' (https://kirosforco.com/priorities-2)",
+   "Immediate and unconditional arms embargo on Israel; calls Gaza a genocide (https://kirosforco.com/priorities-pdf-final.pdf)",
+   "2% annual tax on net worth above $50M; corporate rate above 50% (https://kirosforco.com/priorities-pdf-final.pdf)",
+   "Won't commit to backing Hakeem Jeffries for Speaker unless his agenda includes priorities like Medicare for All (https://www.denver7.com/news/politics/democracy-is-not-a-spectator-sport-cd1-democratic-nominee-melat-kiros-shares-policy-plans-if-elected)",
+   "Rejected DSA planks on abolishing the Senate, leaving NATO and drastically reducing law enforcement (https://www.coloradopolitics.com/2026/11/03/melat-kiros-shimon-blau-election-results-cd1-colorado/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Kiros is a self-described democratic socialist backed by Justice Democrats, Denver DSA, Sanders, WFP and Sunrise, and her platform explicitly includes a wealth tax, Medicare for All, a Green New Deal, abolishing ICE, gender-affirming care for all ages and an Israel arms embargo. LI is well above 6. She has distanced herself from some DSA national planks (police, NATO, Senate), but that does not change the classification.",
+  "sources": [
+   "https://www.kirosforco.com/issues",
+   "https://kirosforco.com/priorities-2",
+   "https://kirosforco.com/priorities-pdf-final.pdf",
+   "https://theintercept.com/2025/12/04/denver-primary-melat-kiros-diana-degette-justice-democrats/",
+   "https://www.denver7.com/news/politics/democracy-is-not-a-spectator-sport-cd1-democratic-nominee-melat-kiros-shares-policy-plans-if-elected",
+   "https://thepostmillennial.com/ethiopian-dsa-colorado-congressional-hopeful-melat-kiros-says-us-to-blame-for-9-11-single-payer-healthcare-pays-for-itself-feds-should-fund-national-social-housing",
+   "https://www.coloradopolitics.com/2026/11/03/melat-kiros-shimon-blau-election-results-cd1-colorado/",
+   "https://www.coloradopolitics.com/2026/06/20/democratic-candidates-degette-kiros-and-james-clash-in-cd1-forum/",
+   "https://www.coloradopolitics.com/2026/10/02/kiros-blau-peterson-congressional-district-1/",
+   "https://www.coloradopolitics.com/2026/06/19/bernie-sanders-endorses-degette-challenger-melat-kiros-in-colorados-1st-cd-democratic-primary/",
+   "https://pikapress.denverdsa.org/denver-dsa-endorses-melat-kiros-for-congress-in-cos-1st-district-the-chapters-first-federal-endorsement/",
+   "https://justicedemocrats.com/candidate/melat-kiros/",
+   "https://migrantinsider.com/p/meet-the-ethiopian-migrant-running",
+   "https://www.pbssocal.org/shows/firing-line/episodes/melat-kiros-wl89nu",
+   "https://www.notus.org/2026-election/colorado-diana-degette-primary-results",
+   "https://cbsnews.com/news/melat-kiros-first-gen-z-woman-congress-colorado",
+   "https://www.kunc.org/news/2026-11-04/democratic-socialist-melat-kiros-wins-colorados-1st-congressional-district"
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Eileen Laubacher",
+  "seat": "CO-4",
+  "call_status": "still uncalled by AP as of 9-10 Nov (Colorado Sun 9 Nov: AP had not called; Laubacher led by ~3,400 votes, ~49%-48%). CNN projected Laubacher on 9 Nov and she declared victory; Boebert has not conceded and her campaign signals a recount. Cure deadline 12 Nov, county counting ends 13 Nov; automatic recount if margin within 0.5% of winner's total (~930 votes). Treat as likely but unconfirmed.",
+  "bio": {
+   "birth_year": null,
+   "education": "BS U.S. Naval Academy (1990); (further graduate degrees not confirmed)",
+   "career": "34-year Navy career (intelligence officer, Afghanistan 2009, Rear Admiral 2018); Senior Defense Official/Defense Attache New Delhi 2019-22; Senior Director for South Asia, National Security Council (Biden); retired Oct 2024",
+   "prior_office": "none elected; flag officer (two-star rear admiral) and senior NSC staff"
+  },
+  "self_description": "Former Republican who became unaffiliated, then a Democrat; says GOP no longer reflected her views on 'limited government and federal spending'; stresses 'service before self', working across party lines and rejecting 'loud, divisive voices on the fringes'.",
+  "primary_context": "Effectively uncontested: rival Trisha Calvarese sued over Laubacher's short Democratic registration then dropped out before assembly; Laubacher beat write-in Jenna Preston on 30 June.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Platform: 'Scrutinize the budget and make serious cuts to wasteful spending', middle-class tax cuts, backs balancing the budget; no wealth tax or rate hikes beyond ending breaks for data centers/corporations/billionaires",
+    "src": "https://www.eileenforcolorado.com/platform"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Campaigns on 'Secure the border and remove dangerous criminals who are in the country illegally' alongside bipartisan reform",
+    "src": "https://www.eileenforcolorado.com/platform"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Platform: 'Equip and train first responders and law enforcement, and invest in community policing'",
+    "src": "https://www.eileenforcolorado.com/platform"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Former Republican; said in 12 Oct debate that a Democratic Congress should not impeach Trump; says rural America 'left behind by both parties'",
+    "src": "https://political.org/2026/10/13/rep-lauren-boebert-says-iran-war-has-been-detrimental-on-many-levels-in-debate-with-democrat-eileen-laubacher/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Backs 'all-of-the-above approach that includes clean, traditional, and alternative sources' of energy (while opposing federal land in CD4 as first option for extraction)",
+    "src": "https://www.eileenforcolorado.com/platform"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC (14 Oct 2026)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Flag officer (Rear Admiral) and NSC senior director = 3; USNA + senior national-security career = 2; platform has concrete items ($35 insulin cap, term/age limits, stock-trading ban, Farm Bill, water infrastructure) but few numbers or bill names = 1."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the only scheduled televised debate with Boebert (9News/Kyle Clark, 12 Oct 2026) and answered questions on party switch, residency, Iran war and impeachment; answered Denver Post voter-guide Q&A and Colorado Water Congress appearance. No hostile-outlet interviews or regular town halls found."
+  },
+  "outside_support": [
+   "Blue Dog PAC",
+   "VoteVets PAC",
+   "New Politics",
+   "The Steady State",
+   "Veterans for Responsible Leadership",
+   "Gov. Mikie Sherrill"
+  ],
+  "notable_positions": [
+   "Secure the border and remove dangerous criminals in the country illegally, plus bipartisan reform with path to citizenship (https://www.eileenforcolorado.com/platform)",
+   "'All-of-the-above' energy including traditional sources, but 'does not mean developing every available acre' (https://www.europesays.com/unitedstates/12789/)",
+   "Democrats should not impeach Trump if they win Congress (https://political.org/2026/10/13/rep-lauren-boebert-says-iran-war-has-been-detrimental-on-many-levels-in-debate-with-democrat-eileen-laubacher/)",
+   "Term limits and age limits for Congress; ban on members trading stocks (https://www.eileenforcolorado.com/platform)",
+   "Cut wasteful spending, balance the budget, middle-class tax cuts; end tax breaks for data centers (https://www.eileenforcolorado.com/platform)",
+   "Opposes Iran war: 'when negotiations are on the table, you do not start war' (https://political.org/2026/10/13/rep-lauren-boebert-says-iran-war-has-been-detrimental-on-many-levels-in-debate-with-democrat-eileen-laubacher/)",
+   "Victory statement: 'lower costs, protect healthcare, strengthen rural communities, take on corruption in both parties' (https://coloradosun.com/2026/11/09/lauren-boebert-vote-counting-update/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "A former Republican and retired rear admiral endorsed by the Blue Dog PAC, Laubacher campaigns on border security, deficit/spending cuts, all-of-the-above energy and against impeaching Trump; no left markers found (LI 0, CI about 7). Confidence is Medium because her platform is thin on contested issues (health-care model, trans issues, guns) and the race itself remains uncalled by AP.",
+  "sources": [
+   "https://coloradosun.com/2026/11/09/lauren-boebert-vote-counting-update/",
+   "https://www.eileenforcolorado.com/about",
+   "https://www.eileenforcolorado.com/platform",
+   "https://www.europesays.com/unitedstates/12789/",
+   "https://bluedogdems.com/news/",
+   "https://votevets.org/press-releases/votevets-pac-endorses-jessica-killin-and-eileen-laubacher-in-crucial-colorado-red-to-blue-districts",
+   "https://www.newpolitics.org/candidates/eileen-laubacher",
+   "https://thesteadystate.org/the-steady-state-endorses-rear-admiral/",
+   "https://www.deseret.com/politics/2026/10/14/lauren-boebert-faces-former-republican-veteran-eileen-laubacher-in-states-most-red-congressional-district",
+   "https://political.org/2026/10/13/rep-lauren-boebert-says-iran-war-has-been-detrimental-on-many-levels-in-debate-with-democrat-eileen-laubacher/",
+   "https://www.axios.com/local/arapahoe/2026/07/01/laubacher-colorado-4th-district-primary",
+   "https://www.coloradopolitics.com/2026/03/02/primary-rival-sues-to-prevent-democrat-eileen-laubacher/",
+   "https://www.yahoo.com/news/politics/articles/election-results-why-hasnt-boebert-203841942.html",
+   "https://www.9news.com/article/news/politics/elections/eileen-laubacher-declares-victory-cd4-race-lauren-boebert/73-6f6acfb8-698c-4045-bfd6-df8e05212011",
+   "https://www.advocate.com/politics/election/lauren-boebert-defeated-colorado",
+   "https://coloradopolitics.com/2026/08/21/democrat-running-in-4th-congressional-district-urges-long-term-water-planning-and-support-for-rural-communities"
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Jessica Killin",
+  "seat": "CO-5",
+  "call_status": "confirmed winner (CPR 5 Nov: 'Killin flips Colorado's 5th Congressional District'; Wikipedia lists as member-elect succeeding Jeff Crank). AP call date not independently verified (search budget exhausted).",
+  "bio": {
+   "birth_year": 1973,
+   "education": "BA Univ. of Tampa (Army ROTC); JD Georgetown Law (2004)",
+   "career": "Army MP officer/paratrooper 1995-2003 (Captain, Balkans); USAA lobbyist; aide to Sens. Bill Nelson and Tom Carper; chief of staff to Reps. Donna Shalala, Carolyn Maloney and Marie Gluesenkamp Perez; chief of staff to Second Gentleman Doug Emhoff (Deputy Assistant to the President)",
+   "prior_office": "none elected; senior federal staff (White House deputy assistant to the President; House chief of staff)"
+  },
+  "self_description": "'Who I am at my core and my authentic self is pretty much a middle-of-the-road centrist, almost center right, Democrat... so many of our politics have gotten so extreme on both the left and the right.' (Colorado Sun, July 2025)",
+  "primary_context": "Beat fellow Army veteran Joe Reagan ~63-36% on 30 June 2026; no ideological contrast reported. DCCC Red to Blue candidate.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Supports 'a true public option... but not Medicare for All because the Medicare system needs reform'",
+    "src": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": -1,
+    "e": "Said the country is not at a point where it can eliminate fossil fuels; wants 'all-hands-on-deck' energy incl. gas and oil",
+    "src": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Does not support Medicare for All; would reinstate ACA subsidies and add a public option",
+    "src": "https://coloradosun.com/2025/07/15/jessica-killin-colorado-5th-congressional-district/"
+   },
+   "C3": {
+    "v": 1,
+    "e": "Priorities page: 'Getting the national debt under control and balancing the budget', cut middle-class taxes, attacks Crank tax law for adding $4T in debt; would only roll back cuts for those over $1M; no wealth tax",
+    "src": "https://www.killinforcolorado.com/priorities"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Said Biden administration was too slow to close the border and 'Trump has gotten it right in shutting down the U.S.-Mexico border' (while calling his deportation measures 'immoral')",
+    "src": "https://coloradosun.com/2025/07/15/jessica-killin-colorado-5th-congressional-district/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lists five Republican citizen endorsers and held a 'Republicans for Killin' event; supports 'common-sense' Medicaid work requirements for able-bodied adults; self-describes as 'almost center right'",
+    "src": "https://www.killinforcolorado.com/endorsers"
+   },
+   "C8": {
+    "v": 1,
+    "e": "'All-hands-on-deck approach to energy' where solar, wind, gas, oil and nuclear are all considered",
+    "src": "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund (17 Apr 2026)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Senior federal staff (White House deputy assistant to the President; multiple House chiefs of staff) = 2; Georgetown JD = 2; concrete but mostly standard proposals ($35 insulin, stock-trading ban, debt/balanced budget, Space Command) = 1."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Challenged Crank to three debates/forums (5 Aug 2026) and campaign reports participating in debates on ~27 Aug and ~18 Sep; answered Colorado Sun issue questionnaire in detail. Campaign touts 100+ district events incl. 'Republicans for Killin'; no hostile-outlet interviews verified (search budget exhausted)."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "New Dem Action Fund",
+   "EMILY's List",
+   "VoteVets",
+   "League of Conservation Voters Action Fund",
+   "Defend the Vote",
+   "Military Veterans in Congress",
+   "Sens. Bennet, Hickenlooper, Slotkin, Kelly; Gov. Sherrill"
+  ],
+  "notable_positions": [
+   "Self-described 'middle-of-the-road centrist, almost center right, Democrat' (https://coloradosun.com/2025/07/15/jessica-killin-colorado-5th-congressional-district/)",
+   "Public option, not Medicare for All; reinstate ACA subsidies, repeal H.R.1 Medicaid cuts (https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/)",
+   "Supports 'common-sense work requirements' for able-bodied Medicaid adults (https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/)",
+   "Trump 'got it right' shutting the border, but deportations 'immoral and, in my mind, illegal' (https://coloradosun.com/2025/07/15/jessica-killin-colorado-5th-congressional-district/)",
+   "Make tips/overtime deductions permanent; roll back tax cuts for those over $1M; balance the budget (https://www.killinforcolorado.com/priorities)",
+   "No 'blank check' military aid to Israel; two-state solution (https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Killin explicitly self-describes as a centrist 'almost center right' Democrat, was endorsed by the New Dem Action Fund, rejects Medicare for All, backs all-of-the-above energy, deficit reduction, Medicaid work requirements and praised Trump's border closure. No left markers found (LI 0; CI about 6).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jessica_Killin",
+   "https://coloradosun.com/2025/07/15/jessica-killin-colorado-5th-congressional-district/",
+   "https://coloradosun.com/2026/10/07/jeff-crank-jessica-killin-issue-guide-colorado/",
+   "https://gazette.com/2026/06/30/democrat-jessica-killin-claims-victory-in-colorados-5th-congressional-district-primary/",
+   "https://www.cpr.org/2026/11/05/colorado-election-results-cd-5-killin-wins/",
+   "https://www.killinforcolorado.com/priorities",
+   "https://www.killinforcolorado.com/endorsers",
+   "https://votevets.org/press-releases/votevets-pac-endorses-jessica-killin-and-eileen-laubacher-in-crucial-colorado-red-to-blue-districts"
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Manny Rutinel",
+  "seat": "CO-8",
+  "call_status": "confirmed winner (campaign 'Statement From U.S. Representative-Elect Manny Rutinel on Victory in CO-08', 3 Nov; Wikipedia lists as member-elect defeating Gabe Evans)",
+  "bio": {
+   "birth_year": 1994,
+   "education": "AA Pasco-Hernando State College; BA economics & BS microbiology Univ. of Florida; MS applied economics Johns Hopkins; JD Yale Law School",
+   "career": "Economist, U.S. Army Corps of Engineers (2016-18); Earthjustice associate attorney; CEO of nonprofit Climate Refarm (2021-)",
+   "prior_office": "Colorado House of Representatives, HD-32 (appointed Oct 2023, elected 2024; resigned Sept 2026)"
+  },
+  "self_description": "Frames himself around working families and 'facts and evidence'; says 'making progress requires working with others'. Campaign: 'Manny will work with anyone in Congress who wants to make healthcare affordable... whatever shape that takes.' On Gaza: 'I do not boil it down to one word descriptors.'",
+  "primary_context": "Beat former state Rep. Shannon Bird (a self-styled bipartisan pragmatist) on 30 June 2026; the two agreed on almost every issue in debates. Colorado Sun reported that in a July 2025 Working Families Party endorsement interview he backed a fracking ban, single payer and student-debt cancellation, then reversed all three by May 2026; WFP did not endorse him.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Now backs a public option 'If you like your private insurance, you're able to keep that', not Medicare for All (had backed single payer in a July 2025 WFP interview)",
+    "src": "https://coloradosun.com/2026/06/04/manny-rutinel-changed-positions-healthcare-student-debt-fracking/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0,
+    "e": "Mixed: opposes a fracking ban now and backs 'all of the above' energy, but answered 'Yes' to a national moratorium on new oil and gas leases on federal land",
+    "src": "https://coloradosun.com/2026/05/28/manny-rutinel-shannon-bird-colorado-primary-issue-guide/"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Supports continued U.S. military funding for Israel ('Israel is an ally'); declined to call Gaza a genocide ('I do not boil it down to one word descriptors')",
+    "src": "https://coloradosun.com/2026/10/21/manny-rutinel-gabe-evans-voter-guide-colorado-district-8/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Backs a public option and restoring ACA credits, 'but not Medicare for All' (Colorado Sun, May 2026)",
+    "src": "https://coloradosun.com/2026/06/04/manny-rutinel-changed-positions-healthcare-student-debt-fracking/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Released 'Plan to Keep Our Communities Safe' calling for funding state and local law enforcement; endorsed by Adams County Sheriff Gene Claps",
+    "src": "https://www.mannyforcolorado.com/press"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "'I believe in an all-the-above energy approach'; opposes fracking ban; would streamline housing permitting",
+    "src": "https://coloradosun.com/2026/10/21/manny-rutinel-gabe-evans-voter-guide-colorado-district-8/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "State legislator 2023-26 = 2; Yale JD + JHU MS + federal economist = 2; authored state legislation (18 prime-sponsored bills in first year; ICE detention oversight effort) = 2."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 0,
+   "note": "Debated Bird in primary (Colorado Sun debate, 9News debate, UNC forum); accepted and attended 7 Oct general-election debate in Berthoud (The Surveyor) and a live-audience Colorado Sun interview with Evans. Media mostly mainstream/friendly (CPR, Denver Post, NYT). On substance, repeatedly declined to give positions when pressed: would not say if/when to stop fossil fuels, would not name tax cuts to reverse, no specifics on immigration, no one-word answer on Gaza; campaign did not explain his single-payer reversal."
+  },
+  "outside_support": [
+   "New Dem Action Fund",
+   "CHC BOLD PAC",
+   "314 Action",
+   "Latino Victory Fund",
+   "Reproductive Freedom for All",
+   "UFCW",
+   "United Farm Workers",
+   "Carpenters union",
+   "Sen. Cory Booker",
+   "Denver Post editorial board"
+  ],
+  "notable_positions": [
+   "Reversed July 2025 support for fracking ban, single payer and broad student-debt cancellation (https://coloradosun.com/2026/06/04/manny-rutinel-changed-positions-healthcare-student-debt-fracking/)",
+   "Public option alongside private insurance; restore ACA credits and Medicaid (https://coloradosun.com/2026/10/21/manny-rutinel-gabe-evans-voter-guide-colorado-district-8/)",
+   "Opposes Medicaid work requirements; lift the Social Security payroll-tax cap (https://coloradosun.com/2026/10/21/manny-rutinel-gabe-evans-voter-guide-colorado-district-8/)",
+   "ICE: judicial warrants and ID requirements rather than dismantling; led state lawmakers' call for ICE detention transparency (https://coloradosun.com/2026/05/28/manny-rutinel-shannon-bird-colorado-primary-issue-guide/)",
+   "Funding local police, securing southern border against fentanyl (https://www.mannyforcolorado.com/press)",
+   "Continued military aid to Israel with human-rights conditions; two-state solution (https://coloradosun.com/2026/10/21/manny-rutinel-gabe-evans-voter-guide-colorado-district-8/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Rutinel's current stated positions are mainstream-to-centrist (public option not M4A, all-of-the-above energy, police funding, continued Israel aid) and he was New Dem-endorsed, but CI is only about 4 and he backed fracking ban/single payer as recently as July 2025. Well credentialed (Yale JD, state legislator) and debated, but often declined to state positions when pressed; the decision sequence lands on the nearest-of-1/4 fallback (imperfect fit), with Cat 3 a plausible alternative if his evasiveness is weighted more heavily.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manny_Rutinel",
+   "https://coloradosun.com/2026/06/04/manny-rutinel-changed-positions-healthcare-student-debt-fracking/",
+   "https://coloradosun.com/2026/05/28/manny-rutinel-shannon-bird-colorado-primary-issue-guide/",
+   "https://coloradosun.com/2026/10/21/manny-rutinel-gabe-evans-voter-guide-colorado-district-8/",
+   "https://www.mannyforcolorado.com/issues",
+   "https://www.mannyforcolorado.com/press",
+   "https://www.newdemactionfund.com/candidates",
+   "https://www.kunc.org/politics/2026-05-29/shannon-bird-and-manny-rutinel-try-to-differentiate-in-first-major-debate-but-show-they-are-aligned-on-most-major-issues",
+   "https://gazette.com/2026/06/08/sparks-fly-in-debate-between-democrats-in-colorados-8th-cd-primary/",
+   "https://www.cpr.org/2026/10/07/debate-8th-congressional-district-rutinel-evans/"
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Luke Bronin",
+  "seat": "CT-1",
+  "call_status": "confirmed winner (WFSB 4 Nov: declared winner with >60% over R Amy Chai and Green Mary Sanders; attending new-member orientation per CT Mirror 10 Nov)",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA Yale; MSc Balliol College, Oxford (Rhodes Scholar); JD Yale Law School",
+   "career": "The Hartford (associate counsel, chief of staff to P&C division president); Navy Reserve intelligence officer (Afghanistan 2010-11, Lt.); Obama Treasury senior adviser and Deputy Assistant Secretary for Terrorist Financing; general counsel to Gov. Dannel Malloy; partner Hinckley Allen; consultant to The Connecticut Project",
+   "prior_office": "Mayor of Hartford 2016-2024; Deputy Assistant Secretary of the Treasury (appointed)"
+  },
+  "self_description": "Ran on generational change rather than ideology; said his campaign was about helping the Democratic Party 'regain its footing, refocusing on pocketbook issues and tax equity'. 'People want to see a government that just works again.'",
+  "primary_context": "Upset 14-term Rep. John Larson at the May 2026 convention (51.2-48.8) and won the 11 Aug four-way primary (Larson, progressive state Rep. Jillian Gilchrest, Ruth Fortune) on a generational-change message without seriously attacking Larson's record; Gilchrest/Fortune argued Bronin was indistinguishable from Larson; Larson allies' super PAC attacked him as 'battery-powered by billionaires'.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Backs Break Up Big Medicine Act (Warren-Hawley) to 'break up healthcare monopolies' across insurers, PBMs, pharmacies and providers",
+    "src": "https://www.broninforcongress.com/issues/protecting-medicare-medicaid-and-pushing-for-universal-healthcare"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Issue page 'Abolishing ICE & Fixing Our Immigration System': 'Abolish ICE, which has only existed since 2003' and return enforcement to a broader-mission agency ('abolish and replace or rebuild ICE from the ground up')",
+    "src": "https://www.broninforcongress.com/issues/immigration"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Supports abolishing/replacing ICE (while also calling for 'secure borders' in a reformed system)",
+    "src": "https://www.broninforcongress.com/issues/immigration"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Climate page calls for building clean energy 'quickly and at scale... streamlining red tape that makes it too hard and costly to build'; housing page says 'we just don't build enough housing' and backs transit-oriented development and new financing tools",
+    "src": "https://www.broninforcongress.com/issues/climate-change"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term mayor of Hartford and senior Treasury appointee = 2 (not statewide); Yale JD + Rhodes = 2; detailed issue pages naming bills (Break Up Big Medicine Act, Equality Act, Global Respect Act) and a phased ICE plan = 2."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in NBC Connecticut televised forum (early July), WTNH News 8 debate (28 July) and a final debate (29 July) in the primary, engaging Larson directly on Social Security 2100 and defending his mayoral record. No general-election debate with Amy Chai found (not verified; search budget exhausted). Media coverage mainly mainstream local outlets; no hostile/cross-partisan outlet appearances found."
+  },
+  "outside_support": [
+   "VoteVets (~$1M primary ad buy)",
+   "Servant-Leader Fund (With Honor-linked)",
+   "The Bench",
+   "Time to Lead PAC",
+   "New Dem Action Fund",
+   "Pete Buttigieg",
+   "Carpenters Local 326",
+   "Uniformed Professional Firefighters Association of CT"
+  ],
+  "notable_positions": [
+   "Abolish ICE in the longer term and return enforcement to a broader immigration agency; condition DHS funding on mask ban, warrants, ID (https://www.broninforcongress.com/issues/immigration)",
+   "'Strong public option so that any American who wants to participate in Medicare can'; 'push for universal, affordable healthcare' (https://www.broninforcongress.com/issues/protecting-medicare-medicaid-and-pushing-for-universal-healthcare)",
+   "Break up healthcare monopolies via Break Up Big Medicine Act (https://www.broninforcongress.com/issues/protecting-medicare-medicaid-and-pushing-for-universal-healthcare)",
+   "Build more housing and clean energy fast by cutting red tape (https://www.broninforcongress.com/issues/building-more-housing)",
+   "Assault weapons ban, universal background checks, red-flag laws (https://www.broninforcongress.com/issues)",
+   "AI regulation a top priority from campaign launch (https://ctmirror.org/2026/10/20/after-larsons-loss-cts-1st-district-will-elect-a-new-member/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Bronin is a heavily credentialed, engaged establishment-style Democrat (Rhodes/Yale JD, Hartford mayor, Treasury appointee) who debated in the primary and has detailed policy pages. His markers are mixed and thin on both sides (LI about 2 from abolish-ICE and healthcare break-ups; CI about 2 from New Dem endorsement and build-more/abundance framing), so the sequence lands on the imperfect-fit fallback; Cat 4 is suggested on the New Dem/VoteVets/donor-class backing and his pocketbook, non-ideological framing, but this is close to a tie.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luke_Bronin",
+   "https://www.broninforcongress.com/issues",
+   "https://www.broninforcongress.com/issues/immigration",
+   "https://www.broninforcongress.com/issues/protecting-medicare-medicaid-and-pushing-for-universal-healthcare",
+   "https://www.broninforcongress.com/issues/building-more-housing",
+   "https://www.broninforcongress.com/issues/climate-change",
+   "https://www.broninforcongress.com/endorsements",
+   "https://www.newdemactionfund.com/candidates",
+   "https://ctmirror.org/2026/05/11/luke-bronin-beats-john-larson-in-convention-upset-faces-primary/",
+   "https://ctmirror.org/2026/07/28/ct-larson-bronin-gilchrest-fortune-debate/",
+   "https://ctmirror.org/2026/08/06/burst-of-outside-spending-for-bronin-larson-in-final-weeks/",
+   "https://ctmirror.org/2026/10/20/after-larsons-loss-cts-1st-district-will-elect-a-new-member/",
+   "https://www.wfsb.com/2026/11/04/luke-bronin-wins-connecticuts-1st-congressional-district-seat/"
+  ]
+ },
+ {
+  "id": 26,
+  "name": "Pia Dandiya",
+  "seat": "FL-22",
+  "call_status": "confirmed winner (Wikipedia: won 3 Nov general by almost 3 points over R Casey Askar in the redrawn, Trump-2024 FL-22; NYT results page cited). Independent AP-call confirmation not obtained (search budget exhausted).",
+  "bio": {
+   "birth_year": 1987,
+   "education": "BA government, Harvard; MEd Boston University",
+   "career": "Teach for America teacher and TFA staff; founding principal, Democracy Prep Endurance High School (Harlem); White House Fellow 2020-21 at Dept. of Education/Domestic Policy Council; led public-sector partnerships at Apple (2022-)",
+   "prior_office": "none (White House Fellow, non-elected)"
+  },
+  "self_description": "Registered Republican until 2020. Presents as non-career-politician problem-solver: 'I'll work with anyone, Democrat, Republican, or Independent... I'll show up in every part of this district, not just the places that already agree with me'; 'I'm proud to be a Democrat because I believe in expanding opportunity'.",
+  "primary_context": "Moved from FL-21 (vs. Brian Mast) to the new open FL-22 after DeSantis's mid-decade redistricting; beat attorney Kaysia Earley 68.6-31.4 on 18 Aug 2026 with Sun-Sentinel editorial endorsement; no ideological contrast reported.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by Wellington's Republican Mayor Michael Napoleone (Oct 2026); former registered Republican until 2020",
+    "src": "https://piaforcongress.com/updates/wellington-mayor-crosses-party-lines-to-endorse-democrat"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Would 'tie federal infrastructure and transportation dollars to communities that reform restrictive zoning, so more starter homes and workforce housing get built'",
+    "src": "https://www.sun-sentinel.com/2026/07/09/questionnaire-pia-dandiya-candidate-for-u-s-house-district-22/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund",
+   "WelcomePAC",
+   "New Democracy (centrist group, not in rubric list)",
+   "Democrats for Education Reform (not in rubric list)"
+  ],
+  "EPD": {
+   "office": 1,
+   "cred": 2,
+   "policy": 1,
+   "note": "No elected office; White House Fellow (one-year federal placement) scored 1 as a public role short of senior appointee; Harvard BA + MEd with senior roles (founding principal, Apple public-sector lead) = 2; concrete but modest proposals (zoning-linked infrastructure funds, LIHTC expansion, raise Social Security cap, stock-trading ban incl. spouses) = 1."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "No general-election or primary debate found (unverified; R opponent Askar did not respond to media requests). Gave interviews to WFLX/WPTV and a TV '1-on-1', answered Sun-Sentinel and Naples Daily News questionnaires in detail; no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "New Dem Action Fund",
+   "WelcomePAC",
+   "The Bench",
+   "Serve America PAC",
+   "DMFI PAC",
+   "Democrats for Education Reform",
+   "Everytown/Moms Demand Action",
+   "Planned Parenthood Action Fund",
+   "NRDC Action Fund",
+   "Florida AFL-CIO",
+   "SEIU Florida",
+   "House Majority PAC poll (HMP)"
+  ],
+  "notable_positions": [
+   "Tie federal infrastructure money to local zoning reform to build starter homes (https://www.sun-sentinel.com/2026/07/09/questionnaire-pia-dandiya-candidate-for-u-s-house-district-22/)",
+   "Raise the Social Security payroll-tax cap; oppose benefit cuts or raising retirement age (https://www.wflx.com/2026/10/29/florida-district-22-candidates-casey-askar-pia-dandiya-clash-over-affordability/)",
+   "Medicare drug negotiation and restoring ACA subsidies (https://www.wflx.com/2026/10/29/florida-district-22-candidates-casey-askar-pia-dandiya-clash-over-affordability/)",
+   "Supreme Court term limits and enforceable ethics code (no expansion) (https://www.sun-sentinel.com/2026/07/09/questionnaire-pia-dandiya-candidate-for-u-s-house-district-22/)",
+   "Ban congressional stock trading (incl. spouses), prediction-market betting, and impose congressional term limits (https://piaforcongress.com/priorities)",
+   "End tariffs to cut consumer costs (https://piaforcongress.com/priorities)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A former Republican backed by the New Dem Action Fund, WelcomePAC, DFER and a GOP mayor, Dandiya runs on affordability, zoning reform and good-government themes with no left markers (LI 0). CI is about 4, one short of the Cat 4 threshold, and her positions on contested issues (immigration, policing, trans, M4A) are largely unstated. Under a strict sequence her thin office record and no verified debates could push her to Cat 2/3; Cat 4 is suggested as the best substantive fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pia_Dandiya",
+   "https://www.sun-sentinel.com/2026/07/09/questionnaire-pia-dandiya-candidate-for-u-s-house-district-22/",
+   "https://www.wflx.com/2026/10/29/florida-district-22-candidates-casey-askar-pia-dandiya-clash-over-affordability/",
+   "https://piaforcongress.com/priorities",
+   "https://piaforcongress.com/endorsements",
+   "https://piaforcongress.com/updates/wellington-mayor-crosses-party-lines-to-endorse-democrat",
+   "https://www.newdemactionfund.com/candidates",
+   "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+   "https://www.nytimes.com/2026/11/03/us/florida-house-22-dandiya-askar.html"
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Oliver Gilbert",
+  "seat": "FL-24",
+  "call_status": "confirmed winner (Wikipedia lists him as member-elect succeeding Frederica Wilson; safe D seat, ~69% Harris 2024, vs R Mayonna Te Brown). AP call not independently verified (search budget exhausted).",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BA criminal justice, Florida A&M; JD Univ. of Miami School of Law",
+   "career": "Legislative aide; deputy policy director on Janet Reno's 2002 gubernatorial campaign; prosecutor; private-practice lawyer",
+   "prior_office": "Miami Gardens City Council 2008-12; Mayor of Miami Gardens 2012-20; Miami-Dade County Commissioner (D1) 2020-26, Commission Chair 2022-24"
+  },
+  "self_description": "Campaign slogan 'Stopping Trump. Building the Next America. For everyone.'; emphasises local-government experience and affordability. Wikipedia describes him as 'a moderate Democrat' (no direct self-label found).",
+  "primary_context": "Won 7-way 18 Aug primary narrowly (34.4% to 32%) over state Sen. Shevrin Jones, who was endorsed by the Congressional Progressive Caucus PAC as 'the clear progressive choice'; Gilbert was endorsed by retiring Rep. Frederica Wilson, Mayors Levine Cava and Higgins, and unions. A Gilbert-linked PAC (American Made PAC) attacked Jones over a Trump-airport-renaming vote; Gilbert had himself approved a Hialeah street renaming for Trump. Fairshake-linked Protect Progress reportedly spent ~$1M attacking Gilbert.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "'Stop ICE Raids Now': 'end funding for these shameful deportation policies' - not an explicit call to abolish ICE as an agency",
+    "src": "https://olivergilbert.vote/issues/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Two-term mayor of Miami Gardens (~110k) and Miami-Dade Commission chair, former prosecutor = 2; JD = 2; issues page mixes slogan-level planks ('pathway' to healthcare as a right) with branded proposals (BUILD Business Act: startup grants, SBA Growth Line, 504 expansion; HOME, CARE, BUILD Acts) and lowering Medicare age / raising Medicaid income limits = 1."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 0,
+   "note": "No evidence found of primary or general-election debates (not verified; search budget exhausted). Gave TV interviews to CBS Miami. Substance scored 0 for lack of evidence; primary was marked by a Gilbert-linked PAC's misleading attack ad and Equality Florida criticism of candidates' slowness to denounce an anonymous HIV smear of Jones (Gilbert later called it 'evil')."
+  },
+  "outside_support": [
+   "American Made PAC (Gilbert-linked)",
+   "SEIU 32BJ",
+   "SEIU Local 1991",
+   "Florida AFL-CIO",
+   "UNITE HERE Local 355",
+   "Rep. Frederica Wilson"
+  ],
+  "notable_positions": [
+   "Lower the Medicare eligibility age and raise Medicaid income limits (https://www.cbsnews.com/miami/news/2026-florida-primary-district-24-oliver-gilbert/)",
+   "Eliminate federal income taxes for working families; more IRS auditing of the ultra-wealthy (https://olivergilbert.vote/issues/)",
+   "Stop ICE raids and end funding for 'shameful deportation policies' (https://olivergilbert.vote/issues/)",
+   "Universal childcare and pre-K; federal funds for Miami-Dade rapid transit (https://olivergilbert.vote/issues/)",
+   "BUILD Business Act: startup grants, SBA Growth Line, employee-ownership incentives (https://olivergilbert.vote/)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "Gilbert is an experienced local executive (mayor, county commission chair, JD) who beat a CPC-backed progressive and is described as a moderate, but his public platform shows neither left markers nor explicit centrist markers (LI 0, CI 0). With no debate or cross-partisan media record found and a large-donor-funded campaign (1% small-dollar), the sequence points to Cat 3; evidence is thin and Cat 4 would be plausible if centrist positions are documented.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oliver_Gilbert",
+   "https://olivergilbert.vote/",
+   "https://olivergilbert.vote/issues/",
+   "https://floridapolitics.com/archives/813855-shevrin-jones-oliver-gilbert-kendrick-meek-jr-lead-7-way-democratic-primary-for-cd-24/",
+   "https://floridapolitics.com/archives/800228-im-running-oliver-gilbert-files-for-cd-24-race-sets-sunday-announcement-in-miami-gardens/",
+   "https://floridapolitics.com/archives/808771-oliver-gilbert-linked-pac-attacks-shevrin-jones-over-votes-for-donald-trump-airport-renaming/",
+   "https://floridapolitics.com/archives/814059-the-clear-progressive-choice-congressional-progressive-caucus-pac-backs-shevrin-jones-for-cd-24/",
+   "https://www.cbsnews.com/miami/news/2026-florida-primary-district-24-oliver-gilbert/"
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Jasmine Clark",
+  "seat": "GA-13",
+  "call_status": "confirmed winner (~79-81% per Wikipedia/American Prospect; safe D seat). Note: Wikipedia lists her as succeeding Everton Blair, who appears to hold the seat after the special election for the late David Scott's term; Clark won the regular-term primary outright on 19 May (~56%).",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BS Univ. of Tennessee; MS and PhD microbiology & molecular genetics, Emory University",
+   "career": "Microbiologist; assistant clinical professor, Emory Nell Hodgson Woodruff School of Nursing; organised 2019 Atlanta March for Science",
+   "prior_office": "Georgia House of Representatives, HD-108 (2019-present; flipped a GOP-held seat)"
+  },
+  "self_description": "Describes herself as 'left of center' and a 'mad scientist' (C&EN profile per Wikipedia); campaign: 'We need to be bold, loud, and intentional about standing up for our values'; 'Democrats, Republicans - doesn't matter... There is no singular policy that impacts just one group of people'.",
+  "primary_context": "Launched June 2025 challenge to Rep. David Scott (highlighting that he had not voted in six straight elections); after Scott's death in April 2026 she won the regular 19 May primary outright with ~56%, avoiding a runoff. No ideological contrast documented.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "American Prospect lists Clark among winning candidates 'who support Medicare for All' (secondary source; not stated on her campaign agenda page)",
+    "src": "https://prospect.org/2026/11/04/midterm-election-about-health-care-annie-andrews-medicare-for-all/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Reported Medicare for All supporter (American Prospect)",
+    "src": "https://prospect.org/2026/11/04/midterm-election-about-health-care-annie-andrews-medicare-for-all/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "State legislator since 2019 = 2; PhD (Emory) and faculty career = 2; campaign agenda is mostly headings (childcare/pre-K, assault weapons ban, stop 'unconstitutional ICE raids', rein in data centers, stock-trading ban) and specific authored bills were not verified = 1."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "No debate record found for the May primary, special election or general (not verified; search budget exhausted). Media: science-press profile (C&EN), national coverage (The Hill, Prospect), headlined 'No Kings' protest; legislative record of challenging Kemp's COVID data and GOP abortion-ban evidence suggests evidence-based engagement. No hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "Indivisible Action",
+   "MoveOn",
+   "J Street",
+   "End Citizens United",
+   "314 Action",
+   "Collective PAC",
+   "Higher Heights",
+   "Giffords PAC",
+   "LCV",
+   "Planned Parenthood Action Fund",
+   "NEA",
+   "SEIU",
+   "AFGE",
+   "Future Forum PAC"
+  ],
+  "notable_positions": [
+   "Reported Medicare for All supporter (https://prospect.org/2026/11/04/midterm-election-about-health-care-annie-andrews-medicare-for-all/)",
+   "Stop 'unconstitutional ICE raids'; called on Rep. Scott to co-sponsor impeachment of Kristi Noem (https://www.jasmine4ga.com/agenda)",
+   "Assault weapons ban and 'common-sense gun regulations' (https://www.jasmine4ga.com/agenda)",
+   "Restore NIH/CDC research funding; 'bring facts back' to government (https://www.jasmine4ga.com/agenda)",
+   "Rein in data-center development; billionaires and corporations 'pay their fair share' (https://www.jasmine4ga.com/agenda)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "Clark is a credentialed PhD scientist and multi-term state legislator who self-describes as 'left of center' and is reported to back Medicare for All, but few other left or centrist markers were found (LI about 1, CI 0). With no verifiable debate record, the sequence lands on Cat 3, but this rests largely on missing evidence; her high small-dollar share (68%) and Indivisible/MoveOn backing are noted. A fuller search could move her toward progressive-leaning or Cat 2.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jasmine_Clark",
+   "https://cen.acs.org/people/profiles/jasmine-clark-phd-congress/104/web/2026/06",
+   "https://prospect.org/2026/11/04/midterm-election-about-health-care-annie-andrews-medicare-for-all/",
+   "https://www.jasmine4ga.com/agenda",
+   "https://www.jasmine4ga.com/endorsements",
+   "https://www.jasmine4ga.com/news",
+   "https://thehill.com/homenews/campaign/6174881-jasmine-clark-georgia-house-race-2026/"
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Donna Miller",
+  "seat": "IL-2",
+  "call_status": "confirmed winner (Wikipedia: 'won the seat in the 2026 general election'; safe D open seat vacated by Robin Kelly). AP call not independently verified (search budget exhausted).",
+  "bio": {
+   "birth_year": 1965,
+   "education": "BBA Howard University; graduate business courses at Pepperdine (no degree)",
+   "career": "Healthcare/biotech-pharma consultant and account specialist; director of multicultural markets, American Heart Association; Planned Parenthood Illinois board chair; DNC Rules Committee 2016",
+   "prior_office": "Cook County Board of Commissioners, 6th district (2018-present)"
+  },
+  "self_description": "Presents as a healthcare professional and coalition-builder: 'dedicated public servant, healthcare professional, and community advocate with decades of experience delivering real results'. No ideological self-label found.",
+  "primary_context": "Won the 17 March 2026 primary over former Rep. Jesse Jackson Jr., state Sen. Robert Peters, Willie Preston and six others; endorsed by House Democratic leadership (Jeffries, Clark, Aguilar) and the New Dem Action Fund. Ideological contrast with rivals not documented here.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Priorities page: 'Health care is a human right and I support a Medicare for All framework'",
+    "src": "https://donnaforcongress.com/priorities"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports 'a Medicare for All framework'",
+    "src": "https://donnaforcongress.com/priorities"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Industry-friendly tech platform: supports 'regulated integration of blockchain technology' and bringing community banks into the 'digital stablecoin ecosystem'; endorsed by American Credit Union, ADA PAC and Optometric PAC",
+    "src": "https://donnaforcongress.com/priorities"
+   }
+  },
+  "C1_endorsements": [
+   "New Democratic Coalition Action Fund"
+  ],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 1,
+   "note": "Cook County commissioner (county commission) = 1; BBA with mid-level corporate/nonprofit healthcare career = 1; concrete but general proposals (insulin cap, generic drugs, county medical-debt relief record, John Lewis VRAA, Paris Agreement, AI/data-center disclosure) = 1."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "No debate record found for the 10-candidate primary or the general (not verified; search budget exhausted). Media appearances mostly local outlets and Fox 32 Chicago (local) segment on county task force; Chicago Tribune editorial endorsement suggests she underwent editorial-board questioning."
+  },
+  "outside_support": [
+   "New Dem Action Fund",
+   "EMILY's List",
+   "DMFI PAC",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "Elect Democratic Women",
+   "Higher Heights",
+   "Committee to Protect Health Care",
+   "National Nurses United",
+   "AFSCME Council 31",
+   "AFL-CIO",
+   "Planned Parenthood Action Fund",
+   "LCV Action Fund",
+   "Sierra Club",
+   "Hakeem Jeffries / Katherine Clark / Pete Aguilar"
+  ],
+  "notable_positions": [
+   "'Health care is a human right and I support a Medicare for All framework' (https://donnaforcongress.com/priorities)",
+   "Pro-crypto/stablecoin integration for community banks; strong federal AI regulation with state latitude (https://donnaforcongress.com/priorities)",
+   "Path to citizenship; accountability for agencies violating civil rights (no abolish-ICE language) (https://donnaforcongress.com/priorities)",
+   "Police-community partnerships; restorative justice; common-sense gun laws (https://donnaforcongress.com/priorities)",
+   "Repeal tax breaks for billionaires; national medical-debt relief modeled on Cook County (https://donnaforcongress.com/priorities)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "Miller is a leadership-endorsed, New Dem-backed county commissioner whose platform mixes a 'Medicare for All framework' with industry-friendly crypto positions; neither left (LI about 1) nor centrist (CI about 2) markers are strong. With county-level office, a bachelor's-level career and general policy content, EPD is about 3, which places her in Cat 2 (mainstream party-line, thinner experience). Her large-donor funding profile (3% small-dollar) cuts against the 'base funding' element of Cat 2.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Donna_Miller",
+   "https://donnaforcongress.com/priorities",
+   "https://donnaforcongress.com/endorsements",
+   "https://donnaforcongress.com/in-the-news",
+   "https://www.hfchronicle.com/2025/07/09/cook-county-commissioner-donna-miller-launches-run-for-2nd-congressional-district/",
+   "https://www.politico.com/news/2026/03/17/donna-miller-wins-illinois-democratic-primary-house-00833506",
+   "https://www.newdemactionfund.com/candidates"
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Patty García",
+  "seat": "IL-4",
+  "call_status": "confirmed winner (Sun-Times 3 Nov: led 68.8% vs R Lupe Castillo 17.5% and independent Chris Getty 10.2% with 51% in, per AP; campaign site now says 'Congresswoman-elect')",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA, MA and PhD (Educational Policy Studies, 2011), Univ. of Illinois Urbana-Champaign",
+   "career": "NALEO Education Fund deputy director of constituency services; VP programs & operations, Latino Center for Leadership Development; district director (2019) then chief of staff (2023-26) to Rep. Chuy Garcia",
+   "prior_office": "none elected; senior congressional staff (chief of staff to Rep. Jesus 'Chuy' Garcia)"
+  },
+  "self_description": "'I come from a strong, progressive community that has been around for over 40 years and has shaped national politics beyond Chicago' (Chicago Tribune, May 2026).",
+  "primary_context": "Uncontested: Rep. Chuy Garcia withdrew at the filing deadline after she alone had filed, leaving her the only Democrat on the March ballot; the House later reprimanded him (236-183). Independent challengers (Ald. Byron Sigcho-Lopez, Mayra Macias) were knocked off the November ballot by petition objections.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Issues page: 'Patty backs Medicare for All'; victory speech: 'That means Medicare for all'",
+    "src": "https://pattyforillinois.com/issues"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Issues page: 'Fundamentally restructuring immigration enforcement agencies, including abolishing ICE'; victory speech: 'ICE must be abolished'",
+    "src": "https://pattyforillinois.com/issues"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "'Patty believes that what the Israeli government has been doing to Palestinians in Gaza... is genocide'; calls for cessation of all U.S. military assistance and arms shipments to Israel",
+    "src": "https://pattyforillinois.com/issues"
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Backs Medicare for All",
+    "src": "https://pattyforillinois.com/issues"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Supports abolishing ICE",
+    "src": "https://pattyforillinois.com/issues"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0,
+    "e": "Endorsed by some business groups (Illinois Realtors, Illinois Credit Union League, Illinois Corn Growers) but no pro-business policy positions found",
+    "src": "https://pattyforillinois.com/endorsements"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Chief of staff to a member of Congress (senior federal staff) = 2; PhD = 2; issues page lists positions and bill names (PRO Act) but few specifics or numbers = 1."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "No contested primary and no debate found: she was not invited to the April UIC College Democrats forum of independents, and her campaign's petition objections removed two challengers from the ballot. Gave interviews to Chicago Tribune and Sun-Times, where she deflected criticism of the succession process ('they're not talking about the process') while stating clear positions on ICE, Medicare for All and Gaza. No cross-partisan media found."
+  },
+  "outside_support": [
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "Progressive Democrats of America",
+   "Track AIPAC",
+   "BOLD PAC",
+   "Illinois AFL-CIO",
+   "Chicago Federation of Labor",
+   "SEIU Illinois",
+   "Teamsters",
+   "Hakeem Jeffries",
+   "Gov. JB Pritzker",
+   "Rep. Chuy Garcia"
+  ],
+  "notable_positions": [
+   "Abolish ICE: 'ICE must be abolished' (https://chicago.suntimes.com/elections/2026/11/03/us-house-illinois-midterm-results)",
+   "Medicare for All (https://pattyforillinois.com/issues)",
+   "Calls Gaza a genocide; end all U.S. military assistance and arms shipments to Israel; rejects AIPAC influence (https://pattyforillinois.com/issues)",
+   "PRO Act, higher minimum wage, 'punishing big businesses that raise prices on essential goods' (https://pattyforillinois.com/issues)",
+   "Defended the last-minute ballot handoff: 'We followed the rules... We didn't stop anybody from applying' (https://chicago.suntimes.com/elections/2026/07/21/patty-garcia-4th-congressional-district-midterm-election-ballot-challenges)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Medium",
+  "rationale": "García holds clearly progressive positions (Medicare for All, abolish ICE, Gaza genocide/arms cut-off; CPC PAC and Our Revolution backing), giving LI about 5, one point short of Cat 1. She reached Congress through an uncontested insider handoff, did not debate, and her campaign removed challengers from the ballot. Under the sequence (PhD and senior staff role, EPD about 5; EO about 2) she falls in Cat 3. She is a near-miss for Cat 1, and one more left marker would move her there.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patty_Garcia",
+   "https://pattyforillinois.com/issues",
+   "https://pattyforillinois.com/endorsements",
+   "https://www.chicagotribune.com/2026/05/12/congressional-progressive-endorsement-illinois-4th-garcia/",
+   "https://www.chicagotribune.com/2026/04/30/4th-district-independents-democrat-patty-garcia/",
+   "https://chicago.suntimes.com/elections/2026/05/23/independent-challengers-sigcho-lopez-macias-getty-patty-garcia-chuy-garcia-seat",
+   "https://chicago.suntimes.com/elections/2026/07/21/patty-garcia-4th-congressional-district-midterm-election-ballot-challenges",
+   "https://chicago.suntimes.com/elections/2026/11/03/us-house-illinois-midterm-results",
+   "https://www.pbs.org/newshour/politics/house-reprimands-illinois-congressman-over-his-succession-plan-dividing-democrats"
+  ]
+ }
+]

@@ -1,0 +1,1316 @@
+[
+ {
+  "id": 71,
+  "name": "Chris Rabb",
+  "seat": "PA-03",
+  "call_status": "confirmed winner (safe D open seat; no Republican nominee, faced independent Dennis Mahoney; listed as representative-elect)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA Yale (1992); MS Organizational Dynamics, Univ. of Pennsylvania (2006)",
+   "career": "Aide to Sen. Carol Moseley Braun; Clinton White House Conference on Small Business staff; Temple Univ. business instructor; author ('Invisible Capital', 2010); entrepreneur",
+   "prior_office": "Pennsylvania State House, 200th district (2017-2026); earlier elected Democratic ward committee post"
+  },
+  "self_description": "Democratic socialist; joined Philadelphia DSA: 'I feel deeply aligned with DSA and its big-tent socialist vision' (Jacobin); calls his platform a 'bold progressive agenda' and 'movement-aligned approach to governance, not another establishment ally'.",
+  "primary_context": "Won 4-way open-seat primary (19 May 2026) with ~44% over state Sen. Sharif Street (PA Dem Party chair, backed by Mayor Parker and city party, 29.5%) and Dr. Ala Stanford (backed by retiring Rep. Evans, ~24%); framed as anti-establishment progressive vs. establishment, with Gaza a central dividing issue.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Candidate questionnaire: 'Medicare For All is the only way we can achieve universal healthcare'; platform lists Medicare for All as a 'Universal Basic Guarantee'.",
+    "src": "https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Self-identified democratic socialist who joined Philadelphia DSA; platform section 'Public Ownership Revitalized' (national grocery stores) and 'Social Housing Scaled Nationally'.",
+    "src": "https://jacobin.com/2026/05/rabb-pennsylvania-congress-socialism-class"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Campaign platform lists 'The Green New Deal' and 'A Just Transition to 100% Renewable Energy'.",
+    "src": "https://www.chrisrabb.com/platform"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Platform calls for 'Universal Basic Income and a Living Wage for All' and to 'End Corporate Media Monopolies'.",
+    "src": "https://www.chrisrabb.com/platform"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Questionnaire: would 'immediately abolish ICE and dismantle immigrant concentration camps'; platform: 'Abolish ICE'.",
+    "src": "https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Platform: 'The genocide in Gaza must end'; reported to back an arms embargo on Israel.",
+    "src": "https://www.chrisrabb.com/platform"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "DSA (Philadelphia chapter and national)",
+   "Working Families Party",
+   "Sunrise Movement",
+   "Alexandria Ocasio-Cortez",
+   "Congressional Progressive Caucus PAC",
+   "Reclaim Philadelphia",
+   "Ilhan Omar",
+   "Pramila Jayapal"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Backs Medicare for All as 'the only way' to universal healthcare.",
+    "src": "https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls to abolish ICE.",
+    "src": "https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "Ten years in PA House with authored bills (anti-ICE cooperation, death-penalty repeal; ACLU top scorer); Yale BA + Penn professional master's, business lecturer/author; detailed platform page."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Participated in multiple primary forums/debates incl. WHYY TV debate (Apr 2026) and West Philly forum; missed one Feb 2026 forum. General vs. independent only, no debate coverage found. Media mostly friendly/progressive outlets (Jacobin, The Nation) plus local press and questionnaires."
+  },
+  "outside_support": [
+   "Justice Democrats",
+   "Working Families Party",
+   "DSA",
+   "Sunrise Movement",
+   "CPC PAC",
+   "Jane Fonda Climate PAC"
+  ],
+  "notable_positions": [
+   "Medicare for All 'the only way' to universal healthcare (https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/)",
+   "Abolish ICE and 'dismantle immigrant concentration camps' (https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/)",
+   "Calls Gaza a genocide; ceasefire, end funding for Israel, Palestinian right of return (https://www.chrisrabb.com/platform)",
+   "Green New Deal, UBI, nationally scaled social housing, public grocery stores (https://www.chrisrabb.com/platform)",
+   "Self-described democratic socialist and DSA member (https://jacobin.com/2026/05/rabb-pennsylvania-congress-socialism-class)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Self-identified democratic socialist and DSA member endorsed by Justice Democrats, DSA, WFP and AOC; platform explicitly backs Medicare for All, Green New Deal, UBI, abolishing ICE, social housing, and describes Gaza as genocide. LI far exceeds the Category 1 threshold.",
+  "sources": [
+   "https://www.cityandstatepa.com/politics/2026/05/chris-rabb-wins-democratic-primary-deep-blue-pa-3-seat/413657/",
+   "https://jacobin.com/2026/05/rabb-pennsylvania-congress-socialism-class",
+   "https://www.chrisrabb.com/platform",
+   "https://www.cityandstatepa.com/politics/2026/05/candidate-questionnaire-chris-rabb/413545/",
+   "https://en.wikipedia.org/wiki/Chris_Rabb",
+   "https://whyy.org/articles/pennsylvania-election-2026-3rd-congressional-district-forum/",
+   "https://www.cityandstatepa.com/politics/2026/04/sans-stanford-dems-rabb-and-street-meet-pa-3-debate-wednesday/413216/",
+   "https://www.westphillylocal.com/2026/04/22/three-congressional-hopefuls-court-west-philly-voters-at-forum/",
+   "https://www.jta.org/2026/05/19/politics/with-aoc-backing-and-anti-israel-message-chris-rabb-vies-for-open-house-seat-in-philadelphia",
+   "https://jewishinsider.com/2026/04/chris-rabb-pennsylvania-congressional-primary-endorsements/"
+  ]
+ },
+ {
+  "id": 72,
+  "name": "Bob Brooks",
+  "seat": "PA-07",
+  "call_status": "confirmed winner (AP called election night; 56.1%-43.9% over incumbent Ryan Mackenzie (R), who conceded)",
+  "bio": {
+   "birth_year": null,
+   "education": "High school graduate (North Adams, MA public schools); no college degree found",
+   "career": "Bartender, pizza delivery, Teamster beer-truck driver; 20-year Bethlehem firefighter; president, Pennsylvania Professional Fire Fighters Association (statewide union); IAFF disaster-relief deployments",
+   "prior_office": "none (first-time candidate; union office only)"
+  },
+  "self_description": "Working-class labour candidate: 'It's time to send a working-class guy from the Lehigh Valley to Congress'; says Democrats 'got the label of the party of elites... they stopped talking to us'. No ideological label found; quoted on Blue Dog PAC page: 'The Blue Dogs have that same mentality'.",
+  "primary_context": "Won 4-way primary (19 May 2026, ~48%) over ex-Northampton County Exec. Lamont McClure, ex-prosecutor Ryan Crosswell and Carol Obando-Derstine; candidates largely in policy lockstep; Brooks backed by both Bernie Sanders/WFP and Blue Dog PAC, plus Gov. Shapiro, Buttigieg and DCCC; McClure attacked his old pro-gun/anti-Obama Facebook posts.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Interview: 'I've been a supporter of Medicare for all, and I think that's where we start'; general-election interview: wants to help enact 'some form of Medicare for All'; National Nurses United endorsed on M4A.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/elections/lehigh-valley-political-pulse-bob-brooks-says-democrats-have-lost-touch-with-working-class-voters/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders",
+   "Working Families Party",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "(also Progressive Democrats of America, Elizabeth Warren, Pramila Jayapal, Ro Khanna, Maxwell Frost)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All rather than opposing it.",
+    "src": "https://www.cityandstatepa.com/politics/2026/10/catching-fire-bob-brooks-makes-his-case-beating-ryan-mackenzie-pa-7/416665/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior public office; no degree but long senior union-leadership career (statewide union president; helped pass PA first-responder PTSI workers' comp law 2024). Concrete but limited proposals (Medicare for All, Social Security cap removal, HELPER Act, PRO Act, higher minimum wage)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in several primary TV debates/forums (Blue Ridge TV-13, Cedar Crest, Allentown forum) but withdrew from the only scheduled general-election debate (21 Oct, LV Chamber), citing Mackenzie's attacks, offering a WFMZ interview instead; also cancelled a Lehigh Valley Public Media one-on-one policy interview in the primary. (Score 1 if primary debates are credited.)"
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Blue Dog PAC",
+   "Working Families Party",
+   "CPC PAC",
+   "Our Revolution",
+   "End Citizens United",
+   "Bernie Sanders",
+   "SEIU",
+   "National Nurses United",
+   "Teamsters",
+   "firefighter unions",
+   "Gov. Josh Shapiro",
+   "Pete Buttigieg"
+  ],
+  "notable_positions": [
+   "Supports Medicare for All as the starting point for health costs (https://www.lehighvalleypublicmedia.org/news/elections/lehigh-valley-political-pulse-bob-brooks-says-democrats-have-lost-touch-with-working-class-voters/)",
+   "First in primary field to back removing Social Security payroll-tax cap (https://www.lehighvalleypublicmedia.org/news/elections/housing-ice-and-credentials-takeaways-from-monday-nights-pa-7-candidate-forum/)",
+   "Champion PRO Act and higher minimum wage (https://www.cityandstatepa.com/politics/2026/10/catching-fire-bob-brooks-makes-his-case-beating-ryan-mackenzie-pa-7/416665/)",
+   "On Gaza: 'Israel needs to follow international laws' (https://www.lehighvalleypublicmedia.org/news/elections/housing-ice-and-credentials-takeaways-from-monday-nights-pa-7-candidate-forum/)",
+   "Says Democrats lost touch with working class as 'party of elites' (https://www.lehighvalleypublicmedia.org/news/elections/lehigh-valley-political-pulse-bob-brooks-says-democrats-have-lost-touch-with-working-class-voters/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "Labour-populist first-time candidate with mixed coalition signals: endorsed by Sanders, WFP, CPC PAC and Our Revolution and also by Blue Dog PAC; backs Medicare for All but few other left markers, so LI ~4 (progressive-leaning) and CI ~2. No prior office and limited policy depth put EPD at ~2, pointing to Category 2; he also skipped the only general-election debate.",
+  "sources": [
+   "https://www.cityandstatepa.com/politics/2026/10/no-argument-here-bob-brooks-pull-out-pa-7-debate/416717/",
+   "https://www.cityandstatepa.com/politics/2026/10/catching-fire-bob-brooks-makes-his-case-beating-ryan-mackenzie-pa-7/416665/",
+   "https://www.cityandstatepa.com/politics/2026/11/brooks-bests-mackenzie-flip-pa-7-back-democrats/417024/",
+   "https://www.fox29.com/news/bob-brooks-wins-u-s-house-seat-representing-pennsylvanias-7th-district-ap",
+   "https://www.lehighvalleypublicmedia.org/news/elections/lehigh-valley-political-pulse-bob-brooks-says-democrats-have-lost-touch-with-working-class-voters/",
+   "https://www.lehighvalleypublicmedia.org/news/elections/housing-ice-and-credentials-takeaways-from-monday-nights-pa-7-candidate-forum/",
+   "https://www.lehighvalleypublicmedia.org/news/elections/congressional-democratic-candidates-talk-immigration-housing-warts-in-2nd-debate/",
+   "https://www.lehighvalleypublicmedia.org/news/elections/pa-7-democratic-debate-turns-ugly-over-brooks-facebook-posts-criticizing-obama-and-defending-guns/",
+   "https://www.lehighvalleypublicmedia.org/news/elections/democratic-candidates-for-pa-7-dig-into-immigration-policy-ice/",
+   "https://www.lehighvalleypublicmedia.org/news/elections/firefighter-union-boss-bob-brooks-jumps-into-lehigh-valley-congressional-race/",
+   "https://bluedogdems.com/blue-dog-pac-endorses-bob-brooks-for-pennsylvanias-7th-congressional-district/",
+   "https://bluedogdems.com/bob-brooks/",
+   "https://dccc.org/firefighter-bob-brooks-added-to-dcccs-coveted-red-to-blue-program/",
+   "https://www.commondreams.org/news/bob-brooks-working-class",
+   "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-bob-brooks-for-pennsylvanias-7th-district",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+  ]
+ },
+ {
+  "id": 73,
+  "name": "Paige Cognetti",
+  "seat": "PA-08",
+  "call_status": "confirmed winner (54.5%-45.5% over incumbent Rob Bresnahan (R); declared victory 3 Nov; listed as representative-elect)",
+  "bio": {
+   "birth_year": 1980,
+   "education": "BA Univ. of Oregon (summa cum laude); MBA Harvard Business School",
+   "career": "JET Programme teacher in Japan; Clinton/Obama 2008 fundraiser; adviser at US Treasury (Obama first term); special assistant to PA Auditor General; Biden appointee to USTR Advisory Committee for Trade Policy and Negotiations (2024)",
+   "prior_office": "Scranton School Board (2017-18); Mayor of Scranton (2020-2026; first elected 2019 as an independent, re-elected as Democrat 2021 and 2025)"
+  },
+  "self_description": "Anti-corruption 'reformer' and 'honest, independent leader'; revived 'Paige Against the Machine' slogan from her 2019 independent run against the local Democratic machine; campaign stresses she has 'taken on special interests and her own party'.",
+  "primary_context": "Unopposed in the Democratic primary (May 2026); recruited/backed by Gov. Josh Shapiro.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Anti-corruption agenda: 'We need more fiscal responsibility in Washington, and I'll bring my red pen'; mandatory audit of every federal agency, No Budget No Pay; touts balancing Scranton's budget; no wealth tax or big rate hikes proposed.",
+    "src": "https://paigeforpa.com/anti-corruption-agenda/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Won Scranton mayoralty in 2019 as an independent against the local Democratic machine ('Paige Against the Machine'); campaign says she has 'taken on special interests and her own party'.",
+    "src": "https://paigeforpa.com/paige-cognetti-decisively-wins-pa-08-congressional-debate/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Priorities: 'Cut red tape, make permitting make sense, allow more businesses to start'; reshore manufacturing incl. defence; targeted rather than broad tariffs; slashed building-permit fees as mayor.",
+    "src": "https://paigeforpa.com/priorities/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Six-year mayor of Scranton (mid-size city) plus Treasury adviser and USTR advisory appointee; Harvard MBA; detailed anti-corruption agenda with named bills (stock-trading ban, No Budget No Pay, 18-year term limits incl. SCOTUS, lobbying/board bans)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Uncontested primary; took part in the only general-election debate (WVIA, 29 Oct 2026), focusing on Bresnahan's stock trading and OBBBA vote. Media appearances mainly friendly national outlets (Morning Joe, Pod Save America, MSNBC) plus local press; held 100+ public events as mayor. No hostile/cross-partisan outlet appearances found."
+  },
+  "outside_support": [
+   "New Dem Action Fund",
+   "EMILY's List",
+   "New Politics",
+   "Giffords",
+   "National Committee to Preserve Social Security & Medicare PAC",
+   "PA AFL-CIO and many unions (SEIU, AFSCME, USW, UMWA, PSEA)",
+   "Gov. Josh Shapiro"
+  ],
+  "notable_positions": [
+   "Ban congressional stock trading, ban corporate PAC donations, No Budget No Pay, 18-year term limits for Congress and Supreme Court (https://paigeforpa.com/anti-corruption-agenda/)",
+   "Opposes all currently proposed NEPA data-center projects; no tax breaks for them (https://paigeforpa.com/priorities/)",
+   "'Break up the huge monopolies' incl. Big Box chains; cap credit-card swipe fees (https://paigeforpa.com/priorities/)",
+   "Permitting reform, reshoring manufacturing, targeted not broad tariffs (https://paigeforpa.com/priorities/)",
+   "Said Scranton is not a sanctuary city and would not obstruct lawful ICE activity, though past opposition to police-ICE cooperation was raised by opponents (https://www.washingtonexaminer.com/?p=4694753)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Experienced, credentialed reform mayor with an anti-corruption, fiscal-responsibility and permitting/reshoring message and New Dem Action Fund backing; no left markers found (LI 0) but CI only ~4, below the Cat 4 threshold. With EPD 6 and EO ~4 she falls to step 5 and is placed nearest Cat 4 as an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paige_Cognetti",
+   "https://paigeforpa.com/",
+   "https://paigeforpa.com/priorities/",
+   "https://paigeforpa.com/anti-corruption-agenda/",
+   "https://paigeforpa.com/endorsements/",
+   "https://paigeforpa.com/paige-cognetti-decisively-wins-pa-08-congressional-debate/",
+   "https://www.spotlightpa.org/news/2026/09/rob-bresnahan-paige-cognetti-economy-midterm-election-guide-elections/",
+   "https://political.org/2026/10/29/bresnahan-cognetti-clash-over-iran-war-data-centers-in-only-pennsylvania-8th-district-debate/",
+   "https://www.washingtonexaminer.com/?p=4694753",
+   "https://www.newpolitics.org/news/new-politics-endorses-paige-cognetti-for-congress-in-pennsylvanias-8th-district",
+   "https://newdemactionfund.com/candidates/",
+   "https://emilyslist.org/?p=9813",
+   "https://giffords.org/candidates/paige-cognetti/"
+  ]
+ },
+ {
+  "id": 74,
+  "name": "Janelle Stelson",
+  "seat": "PA-10",
+  "call_status": "confirmed winner (55.1%-44.9% over incumbent Scott Perry (R); listed as representative-elect)",
+  "bio": {
+   "birth_year": 1960,
+   "education": "BA Politics and Government, Univ. of Puget Sound; studies at Austro-American Institute, Vienna",
+   "career": "Speechwriter at Egyptian Embassy (DC); TV reporter/anchor at WHTM, WPLG, WHP; 26 years as WGAL-TV anchor (1997-2023), two Mid-Atlantic Emmys",
+   "prior_office": "none (2024 PA-10 nominee, lost narrowly); registered Republican until Feb 2023"
+  },
+  "self_description": "Non-partisan 'trusted voice' and 'not a politician'; former Republican who switched after Dobbs; 'will work with Republicans & Democrats'; Wikipedia describes her 2024 platform as centrist.",
+  "primary_context": "Beat Dauphin County Commissioner Justin Douglas 67.5%-32.5% (May 2026); Douglas, the more progressive option, criticised her for skipping primary debates; Douglas later endorsed her. Backed by Gov. Shapiro and DCCC Red to Blue.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Priorities: 'we must address the national deficit... I will prioritize cutting wasteful government spending'; 'Rein in the National Debt and Return to Fiscal Sanity'; tax relief for middle class, no wealth tax proposed.",
+    "src": "https://janellestelson.com/priorities/"
+   },
+   "C4": {
+    "v": 1,
+    "e": "'I have always supported a stronger border and have never supported open borders. I have been critical of members of my own party who advocated for open borders'; supports deporting every violent illegal immigrant, opposes taxpayer benefits for those here illegally, fund border technology.",
+    "src": "https://janellestelson.com/priorities/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by Republicans incl. ex-Rep. Barbara Comstock, ex-PA AG Walter Cohen, Denver Riggleman; Adam Kinzinger headlined a 'Republicans for Stelson' event; former registered Republican.",
+    "src": "https://janellestelson.com/endorsements/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Housing plan: 'Cut Red Tape to Make it Faster and Easier to Build Homes', 'Reward Towns that Actually Build More Homes'; backs CHIPS Act; opposes tariffs.",
+    "src": "https://janellestelson.com/priorities/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund",
+   "WelcomePAC"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No prior office; BA only but long senior career as lead anchor of major regional TV station (counted as senior professional career). Platform has concrete items (12-year self term limit, stock-trading ban, pardon-power amendment, housing plan) but mostly broad themes."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Skipped 2026 primary debates (criticised by opponent Douglas); participated in the one general-election debate vs Perry (ABC27, 14 Oct 2026). Long-time local broadcaster with frequent local TV/print interviews; courted Republican audiences at Kinzinger-headlined event."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "House Majority PAC",
+   "EMILY's List",
+   "New Dem Action Fund",
+   "WelcomePAC",
+   "Elect Democratic Women",
+   "Vote Common Good",
+   "Giffords",
+   "Building trades/Teamsters/USW/NEA and other unions",
+   "Republicans Against Perry"
+  ],
+  "notable_positions": [
+   "'Always supported a stronger border', criticises own party members who backed open borders; ICE should be unmasked and investigated for killings (https://janellestelson.com/priorities/)",
+   "Address the deficit and cut wasteful spending; no tax on tips/overtime permanent (https://janellestelson.com/priorities/)",
+   "12-year self-imposed term limit, congressional stock-trading ban, constitutional amendment to curb pardon power, reverse Citizens United (https://janellestelson.com/priorities/)",
+   "Local veto over data centres; repeal tariffs; end Iran war (https://janellestelson.com/priorities/)",
+   "Protect Social Security/Medicare/Medicaid, restore ACA subsidies, expand drug-price negotiation (https://janellestelson.com/news/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Former Republican running a bipartisan, anti-corruption and fiscal-responsibility campaign with explicit border-security language, Republican endorsements, and New Dem/WelcomePAC backing; CI ~6 with no left markers found (LI 0), meeting the Category 4 test. Evidence is drawn largely from her own platform.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Janelle_Stelson",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "https://janellestelson.com/",
+   "https://janellestelson.com/priorities/",
+   "https://janellestelson.com/endorsements/",
+   "https://janellestelson.com/news/",
+   "https://newdemactionfund.com/candidates/"
+  ]
+ },
+ {
+  "id": 75,
+  "name": "Nancy Lacore",
+  "seat": "SC-01",
+  "call_status": "confirmed winner (narrow: ~49.7%-48.6% over Jenny Costa Honeycutt (R); campaign declared victory 3-4 Nov; Wikipedia lists her as representative-elect)",
+  "bio": {
+   "birth_year": 1968,
+   "education": "BA College of the Holy Cross (1990, NROTC); MA San Diego State Univ.; Air Command and Staff College; Joint Forces Staff College (NDU)",
+   "career": "35-year Navy career: helicopter pilot, deployments to Afghanistan (2011) and Djibouti (2017); Commandant, Naval District Washington (2022-24); 16th Chief of Navy Reserve (2024-25, three-star; relieved Aug 2025, retired as rear admiral); 10 years defence contractor; founded non-profit Valor Run",
+   "prior_office": "none elected; flag officer (Vice Admiral / Chief of Navy Reserve)"
+  },
+  "self_description": "'Common sense leadership and integrity'; stresses 35 years of nonpartisan military service; 'The government should serve people - not parties or special interests'. Former Republican, Democrat since 2016.",
+  "primary_context": "Led 9 June 2026 primary (36.5%) and beat Mac Deford 52.1%-47.9% in 23 June runoff; no clear ideological framing found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Republican Mount Pleasant Mayor Will Haynie endorsed her and appeared in her closing general-election ad.",
+    "src": "https://www.nancylacore.com/media"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Housing-supply and pro-trade platform: increase multifamily workforce housing tied to federal infrastructure money, end tariffs on building materials, 'targeted trade enforcement instead of blanket tariffs' with automatic tariff expiry.",
+    "src": "https://www.nancylacore.com/priorities"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC",
+   "New Dem Action Fund"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Retired flag officer (three-star Chief of Navy Reserve); MA plus senior military/executive career; detailed platform naming bills and specific measures (HELPER Act, ACA subsidy restoration, drug-price negotiation expansion, NFIP caps, ICE body cameras)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Participated in both general-election debates vs Honeycutt (c. 7 Oct and 15 Oct 2026); primary/runoff debate record not verified. Media pattern: local press and ads; endorsed by Post and Courier; no evidence found on hostile-outlet appearances."
+  },
+  "outside_support": [
+   "Blue Dog PAC",
+   "New Dem Action Fund",
+   "Post and Courier editorial board",
+   "former Navy Secretary Carlos Del Toro and retired flag officers"
+  ],
+  "notable_positions": [
+   "'A strong and secure border is critical' but ICE must follow due process, wear body cameras and badges, and not mask (https://www.nancylacore.com/priorities)",
+   "Restore ACA enhanced subsidies, reverse Medicaid cuts, offer a non-profit Medicare-like public option (https://www.nancylacore.com/priorities)",
+   "Oppose blanket tariffs; targeted trade enforcement with automatic tariff expiry (https://www.nancylacore.com/priorities)",
+   "Permanent ban on East Coast offshore drilling (a bipartisan SC coastal position, not recorded as L5) (https://www.nancylacore.com/priorities)",
+   "Overturn Citizens United; ban stock trading by members, spouses and senior executive officials (https://www.nancylacore.com/priorities)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Retired admiral endorsed by both Blue Dog PAC and New Dem Action Fund, with Republican-mayor backing and a pro-housing-supply, anti-blanket-tariff platform; no left markers found. CI reaches ~5 with LI 0, meeting the Category 4 test, though two of the C points rest on judgement about platform language.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nancy_Lacore",
+   "https://www.nancylacore.com/",
+   "https://www.nancylacore.com/priorities",
+   "https://www.nancylacore.com/endorsements",
+   "https://www.nancylacore.com/about-nancy",
+   "https://www.nancylacore.com/media",
+   "https://bluedogdems.com/endorsed-candidates/",
+   "https://newdemactionfund.com/candidates/"
+  ]
+ },
+ {
+  "id": 76,
+  "name": "Victoria Broderick",
+  "seat": "TN-04",
+  "call_status": "still uncalled as of 10-11 Nov (Broderick leads incumbent Scott DesJarlais (R) by ~280 votes, 48.9%-48.7%, unofficial Secretary of State results; DesJarlais had not conceded; 270toWin's 10 Nov 'uncalled races' list includes TN-4; Wikipedia already lists her as member-elect, which appears premature)",
+  "bio": {
+   "birth_year": 1991,
+   "education": "BA Communications, Austin Peay State University",
+   "career": "Telemarketer / working mother; built district social-media politics account; 2024 Democratic nominee for TN-4",
+   "prior_office": "Lincoln County (TN) Democratic Party chair (2022-25); Tennessee Democratic Party executive committee member"
+  },
+  "self_description": "'I'm a working-class mom from rural Tennessee, and I'm in this race because we deserve better than being treated like an afterthought.' No ideological label found.",
+  "primary_context": "Won multi-candidate Democratic primary over Nashville Metro Councilmember Mike Cortese, Cliff Huffman, Tim Lanier and Joyce Neal; no ideological framing found. Seat moved from Trump+43 to Trump+23 after mid-cycle GOP redistricting.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 1,
+   "note": "Only a county party chair post; BA with thin professional record; 'S.A.F.E.' platform lists headline items (close coverage gap, voluntary pre-K, end federal marijuana penalties, reform corporate taxes, AI/data-centre accountability) without published detail."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 0,
+   "note": "No record found of any general-election debate with DesJarlais (none listed on Wikipedia race page); grassroots campaign of 2.5 years travelling the district, no TV ads; post-election interview on NewsChannel 5 'Inside Politics'. Debate status unverified rather than confirmed declined (web-search budget exhausted)."
+  },
+  "outside_support": [
+   "Center for Freethought Equality",
+   "National Women's Political Caucus"
+  ],
+  "notable_positions": [
+   "Wealthiest and biggest corporations 'should pay their fair share' (https://www.victoria4tennessee.org/about)",
+   "Platform headlines: 'Protect Responsible Gun Owners and reduce Gun Violence'; 'secure the border and ensure a fair immigration process'; 'end federal marijuana penalties for good' (https://www.victoria4tennessee.org/more-about-my-platform)",
+   "Top priorities: end the Iran war and lower everyday costs; would not rule out impeaching Trump (https://www.newschannel5.com/news/newschannel-5-investigates/it-felt-so-good-victoria-broderick-on-her-shocking-upset-of-16-year-gop-incumbent)",
+   "Close the coverage gap and keep rural hospitals open; voluntary pre-K for every child (https://www.victoria4tennessee.org/more-about-my-platform)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "Low-budget grassroots candidate (raised ~$94k, 60% small-dollar) whose only prior role is county party chair; platform is headline-level and no ideological markers in either direction were found (LI 0, CI 0). EPD ~3 points to Category 2. The race itself remained uncalled with a ~280-vote margin as of 10 Nov.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "https://en.wikipedia.org/wiki/Victoria_Broderick",
+   "https://www.270towin.com/news/2026/11/10/uncalled-races-one-week-after-midterm-election_1848.html",
+   "https://www.newschannel5.com/news/newschannel-5-investigates/it-felt-so-good-victoria-broderick-on-her-shocking-upset-of-16-year-gop-incumbent",
+   "https://www.victoria4tennessee.org/",
+   "https://www.victoria4tennessee.org/about",
+   "https://www.victoria4tennessee.org/more-about-my-platform"
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Leticia Gutierrez",
+  "seat": "TX-09",
+  "call_status": "confirmed winner (new Trump+19 seat after 2025 Texas redistricting; won by ~15 points over Alex Mealer (R), who conceded election night)",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BS Finance, University of St. Thomas (Houston)",
+   "career": "Early banking career / fraud analyst; chief of staff to Houston City Council member Helena Brown (R) until 2012; community outreach organiser, Air Alliance Houston; environmental-justice advocate; Rice Univ. community fellow",
+   "prior_office": "none elected (city council staff; unsuccessful Houston City Council bids 2011 and 2013)"
+  },
+  "self_description": "Campaign site metadata: 'Leticia is proudly progressive and centers environmental justice and immigrant rights in her campaign'; public pitch: 'military mom, daughter of laborers', works 'across party lines'.",
+  "primary_context": "Won 6-way primary outright (53.6%) over Earnest Clayton (16.3%) and ex-astronaut Terry Virts (14.6%, endorsed by Houston Chronicle and Adam Kinzinger); no clear ideological framing found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 0,
+   "note": "No elected office; former chief of staff to a city council member (local senior staff role); BS finance with banking and advocacy career; priorities page is slogan-level headings only ('Pro-industry. Pro-jobs.', 'Safe neighborhoods. Secure borders.')."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 0,
+   "note": "Primary candidate forums advertised (Bluebonnet News forum, Feb 2026) but participation and any general-election debate with Mealer not verified (web-search budget exhausted). Campaign relied on paid/earned local media; no cross-partisan interviews found. Debate score is a placeholder."
+  },
+  "outside_support": [
+   "Texas AFL-CIO",
+   "Texas AFT",
+   "CWA District 6",
+   "ILA Local 24",
+   "Houston Progressive Caucus",
+   "Harris County Tejano Democrats",
+   "Reps. Sylvia Garcia, Al Green, Lizzie Fletcher, Christian Menefee"
+  ],
+  "notable_positions": [
+   "Describes herself as 'proudly progressive', centring environmental justice and immigrant rights (https://www.leticiaforcongress.com/)",
+   "Priorities headings: lower costs, 'Pro-industry. Pro-jobs. No blank checks for billionaires', 'Safe neighborhoods. Secure borders. Equal justice', 'No wars of choice' (https://www.leticiaforcongress.com/priorities)",
+   "Long-time air-quality / petrochemical-pollution advocate on the Houston Ship Channel (https://www.leticiaforcongress.com/about)",
+   "Attacked opponent over Medicaid cuts and data-centre super PAC backing (https://www.leticiaforcongress.com/media)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "Environmental-justice organiser with no elected experience and a slogan-level issues page; describes herself as 'proudly progressive' but no specific left or centrist markers were found (LI 0, CI 0). EPD ~2 points to Category 2; evidence is thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leticia_Gutierrez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.leticiaforcongress.com/",
+   "https://www.leticiaforcongress.com/about",
+   "https://www.leticiaforcongress.com/priorities",
+   "https://www.leticiaforcongress.com/endorsements",
+   "https://www.leticiaforcongress.com/media"
+  ]
+ },
+ {
+  "id": 78,
+  "name": "Bobby Pulido",
+  "seat": "TX-15",
+  "call_status": "confirmed winner (ousted incumbent Monica De La Cruz (R) in Trump+17 seat; reported by NYT 4 Nov as a flip; listed as representative-elect)",
+  "bio": {
+   "birth_year": 1973,
+   "education": "Attended St. Mary's University (political science), no degree",
+   "career": "Tejano music star (EMI Latin; 3x Tejano Music Awards Male Entertainer of the Year; Latin Grammy winner 2022, 2025); actor; small-business owner; retired from music 2025 to run",
+   "prior_office": "none"
+  },
+  "self_description": "'He's not Team Red. He's not Team Blue... He believes in practical solutions, honest leadership, and putting people ahead of party' (campaign site); also: a Democrat 'because I fight for the little guy'.",
+  "primary_context": "Beat physician Ada Cuellar 67.5%-32.5% (3 Mar 2026); recruited as a crossover candidate for a redistricted Trump+17 Rio Grande Valley seat; no ideological contest found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Issues page: 'Our goal as a country should be to have a secure border... we have to go after the violent criminals that are here illegally and get them out of our country'; criticised Biden's border policies.",
+    "src": "https://www.bobbypulidofortexas.com/issues/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Campaign brands him 'not Team Red... not Team Blue', 'putting people ahead of party'; pledges 'I will never vote against South Texas families just because my party or anyone else tells me to'.",
+    "src": "https://bobbypulidofortexas.com/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-trade/pro-business: 'cutting the red tape that strangles small businesses'; farmers need 'fair and open trade'; 'Tariffs and trade wars are driving up costs'.",
+    "src": "https://www.bobbypulidofortexas.com/issues/"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC",
+   "New Dem Action Fund",
+   "WelcomePAC"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior office or public role; no degree but long, successful music/business career; issues page has some concrete items (Central American vetting hubs, desalination, Mexico water-treaty enforcement, oppose vouchers) but is mostly thematic."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate record vs De La Cruz not verified (placeholder score). Extensive mainstream/national media (NYT, AP, MSNBC, Texas Monthly) and retail campaigning at quinceañeras; addressed criticism of his past social-media posts publicly."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "House Majority PAC",
+   "Blue Dog PAC",
+   "New Dem Action Fund",
+   "WelcomePAC",
+   "Bold PAC",
+   "Democratic Majority for Israel PAC",
+   "Latino Victory Fund",
+   "J Street PAC",
+   "Sen. Ruben Gallego",
+   "James Talarico",
+   "Gina Hinojosa"
+  ],
+  "notable_positions": [
+   "Secure border 'should not change based on what president or party is in charge'; deport violent criminals; Central American vetting hubs and a 'fair and reasonable path to legalization' (https://www.bobbypulidofortexas.com/issues/)",
+   "Opposes tariffs and trade wars; cut red tape for small business (https://www.bobbypulidofortexas.com/issues/)",
+   "Protect and strengthen Medicare/Social Security; criticised OBBBA Medicaid cuts (https://www.bobbypulidofortexas.com/issues/)",
+   "Opposes private-school vouchers; higher teacher pay (https://www.bobbypulidofortexas.com/issues/)",
+   "Hold Mexico to water-treaty obligations; invest in desalination (https://www.bobbypulidofortexas.com/issues/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Endorsed by Blue Dog PAC, New Dem Action Fund and WelcomePAC, campaigns on border security, independence from party and opposition to tariffs; no left markers found. CI ~6 with LI 0 meets the Category 4 test, though his policy depth and experience are thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bobby_Pulido",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://bobbypulidofortexas.com/",
+   "https://www.bobbypulidofortexas.com/issues/",
+   "https://www.bobbypulidofortexas.com/news/",
+   "https://www.ms.now/msnbc/news/bobby-pulido-texas-congress-announcement-rcna231759",
+   "https://bluedogdems.com/endorsed-candidates/",
+   "https://newdemactionfund.com/candidates/",
+   "https://jstreetpac.org/candidate/bobby-pulido/"
+  ]
+ },
+ {
+  "id": 79,
+  "name": "Katy Padilla Stout",
+  "seat": "TX-23",
+  "call_status": "confirmed winner (AP called for Padilla Stout over Brandon Herrera (R) on election night; open seat after Tony Gonzales resigned April 2026)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BS Education, UT Austin; JD South Texas College of Law",
+   "career": "Elementary school teacher (ESL, special ed, gifted) in Northside ISD; attorney representing children in foster care",
+   "prior_office": "none elected (served on Bexar County Child Welfare Board, an appointed board)"
+  },
+  "self_description": "'A mom on a mission'; former teacher and foster-care attorney; says she is a Second Amendment supporter who wants 'very moderate red flag laws'; no ideological label found (GOP opponents called her campaign 'socialist').",
+  "primary_context": "Won 4-way primary outright (52.1%) over 2024 nominee Santos Limon (27.1%), Bruce Richardson and Gretel Enck; endorsed by San Antonio Express-News; no clear ideological contest found.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Issues page: 'I support expanding our Medicare system to cover all Americans. Short of that, I think we should strengthen the Affordable Care Act'; CPC PAC cites her Medicare for All support.",
+    "src": "https://www.katyforcongress.com/issues/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "(also MoveOn, Rep. Greg Casar)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports expanding Medicare to cover all Americans (ACA as fallback).",
+    "src": "https://www.katyforcongress.com/issues/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No prior elected office (appointed county child-welfare board only); JD and practising child-welfare attorney; issues page has concrete items (universal background checks, bump-stock ban, red-flag laws, rejoin Paris Accord, expand VRA, Election Day holiday, universal pre-K) without numbers or bill names. Borderline: if the child-welfare board is counted as local office, EPD = 4."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the Jan 2026 primary candidate forum and the 13 Oct 2026 general-election debate with Brandon Herrera (both listed as participant on Wikipedia race page). Media: local outlets (Texas Public Radio 'The Source', San Antonio Report, El Paso Matters); no cross-partisan outlet appearances found."
+  },
+  "outside_support": [
+   "CPC PAC",
+   "Our Revolution",
+   "MoveOn",
+   "EMILY's List",
+   "Latino Victory Fund",
+   "CHC BOLD PAC",
+   "Giffords",
+   "Brady PAC",
+   "Moms Demand Action",
+   "J Street PAC",
+   "Jewish Democratic Council of America",
+   "Committee to Protect Health Care",
+   "Texas AFL-CIO",
+   "SEIU Texas",
+   "Texas AFT",
+   "Pete Buttigieg",
+   "Beto O'Rourke"
+  ],
+  "notable_positions": [
+   "Expand Medicare to cover all Americans; strengthen ACA in the meantime (https://www.katyforcongress.com/issues/)",
+   "Second Amendment supporter backing universal background checks, bump-stock ban and 'very moderate' red-flag laws (https://sanantonioreport.org/texas-23-congressional-race-katy-padilla-stout-brandon-herrera/)",
+   "Opposes Trump border wall through Big Bend; 'secures our border' with humane immigration law and pathways to citizenship (https://www.katyforcongress.com/issues/)",
+   "Rejoin Paris Climate Accord; universal pre-K, higher minimum wage, paid parental leave (https://www.katyforcongress.com/issues/)",
+   "Expand Voting Rights Act, same-day registration, federal Election Day holiday (https://www.katyforcongress.com/issues/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "First-time candidate (former teacher, foster-care attorney) backed by CPC PAC and Our Revolution with a Medicare-for-All position, giving LI ~3 (below the Cat 1 threshold) and CI ~0. With no prior office, EPD is ~3, pointing to Category 2; if her appointed county board seat were counted, she would be a step-5 imperfect fit nearest Category 1.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Katy_Padilla_Stout",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.katyforcongress.com/",
+   "https://www.katyforcongress.com/issues/",
+   "https://www.katyforcongress.com/endorsements/",
+   "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-katy-padilla-stout-for-tx-23/",
+   "https://ourrevolution.com/katy-padilla-stout-for-congress-in-texas-23rd-district",
+   "https://front.moveon.org/endorsements/candidates/katy-padilla-stout/",
+   "https://sanantonioreport.org/texas-23-congressional-race-katy-padilla-stout-brandon-herrera/",
+   "https://elpasomatters.org/2026/08/06/texas-elections-congress-district-23-el-paso-katy-padilla-stout-brandon-herrera-dddc/",
+   "https://www.texastribune.org/2026/11/04/texas-brandon-herrera-katy-padilla-stout-congress-district-23-elections-2026/"
+  ]
+ },
+ {
+  "id": 80,
+  "name": "Frederick Haynes III",
+  "seat": "TX-30",
+  "call_status": "confirmed winner (safe D Dallas seat, Harris +45 in 2024; defeated Everett Jackson (R); The Hill reported the win)",
+  "bio": {
+   "birth_year": 1960,
+   "education": "BA Bishop College; MDiv Southwestern Baptist Theological Seminary; DMin Graduate Theological Foundation (study at Christ Church, Oxford); also lists Christian Theological Seminary",
+   "career": "Senior pastor, Friendship-West Baptist Church, Dallas, since 1983 (grew to 13,000+ members); briefly president/CEO of Rainbow/PUSH Coalition (2023); anti-predatory-lending and voting-rights activist; trustee, Paul Quinn College; Jasmine Crockett's pastor",
+   "prior_office": "none (non-governmental leadership roles only)"
+  },
+  "self_description": "'Progressive values - anti-militarism, economic justice and racial justice - have driven my organizing and preaching work' (CPC PAC release); campaign framed as running to Crockett's left; says 'Dems have let us down'.",
+  "primary_context": "Won 3-way open-seat primary (3 Mar 2026) with 72.6% over ex-state Rep. Barbara Mallory Caraway (23.1%) and pastor Rodney LaBruce; endorsed by Crockett, Justice Democrats and CPC PAC; The Intercept described him as running from Crockett's left.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "The Intercept reports he supports Medicare for All.",
+    "src": "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "The Intercept reports he supports abolishing ICE.",
+    "src": "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Running on ending US military support for Israel and 'the genocide in Gaza'; has called Israel's treatment of Palestinians 'apartheid'; endorsed by pro-Palestinian PACs (A New Policy, PAL PAC, American Priorities).",
+    "src": "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "(also Pramila Jayapal, Maxwell Frost, Track AIPAC, A New Policy PAC, PAL PAC)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All.",
+    "src": "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Supports abolishing ICE.",
+    "src": "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No public office; doctoral-level theological degrees and 40-year senior leadership of a major institution (plus brief Rainbow/PUSH CEO tenure); issues page is long thematic essays (economic security, environmental justice, development without displacement) with some concrete items (stock-trading ban, no corporate PAC money, crypto regulation)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate record in primary and safe-seat general not verified (placeholder). Media: interviews with progressive/mainstream outlets (The Intercept, Texas Tribune, KERA, CBS Texas); prominent preacher with extensive public speaking record."
+  },
+  "outside_support": [
+   "Justice Democrats",
+   "CPC PAC",
+   "Our Revolution",
+   "Texas AFL-CIO",
+   "AFT Texas",
+   "AFGE",
+   "A New Policy PAC",
+   "PAL PAC",
+   "American Priorities",
+   "Track AIPAC",
+   "Giffords",
+   "J Street PAC",
+   "Rep. Jasmine Crockett",
+   "Dallas Morning News (primary)"
+  ],
+  "notable_positions": [
+   "End US military support for Israel and 'the genocide in Gaza'; calls Israeli policy 'apartheid' (https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/)",
+   "Supports Medicare for All and abolishing ICE (https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/)",
+   "'Every time we choose imperialism abroad, or tax cuts for the wealthy, we are telling working people... we value their lives less' (https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/)",
+   "Rejects corporate PAC money; ban congressional stock trading; new crypto regulation (https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/)",
+   "Environmental justice and 'development without displacement' agenda (https://www.haynesforcongress.com/issues)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Justice Democrats candidate also endorsed by CPC PAC and Our Revolution (L13 = 3), reported to back Medicare for All and abolishing ICE, and to campaign on ending military support for Israel over 'the genocide in Gaza'; LI ~6 meets the Category 1 threshold. Policy markers rest mainly on The Intercept's reporting rather than his own platform text.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frederick_Haynes_III",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/",
+   "https://justicedemocrats.com/candidates/",
+   "https://justicedemocrats.com/candidate/rev-frederick-douglass-haynes-iii/",
+   "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-rev-frederick-haynes-for-tx-30-2/",
+   "https://www.haynesforcongress.com/issues",
+   "https://www.haynesforcongress.com/about",
+   "https://www.anewpolicypac.org/news/a-new-policy-pac-announces-endorsement-for-frederick-d-haynes-iii"
+  ]
+ }
+]

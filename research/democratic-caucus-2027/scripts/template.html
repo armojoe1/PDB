@@ -1,0 +1,496 @@
+<title>Democratic Caucus 2027</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: single reading column (max 1080px) of briefing sections; roster is a full-width scannable table with expandable evidence rows. */
+:root {
+  --bg: #f5f6f8;
+  --surface: #ffffff;
+  --sunk: #eef0f4;
+  --ink: #12161f;
+  --ink-2: #464f61;
+  --muted: #737d90;
+  --rule: #dde1e8;
+  --rule-strong: #c2c8d3;
+  --accent: #1d3866;
+  --accent-wash: #e6ecf6;
+  --c1: #eb6834; --c2: #1baf7a; --c3: #eda100; --c4: #2a78d6; --cx: #c9ced8;
+  --good: #0f7a2f; --warn: #a15c00;
+  --f-display: "Merriweather", Georgia, "Times New Roman", serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "Roboto Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1117; --surface: #161a22; --sunk: #1c212b; --ink: #eceef2; --ink-2: #b7bfcc; --muted: #8b94a5;
+    --rule: #272d38; --rule-strong: #3a4250; --accent: #a9c1ea; --accent-wash: #1d2638;
+    --c1: #d95926; --c2: #199e70; --c3: #c98500; --c4: #3987e5; --cx: #353c49; --good: #4cc26f; --warn: #e0a347;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1117; --surface: #161a22; --sunk: #1c212b; --ink: #eceef2; --ink-2: #b7bfcc; --muted: #8b94a5;
+  --rule: #272d38; --rule-strong: #3a4250; --accent: #a9c1ea; --accent-wash: #1d2638;
+  --c1: #d95926; --c2: #199e70; --c3: #c98500; --c4: #3987e5; --cx: #353c49; --good: #4cc26f; --warn: #e0a347;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55; }
+.wrap { max-width: 1080px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 40px 72px; display: grid; gap: 56px; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; color: var(--ink); }
+h1 { font-size: clamp(30px, 5vw, 46px); line-height: 1.12; font-weight: 900; letter-spacing: -0.01em; }
+h2 { font-size: 24px; line-height: 1.25; font-weight: 700; }
+h3 { font-size: 17px; line-height: 1.3; font-weight: 700; }
+p { margin: 0; max-width: 68ch; }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
+.mono { font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+section { display: grid; gap: 20px; min-width: 0; }
+.sec-head { display: grid; gap: 6px; border-top: 2px solid var(--ink); padding-top: 14px; }
+.sec-head p { color: var(--ink-2); }
+
+/* header */
+header.top { display: grid; gap: 16px; }
+.dek { font-size: 18px; color: var(--ink-2); max-width: 62ch; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--muted); }
+.meta span { display: inline-flex; gap: 6px; align-items: baseline; }
+.meta b { color: var(--ink); font-weight: 600; }
+
+/* split */
+.split-rows { display: grid; gap: 14px; }
+.split-row { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; align-items: center; }
+.split-row .lbl { font-size: 13px; font-weight: 600; color: var(--ink-2); }
+.split-row .lbl small { display: block; font-weight: 400; color: var(--muted); }
+.segbar { display: flex; gap: 2px; height: 28px; min-width: 0; }
+.seg { border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600; color: #fff; min-width: 0; overflow: hidden; white-space: nowrap; cursor: default; }
+.seg.k3 { color: #0b0b0b; }
+.seg:hover, .seg:focus-visible { filter: brightness(1.08); }
+.cats { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+.cat { background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.cat-top { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.cat-n { font-family: var(--f-display); font-size: 34px; font-weight: 900; line-height: 1; }
+.cat-n small { display: block; font-family: var(--f-body); font-size: 12.5px; line-height: 1.4; font-weight: 500; color: var(--muted); margin-top: 6px; }
+.cat h3 { display: flex; gap: 8px; align-items: center; }
+.cat p { font-size: 13.5px; color: var(--ink-2); }
+.cat .test { font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 8px; }
+.sw { width: 10px; height: 10px; border-radius: 2px; flex: none; display: inline-block; }
+.sw.k1 { background: var(--c1); } .sw.k2 { background: var(--c2); } .sw.k3 { background: var(--c3); } .sw.k4 { background: var(--c4); }
+.seg.k1 { background: var(--c1); } .seg.k2 { background: var(--c2); } .seg.k3 { background: var(--c3); } .seg.k4 { background: var(--c4); }
+.seg.lean { color: var(--ink); }
+.seg.lean.k1 { background: color-mix(in srgb, var(--c1) 42%, var(--surface)); } .seg.lean.k2 { background: color-mix(in srgb, var(--c2) 42%, var(--surface)); }
+.seg.lean.k3 { background: color-mix(in srgb, var(--c3) 42%, var(--surface)); } .seg.lean.k4 { background: color-mix(in srgb, var(--c4) 42%, var(--surface)); }
+.keyrow { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 12.5px; color: var(--ink-2); }
+.keyrow span { display: inline-flex; gap: 6px; align-items: center; }
+.kbox { width: 18px; height: 10px; border-radius: 2px; background: var(--ink-2); display: inline-block; }
+.kbox.lean { background: color-mix(in srgb, var(--ink-2) 35%, var(--surface)); }
+.fitnote { display: block; font-size: 11.5px; color: var(--muted); }
+.findings { display: grid; gap: 10px; padding: 0; margin: 0; list-style: none; counter-reset: none; }
+.findings li { padding-left: 18px; position: relative; max-width: 74ch; }
+.findings li::before { content: ""; position: absolute; left: 2px; top: 0.62em; width: 6px; height: 6px; background: var(--accent); border-radius: 1px; }
+
+/* scatter small multiples */
+.facets { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.facet { background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 12px 12px 6px; min-width: 0; }
+.facet h3 { font-family: var(--f-body); font-size: 13px; font-weight: 600; display: flex; gap: 8px; align-items: center; margin-bottom: 4px; }
+.facet svg { display: block; width: 100%; height: auto; overflow: visible; }
+.facet text { font-family: var(--f-body); font-size: 10px; fill: var(--muted); }
+.facet .grid { stroke: var(--rule); stroke-width: 1; }
+.facet .thr { stroke: var(--rule-strong); stroke-width: 1; }
+.facet .ctx { fill: var(--cx); }
+.facet .pt { stroke: var(--surface); stroke-width: 2; }
+.facet .hit { fill: transparent; cursor: pointer; }
+.facet .hit:hover + .pt, .facet .hit:focus + .pt { stroke: var(--ink); }
+.tip { position: fixed; z-index: 30; pointer-events: none; background: var(--surface); border: 1px solid var(--rule-strong); border-radius: 6px; padding: 8px 10px; font-size: 12.5px; box-shadow: 0 6px 20px rgba(10, 14, 24, 0.14); max-width: 260px; }
+.tip strong { display: block; font-size: 13px; }
+.tip span { color: var(--ink-2); }
+.axis-note { font-size: 12.5px; color: var(--muted); }
+
+/* roster */
+.filters { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: center; }
+.chip { font: inherit; font-size: 13px; border: 1px solid var(--rule-strong); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 5px 12px; display: inline-flex; gap: 7px; align-items: center; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent-wash); border-color: var(--accent); font-weight: 600; }
+.ctl { font: inherit; font-size: 13px; color: var(--ink); background: var(--surface); border: 1px solid var(--rule-strong); border-radius: 6px; padding: 6px 8px; }
+#q { min-width: 0; width: 200px; max-width: 100%; }
+.count { font-size: 13px; color: var(--muted); margin-left: auto; }
+.tablewrap { overflow-x: auto; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; min-width: 820px; font-size: 13.5px; }
+th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--rule); vertical-align: middle; }
+th { font-size: 11.5px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); background: var(--sunk); position: sticky; top: 0; white-space: nowrap; }
+th button { all: unset; cursor: pointer; }
+th button:focus-visible { outline: 2px solid var(--accent); }
+td.num, th.num { text-align: right; font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+tr.row { cursor: pointer; }
+tr.row:hover td { background: var(--sunk); }
+tr.row[aria-expanded="true"] td { background: var(--accent-wash); border-bottom-color: transparent; }
+.nm { font-weight: 600; }
+.nm small { display: block; font-weight: 400; color: var(--muted); font-size: 12px; }
+.pill { display: inline-flex; gap: 6px; align-items: center; white-space: nowrap; font-size: 12.5px; }
+.conf { font-size: 11.5px; font-weight: 600; padding: 2px 7px; border-radius: 4px; border: 1px solid var(--rule-strong); color: var(--ink-2); white-space: nowrap; }
+.conf.High { border-color: var(--good); color: var(--good); }
+.conf.Low { border-color: var(--warn); color: var(--warn); }
+.bar { display: inline-grid; grid-template-columns: 22px 46px; gap: 6px; align-items: center; justify-content: end; }
+.bar i { display: block; height: 6px; border-radius: 3px; background: var(--sunk); position: relative; overflow: hidden; }
+.bar i b { position: absolute; inset: 0 auto 0 0; background: var(--ink-2); border-radius: 3px; }
+.flag { font-size: 11px; color: var(--muted); }
+tr.detail td { background: var(--surface); padding: 0 10px 18px; }
+.det { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 20px 28px; padding-top: 6px; }
+.det h4 { margin: 0 0 6px; font-size: 11.5px; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.det p, .det li { font-size: 13.5px; max-width: none; }
+.det ul { margin: 0; padding-left: 18px; display: grid; gap: 5px; }
+.det .blk { display: grid; gap: 4px; }
+.det .col { display: grid; gap: 16px; align-content: start; min-width: 0; }
+.mk { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 2px 8px; font-size: 13px; }
+.mk .code { font-family: var(--f-mono); font-size: 12px; color: var(--ink-2); padding-top: 1px; }
+.mk .code.neg { color: var(--warn); }
+.mk .ev { min-width: 0; overflow-wrap: anywhere; }
+.scores { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
+.scores b { font-family: var(--f-mono); }
+.srcs { font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 10px; }
+.srcs a { overflow-wrap: anywhere; }
+.empty { padding: 24px; color: var(--muted); text-align: center; }
+
+/* method */
+.method { display: grid; gap: 18px; }
+.mgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; }
+.mcard { background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 16px; display: grid; gap: 8px; align-content: start; min-width: 0; }
+.mcard ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; font-size: 13.5px; }
+.mcard p { font-size: 13.5px; color: var(--ink-2); }
+.rule-steps { margin: 0; padding-left: 22px; display: grid; gap: 6px; font-size: 14px; max-width: 74ch; }
+.rule-steps code, .mcard code { font-family: var(--f-mono); font-size: 12.5px; background: var(--sunk); padding: 1px 4px; border-radius: 3px; }
+.limits { display: grid; gap: 8px; padding-left: 18px; margin: 0; max-width: 76ch; }
+.pending { font-size: 13.5px; color: var(--ink-2); }
+footer { font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 14px; }
+
+@media (max-width: 720px) {
+  .det { grid-template-columns: minmax(0, 1fr); }
+  .split-row { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .count { margin-left: 0; width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Every Democrat seated in the 120th Congress · 3 January 2027</div>
+    <h1>Democratic Caucus 2027</h1>
+    <p class="dek" id="dek"></p>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <section aria-labelledby="h-split">
+    <div class="sec-head">
+      <div class="eyebrow">The split</div>
+      <h2 id="h-split">How the caucus sorts</h2>
+    </div>
+    <div class="split-rows" id="split"></div>
+    <div class="cats" id="cats"></div>
+  </section>
+
+  <section aria-labelledby="h-find">
+    <div class="sec-head">
+      <div class="eyebrow">Read-out</div>
+      <h2 id="h-find">What the sort shows</h2>
+    </div>
+    <ul class="findings" id="findings"></ul>
+  </section>
+
+  <section aria-labelledby="h-map">
+    <div class="sec-head">
+      <div class="eyebrow">Ideology map</div>
+      <h2 id="h-map">Left score against centrist score</h2>
+      <p>Each dot is one member. Across: Centrism Index (CI). Up: Left-Ideology Index (LI). Each panel highlights one group against the rest in grey. The darker guide lines mark the thresholds (LI 6 for the left group, CI 5 for the centrist group). Groups 2 and 3 are separated by experience and engagement, not by this map. Filled dots meet the group's test outright; rings are nearest-fit placements. Hover or focus a dot for the name; select it to open the record.</p>
+    </div>
+    <div class="facets" id="facets"></div>
+  </section>
+
+  <section aria-labelledby="h-roster">
+    <div class="sec-head">
+      <div class="eyebrow">Roster</div>
+      <h2 id="h-roster">Every member, with the evidence</h2>
+      <p>Select a row to see the positions found, the sources, the debate and media record, and the reasoning. Scores: LI (0–16), CI (0–10), EPD experience &amp; policy depth (0–7), EO engagement &amp; openness (0–5). Small-$ is the share of individual donations under $200 (FEC, to 14 Oct 2026).</p>
+    </div>
+    <div class="filters" role="group" aria-label="Filter roster">
+      <div class="filters" id="chips"></div>
+      <select class="ctl" id="chamber" aria-label="Chamber">
+        <option value="">Both chambers</option><option value="Senate">Senate</option><option value="House">House</option>
+      </select>
+      <select class="ctl" id="flip" aria-label="Member type">
+        <option value="">New and returning</option><option value="new">New members</option><option value="inc">Returning incumbents</option><option value="flip">Flipped from GOP in 2026</option>
+      </select>
+      <input class="ctl" id="q" type="search" placeholder="Search name or state" aria-label="Search name or state">
+      <span class="count" id="count"></span>
+    </div>
+    <div class="tablewrap">
+      <table>
+        <thead><tr>
+          <th><button data-sort="name">Member</button></th>
+          <th><button data-sort="category">Group</button></th>
+          <th><button data-sort="confidence">Confidence</button></th>
+          <th class="num"><button data-sort="LI">LI</button></th>
+          <th class="num"><button data-sort="CI">CI</button></th>
+          <th class="num"><button data-sort="EPD">EPD</button></th>
+          <th class="num"><button data-sort="EO">EO</button></th>
+          <th class="num"><button data-sort="sd">Small-$</button></th>
+        </tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-method" class="method">
+    <div class="sec-head">
+      <div class="eyebrow">Method</div>
+      <h2 id="h-method">How the test works</h2>
+      <p>Each member was researched against the same checklist: campaign issue pages, primary-season questionnaires and coverage, endorsements, debate and interview records, prior office, and FEC filings. A position counts only with an explicit public statement, pledge, vote or endorsement, and each one is cited. Missing evidence scores zero. The scores are then run through a fixed decision sequence.</p>
+    </div>
+    <ol class="rule-steps" id="steps"></ol>
+    <div class="mgrid" id="mgrid"></div>
+  </section>
+
+  <section aria-labelledby="h-limits">
+    <div class="sec-head">
+      <div class="eyebrow">Limits</div>
+      <h2 id="h-limits">What this can and cannot tell you</h2>
+    </div>
+    <ul class="limits" id="limits"></ul>
+    <p class="pending" id="pending"></p>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script id="data" type="application/json">/*__DATA__*/</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const M = D.members;
+  const CAT = D.categories;
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const safeUrl = (u) => (typeof u === 'string' && /^https?:\/\//i.test(u)) ? u : null;
+  const pct = (x) => x == null ? '—' : Math.round(x * 100) + '%';
+
+  // header
+  $('dek').textContent = D.meta.dek;
+  D.meta.items.forEach(([k, v]) => { const s = el('span'); s.append(el('b', null, v), document.createTextNode(k)); $('meta').append(s); });
+
+  // split bars
+  const groups = [['All', M], ['Senate', M.filter(m => m.chamber === 'Senate')], ['House', M.filter(m => m.chamber === 'House')]];
+  const tip = $('tip');
+  function showTip(evt, title, lines) {
+    tip.replaceChildren(el('strong', null, title));
+    lines.forEach(l => tip.append(el('span', null, l), el('br')));
+    tip.hidden = false;
+    const r = evt.target.getBoundingClientRect ? evt.target.getBoundingClientRect() : null;
+    let x = evt.clientX, y = evt.clientY;
+    if ((x == null || x === 0) && r) { x = r.left + r.width / 2; y = r.top; }
+    const w = tip.offsetWidth, h = tip.offsetHeight;
+    tip.style.left = Math.max(8, Math.min(window.innerWidth - w - 8, x + 12)) + 'px';
+    tip.style.top = Math.max(8, Math.min(window.innerHeight - h - 8, y - h - 10)) + 'px';
+  }
+  const hideTip = () => { tip.hidden = true; };
+  groups.forEach(([label, list]) => {
+    const row = el('div', 'split-row');
+    const l = el('div', 'lbl', label); l.append(el('small', null, list.length + ' members')); row.append(l);
+    const bar = el('div', 'segbar');
+    [1, 2, 3, 4].forEach(k => {
+      const all = list.filter(m => m.category === k).length;
+      [['core', list.filter(m => m.category === k && m.fit === 'clean').length], ['lean', list.filter(m => m.category === k && m.fit !== 'clean').length]].forEach(([tier, n]) => {
+        if (!n) return;
+        const s = el('div', 'seg k' + k + (tier === 'lean' ? ' lean' : '')); s.style.flex = n + ' 1 0';
+        const share = Math.round(100 * n / list.length);
+        s.textContent = n / list.length >= 0.035 ? String(n) : '';
+        const what = tier === 'core' ? 'meet the test' : 'nearest fit';
+        s.tabIndex = 0; s.setAttribute('aria-label', `${label}: ${CAT[k].name}, ${n} ${what} (${all} in group) of ${list.length}`);
+        const on = (e) => showTip(e, n + ' ' + what + ' · ' + share + '% of ' + label.toLowerCase(), [CAT[k].name + ': ' + all + ' in total']);
+        s.addEventListener('pointermove', on); s.addEventListener('focus', on);
+        s.addEventListener('pointerleave', hideTip); s.addEventListener('blur', hideTip);
+        bar.append(s);
+      });
+    });
+    row.append(bar); $('split').append(row);
+  });
+  const key = el('div', 'keyrow');
+  const k1 = el('span'); k1.append(el('i', 'kbox'), document.createTextNode('Solid: meets the group\'s test outright'));
+  const k2 = el('span'); k2.append(el('i', 'kbox lean'), document.createTextNode('Pale: placed by nearest fit (weaker evidence or below both ideological thresholds)'));
+  key.append(k1, k2); $('split').append(key);
+  [1, 2, 3, 4].forEach(k => {
+    const c = el('article', 'cat');
+    const list = M.filter(m => m.category === k);
+    const n = el('div', 'cat-n', String(list.length));
+    const sen = list.filter(m => m.chamber === 'Senate').length;
+    const core = list.filter(m => m.fit === 'clean').length;
+    n.append(el('small', null, Math.round(100 * list.length / M.length) + '% of the caucus · ' + (list.length - sen) + ' House, ' + sen + ' Senate'));
+    n.append(el('small', null, core + ' meet the test outright · ' + (list.length - core) + ' by nearest fit'));
+    const h = el('h3'); h.append(el('span', 'sw k' + k), document.createTextNode(CAT[k].name));
+    c.append(n, h, el('p', null, CAT[k].brief), el('div', 'test', 'Test: ' + CAT[k].test));
+    $('cats').append(c);
+  });
+  D.findings.forEach(f => $('findings').append(el('li', null, f)));
+
+  // facets
+  const W = 260, H = 204, P = { l: 26, r: 10, t: 18, b: 28 };
+  const ev = (x) => Math.ceil(x / 2) * 2; const maxLI = ev(Math.max(10, ...M.map(m => m.LI))), maxCI = ev(Math.max(8, ...M.map(m => m.CI)));
+  const sx = v => P.l + (v / maxCI) * (W - P.l - P.r), sy = v => H - P.b - (v / maxLI) * (H - P.t - P.b);
+  const NS = 'http://www.w3.org/2000/svg';
+  const sv = (tag, attrs) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; };
+  // deterministic jitter so stacked points separate
+  const hnum = (str) => { let h = 7; for (const ch of String(str)) h = (h * 31 + ch.charCodeAt(0)) % 100003; return h; };
+  const jit = (id, s) => ((((hnum(id) * 9301 + 49297 * s) % 233280) / 233280) - 0.5) * 0.7;
+  [1, 2, 3, 4].forEach(k => {
+    const f = el('div', 'facet');
+    const h = el('h3'); h.append(el('span', 'sw k' + k), document.createTextNode(CAT[k].name + ' (' + M.filter(m => m.category === k).length + ')'));
+    f.append(h);
+    const svg = sv('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': `Scatter of LI against CI highlighting ${CAT[k].name}` });
+    for (let v = 0; v <= maxLI; v += 2) { svg.append(sv('line', { x1: P.l, x2: W - P.r, y1: sy(v), y2: sy(v), class: 'grid' })); const t = sv('text', { x: P.l - 5, y: sy(v) + 3, 'text-anchor': 'end' }); t.textContent = v; svg.append(t); }
+    for (let v = 0; v <= maxCI; v += 2) { const t = sv('text', { x: sx(v), y: H - P.b + 13, 'text-anchor': 'middle' }); t.textContent = v; svg.append(t); }
+    svg.append(sv('line', { x1: P.l, x2: W - P.r, y1: sy(6), y2: sy(6), class: 'thr' }));
+    svg.append(sv('line', { x1: sx(5), x2: sx(5), y1: P.t, y2: H - P.b, class: 'thr' }));
+    const xl = sv('text', { x: W - P.r, y: H - 1, 'text-anchor': 'end' }); xl.textContent = 'CI →'; svg.append(xl);
+    const yl = sv('text', { x: P.l - 5, y: 9, 'text-anchor': 'start' }); yl.textContent = 'LI ↑'; svg.append(yl);
+    M.filter(m => m.category !== k).forEach(m => svg.append(sv('circle', { cx: sx(m.CI + jit(m.id, 1)), cy: sy(m.LI + jit(m.id, 2)), r: 3, class: 'ctx' })));
+    M.filter(m => m.category === k).forEach(m => {
+      const cx = sx(m.CI + jit(m.id, 1)), cy = sy(m.LI + jit(m.id, 2));
+      const hit = sv('circle', { cx, cy, r: 9, class: 'hit', tabindex: 0, 'aria-label': `${m.name}, ${m.seat}: LI ${m.LI}, CI ${m.CI}` });
+      const pt = m.fit === 'clean' ? sv('circle', { cx, cy, r: 4.5, class: 'pt', fill: `var(--c${k})` })
+        : sv('circle', { cx, cy, r: 3.6, fill: 'var(--surface)', stroke: `var(--c${k})`, 'stroke-width': 1.8 });
+      const on = (e) => showTip(e, m.name, [m.seat + ' · LI ' + m.LI + ' · CI ' + m.CI]);
+      hit.addEventListener('pointermove', on); hit.addEventListener('focus', on);
+      hit.addEventListener('pointerleave', hideTip); hit.addEventListener('blur', hideTip);
+      hit.addEventListener('click', () => openMember(m.id));
+      svg.append(hit, pt);
+    });
+    f.append(svg); $('facets').append(f);
+  });
+
+  // roster
+  const state = { cats: new Set(), chamber: '', flip: '', q: '', sort: 'category', dir: 1, open: null };
+  [1, 2, 3, 4].forEach(k => {
+    const b = el('button', 'chip'); b.type = 'button'; b.setAttribute('aria-pressed', 'false');
+    b.append(el('span', 'sw k' + k), document.createTextNode(CAT[k].name));
+    b.addEventListener('click', () => { state.cats.has(k) ? state.cats.delete(k) : state.cats.add(k); b.setAttribute('aria-pressed', state.cats.has(k)); render(); });
+    $('chips').append(b);
+  });
+  $('chamber').addEventListener('change', e => { state.chamber = e.target.value; render(); });
+  $('flip').addEventListener('change', e => { state.flip = e.target.value; render(); });
+  $('q').addEventListener('input', e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+  document.querySelectorAll('th button').forEach(b => b.addEventListener('click', () => {
+    const k = b.dataset.sort; if (state.sort === k) state.dir *= -1; else { state.sort = k; state.dir = (k === 'name' || k === 'category') ? 1 : -1; } render();
+  }));
+  const confRank = { High: 3, Medium: 2, Low: 1 };
+  function sortVal(m, k) {
+    if (k === 'name') return m.name; if (k === 'sd') return m.sd == null ? -1 : m.sd;
+    if (k === 'confidence') return confRank[m.confidence] || 0;
+    if (k === 'category') return m.category * 1000 - (m.chamber === 'Senate' ? 500 : 0) + (m.LI - m.CI) * -1;
+    return m[k];
+  }
+  function scoreBar(v, max) { const w = el('span', 'bar'); w.append(el('span', null, String(v))); const i = el('i'); const b = el('b'); b.style.width = Math.min(100, 100 * v / max) + '%'; i.append(b); w.append(i); return w; }
+  function markerList(obj, labels, prefix) {
+    const box = el('div', 'mk');
+    let any = false;
+    Object.keys(labels).forEach(code => {
+      const x = obj && obj[code]; if (!x || !x.v) return; any = true;
+      box.append(el('span', 'code' + (x.v < 0 ? ' neg' : ''), (x.v < 0 ? '✕ ' : '') + code));
+      const ev = el('span', 'ev');
+      ev.append(el('b', null, (x.v < 0 ? 'Rejects: ' : '') + labels[code] + '. '));
+      if (x.e) ev.append(document.createTextNode(x.e + ' '));
+      const u = safeUrl(x.src); if (u) { const a = el('a', null, 'source'); a.href = u; a.target = '_blank'; a.rel = 'noopener'; ev.append(a); }
+      box.append(ev);
+    });
+    if (!any) box.append(el('span', 'code', '—'), el('span', 'ev', 'No explicit evidence found on these markers.'));
+    return box;
+  }
+  function detail(m) {
+    const d = el('div', 'det');
+    const a = el('div', 'col'), b = el('div', 'col');
+    const blk = (title, node) => { const x = el('div', 'blk'); x.append(el('h4', null, title), node); return x; };
+    a.append(blk('Why this group', el('p', null, m.rationale || '—')));
+    const sc = el('div', 'scores');
+    [['LI', m.LI], ['CI', m.CI], ['EPD', m.EPD], ['EO', m.EO]].forEach(([k, v]) => { const s = el('span'); s.append(document.createTextNode(k + ' '), el('b', null, String(v))); sc.append(s); });
+    sc.append(el('span', null, 'Rule: ' + m.rule));
+    if (m.fit && m.fit !== 'clean') sc.append(el('span', null, 'Fit: ' + m.fit));
+    a.append(blk('Scores', sc));
+    if (m.positions && m.positions.length) {
+      const ul = el('ul');
+      m.positions.forEach(p => {
+        const li = el('li'); const s = String(p);
+        const mm = s.match(/\(?(https?:\/\/[^\s)]+)\)?\s*$/);
+        if (mm) { li.append(document.createTextNode(s.slice(0, mm.index).trim() + ' ')); const u = safeUrl(mm[1]); if (u) { const a2 = el('a', null, 'source'); a2.href = u; a2.target = '_blank'; a2.rel = 'noopener'; li.append(a2); } }
+        else li.textContent = s;
+        ul.append(li);
+      });
+      a.append(blk('Characteristic positions', ul));
+    }
+    a.append(blk('Left markers found', markerList(m.L, D.Llabels)));
+    a.append(blk('Centrist markers found', markerList(m.C, D.Clabels)));
+    const bio = el('div', 'blk');
+    [['Background', m.career], ['Education', m.education], ['Prior office', m.prior_office], ['Self-description', m.self_description], ['Primary', m.primary_context], ['Seat', m.how], ['Race status', m.call_status]].forEach(([k, v]) => { if (v) { const p = el('p'); p.append(el('b', null, k + ': '), document.createTextNode(v)); bio.append(p); } });
+    b.append(blk('Profile', bio));
+    const end = el('p'); end.append(el('b', null, 'Left: '), document.createTextNode(m.left_endorsements.join(', ') || 'none found'), el('br'), el('b', null, 'Centrist: '), document.createTextNode(m.centre_endorsements.join(', ') || 'none found'));
+    if (m.outside && m.outside.length) end.append(el('br'), el('b', null, 'Other backers: '), document.createTextNode(m.outside.join(', ')));
+    b.append(blk('Endorsements & backers', end));
+    if (m.incumbent) {
+      const rec = el('div', 'blk');
+      const line = (k, v) => { if (!v) return; const p = el('p'); p.append(el('b', null, k + ': '), document.createTextNode(v)); rec.append(p); };
+      line('Caucuses', (m.caucuses || []).join(', ') || 'none of CPC / New Dem / Blue Dog / Problem Solvers');
+      line('Co-sponsored', (m.cosponsored || []).join('; ') || 'none of the tracked bills');
+      const kv = m.key_votes || {}; const names = D.voteLabels;
+      line('Key votes', Object.keys(names).filter(k => kv[k]).map(k => names[k] + ': ' + kv[k]).join('; '));
+      if (m.dw != null) line('DW-NOMINATE', m.dw.toFixed(3) + ' (more liberal than ' + Math.round(100 * m.dw_pct) + '% of Democrats in their chamber; a cross-check only, not scored)');
+      b.append(blk('Congressional record (119th Congress)', rec));
+    }
+    const eo = el('p'); eo.append(el('b', null, 'Experience & depth: '), document.createTextNode(m.epd_note || '—'), el('br'), el('b', null, 'Debates & media: '), document.createTextNode(m.eo_note || '—'));
+    b.append(blk('Experience, debates, media', eo));
+    if (m.fec) { const p = el('p'); p.textContent = `Raised $${(m.fec.total_receipts / 1e6).toFixed(2)}M to ${m.fec.through}; ${pct(m.fec.small_dollar_share)} of individual money in sums under $200; PAC share ${pct(m.fec.pac_share_of_receipts)}${m.fec.self_funding > 50000 ? '; self-funding $' + Math.round(m.fec.self_funding / 1000) + 'k' : ''}.`; b.append(blk('Money (FEC)', p)); }
+    if (m.sources && m.sources.length) { const s = el('div', 'srcs'); m.sources.slice(0, 14).forEach((u, i) => { const v = safeUrl(u); if (!v) return; const a = el('a', null, (new URL(v)).hostname.replace(/^www\./, '')); a.href = v; a.target = '_blank'; a.rel = 'noopener'; s.append(a); }); b.append(blk('Sources', s)); }
+    d.append(a, b); return d;
+  }
+  function openMember(id) {
+    state.cats.clear(); document.querySelectorAll('#chips .chip').forEach(c => c.setAttribute('aria-pressed', 'false'));
+    state.chamber = ''; state.flip = ''; state.q = ''; $('chamber').value = ''; $('flip').value = ''; $('q').value = '';
+    state.open = id; render();
+    const r = document.querySelector(`tr.row[data-id="${CSS.escape(String(id))}"]`); if (r) r.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  }
+  function render() {
+    let list = M.filter(m => (!state.cats.size || state.cats.has(m.category)) && (!state.chamber || m.chamber === state.chamber)
+      && (!state.flip || (state.flip === 'flip' && m.flip) || (state.flip === 'new' && !m.incumbent) || (state.flip === 'inc' && m.incumbent))
+      && (!state.q || (m.name + ' ' + m.seat + ' ' + m.state_name).toLowerCase().includes(state.q)));
+    list.sort((x, y) => { const a = sortVal(x, state.sort), b = sortVal(y, state.sort); return (a > b ? 1 : a < b ? -1 : 0) * state.dir || x.name.localeCompare(y.name); });
+    const tb = $('tbody'); tb.replaceChildren();
+    $('count').textContent = list.length + ' of ' + M.length + ' shown';
+    if (!list.length) { const tr = el('tr'); const td = el('td', 'empty', 'No members match these filters. Clear a filter to see more.'); td.colSpan = 8; tr.append(td); tb.append(tr); return; }
+    list.forEach(m => {
+      const tr = el('tr', 'row'); tr.dataset.id = m.id; tr.tabIndex = 0; tr.setAttribute('aria-expanded', state.open === m.id);
+      const nm = el('td', 'nm', m.name); nm.append(el('small', null, m.seat + (m.chamber === 'Senate' ? '' : ' · House') + (m.incumbent ? '' : ' · new') + (m.flip ? ' · flip' : '') + (m.provisional ? ' · uncalled' : '') + (m.returning ? ' · returning' : '')));
+      const cat = el('td'); const p = el('span', 'pill'); p.append(el('span', 'sw k' + m.category), document.createTextNode(CAT[m.category].name)); cat.append(p);
+      if (m.fit !== 'clean') cat.append(el('span', 'fitnote', 'nearest fit'));
+      const cf = el('td'); cf.append(el('span', 'conf ' + m.confidence, m.confidence));
+      const tds = [['LI', 16], ['CI', 10], ['EPD', 7], ['EO', 5]].map(([k, mx]) => { const td = el('td', 'num'); td.append(scoreBar(m[k], mx)); return td; });
+      const sd = el('td', 'num', pct(m.sd));
+      tr.append(nm, cat, cf, ...tds, sd);
+      const toggle = () => { state.open = state.open === m.id ? null : m.id; render(); const r = document.querySelector(`tr.row[data-id="${CSS.escape(String(m.id))}"]`); if (r) r.focus({ preventScroll: true }); };
+      tr.addEventListener('click', toggle);
+      tr.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); } });
+      tb.append(tr);
+      if (state.open === m.id) { const dr = el('tr', 'detail'); const td = el('td'); td.colSpan = 8; td.append(detail(m)); dr.append(td); tb.append(dr); }
+    });
+  }
+  render();
+
+  // method
+  D.steps.forEach(s => $('steps').append(el('li', null, s)));
+  D.method_cards.forEach(c => {
+    const card = el('div', 'mcard'); const h = el('h3'); if (c.k) h.append(el('span', 'sw k' + c.k)); h.append(document.createTextNode((c.k ? ' ' : '') + c.title)); card.append(h);
+    if (c.intro) card.append(el('p', null, c.intro));
+    const ul = el('ul'); c.items.forEach(i => ul.append(el('li', null, i))); card.append(ul);
+    $('mgrid').append(card);
+  });
+  D.limits.forEach(l => $('limits').append(el('li', null, l)));
+  $('pending').textContent = D.pending;
+  $('foot').textContent = D.footer;
+})();
+</script>

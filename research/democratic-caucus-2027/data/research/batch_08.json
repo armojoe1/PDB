@@ -1,0 +1,1347 @@
+[
+ {
+  "id": 61,
+  "name": "Raymond Smith Jr.",
+  "seat": "NC-3",
+  "call_status": "effectively confirmed winner, not yet certified: Murphy led by 233 on election night; after provisional/cured ballots on 10 Nov Smith leads 118,488 (49.43%) to 118,195 (49.31%), a 293-vote unofficial margin. Murphy conceded and congratulated Smith on 11 Nov. County canvass is 13 Nov; recount deadline is 17 Nov but none is expected. No AP call confirmed in sources found.",
+  "bio": {
+   "birth_year": 1961,
+   "education": "BA NC A&T State; MPA NC Central; EdD Fayetteville State",
+   "career": "Army Gulf War veteran (military police; Army Reserve), teacher and football coach, NCDOT transportation planner",
+   "prior_office": "Wayne County Board of Education (at-large, elected 2016); NC House District 21 (2019-2023). Lost the 2022 NC Senate primary, the 2023 Goldsboro mayoral race (by 6 votes) and the 2024 NC Senate general"
+  },
+  "self_description": "Calls himself a 'middle' politician rather than a moderate, who doesn't 'lean far left' or 'far right' (PBS NC interview). His website calls him a 'strong, bipartisan voice' who will 'serve people over politics'. In a Reflector Q&A he said he would not 'protect a political party or a political agenda'.",
+  "primary_context": "Beat Allison Jaslow, a veteran and former DCCC executive director, 56.6% to 43.4% on 3 Mar 2026. No clear ideological split was reported; Smith ran on local roots and his legislative record.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Cites a state-legislative record of breaking with his caucus: a Farm Bill vote against most Democrats, and support for the Carolina CARES Medicaid-expansion bill with a work requirement. Brands himself a 'bipartisan voice'.",
+    "src": "https://www.pbs.org/video/raymond-smith-jr-democratic-candidate-for-ncs-3rd-congressional-district-fwbnvx/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "NewDem Action Fund (post-primary; per Wikipedia NC 2026 House elections page)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Two terms in the NC House plus school board. EdD and MPA. Some concrete proposals: make the enhanced ACA tax credits permanent, PBM and insurer oversight, ban congressional stock trading, end Citizens United, remove tariffs on food and farm inputs. Mostly broad priority statements."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Smith-Murphy general-election debate and no Smith-Jaslow primary debate found; Smith says he used candidate forums. Found nothing showing he declined a debate, so scored neutral 1 (uncertain). Media: PBS NC interview, Greenville Daily Reflector Q&A and local TV. No hostile or cross-partisan outlets found. Engages substance, e.g. argues tax cuts are invested rather than spent and cites NY Fed tariff-incidence data."
+  },
+  "outside_support": [
+   "DCCC Red to Blue (per Daily Kos CBC roundup)",
+   "NewDem Action Fund",
+   "Congressional Black Caucus PAC",
+   "VoteVets",
+   "UAW",
+   "CWA",
+   "Collective PAC",
+   "Red Wine & Blue",
+   "Save Democracy PAC",
+   "Advance Carolina",
+   "Democrats Abroad",
+   "Young Democrats of NC",
+   "Rep. Greg Stanton"
+  ],
+  "notable_positions": [
+   "Make permanent the enhanced ACA premium tax credits that expired at the end of 2025; more oversight of insurers and PBMs; defend Medicaid expansion (https://www.reflector.com/news/local/q-a-raymond-smith-would-prioritize-affordability-healthcare-veterans-in-congress/article_fc385feb-a892-496e-8004-e75da7e30995.html)",
+   "End tariffs Congress never approved; remove 'unnecessary tariffs' on food and farm inputs (https://www.pbs.org/video/raymond-smith-jr-democratic-candidate-for-ncs-3rd-congressional-district-fwbnvx/)",
+   "Ban stock trading by members of Congress; end Citizens United; refuses corporate PAC and Duke Energy money (https://raymondsmithfornc.com/platform)",
+   "Supports school choice but opposes state-funded private-school vouchers; opposes dismantling the Department of Education (https://www.pbs.org/video/raymond-smith-jr-democratic-candidate-for-ncs-3rd-congressional-district-fwbnvx/)",
+   "Veterans focus: more VA clinics, protect Seymour Johnson AFB, military family childcare and base housing (https://raymondsmithfornc.com/platform)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "No left-index markers found (LI 0). Centrist ties are modest: a NewDem Action Fund endorsement (C1 = 1) and a state-legislative record of crossing his caucus (C7), for CI 2. He calls himself a 'middle' politician. With state-legislative experience and an EdD (EPD 5) and moderate engagement (EO 3, debate record uncertain), he falls to step 5, where the nearest bucket is Cat 4, an imperfect fit. If he skipped a debate he was offered, EO drops to 2 and he would be Cat 3.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raymond_Smith_Jr.",
+   "https://www.carolinajournal.com/greg-murphy-concedes-in-nc-3/",
+   "https://www.neusenews.com/index/2026/11/11/smith-moves-ahead-of-murphy-in-close-3rd-district-race",
+   "https://www.wunc.org/politics/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+   "https://www.pbs.org/video/raymond-smith-jr-democratic-candidate-for-ncs-3rd-congressional-district-fwbnvx/",
+   "https://www.reflector.com/news/local/q-a-raymond-smith-would-prioritize-affordability-healthcare-veterans-in-congress/article_fc385feb-a892-496e-8004-e75da7e30995.html",
+   "https://raymondsmithfornc.com/",
+   "https://raymondsmithfornc.com/platform",
+   "https://raymondsmithfornc.com/endorsements",
+   "https://branch.vote/races/2026-north-carolina-primary-election-nc-state-us-representative-nc-congressional-3-d/candidates/raymond-smith",
+   "https://www.theassemblync.com/news/politics/cbc-north-carolina-third-district-smith/",
+   "https://www.dailykos.com/stories/2026/4/9/2376142/-CBC-Roundup-Raymond-Smith-for-NC-3-the-most-important-person-is-the-voter",
+   "https://votevets.org/candidates/ray-smith",
+   "https://abc11.com/post/dr-raymond-smith-secures-district-3-primary-victory-will-face-greg-murphy-november/18674271/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+  ]
+ },
+ {
+  "id": 62,
+  "name": "Cyril Jefferson",
+  "seat": "NC-6",
+  "call_status": "confirmed winner: AP call per WUNC. Jefferson 140,001 (51.14%) vs McDowell 133,737 (48.86%), unofficial. McDowell acknowledged defeat on 4 Nov (WFMY).",
+  "bio": {
+   "birth_year": 1992,
+   "education": "Attended Howard University; BA liberal studies, NC A&T State (2018)",
+   "career": "Music teacher; founder of the consultancy 'Change Often'",
+   "prior_office": "High Point City Council, Ward 1 (elected 2019); Mayor of High Point since Dec 2023 (city of about 115k; youngest mayor)"
+  },
+  "self_description": "Avoids ideological labels. Says he is running to 'deliver real results - not rhetoric' with a 'builder's mindset' and practical, partnership-based solutions. Campaign promoted The Bulwark's listing of him among 'Democrats who can win Red America'. Wikipedia cites a description of his platform as 'more moderate'.",
+  "primary_context": "Won a five-way Democratic primary on 3 Mar 2026 (about 39%) over Alysa Kassay, Beau Blair, Keith Davenport and Tavin Felton-Stackhouse. No ideological contrast was reported.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 1,
+    "e": "Lists the 'D.C. Statehood Pledge' and D.C. Statehood PAC among his endorsements and pledges",
+    "src": "https://www.cyrilforcongress.com/endorsements"
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-housing-supply 'abundance' positions: permitting reform, zoning changes for more density, public-private partnerships. Says a housing supply shortage is the root cause of high costs.",
+    "src": "https://www.pbs.org/video/cyril-jefferson-democratic-candidate-for-ncs-6th-congressional-district-r0v0qj/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "Mayor of a mid-sized city (High Point) and former councilman. BA only. Some concrete proposals: congressional term limits (suggests 12 years for senators, six House terms), stock-trading ban, ICE agents unmasked with body cameras, independent redistricting, public campaign financing, permitting and zoning reform. The issues page is mostly general."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No joint debate with McDowell documented. WXII and other coverage quoted the candidates separately, and McDowell did not answer newspaper questionnaires. Found nothing showing Jefferson declined a debate, so scored neutral 1 (uncertain). Media: PBS NC interview, WXII, a Charlotte Observer/N&O questionnaire and WFAE; mainstream local outlets only. Answers substantive questions directly, e.g. a yes/no on ICE tactics and the Iran war-powers argument."
+  },
+  "outside_support": [
+   "Committee to Protect Health Care",
+   "NEA / NCAE",
+   "PAC to the Future (Pelosi)",
+   "Rep. Kathy Manning",
+   "George C. Simkins Jr. Memorial PAC",
+   "Down Home NC",
+   "Vote Common Good",
+   "Take Back Congress",
+   "U.S. Term Limits pledge",
+   "D.C. Statehood PAC",
+   "I See Purple",
+   "Win With Black Men"
+  ],
+  "notable_positions": [
+   "Immigration: 'secure borders and effective enforcement, but it must be lawful, humane, and accountable'; opposes current ICE tactics and wants agents unmasked with body cameras (https://www.yahoo.com/news/politics/articles/nc-democrat-6th-district-says-090000273.html)",
+   "Housing: increase supply through permitting reform and zoning for density (https://www.pbs.org/video/cyril-jefferson-democratic-candidate-for-ncs-6th-congressional-district-r0v0qj/)",
+   "Opposes 'reckless tariffs', especially their effect on the furniture industry; wants Medicare to negotiate more drug prices; would fight junk fees (https://www.wfae.org/2026-10-06/u-s-house-of-representatives-nc-6)",
+   "Congressional term limits and a stock-trading ban; an enforceable judicial ethics code (https://www.pbs.org/video/cyril-jefferson-democratic-candidate-for-ncs-6th-congressional-district-r0v0qj/)",
+   "Says Trump started the Iran war without congressional approval (https://www.wxii12.com/article/north-carolina-district-6-election-us-congress/74163168)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Only DC statehood registers on the left index (LI 1). The only centrist marker is pro-housing-supply/abundance positioning (CI 1). Pragmatic, results-over-partisanship branding, but few explicit centrist markers. EPD 4 (mayor, BA, some proposals) and EO 3 send him to step 5 with LI and CI tied, so this is a weak, imperfect-fit Cat 4. If his policy depth were scored 0 (EPD 3) he would be Cat 2.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cyril_Jefferson",
+   "https://www.cyrilforcongress.com/",
+   "https://www.cyrilforcongress.com/issues",
+   "https://www.cyrilforcongress.com/endorsements",
+   "https://www.cyrilforcongress.com/news/national-political-publication-highlights-cyril-jefferson-as-a-democrat-who-can-win-in-red-america",
+   "https://www.pbs.org/video/cyril-jefferson-democratic-candidate-for-ncs-6th-congressional-district-r0v0qj/",
+   "https://www.wfae.org/2026-10-06/u-s-house-of-representatives-nc-6",
+   "https://www.yahoo.com/news/politics/articles/nc-democrat-6th-district-says-090000273.html",
+   "https://www.wxii12.com/article/north-carolina-district-6-election-us-congress/74163168",
+   "https://www.wfmynews2.com/article/news/politics/elections/high-point-mayor-cyril-jefferson-unseats-addison-mcdowell-nc-6th-district-race/83-9f14f974-5207-48ce-84dd-9953133bc801",
+   "https://www.wunc.org/politics/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+   "https://rowancountydemocrats.com/2026/03/05/from-the-salisbury-post-cyril-jefferson-secures-dem-nomination-for-congress-district-6/"
+  ]
+ },
+ {
+  "id": 63,
+  "name": "Richard Ojeda",
+  "seat": "NC-9",
+  "call_status": "confirmed winner: Ojeda 138,707 (51.1%) vs Hudson 132,692 (48.9%), unofficial, all 169 precincts. Hudson conceded (NC Newsline). Statewide canvass 13 Nov.",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA West Virginia State Univ.; MA (Business & Organizational Security) Webster Univ.",
+   "career": "Retired Army major (1989-2014; two Iraq tours, two Bronze Stars, 15+ years at Fort Bragg); JROTC instructor; founded a WV social-services nonprofit",
+   "prior_office": "West Virginia Senate, District 7 (2017-2019). Lost WV-3 in 2018, briefly ran for president in 2019, lost the 2020 WV US Senate primary"
+  },
+  "self_description": "Economic populist and self-described 'union man'. Says the campaign is 'standing up and fighting for the things we deserve' and uses a 'Country Over Party' slogan. Voted for Trump in 2016 and later broke with him; backed Sanders in the 2016 and 2020 primaries. After winning, urged Trump to work with the new Democratic House and warned Democrats 'we're going to lose' if they don't deliver for ordinary people.",
+  "primary_context": "Won the 3 Mar 2026 primary outright with 41.8% over Nigel Bristow (ex-NYPD detective, 26.7%), Lent Carr (15.8%) and Loren Bibler (15.7%). He led on fundraising; no sharp ideological split was reported.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Proposed a 5% wealth tax on fortunes over $1 billion (PBS NC interview)",
+    "src": "https://www.pbs.org/video/richard-ojeda-democratic-candidate-for-ncs-9th-congressional-district-d1op6h/"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Campaign immigration page: 'Replace ICE with an accountable and lawful immigration enforcement system'. He rejects abolishing immigration enforcement itself but wants the ICE agency replaced.",
+    "src": "https://ojedafornc.com/immigration/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 1,
+    "e": "Campaign endorsements page lists D.C. statehood organisations (DC Statehood PAC / 51-for-51 logos), which endorse candidates backing DC statehood",
+    "src": "https://ojedafornc.com/endorsements/"
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC (logo on campaign endorsements page; not independently confirmed because the search budget ran out)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "Former state senator. Master's degree and a 24-year Army career ending as major (mid-level). Specific numeric proposals: first $45,000 of income tax-free, 5% wealth tax above $1B, raise or remove the Social Security cap, index the minimum wage to cost of living, repeal right-to-work. Has a WV legislative record."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Ojeda-Hudson debate documented; found nothing showing either side declined, so scored neutral 1 (uncertain). Media: PBS NC, Barn Raiser and post-election interviews. The campaign stresses in-person retail events (fish fries, union halls) and promises town halls. No hostile-outlet appearances confirmed for 2026. Engages opposing arguments directly, e.g. the Q&A rebutting 'abolish enforcement' and wage-effect claims on immigration."
+  },
+  "outside_support": [
+   "DCCC 'Districts in Play' (not Red to Blue)",
+   "AFGE",
+   "AFL-CIO",
+   "UAW",
+   "IBEW",
+   "CWA",
+   "IAM",
+   "Ironworkers",
+   "Building & Construction Trades",
+   "NEA / NCAE",
+   "Committee to Protect Health Care",
+   "Common Defense",
+   "Patriotic Millionaires",
+   "Congressional Progressive Caucus PAC",
+   "DC Statehood PAC / 51 for 51",
+   "Rep. Ro Khanna",
+   "Rep. Delia Ramirez",
+   "No corporate PAC money; 70.8% small-dollar"
+  ],
+  "notable_positions": [
+   "5% wealth tax on fortunes over $1B; make the first $45,000 of income tax-free; raise or remove the Social Security payroll cap (https://www.pbs.org/video/richard-ojeda-democratic-candidate-for-ncs-9th-congressional-district-d1op6h/)",
+   "'Replace ICE with an accountable and lawful immigration enforcement system'; crack down on cartels; path to legal status for long-settled immigrants without criminal records (https://ojedafornc.com/immigration/)",
+   "Repeal 'Right to Work' laws; raise the federal minimum wage (https://ojedafornc.com/standing-up-for-working-families/)",
+   "'Healthcare is a right': expand Medicaid, cap drug prices, codify Roe v. Wade. He does not endorse Medicare for All on the site (https://ojedafornc.com/ensuring-quality-healthcare/)",
+   "Union green-energy jobs, PFAS polluter-pays, opposes sale of public lands (https://ojedafornc.com/environment/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Left-populist economic platform. Found a billionaire wealth tax (L1), 'replace ICE' (L9), DC statehood (L11) and a CPC PAC endorsement (L13 = 1), giving LI 4: progressive-leaning but below the Cat 1 threshold. No centrist markers (CI 0). EPD 5 and EO 3 send him to step 5, where LI is well above CI, so the nearest bucket is Cat 1, an imperfect fit. His 2016 Trump vote and 'country over party' populism make this an unusual profile, not a movement-left one.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richard_Ojeda",
+   "https://ojedafornc.com/",
+   "https://ojedafornc.com/immigration/",
+   "https://ojedafornc.com/ensuring-quality-healthcare/",
+   "https://ojedafornc.com/environment/",
+   "https://ojedafornc.com/standing-up-for-working-families/",
+   "https://ojedafornc.com/endorsements/",
+   "https://www.pbs.org/video/richard-ojeda-democratic-candidate-for-ncs-9th-congressional-district-d1op6h/",
+   "https://barnraisingmedia.com/richard-ojeda-takes-on-maga-in-deep-red-north-carolina",
+   "https://elonnewsnetwork.shorthandstories.com/primaries-voter-guide/house-of-representatives-district-9/",
+   "https://www.wfae.org/2026-11-04/richard-ojeda-defeats-republican-hudson-9th-district",
+   "https://www.cityviewnc.com/stories/democrats-target-republican-house-leader-fayetteville-district/",
+   "https://political.org/2026/11/08/rep-elect-richard-ojeda-says-democratic-house-majority-is-an-opportunity-for-trump-to-work-across-the-aisle/",
+   "https://www.afge.org/publication/afge-endorses-north-carolinas-richard-ojeda-for-election-to-congress"
+  ]
+ },
+ {
+  "id": 64,
+  "name": "Jamie Ager",
+  "seat": "NC-11",
+  "call_status": "confirmed winner: Ager 195,637 (57.1%) vs Jennifer Balkcom (R, replacement nominee) 141,427 (41.3%). Open seat after Rep. Chuck Edwards ended his re-election bid on 5 Aug 2026 following a House Ethics censure recommendation.",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA Warren Wilson College (environmental studies/sustainable agriculture, and history)",
+   "career": "Co-founder and CEO of Hickory Nut Gap, a regenerative farm and meat company with about 25 employees; fifth-generation Fairview farmer",
+   "prior_office": "none. First run for office. Grandson of former Rep. James McClure Clarke; father and brother are NC state legislators"
+  },
+  "self_description": "'Mountain Democrat' who promises 'honesty, curiosity, and most of all, hard work'. Says he has 'never been afraid to... speak out against my own party' and calls himself 'a facilitator of good discussions'. Signed the centrist 'Promise to America' pledge, whose tenets include 'We are capitalist, not socialist' and 'We want safety, not lawlessness'. Washington Post headline: says his party became 'too urban'.",
+  "primary_context": "Won a five-way primary with 64.7% over physician Richard Hudspeth (backed by former nominee Moe Davis) and others. Ran as a moderate establishment favourite and was added to DCCC Red to Blue in Feb 2026. Some on the party's left criticised him for signing the 'Promise to America' pledge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Platform: keep law enforcement 'well trained, well compensated', hire more officers, and invest in pay and training. The pledge he signed includes 'We want safety, not lawlessness'.",
+    "src": "https://agerforcongress.com/platform"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Energy agnosticism: won't let partisanship limit support for 'whatever energy is cheapest and best for our families' and backs 'all types of energy' that lower costs (SACE candidate profile). Also backs more housing supply and cutting red tape.",
+    "src": "https://cleanenergy.org/news/jamie-ager-on-climate-energy-where-the-candidates-stand/"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC",
+   "WelcomePAC",
+   "NewDems (New Democrat Coalition Action Fund)",
+   "Leadership Now Project",
+   "Signed the centrist 'Promise to America' pledge"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior office. BA; runs a 25-person agricultural business. Some concrete proposals: public option, Medicare dental and vision, no tax on tips, expanded child tax credit, congressional stock-trading ban, short-term data-center moratorium. Little detailed legislative specificity."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 0,
+   "note": "No Ager-Balkcom debate documented. Balkcom was a late replacement nominee who did not respond to press profile requests; nothing shows Ager declined, so scored neutral 1 (uncertain). Media: many mainstream interviews (Washington Post, MS NOW, AP, WLOS, Spectrum, Citizen-Times) plus rallies; no hostile outlets found. Substance 0: Smoky Mountain News reports he 'sidestepped' Israel's Gaza campaign and whether the House should investigate or impeach Trump, saying he would address them as they arise."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Blue Dog PAC",
+   "WelcomePAC",
+   "NewDems",
+   "Pete Buttigieg",
+   "Rep. Suzan DelBene",
+   "NC State AFL-CIO",
+   "Carpenters (Southern Regional Council)",
+   "CWA",
+   "AFGE",
+   "UAW",
+   "League of Conservation Voters",
+   "Sierra Club",
+   "NRDC Action Fund",
+   "Center for Biological Diversity",
+   "314 Action",
+   "End Citizens United",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Patriotic Millionaires",
+   "Red Wine & Blue",
+   "Leadership Now Project",
+   "No corporate PAC or AIPAC money (self-stated)"
+  ],
+  "notable_positions": [
+   "Public option: 'I'll push for a public option so everyone has access to quality affordable health care'; protect Medicare drug negotiation and insulin caps (https://agerforcongress.com/platform)",
+   "Fund law enforcement: hire more officers and invest in pay and training (https://agerforcongress.com/platform)",
+   "Supports 'whatever energy is cheapest', including solar; backs a short-term moratorium on new data centers in WNC (https://cleanenergy.org/news/jamie-ager-on-climate-energy-where-the-candidates-stand/)",
+   "Supports stronger border security plus a path to legal status for long-time residents; avoided taking a position on Gaza (https://smokymountainnews.com/news/news-latest/fierce-positivity-jamie-ager-is-relentlessly-optimistic-can-he-actually-win/)",
+   "Hurricane Helene recovery funding, congressional stock-trading ban, no tax on tips (https://agerforcongress.com/platform)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Strong centrist-coalition ties reach the C1 cap of 3 (Blue Dog PAC, WelcomePAC, NewDems), plus police funding (C5) and cheapest-energy/all-types energy pragmatism (C8): CI 5 against LI 0. That meets the Cat 4 rule, consistent with his 'Mountain Democrat' branding and the 'Promise to America' pledge. Confidence is Medium because C8 rests on a single energy profile. Without it he would fall to EPD 2, which is Cat 2.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamie_Ager",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://agerforcongress.com/",
+   "https://agerforcongress.com/platform",
+   "https://agerforcongress.com/press",
+   "https://agerforcongress.com/news",
+   "https://www.bpr.org/politics-government/2026-07-02/edwards-vs-ager-11th-district-contest-could-be-toss-up-by-november-experts-say",
+   "https://cleanenergy.org/news/jamie-ager-on-climate-energy-where-the-candidates-stand/",
+   "https://smokymountainnews.com/news/news-latest/fierce-positivity-jamie-ager-is-relentlessly-optimistic-can-he-actually-win/",
+   "https://www.theassemblync.com/news/politics/elections/nc11-jamie-ager-jennifer-balkcom-congress-house/",
+   "https://www.cityviewnc.com/stories/democrats-target-republican-house-leader-fayetteville-district/",
+   "https://www.washingtonpost.com/politics/2026/05/16/north-carolina-democratic-farmer-jamie-ager-wants-win-back-rural-voters/"
+  ]
+ },
+ {
+  "id": 65,
+  "name": "Paul Barringer",
+  "seat": "NC-13",
+  "call_status": "confirmed winner: Barringer 159,981 (50.5%) vs Rep. Brad Knott (R), per Wikipedia NC House results; WUNC (5 Nov) reported Barringer won the flip.",
+  "bio": {
+   "birth_year": 1967,
+   "education": "BA Davidson College; MPA Princeton (SPIA); JD UNC-Chapel Hill; MA health policy, Victoria University of Wellington (Rotary Scholar)",
+   "career": "Attorney and healthcare-policy executive with 20+ years in health systems, state governments and the private sector. Former general counsel of Common Good, a non-partisan legal-reform coalition; independent Medicaid/public-health consultant; founder of the Mill & Mountain apparel brand; timber/tree farmer",
+   "prior_office": "none"
+  },
+  "self_description": "Says he is 'running to bring common sense and constitutional values back to Washington' and will put people 'ahead of any big corporations, partisan agenda, or the DC establishment'. A former Republican who, per Wikipedia, switched parties after donating to Bernie Sanders in 2016.",
+  "primary_context": "Won the 3 Mar 2026 primary over Frank Pierce (2024 nominee) and Alexander Nicholi, with endorsements from the News & Observer and former Rep. David Price. No ideological split was reported.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Fiscal Policy plank calls for spending restraint and a balanced budget: 'Our nation can't keep borrowing from the future'. Criticises debt growth under both Trump and Biden. No wealth tax or rate hikes proposed.",
+    "src": "https://paulbarringer.com/priorities"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Immigration plank pairs border security with enforcement against illegal crossings and drug trafficking, alongside legal pathways for agriculture, health care and tech workers.",
+    "src": "https://paulbarringer.com/priorities"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Police & Justice plank: 'strongly supports law enforcement and resources for officers'",
+    "src": "https://paulbarringer.com/priorities"
+   },
+   "C6": {
+    "v": 1,
+    "e": "Pro-gun-owner '2nd Amendment Rights' plank supporting the rights of law-abiding citizens to own firearms. Education plank gives parents 'a real seat at the table' on curriculum.",
+    "src": "https://paulbarringer.com/priorities"
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-trade and market-oriented: opposes blanket tariffs ('like a tax on consumers'), backs fair trade that opens foreign markets for farmers, 'market-driven solutions' in health care, less federal red tape for farms.",
+    "src": "https://paulbarringer.com/priorities"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC",
+   "Rep. Adam Gray (Blue Dog)"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No prior office. Very strong credentials: JD, Princeton MPA, health-policy MA, senior legal/executive career. Policy plank is reasonably specific (balanced budget, full LWCF funding, PACT Act protection, targeted trade enforcement) but has few numbers or bill names."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Barringer-Knott debate found; search budget ran out before this could be confirmed. Scored neutral 1 (uncertain). Media mostly local (Sanford Herald, N&O); no hostile outlets found. The platform engages trade-offs (e.g. criticises debt under both parties)."
+  },
+  "outside_support": [
+   "Blue Dog PAC",
+   "UAW",
+   "AFL-CIO",
+   "CWA",
+   "Committee to Protect Health Care",
+   "Young Democrats of NC",
+   "News & Observer (primary endorsement)",
+   "Former Reps. David Price, Bob Etheridge and Wiley Nickel",
+   "Former Lt. Gov. Dennis Wicker",
+   "Self-funded about $471k (39% of receipts)"
+  ],
+  "notable_positions": [
+   "Spending restraint and a balanced budget: 'Our nation can't keep borrowing from the future' (https://paulbarringer.com/priorities)",
+   "Border security and enforcement against illegal crossings, paired with expanded legal work pathways (https://paulbarringer.com/priorities)",
+   "Supports the Second Amendment rights of law-abiding gun owners plus enforcing existing laws (https://paulbarringer.com/priorities)",
+   "Opposes blanket tariffs as 'a tax on consumers'; prefers targeted trade enforcement (https://paulbarringer.com/priorities)",
+   "Health care via 'smart regulation and market-driven solutions'; keep Medicare and Medicaid (https://paulbarringer.com/priorities)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Blue Dog PAC endorsement (C1 = 2) plus an explicitly centrist platform: balanced budget (C3), border enforcement (C4), strong law-enforcement support (C5), pro-gun-owner and parental-input framing (C6), and anti-tariff, market-oriented trade (C8). That gives CI 7 against LI 0, a clear Cat 4. A former Republican with elite credentials, but no elected experience.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Barringer_(attorney)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://paulbarringer.com/",
+   "https://paulbarringer.com/priorities",
+   "https://paulbarringer.com/endorsements",
+   "https://www.sanfordherald.com/archives/concerns-about-health-care-and-agriculture-motivated-paul-barringer-iii-to-enter-politics/article_80a04293-ec7a-5935-930b-19a43213d3d8.html",
+   "https://www.wunc.org/politics/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+   "https://rollcall.com/2026/11/09/north-carolina-democrats-blue-tsunami-election/"
+  ]
+ },
+ {
+  "id": 66,
+  "name": "LaKesha Womack",
+  "seat": "NC-14",
+  "call_status": "confirmed winner: Womack 147,388 (51.1%) vs Rep. Tim Moore (R), a margin of about 6,400 votes. Note: she faces a pending felony summons over an unreturned 2019 rental car; attorneys appeared 10 Nov and a probable-cause hearing is set for 1 Dec 2026.",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA political science, Vanderbilt (1999); says she has attended Vanderbilt for a Master of Legal Studies",
+   "career": "Business consultant, minister/deacon, author and host of 'Courageous Conversations'. Chief strategy officer at ASPIRE Community Capital (a CDFI). Moved to NC in 2016 to work on Clinton's campaign",
+   "prior_office": "none"
+  },
+  "self_description": "Uses no ideological label. Pitches 'people-centered leadership' and economic help for 'the missing middle'. Told WSOC that 'no matter who votes for me, I'll be representing all of the people in the district' and asked Republican and unaffiliated voters to 'get to know me' and judge her values.",
+  "primary_context": "Beat attorney Brent Caldwell (endorsed by the Charlotte Observer) and IT professional Ahmid Kargbo. Attributes her win to attending community events several times a week. No ideological contrast was reported.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior office. Vanderbilt BA; mid-level consulting/CDFI career. The issues page has some concrete items (protect and strengthen the ACA, out-of-pocket and drug-cost caps, oppose 50-year mortgages, expand CDFI lending, restore an independent USAID) but is mostly general."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Womack-Moore debate documented; scored neutral 1 (uncertain). She ran no ads and relied on daily community events. Media: WSOC 'Political Beat', Axios Charlotte, and a post-election appearance on progressive talk radio (WCPT Joan Esposito). Promises town halls and says she welcomes respectful disagreement."
+  },
+  "outside_support": [
+   "Collective PAC",
+   "Very small campaign: $59k receipts, 48% small-dollar"
+  ],
+  "notable_positions": [
+   "Protect and strengthen the ACA; cap out-of-pocket and prescription costs; fund rural hospitals (https://www.womack4nc14.com/issues)",
+   "Raise the federal minimum wage; tax policy favouring working- and middle-class households (https://www.womack4nc14.com/issues)",
+   "Affordable-housing investment; opposes 50-year mortgages (https://www.womack4nc14.com/issues)",
+   "Restore an independent USAID and global health funding (https://www.womack4nc14.com/issues)",
+   "Criticises spending 'billions of dollars' on 'this war of choice' (https://www.wsoctv.com/news/local/political-beat-district-14-democrat-candidate-lakesha-womack-discusses-campaign-priorities/JE7W5QMXQBBMBOGPFE5EJNKK34/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "No left or centrist markers found (LI 0, CI 0). She has no prior office and a BA-level professional record, and her platform is mainstream Democratic with limited specificity (EPD 2). That points to Cat 2. The evidence base is thin because she was a low-budget, little-covered candidate.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/LaKesha_Womack",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://www.womack4nc14.com/issues",
+   "https://www.wsoctv.com/news/local/political-beat-district-14-democrat-candidate-lakesha-womack-discusses-campaign-priorities/JE7W5QMXQBBMBOGPFE5EJNKK34/",
+   "https://rollcall.com/2026/11/09/north-carolina-democrats-blue-tsunami-election/",
+   "https://www.carolinajournal.com/womack-served-summons-in-felony-case/",
+   "https://www.wunc.org/politics/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+  ]
+ },
+ {
+  "id": 67,
+  "name": "Brian Poindexter",
+  "seat": "OH-7",
+  "call_status": "confirmed winner: CBS/AP projected. Poindexter 180,614 (54.9%) vs Rep. Max Miller (R) 148,177 (45.1%). Miller stayed on the ballot despite abuse allegations and GOP calls to withdraw.",
+  "bio": {
+   "birth_year": 1979,
+   "education": "AS applied industrial technology, Cuyahoga Community College",
+   "career": "Union ironworker (Ironworkers Local 17, apprentice instructor until May 2026), union organizer 2012-14, former CDL truck driver/mover",
+   "prior_office": "Brook Park City Council, at-large (2018-present)"
+  },
+  "self_description": "Union/labor Democrat in the Sherrod Brown mould; says he was inspired by both Bernie Sanders and James Talarico. Rejects the socialist label: 'I'm a capitalist ... I want to capitalize on my labor'. Says 'people are tired of the \"vote for me because he sucks\" type of campaigning'. Supported Republican presidential candidates before he joined a union.",
+  "primary_context": "Won an eight-way primary with 37% over former Cuyahoga County Executive Ed FitzGerald (21.6%), Laura Rodriguez-Carbone and Plain Dealer-endorsed Michael Eisner. In the primary he was the progressive-movement candidate (Bernie Sanders, WFP, Our Revolution, CPC, Jayapal, Casar, Khanna). In the general he added Blue Dog PAC and DCCC Red to Blue.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders",
+   "Working Families Party",
+   "Our Revolution",
+   "Congressional Progressive Caucus (PAC)",
+   "(also Progressive Democrats of America, Reps. Jayapal, Casar, Frost, Khanna; not scored)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "'I am a strong supporter of law enforcement. As a 9-year member of the Brook Park City Council, I always supported funding law enforcement'",
+    "src": "https://poindexterforcongress.com/law-enforcement/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC (general election)",
+   "Rep. Adam Gray (Blue Dog)",
+   "Rep. Pat Ryan"
+  ],
+  "EPD": {
+   "office": 1,
+   "cred": 0,
+   "policy": 1,
+   "note": "Suburban city councilman. Associate degree; skilled-trades and union career with no senior professional role. Some concrete commitments: co-sponsor the PRO Act, restore expired ACA tax credits, Medicare drug negotiation, oppose data-center tax breaks, opposes Flock cameras without safeguards."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Poindexter-Miller debate documented; Miller was scandal-hit. Scored neutral 1 (uncertain). Media: Spectrum News, NYT, Guardian and cleveland.com profiles; no hostile or cross-partisan appearances found. Engages substance and acknowledged changing his mind on Flock cameras despite voting to fund them."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Blue Dog PAC",
+   "Bernie Sanders",
+   "Working Families Party",
+   "Our Revolution",
+   "Congressional Progressive Caucus",
+   "Progressive Democrats of America",
+   "End Citizens United",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Ohio AFL-CIO",
+   "AFSCME",
+   "AFT / Ohio Federation of Teachers",
+   "United Steelworkers",
+   "UAW",
+   "AFGE",
+   "Ohio Building Trades",
+   "Reproductive Freedom for All",
+   "Pete Buttigieg",
+   "No corporate PAC money"
+  ],
+  "notable_positions": [
+   "Supports funding law enforcement, but opposes Flock license-plate cameras without strong safeguards (https://poindexterforcongress.com/law-enforcement/)",
+   "'I support a secure border... Our immigration system can be secure without being cruel' (https://poindexterforcongress.com/law-enforcement/)",
+   "Restore expired ACA premium tax credits; let Medicare negotiate drug prices (https://poindexterforcongress.com/healthcare-that-makes-sense/)",
+   "Sign on to the PRO Act; raise the minimum wage (https://poindexterforcongress.com/healthcare-that-makes-sense/)",
+   "End the Iran war to lower gas prices; slow data-center growth and end their tax breaks (https://poindexterforcongress.com/gas-prices/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "Left-movement endorsements max out L13 (Sanders, WFP, Our Revolution, CPC), but no explicit left policy markers were found, so LI is 3. Blue Dog PAC plus law-enforcement funding give CI 3. Neither the Cat 1 nor the Cat 4 threshold is met. A city councilman with an associate degree and a moderately specific labor-populist platform scores EPD 2, which points to Cat 2. Cross-factional backing (Sanders and the Blue Dogs) fits a 'labor Democrat' rather than an ideological profile.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Poindexter",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://poindexterforcongress.com/",
+   "https://poindexterforcongress.com/law-enforcement/",
+   "https://poindexterforcongress.com/healthcare-that-makes-sense/",
+   "https://poindexterforcongress.com/gas-prices/",
+   "https://poindexterforcongress.com/data-centers/",
+   "https://workingfamilies.org/2026/04/wfp-endorses-brian-poindexter-for-oh-07/",
+   "https://spectrumnews1.com/oh/columbus/news/2026/09/02/brian-poindexter-max-miller-",
+   "https://www.cbsnews.com/news/ohio-7th-district-results-max-miller-brian-poindexter/"
+  ]
+ },
+ {
+  "id": 68,
+  "name": "Kristina Knickerbocker",
+  "seat": "OH-10",
+  "call_status": "confirmed winner: AP called it on Thursday 5 Nov. Knickerbocker 149,024 (49.3%) vs Rep. Mike Turner (R) 144,086 (47.7%), about 4,900 votes, with about 5,700 provisional/absentee/military ballots still to count. Turner issued a statement wishing her 'every success'.",
+  "bio": {
+   "birth_year": 1991,
+   "education": "Attended USC; BS (nursing) Azusa Pacific; MS Ohio State (nurse practitioner)",
+   "career": "Air Force officer and nurse 2015-2025 (Major; 88th Air Base Wing at Wright-Patterson, then 445th Aeromedical Staging Squadron, Reserve); neuro-oncology nurse practitioner at OSU Wexner Medical Center",
+   "prior_office": "none"
+  },
+  "self_description": "'Air Force Veteran. Nurse. Mom.' 'Rooted in faith and family'. Promises 'pragmatic approaches to end the affordability crisis, cut taxes, help small businesses'. Calls herself a 'servant of the people' not 'steeped in politics'.",
+  "primary_context": "Won a six-way primary with 32.7% over attorney Janice Beckett (25.9%), perennial candidate David Esrati and others, backed by EMILY's List and End Citizens United. No ideological contrast was reported.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Leaders We Deserve"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "'Safer Communities' plank: 'I'll invest in law enforcement, fire departments, and prevention strategies' and get more resources for local first responders",
+    "src": "https://kristinaknickerbocker.com/my-priorities/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition Action Fund"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No elected office. Air Force rank O-4 (Major) is below the O-5/O-6 rubric threshold. MS nurse practitioner from Ohio State counts as an advanced professional degree. Some concrete proposals: ban congressional stock trading, term limits, lifetime revolving-door limits, public option toward 'Universal Coverage', ban medical debt on credit reports, cap childcare costs, make corporations pay for data-center grid costs."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Knickerbocker-Turner debate documented; scored neutral 1 (uncertain). Media: local TV and newspapers (WHIO, Dayton Daily News, Yellow Springs News); no hostile outlets found. Engages issues directly in local interviews."
+  },
+  "outside_support": [
+   "EMILY's List",
+   "NewDem Action Fund",
+   "Leaders We Deserve",
+   "VoteVets",
+   "End Citizens United",
+   "Sen. Mark Kelly",
+   "Rep. Pat Ryan",
+   "Rep. Greg Stanton",
+   "Ohio AFL-CIO",
+   "AFSCME Ohio Council 8",
+   "IUE-CWA",
+   "UAW CAP Council",
+   "UFCW Local 75",
+   "Ohio Federation of Teachers",
+   "Committee to Protect Health Care",
+   "LCV",
+   "Sierra Club",
+   "Moms Demand Action",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "Elect Democratic Women",
+   "BAC PAC"
+  ],
+  "notable_positions": [
+   "'Healthcare is a right'; work toward 'Universal Coverage' via a public option while protecting the ACA, Medicaid, Medicare and CHIP (https://kristinaknickerbocker.com/my-priorities/)",
+   "Ban congressional stock trading, end corporate PAC influence, term limits, shut the revolving door (https://kristinaknickerbocker.com/my-priorities/)",
+   "Cut taxes for working families, repeal tariffs, cap childcare costs; make 'billionaires pay their fair share' (https://kristinaknickerbocker.com/my-priorities/)",
+   "Invest in law enforcement and first responders (https://kristinaknickerbocker.com/my-priorities/)",
+   "Defend and grow Wright-Patterson AFB; fully fund the VA (https://kristinaknickerbocker.com/my-priorities/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "Mainstream platform with cross-factional backers: Leaders We Deserve (L13 = 1) and NewDem Action Fund (C1 = 1) plus police funding (C5), giving LI 1 and CI 2. No prior office, though her credentials are solid (MS NP, Air Force Major), so EPD is 3, just inside the Cat 2 threshold. Low confidence: if her Air Force service or policy depth were scored one point higher she would move to step 5, where CI > LI points to Cat 4, an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristina_Knickerbocker",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://kristinaknickerbocker.com/",
+   "https://kristinaknickerbocker.com/my-priorities/",
+   "https://kristinaknickerbocker.com/endorsements/",
+   "https://kristinaknickerbocker.com/meet-kristina/",
+   "https://www.whio.com/news/local/election-2026-kristina-knickerbocker-represent-dayton-congress-ap-reports/HXJIRRGI5ZAKLELLNDIPAEYSTE/",
+   "https://ysnews.com/news/2026/04/villager-runs-for-congress"
+  ]
+ },
+ {
+  "id": 69,
+  "name": "Don Leonard",
+  "seat": "OH-15",
+  "call_status": "confirmed winner: AP projected on election night. Leonard 149,287 (51.9%) vs Rep. Mike Carey (R) 130,225 (45.3%).",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BA and MA UMass Lowell; MA and PhD (government) Cornell",
+   "career": "Peace Corps Bolivia 2004-06; postdocs at Princeton and Tulane; professional-practice assistant professor of city and regional planning at Ohio State 2016-Jan 2026",
+   "prior_office": "none"
+  },
+  "self_description": "'Do-something Democrat' who wants 'big politics' to match big problems, citing New Deal programmes as models. 'The politicians are lying to us. America is not broke. Our economy is just broken.' Says he was 'raised conservative' and is now 'a proud Democrat'. Wikipedia describes his views as progressive.",
+  "primary_context": "Beat former state Rep. Adam Miller, the 2024 nominee backed by Ted Strickland and AFGE, 52.9% to 47.1% on 5 May. The Ohio and Franklin County Democratic parties did not endorse. Leonard was the insurgent: endorsed by CAIR Action, he called Gaza a genocide and backed cutting off arms to Israel in a March podcast.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Wants ICE replaced with civil enforcement for nonviolent immigration violations, while backing border security and the rule of law (WOSU interview)",
+    "src": "https://www.wosu.org/politics-government/2026-10-05/do-something-democrat-don-leonard-hopes-to-flip-the-script-in-ohios-15th-congressional-district"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "In a March 2026 podcast he backed cutting off US weapons exports to Israel and called Israel's Gaza operations 'genocidal'. A May video said the party can't run candidates 'unwilling to speak truth about the genocide in Gaza'; the video was later deleted.",
+    "src": "https://freebeacon.com/democrats/as-salamu-alaykum-dem-house-candidate-deletes-video-condemning-genocide-in-gaza-and-terrors-that-are-happening-with-our-ice-agents/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Said Hakeem Jeffries will not get his vote for Speaker unless the Democratic Party 'reinvents' itself (WOSU)",
+    "src": "https://www.wosu.org/politics-government/2026-10-05/do-something-democrat-don-leonard-hopes-to-flip-the-script-in-ohios-15th-congressional-district"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No prior office. Cornell PhD and university faculty career. Some concrete proposals: a 'Medicare for all who want it' public option, universal childcare, a constitutional amendment removing corporate and foreign-lobby money, federal standards for data-center siting (distance from homes, power costs, brownfields, local approval). The campaign site is values-based and short on detail."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No Leonard-Carey debate documented; Carey did not respond to WOSU interview requests. Scored neutral 1 (uncertain). Leonard ran a listening tour and promises town halls 'even when the conversations get tough'. Media: WOSU and podcasts; no hostile outlets found. Engaged substance in the WOSU interview (e.g. nuanced stock-trading position). The Free Beacon reports he 'toned down' and avoided Israel after the primary."
+  },
+  "outside_support": [
+   "CAIR Action (primary)",
+   "Track AIPAC",
+   "End Citizens United",
+   "Planned Parenthood Action Fund",
+   "Reproductive Freedom for All",
+   "AFGE",
+   "AFSCME",
+   "SEIU",
+   "UAW",
+   "UFCW",
+   "CWA",
+   "Ohio Federation of Teachers",
+   "BuckeVets",
+   "Ohio Citizen Action",
+   "Stand Up for Science",
+   "No corporate PAC or AIPAC money"
+  ],
+  "notable_positions": [
+   "Calls Israel's Gaza operations 'genocidal' and backs ending US weapons exports to Israel (March 2026 podcast) (https://freebeacon.com/democrats/as-salamu-alaykum-dem-house-candidate-deletes-video-condemning-genocide-in-gaza-and-terrors-that-are-happening-with-our-ice-agents/)",
+   "Replace ICE with civil enforcement for nonviolent immigration violations; 'Secure the border. Respect immigrants.' (https://www.wosu.org/politics-government/2026-10-05/do-something-democrat-don-leonard-hopes-to-flip-the-script-in-ohios-15th-congressional-district)",
+   "Won't back Jeffries for Speaker unless the party 'reinvents' itself (https://www.wosu.org/politics-government/2026-10-05/do-something-democrat-don-leonard-hopes-to-flip-the-script-in-ohios-15th-congressional-district)",
+   "'Medicare for all who want it' public option and universal childcare (https://en.wikipedia.org/wiki/Don_Leonard_(politician))",
+   "Data centers as 'the mascot for predatory capitalism'; wants federal siting standards and local approval (https://donforohio.com/values)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "Progressive-leaning insurgent: Gaza 'genocide' and arms cutoff (L12) and replace ICE (L9), giving LI 2 with no left-group endorsements found. His only centrist-index marker is refusing to commit to Jeffries (C7, though from the left), so CI 1. With a PhD but no office and moderately specific proposals, EPD is 3, so the sequence gives Cat 2. A poor qualitative fit: if policy depth were scored 2, step 5 would place him in Cat 1, an imperfect fit, on LI > CI.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Don_Leonard_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "https://donforohio.com/",
+   "https://donforohio.com/values",
+   "https://donforohio.com/bio",
+   "https://www.wosu.org/politics-government/2026-10-05/do-something-democrat-don-leonard-hopes-to-flip-the-script-in-ohios-15th-congressional-district",
+   "https://freebeacon.com/democrats/as-salamu-alaykum-dem-house-candidate-deletes-video-condemning-genocide-in-gaza-and-terrors-that-are-happening-with-our-ice-agents/",
+   "https://www.wosu.org/politics-government/2026-03-30/congressional-candidate-arrested-at-grove-city-no-kings-protest-after-using-megaphone"
+  ]
+ },
+ {
+  "id": 70,
+  "name": "Bob Harvie",
+  "seat": "PA-1",
+  "call_status": "confirmed winner: Harvie 188,087 (52.7%) vs Rep. Brian Fitzpatrick (R) 168,531 (47.3%). Fitzpatrick conceded (Philadelphia Inquirer, 4 Nov).",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BA history, George Washington Univ. (magna cum laude); MEd, Holy Family Univ.",
+   "career": "Social studies teacher for 26 years, 20 of them as department chair at Bucks County Technical High School",
+   "prior_office": "Falls Township Planning Commission; Falls Township Supervisor 2003-2020 (chair 2008-2020); Bucks County Commissioner 2020-present (board chair 2022 and 2025; vice-chair 2024/2026; chairs the county elections board)"
+  },
+  "self_description": "A working-class Lower Bucks Democrat who rejects 'hyper-partisan politics'. 'Even as a proud Democrat, the fault lies with both parties. I'm angry at my party for leaving behind the people we are supposed to be fighting for.' Brands his platform a 'New Fair Deal for Working Families' (Truman).",
+  "primary_context": "Beat mathematician and former Senate climate adviser Lucia Simonelli 65.1% to 34.9% on 19 May 2026. Harvie was the establishment candidate (Shapiro, the county parties, the DA, sheriffs, DCCC Red to Blue). Simonelli ran to his left with Medicare for All steps, the Billionaire Minimum Income Tax, Indivisible chapters and Track AIPAC, and rejected 'mirroring' Fitzpatrick.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Cites his record of support for law enforcement as a county commissioner. Endorsed by the Bucks DA and the Bucks and Montgomery sheriffs; public safety is a listed priority.",
+    "src": "https://www.inquirer.com/politics/nation/bob-harvie-democrat-bucks-county-commissioner-brian-fitzpatrick-20260329.html"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 2,
+   "note": "Long local-government career: township supervisor, then commissioner and board chair of a 650k-population county. Scored 1 under the rubric's county-commission rule; arguably 2, since the Bucks board is the county's executive. BA plus MEd and a teaching career. A detailed 12-point 'New Fair Deal' with numbers: Medicare buy-in at 55, $15 minimum wage, congressional age limit of 80, lifetime lobbying ban, stock-trading ban extended to judges and executive appointees, ban on AI surveillance pricing, local data-center moratorium."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Primary: skipped the 13 Jan Upper Bucks United forum (his campaign said he was 'open to forums in the future') and the 11 Feb forum, but debated Simonelli at the 27 Apr League of Women Voters forum. General: both sides issued debate challenges that 'ultimately crashed and burned', so no debate with Fitzpatrick took place (Inquirer). Held at least five of his own town halls by March 2026. Media: Inquirer, WHYY; no hostile outlets found. Engages substance, e.g. a record-based critique of Fitzpatrick on the SAVE Act and data centers. Would not commit on Trump impeachment."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Gov. Josh Shapiro",
+   "Lt. Gov. Austin Davis",
+   "Reps. Madeleine Dean, Chris Deluzio, Mary Gay Scanlon, Suzan DelBene, Greg Stanton",
+   "AFT Pennsylvania",
+   "Transport Workers Union Local 234",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "Philadelphia Inquirer endorsement",
+   "No corporate PAC money"
+  ],
+  "notable_positions": [
+   "Permanently restore and expand ACA premium tax credits; lower the Medicare buy-in age from 65 to 55 (https://bobharvieforcongress.com/priorities/)",
+   "Middle-class tax cut with large corporations and the 'ultra-wealthy' paying 'their fair share' (https://bobharvieforcongress.com/priorities/)",
+   "Roll back Trump tariffs; raise the minimum wage to $15 (https://bobharvieforcongress.com/priorities/)",
+   "Ban congressional and senior-official stock trading; lifetime lobbying ban; congressional age limit of 80; independent redistricting (https://bobharvieforcongress.com/priorities/)",
+   "Local moratorium on new data centers; expand clean energy and 'rapidly build homes' (https://bobharvieforcongress.com/priorities/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Establishment-backed, mainstream platform. The only marker found is law-enforcement support (CI 1, LI 0); he beat a left-leaning challenger but holds no centrist-coalition endorsements. Long local-government experience and a detailed numeric platform give EPD 4. A mixed debate record (skipped two of three primary forums; no general debate) gives EO 3, so step 5 applies and the nearest bucket is Cat 4, an imperfect fit. If his debate record is scored 0, EO drops to 2 and he would be Cat 3.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bob_Harvie_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "https://bobharvieforcongress.com/priorities/",
+   "https://bobharvieforcongress.com/endorsements/",
+   "https://bobharvieforcongress.com/meet-bob/",
+   "https://whyy.org/articles/election-2026-pennsylvania-bucks-county-1st-congressional-district-harvie-simonelli/",
+   "https://whyy.org/articles/1st-congressional-district-election-town-hall/",
+   "https://whyy.org/articles/bob-harvie-congress-brian-fitzpatrick",
+   "https://www.inquirer.com/politics/nation/bob-harvie-democrat-bucks-county-commissioner-brian-fitzpatrick-20260329.html",
+   "https://www.inquirer.com/politics/election/fitzpatrick-harvie-race-winner-results-pennsylvania-1st-district-20261104.html"
+  ]
+ }
+]

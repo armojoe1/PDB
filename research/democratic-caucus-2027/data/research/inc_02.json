@@ -1,0 +1,1070 @@
+[
+ {
+  "id": "B001303",
+  "name": "Lisa Blunt Rochester",
+  "seat": "DE-SEN",
+  "call_status": "not up until 2030 (elected Nov 2024)",
+  "bio": {
+   "birth_year": 1962,
+   "education": "BA International Relations, Fairleigh Dickinson University; MA Urban Affairs and Public Policy, University of Delaware",
+   "career": "Delaware Deputy Secretary of Health and Social Services; Secretary of Labor (1998); State Personnel Director (2001); CEO, Metropolitan Wilmington Urban League (2004)",
+   "prior_office": "US House, Delaware at-large (2017-25); US Senator since Jan 2025; national co-chair of Biden's 2020 and 2024 campaigns"
+  },
+  "self_description": "No ideological self-label found. A Biden loyalist who voted with Biden's position 100% of the time (FiveThirtyEight). In the House she belonged to both the Congressional Progressive Caucus and the New Democrat Coalition.",
+  "primary_context": "2024: unopposed for the Democratic nomination after Carney, Carper and others declined; beat Republican Eric Hansen 56.6-39.5.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member while in the House (2017-25); she was simultaneously a Congressional Progressive Caucus member (https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Senator and four-term at-large House member (office 3). MA plus state cabinet secretary (Labor) (cred 2). Mid-level legislative profile; HELP subcommittee ranking member; no signature enacted bill verified (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2024 general-election debate with Hansen unverified (none recorded in the race record). Media: no 2025-26 town-hall or hostile-outlet record verified (unverified). Substance: no evidence either way, neutral 1."
+  },
+  "outside_support": [
+   "2024: EMILY's List, LCV, Planned Parenthood, HRC, J Street PAC, End Citizens United, Black Economic Alliance PAC, NEA; endorsed by Schumer and Carper",
+   "2024 cycle: 36% small-dollar, 24% PAC share"
+  ],
+  "notable_positions": [
+   "Co-sponsor of DC statehood (S.51) (bulk data)",
+   "Voted against the Laken Riley Act and against the Nov 2025 shutdown-ending CR (bulk data)",
+   "Voted for both July 2025 Sanders resolutions blocking arms sales to Israel (https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/)",
+   "House member of both the New Democrat Coalition and the Progressive Caucus (https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Evidence is thin and balanced: DC statehood is the only left marker (LI 1), and former New Democrat Coalition membership the only centrist one (CI 1), offset by simultaneous Progressive Caucus membership. With EPD 6 and neutral or unverified EO (3), step 5 is a tie between Cat 1 and Cat 4. Cat 4 is suggested because the New Dem tie is a rubric marker while CPC membership is not, but this is a low-confidence, imperfect fit for a mainstream party-loyalist Democrat. If she declined debates in 2024, EO would fall to 2 and she would be Cat 3.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Delaware",
+   "https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/"
+  ]
+ },
+ {
+  "id": "O000174",
+  "name": "Jon Ossoff",
+  "seat": "GA-SEN",
+  "call_status": "re-elected 2026 (AP called 3 Nov 2026; defeated Republican Rep. Mike Collins, who conceded election night)",
+  "bio": {
+   "birth_year": 1987,
+   "education": "BS Foreign Service, Georgetown (2009); MSc International Political Economy, London School of Economics",
+   "career": "Congressional aide to Rep. Hank Johnson; CEO of Insight TWI, an investigative documentary production company",
+   "prior_office": "Lost 2017 GA-06 special election; US Senator from Georgia since Jan 2021 (re-elected 2026)"
+  },
+  "self_description": "Does not adopt a 'progressive' or 'moderate' label; campaigns on anti-corruption (congressional stock-trading ban), cost of living and constituent services. The centrist WelcomePAC newsletter calls his approach 'combative centrism' (moderate on policy, aggressive toward Trump), cites his 'relatively moderate Senate record', and notes he has declined to back Medicare for All, the Green New Deal, defunding police, abolishing ICE or Court expansion. Endorser Jeff Flake (R) said he is 'where most Georgians are'. Collins called him 'aligned with DSA' (an opponent's attack, not evidence).",
+  "primary_context": "Unopposed in the May 2026 Democratic primary. Collins won the GOP nomination in a June 2026 runoff over Kemp-backed Derek Dooley.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0,
+    "e": "Voted against the Protection of Women and Girls in Sports Act, citing 'invasive physical examinations'; said in 2025 that school districts and athletic associations should decide participation rules. Neither endorses trans girls in female sports nor rejects limits, so 0."
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0,
+    "e": "At the 13 Oct 2026 Atlanta Press Club debate he declined to endorse proposals to expand the Supreme Court (AJC). That is declining to endorse rather than an explicit rejection, so 0."
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Voted for the July 2025 Sanders resolution blocking assault-rifle sales to Israel but against the one blocking bomb sales; no genocide language or full-embargo call found."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Stood by his Laken Riley Act vote at the Oct 2026 debate: 'If you're in the United States illegally and you commit a crime, you've got to leave,' while calling some provisions over-broad and criticising Trump's heavy-handed enforcement.",
+    "src": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Republican endorsements in 2026: former GOP Sen. Jeff Flake and two Republican South Georgia mayors. Before the election his campaign also would not say whether he would back Schumer ('I do not have an answer').",
+    "src": "https://www.ajc.com/politics/2026/08/why-two-republican-georgia-mayors-are-crossing-party-lines-for-jon-ossoff/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Sitting senator since 2021 (office 3). Has an LSE master's and ran a media company as CEO (cred 2). Authored laws, e.g. the Federal Prison Oversight Act (with Braun, signed 2024), and leads on a congressional stock-trading ban (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2026: challenged Collins to three televised debates and debated him at least twice, including the 13 Oct Atlanta Press Club/GPB debate (AJC refers to an earlier debate the week before). Media: held a Cobb County town hall in April 2025 (about 300 attendees). AJC says he spent most of his term steering clear of the national spotlight, and Axios says his national appearances were mostly in predictable settings (MS NOW) and videos of prepared speeches. No Fox or hostile-outlet appearances found. Substance: engaged directly on the Laken Riley Act and explained the reasoning for his trans-sports vote. Lugar Bipartisan Index 2023: 33rd of 100 (context)."
+  },
+  "outside_support": [
+   "Raised about $116M by 14 Oct 2026, with a 54% small-dollar share",
+   "Endorsed by Jeff Flake (former R-AZ senator) and two Republican Georgia mayors",
+   "Opposed by a seven-figure Senate Leadership Fund issue campaign on trans athletes"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act and defended it in the 2026 debate (https://www.ajc.com/politics/2026/10/georgia-senate-debate-takeaways/)",
+   "Opposed the Protection of Women and Girls in Sports Act; says local districts and associations should set the rules (https://www.nbcnews.com/politics/2026-election/republicans-focus-trans-athletes-early-attacks-jon-ossoff-georgia-rcna211005)",
+   "Declined to endorse Supreme Court expansion at the 2026 debate (https://www.ajc.com/politics/2026/10/georgia-senate-debate-takeaways/)",
+   "Pledged to repeal the 2025 Medicaid cuts and Trump tariffs; promised to serve a full term and not run in 2028 (https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate)",
+   "Split the July 2025 Israel arms resolutions: for blocking rifles, against blocking bombs (https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left-index markers from bulk data or research (LI 0); he has declined to back M4A, the GND, abolishing ICE or Court expansion. Centrist markers are his Laken Riley vote and defence of it, plus Republican endorsements (Flake, two GOP mayors), for CI about 2, below the Cat 4 threshold. With high EPD (7) and EO (4: debated, town halls), step 5 places him nearest Cat 4 by CI > LI. WelcomePAC's 'combative centrism' label supports that, though he is not a Blue Dog-style fiscal centrist.",
+  "sources": [
+   "https://www.ajc.com/politics/2026/10/georgia-senate-debate-takeaways/",
+   "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate",
+   "https://www.wrdw.com/2026/07/02/battle-senate-ossoff-proposes-3-debates-collins-fires-back/",
+   "https://www.fox5atlanta.com/news/george-us-senate-jon-ossoff-mike-collins",
+   "https://www.nbcnews.com/politics/2026-election/republicans-focus-trans-athletes-early-attacks-jon-ossoff-georgia-rcna211005",
+   "https://www.ajc.com/politics/2026/08/why-two-republican-georgia-mayors-are-crossing-party-lines-for-jon-ossoff/",
+   "https://www.aljazeera.com/amp/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role",
+   "https://www.ajc.com/politics/jon-ossoff-holds-cobb-town-hall-as-cdc-cuts-factor-into-georgia-senate-race/DWMZIRX3DZBCHNYPETUC4PIZOY",
+   "https://www.ajc.com/politics/2026/06/sorry-liberals-jon-ossoff-isnt-running-for-president/",
+   "https://axios.com/2026/08/02/jon-ossoff-georgia-hype-2028-election",
+   "https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/",
+   "https://www.welcomestack.org/p/jon-ossoffs-combative-centrism",
+   "https://www.thelugarcenter.org/ourwork-85.html"
+  ]
+ },
+ {
+  "id": "W000790",
+  "name": "Raphael G. Warnock",
+  "seat": "GA-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA Morehouse College (1991); MDiv, MPhil and PhD, Union Theological Seminary (PhD 2006)",
+   "career": "Senior pastor, Ebenezer Baptist Church, Atlanta (since 2005); chair, New Georgia Project (2017-20)",
+   "prior_office": "US Senator since Jan 2021 (won 2020-21 special; re-elected in Dec 2022 runoff)"
+  },
+  "self_description": "Calls himself a 'pro-choice pastor' and frames politics in moral and faith terms. Politico (2021) described him as embracing 'a progressive agenda', while GovTrack ranked him the most right-leaning Senate Democrat in the 117th Congress.",
+  "primary_context": "No significant Democratic primary challenge in 2022. Beat Herschel Walker 51.4-48.6 in the Dec 2022 runoff.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0,
+    "e": "Has twice declined to say whether he supports adding Supreme Court justices."
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Called BDS antisemitic (2020) and said Israel is not an apartheid state. Voted for the Sanders arms-block resolutions in Nov 2024 and summer 2025 but against them in Apr 2025. No genocide or full-embargo statement."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "One of 12 Senate Democrats who voted for the Laken Riley Act (Jan 2025); earlier supported keeping Title 42 expulsions.",
+    "src": "https://en.wikipedia.org/wiki/Raphael_Warnock"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented bipartisan record: ranked 14th of 100 senators on the Lugar Center Bipartisan Index for 2023 and 24th for the 117th Congress. GovTrack found he joined bipartisan bills the second-most among Senate Democrats (117th), with partnerships with Tuberville, Cruz, Rubio and Hyde-Smith.",
+    "src": "https://www.thelugarcenter.org/ourwork-85.html"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Sitting senator (office 3). PhD (cred 2). Led the $35 Medicare insulin cap and the Part D $2,000 out-of-pocket cap enacted in the IRA, secured I-14 in the 2021 infrastructure law with Cruz, and chairs/ranks on a Banking subcommittee (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2022: debated Walker (14 Oct, Nexstar, Savannah) and appeared at the 16 Oct GPB/Atlanta Press Club debate, which Walker skipped. No runoff debate was held. Media: weekly pulpit and mainstream outlets; no 2025-26 town-hall count or Fox appearance verified (unverified), so 1. Substance: engages policy specifics."
+  },
+  "outside_support": [
+   "2022: Planned Parenthood, LCV, Sierra Club, HRC, Giffords, UAW, NEA, CWA",
+   "2022 cycle raised about $207M, with a 48% small-dollar share"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act (2025) (https://en.wikipedia.org/wiki/Raphael_Warnock)",
+   "Lugar Bipartisan Index: 14th of 100 senators in 2023 (https://www.thelugarcenter.org/ourwork-85.html)",
+   "Champion of the $35 Medicare insulin cap (IRA) and Medicaid expansion (https://en.wikipedia.org/wiki/Raphael_Warnock)",
+   "Declined to back Supreme Court expansion; would end the filibuster for voting rights (https://en.wikipedia.org/wiki/Raphael_Warnock)",
+   "Co-sponsor of DC statehood (S.51) (bulk data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Only DC statehood registers on the left index (LI 1). Centrist markers are the Laken Riley vote and a strongly bipartisan Lugar ranking (CI 2), so neither threshold is met. He has high experience (EPD 7) and debated in 2022, so step 5 places him nearest Cat 4 by CI > LI. This is an imperfect fit: his rhetoric and coalition are mainstream-progressive (pastor of King's church, voting rights), and his record is bipartisan rather than ideologically centrist.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raphael_Warnock",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Georgia",
+   "https://www.thelugarcenter.org/ourwork-85.html",
+   "https://www.thelugarcenter.org/ourwork-84.html",
+   "https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/"
+  ]
+ },
+ {
+  "id": "S001194",
+  "name": "Brian Schatz",
+  "seat": "HI-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BA Philosophy, Pomona College (1994)",
+   "career": "Teacher; CEO of Helping Hands Hawaii (social-services nonprofit); chair, Hawaii Democratic Party (2008-10)",
+   "prior_office": "Hawaii House (1998-2006); Lieutenant Governor of Hawaii (2010-12); US Senator since Dec 2012; Chief Deputy Whip; chair of Indian Affairs Committee (2021-25)"
+  },
+  "self_description": "Usually described as a progressive ('progressive but not a bomb-thrower', New York magazine; a leader of the progressive wing, Puck), though GovTrack scores him as more moderate than the caucus. In Aug 2026 he was reported to have secured support, including Schumer's, to succeed Durbin as Democratic Whip in the 120th Congress.",
+  "primary_context": "2022: won the primary with 93.6% over perennial candidate Steve Tataii, then won the general with 71%.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Supports a Green New Deal as well as a carbon tax; co-chair of the Senate Climate Change Task Force.",
+    "src": "https://en.wikipedia.org/wiki/Brian_Schatz"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0,
+    "e": "Co-sponsors the Kids Off Social Media Act (age minimum of 13), which is age-gating, not misinformation regulation."
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Voted for the 2025 Sanders resolutions blocking arms sales to Israel and backed a 2024 amendment endorsing a Palestinian state. No genocide or full-embargo statement found."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-housing-supply: co-authored the YIMBY Act (passed 2022). Mixed: in Mar 2026 he was the only Democrat to vote against the 21st Century ROAD to Housing Act.",
+    "src": "https://en.wikipedia.org/wiki/Brian_Schatz"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Former Lt. Governor and senator since 2012 (office 3). BA plus nonprofit CEO (cred 1, conservatively). Former Indian Affairs chair, Chief Deputy Whip and presumptive Whip for the 120th; co-author of the YIMBY Act; shaped the IRA's climate provisions (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2022 debate record unverified (no debate found in the race record). Media: prolific on social media and mainstream outlets; no town-hall count or hostile-outlet appearance verified (unverified), so 1. Substance: engages on policy detail."
+  },
+  "outside_support": [
+   "2022: Hawaii AFL-CIO, HGEA, UAW, ILWU, HRC, LCV, Sierra Club, Giffords, JDCA",
+   "PAC-heavy funding: 49% of receipts from PACs (2022), 14% small-dollar"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and the Ultra-Millionaire Tax (2026) (bulk data)",
+   "Supports a Green New Deal and a carbon tax (https://en.wikipedia.org/wiki/Brian_Schatz)",
+   "Co-authored the YIMBY Act, yet was the only Democrat to oppose the 2026 ROAD to Housing Act (https://en.wikipedia.org/wiki/Brian_Schatz)",
+   "Voted for the 2025 resolutions blocking arms sales to Israel (https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/)",
+   "Presumptive Democratic Whip for the 120th Congress (https://en.wikipedia.org/wiki/Brian_Schatz)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give L1 (wealth tax), L3 (M4A) and L11; with Green New Deal support LI is about 4, which is progressive-leaning but below 6. Centrist markers are minimal (CI 1, housing supply). He is a credentialed, engaged party insider, so step 5 places him nearest Cat 1, flagged as an imperfect fit: he is an establishment progressive and incoming leadership, not a movement-left figure.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Schatz",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Hawaii",
+   "https://www.thelugarcenter.org/ourwork-85.html",
+   "https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/"
+  ]
+ },
+ {
+  "id": "H001042",
+  "name": "Mazie K. Hirono",
+  "seat": "HI-SEN",
+  "call_status": "not up until 2030 (re-elected Nov 2024)",
+  "bio": {
+   "birth_year": 1947,
+   "education": "BA Psychology, University of Hawaii at Manoa (1970); JD Georgetown University Law Center (1978)",
+   "career": "Attorney in Honolulu",
+   "prior_office": "Hawaii House (1981-94); Lieutenant Governor (1994-2002); 2002 gubernatorial nominee; US House HI-2 (2007-13, Progressive Caucus member); US Senator since Jan 2013"
+  },
+  "self_description": "Strongly liberal (OnTheIssues 'left/liberal'; ACU lifetime rating 2%). Known for combative Judiciary Committee rhetoric, e.g. telling men in the Kavanaugh fight to 'shut up and step up'.",
+  "primary_context": "2024: won the primary with 90.5% over minor candidates Ron Curtis and Clyde Lewman, then beat Republican Bob McDermott 64.6-31.9.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Original 2019 Senate co-sponsor of the Green New Deal resolution and co-sponsor of the 20 Apr 2023 reintroduction.",
+    "src": "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Voted for the Sanders resolutions on US military aid/arms to Israel (Jan 2024, Apr 2025, Jul 2025). No genocide or full-embargo statement found."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All; co-sponsor of S.1506 (119th).",
+    "src": "https://en.wikipedia.org/wiki/Mazie_Hirono"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former Lt. Governor and senator since 2013 (office 3). JD (cred 2). Authored the COVID-19 Hate Crimes Act (passed the Senate 94-1 and signed in 2021); senior Judiciary and Armed Services member (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2024 debate with McDermott unverified (none recorded in the race record). Media: mainly mainstream and friendly settings; no 2025-26 town-hall count or hostile-outlet appearance verified (unverified). Substance: engages in hearings, though her rhetoric toward opponents is sharply partisan."
+  },
+  "outside_support": [
+   "2024: EMILY's List, J Street PAC, JDCA, LCV, NRDC, Planned Parenthood, NEA, AFA",
+   "2024: PAC share 33%, small-dollar 24%"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and the Ultra-Millionaire Tax (2026) (bulk data)",
+   "Green New Deal co-sponsor since 2019 (https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution)",
+   "Author of the COVID-19 Hate Crimes Act (2021) (https://en.wikipedia.org/wiki/Mazie_Hirono)",
+   "Repeatedly voted for Sanders resolutions to limit arms to Israel (https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/)",
+   "Among the least bipartisan senators on the Lugar Index (86th of 100 in 2023) (https://www.thelugarcenter.org/ourwork-85.html)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (L1 wealth tax, L3 M4A, L11) plus Green New Deal co-sponsorship give LI 4, progressive-leaning but short of 6. There are no centrist markers (CI 0), and she is among the least bipartisan senators on the Lugar Index. With high EPD and unverified-neutral EO, step 5 puts her nearest Cat 1 (imperfect fit: a reliably left-liberal vote rather than a movement-left figure).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mazie_Hirono",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Hawaii",
+   "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution",
+   "https://www.thelugarcenter.org/ourwork-85.html",
+   "https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/"
+  ]
+ },
+ {
+  "id": "D000622",
+  "name": "Tammy Duckworth",
+  "seat": "IL-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1968,
+   "education": "BA University of Hawaii (1989); MA International Affairs, George Washington University (1992); PhD Human Services, Capella University (2015)",
+   "career": "Army helicopter pilot, wounded in Iraq (2004), retired as Lt. Colonel (O-5); Director, Illinois Dept. of Veterans Affairs (2006-09); Assistant Secretary of Veterans Affairs (2009-11)",
+   "prior_office": "US House IL-8 (2013-17); US Senator since Jan 2017; DNC Vice Chair (2021-25)"
+  },
+  "self_description": "No ideological self-label found. Profile built on military service and veterans/disability issues; mainstream Democrat (DW-NOMINATE places her in the more moderate half of the caucus).",
+  "primary_context": "2022: unopposed in the Democratic primary; beat Republican Kathy Salvi 56.8-41.5 (Illinois FOP endorsed Salvi).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Long supported military aid to Israel and opposed BDS; said in Jan 2024 that a ceasefire would not help. In Jul 2025 she voted for both Sanders resolutions blocking specific arms sales, citing the Netanyahu government's handling of humanitarian needs. Not a full embargo or genocide claim."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator, former Assistant Secretary of VA and Lt. Colonel (office 3). PhD/MA plus a senior federal role (cred 2). Subcommittee ranking member on aviation safety; two of her 116th-Congress bills became law; co-led the FAM Act and authored the rule change allowing infants on the Senate floor (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2022 debates with Salvi unverified (none recorded in the race record). Media: national profile (DNC speaker 2008-2024, memoir); no 2025-26 town-hall or hostile-outlet record verified (unverified). Substance: engages on defence and veterans policy."
+  },
+  "outside_support": [
+   "2022: EMILY's List, NARAL, Planned Parenthood, Sierra Club, LCV",
+   "2022 cycle: 47% small-dollar"
+  ],
+  "notable_positions": [
+   "Co-sponsor of the Ultra-Millionaire Tax Act (2026) and DC statehood (bulk data)",
+   "Voted against the Laken Riley Act (2025) (bulk data)",
+   "Voted for both July 2025 Sanders resolutions blocking arms sales to Israel (https://www.duckworth.senate.gov/news/in-the-news/senate-votes-down-israel-arms-sales-ban-despite-growing-democrat-support)",
+   "Supports an assault-weapons ban and universal background checks (https://en.wikipedia.org/wiki/Tammy_Duckworth)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Left markers come only from bulk co-sponsorships: the 2026 Ultra-Millionaire Tax (L1) and DC statehood (L11), for LI 2. No centrist markers were found (CI 0; Lugar rank 73rd). She is highly credentialed (EPD 7) and EO is neutral (3, with debate and media unverified), so step 5 places her nearest Cat 1 by LI > CI. This is a weak, imperfect fit for a mainstream, defence-oriented Democrat.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tammy_Duckworth",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Illinois",
+   "https://www.duckworth.senate.gov/news/in-the-news/senate-votes-down-israel-arms-sales-ban-despite-growing-democrat-support",
+   "https://www.thelugarcenter.org/ourwork-85.html"
+  ]
+ },
+ {
+  "id": "M000133",
+  "name": "Edward J. Markey",
+  "seat": "MA-SEN",
+  "call_status": "re-elected 2026 (projected winner over Republican John Deaton, 3 Nov 2026)",
+  "bio": {
+   "birth_year": 1946,
+   "education": "BA Boston College (1968); JD Boston College Law School (1972)",
+   "career": "Lawyer; US Army Reserve; career legislator",
+   "prior_office": "Massachusetts House (1973-76); US House (1976-2013); US Senator since July 2013"
+  },
+  "self_description": "Campaigns as a progressive. He ran the 2026 primary alongside Sanders, Warren, Pressley and AOC, highlighting his Green New Deal partnership with Ocasio-Cortez and Medicare for All.",
+  "primary_context": "Challenged in the 1 Sep 2026 primary by Rep. Seth Moulton (47), who argued for generational change and ran somewhat to his centre on trans sports and health care ('universal healthcare', not M4A). Markey won about 65-70% (AP call; reported as a ~30-point margin).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Senate author of the Green New Deal resolution with AOC (2019; reintroduced 2021 and 20 Apr 2023).",
+    "src": "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "At the 20 Aug 2026 primary debate he said unequivocally that transgender athletes should be allowed to play in girls' sports, and attacked Moulton: 'You threw those trans kids under the bus.'",
+    "src": "https://www.boston.com/news/local-news/2026/08/21/markey-and-moulton-make-final-pitch-to-voters-in-lively-third-debate/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "'We must defund and abolish ICE' (30 Jan 2026), reported as the first senator to call for abolition during the 2025-26 raids. On 17 Jul 2026: 'It's long past time we abolish ICE.'",
+    "src": "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-opposing-appropriations-package-that-includes-two-week-extension-of-ice-and-dhs-funding"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Voted for the July 2025 resolutions blocking certain arms sales to Israel. No statement found calling Gaza a genocide or backing a full embargo."
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (June 2026)",
+   "Alexandria Ocasio-Cortez (Aug 2026)",
+   "Sunrise Movement (2026)",
+   "Our Revolution (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Pressed Medicare for All in the 2026 primary debates to distinguish himself from Moulton; co-sponsors S.1506.",
+    "src": "https://www.boston.com/news/local-news/2026/08/21/markey-and-moulton-make-final-pitch-to-voters-in-lively-third-debate/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls for abolishing ICE (see L9).",
+    "src": "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-opposing-appropriations-package-that-includes-two-week-extension-of-ice-and-dhs-funding"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": -1,
+    "e": "Explicitly backs trans girls competing in girls' sports (see L7).",
+    "src": "https://www.boston.com/news/local-news/2026/08/21/markey-and-moulton-make-final-pitch-to-voters-in-lively-third-debate/"
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Nearly 50 years in Congress (office 3). JD (cred 2). Author of the Green New Deal resolution and many laws on telecom, energy and climate; long-time committee chair/ranking member (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2026: three primary debates with Moulton (8 Jul WWLP; a second media-consortium debate; 20 Aug WCVB/WBUR/Globe) and one general debate with Deaton (13 Oct, WBZ). He skipped a 16 Jun forum where Moulton and Deaton debated, and Deaton's request for a second general debate was not taken up. Most debates offered were attended, hence 2. Media: mostly friendly progressive settings and rallies (Sanders/Warren/Pressley). No Fox or hostile-outlet appearances or 2025-26 town-hall count found (unverified), hence 1. Substance: took clear positions on contested issues in debates (trans athletes, ICE, M4A)."
+  },
+  "outside_support": [
+   "Sanders, AOC, Warren, Ayanna Pressley",
+   "Sunrise Movement; Our Revolution",
+   "Most Massachusetts labor unions",
+   "2026 receipts about $6.0M, with a 33% small-dollar share"
+  ],
+  "notable_positions": [
+   "Green New Deal co-author with AOC (https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution)",
+   "Called to 'defund and abolish ICE' in Jan 2026 (https://www.markey.senate.gov/news/press-releases/senator-markey-statement-opposing-appropriations-package-that-includes-two-week-extension-of-ice-and-dhs-funding)",
+   "Backs trans athletes in girls' sports, a contrast he drew with Moulton (https://www.boston.com/news/local-news/2026/08/21/markey-and-moulton-make-final-pitch-to-voters-in-lively-third-debate/)",
+   "Co-sponsor of Medicare for All, the Ultra-Millionaire Tax, the For the 99.5% Act and the Judiciary Act of 2023 (bulk data)",
+   "Voted for the July 2025 resolutions to block arms sales to Israel (https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-joint-resolutions-of-disapproval-of-arms-sales)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships alone give L1, L2, L3, L10 and L11 (LI 5). Research adds the Green New Deal authorship, an explicit call to abolish ICE, explicit support for trans athletes in girls' sports, and 2026 endorsements from Sanders, AOC and Sunrise. LI is well above 6, so he is a movement-left Senate figure.",
+  "sources": [
+   "https://www.boston.com/news/local-news/2026/08/21/markey-and-moulton-make-final-pitch-to-voters-in-lively-third-debate/",
+   "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution",
+   "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-opposing-appropriations-package-that-includes-two-week-extension-of-ice-and-dhs-funding",
+   "https://www.npr.org/2026/02/04/nx-s1-5690180/will-calls-to-abolish-ice-sway-voters-in-2026-the-strategy-has-democrats-split",
+   "https://www.wbur.org/news/2026/06/29/bernie-sanders-endorses-markey-senate-moulton",
+   "https://bostonglobe.com/2026/08/20/metro/aoc-markey-moulton-senate-democratic-primary/",
+   "https://pbs.org/newshour/politics/massachusetts-sen-markey-wins-primary-over-opponent-who-called-for-generational-change",
+   "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts",
+   "https://www.foxnews.com/politics/massachusetts-senate-candidates-trade-sharp-attacks-fiery-debate-incumbent-markey-skips-event.print",
+   "https://www.boston.com/news/local-news/2026/11/03/markey-projected-to-win-reelection-defeats-deaton-in-senate-race/",
+   "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-joint-resolutions-of-disapproval-of-arms-sales",
+   "https://ourrevolution.com/ed-markey-for-re-election-to-the-us-senate/"
+  ]
+ },
+ {
+  "id": "W000817",
+  "name": "Elizabeth Warren",
+  "seat": "MA-SEN",
+  "call_status": "not up until 2030 (re-elected Nov 2024 over John Deaton)",
+  "bio": {
+   "birth_year": 1949,
+   "education": "BS University of Houston (1970); JD Rutgers Law School (1976)",
+   "career": "Bankruptcy/commercial law professor (Harvard Law School); architect of and Special Advisor for the CFPB (2010-11)",
+   "prior_office": "US Senator since Jan 2013; 2020 presidential candidate; Ranking Member, Senate Banking Committee (119th)"
+  },
+  "self_description": "A progressive who has long described herself as 'a capitalist to my bones' (2018) and frames her agenda as structural reform of markets. Her Jan 2026 'big tent' speech rejected the claim that 'Democrats lost power because we were too progressive' and criticised Abundance-style politics and billionaire donors.",
+  "primary_context": "Unopposed for the Democratic nomination in 2024; beat Republican John Deaton in the general election.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0,
+    "e": "Rejects the socialist label ('capitalist to my bones'); no nationalisation call verified this session."
+   },
+   "L5": {
+    "v": 1,
+    "e": "Senate co-sponsor of the Green New Deal resolution (2019 original and 20 Apr 2023 reintroduction).",
+    "src": "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Author of the Accountable Capitalism Act, which requires workers to elect at least 40% of a large US corporation's board (introduced Aug 2018). Also known for her call to break up big tech.",
+    "src": "https://www.warren.senate.gov/newsroom/press-releases/warren-introduces-accountable-capitalism-act"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Apr 2024: 'if you want to do it as an application of law, I believe that they'll find that it is genocide, and they have ample evidence to do so.' Her office said this was legal analysis of the ICJ case, not her personal view, so 0 (borderline)."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (S.1506, 119th); backed single-payer in her 2020 campaign.",
+    "src": "https://www.congress.gov/bill/119th-congress/senate-bill/1506"
+   },
+   "C3": {
+    "v": -1,
+    "e": "Lead sponsor of the Ultra-Millionaire Tax Act (annual wealth tax), the opposite of the C3 profile.",
+    "src": "https://www.congress.gov/bill/119th-congress/senate-bill/4246"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0,
+    "e": "Mixed: WelcomeStack notes she sponsors a major housing-supply ('Abundance') bill, but she explicitly attacks the Abundance agenda and is a leading anti-corporate voice, so 0."
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator since 2013 and former presidential candidate (office 3). JD and Harvard Law professor (cred 2). Created the CFPB, authors signature bills (wealth tax, Accountable Capitalism Act), and is Banking Committee ranking member (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2024: debated Deaton twice (15 Oct WBZ Boston; 17 Oct NEPM Springfield). She agreed to two while Deaton pushed for up to five, so 1. Media: holds frequent constituent town halls (e.g. Framingham, 22 Feb 2025) and many mainstream interviews, but declined a Fox News town hall (2019), calling Fox a 'hate-for-profit racket'. No 2025-26 Fox appearance found. Substance: detailed, policy-heavy engagement."
+  },
+  "outside_support": [
+   "Small-dollar heavy: 53% of individual receipts unitemised (2024 cycle); PAC share under 1%",
+   "Rallied with Sanders and Pressley for Markey in 2026"
+  ],
+  "notable_positions": [
+   "Lead author of the Ultra-Millionaire Tax (2% annual wealth tax) (https://www.congress.gov/bill/119th-congress/senate-bill/4246)",
+   "Accountable Capitalism Act: 40% worker-elected corporate boards (https://www.warren.senate.gov/newsroom/press-releases/warren-introduces-accountable-capitalism-act)",
+   "Green New Deal co-sponsor (https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution)",
+   "Co-sponsor of Medicare for All, For the 99.5% Act and the Judiciary Act of 2023 (Court expansion) (bulk data)",
+   "Said in 2024 that courts would likely find Israel's conduct in Gaza to be genocide; office called it legal analysis (https://themedialine.org/headlines/us-sen-elizabeth-warren-icj-has-ample-evidence-to-find-israel-guilty-of-genocide)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships alone give L1, L2, L3, L10 and L11 (LI 5). Research adds the Green New Deal (L5) and worker board-seat mandates (L6), for LI of 7 or more and well above the Cat 1 threshold. She is the Senate's leading progressive economic policy figure, with no centrist markers (C2 and C3 explicitly negative).",
+  "sources": [
+   "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution",
+   "https://www.warren.senate.gov/newsroom/press-releases/warren-introduces-accountable-capitalism-act",
+   "https://cointelegraph.com/news/elizabeth-warren-john-deaton-october-debates-senate",
+   "https://www.wbur.org/news/2024/10/16/warren-deaton-senate-debate-abortio-immigration-economy",
+   "https://www.wbur.org/news/2024/10/18/warren-deaton-senate-race-debate-springfield-recap",
+   "https://www.warren.senate.gov/?p=28739",
+   "https://fortune.com/2019/05/14/elizabeth-warren-fox-news/",
+   "https://themedialine.org/headlines/us-sen-elizabeth-warren-icj-has-ample-evidence-to-find-israel-guilty-of-genocide",
+   "https://www.welcomestack.org/p/stuck-chuck-or-mary",
+   "https://www.thelugarcenter.org/ourwork-85.html"
+  ]
+ },
+ {
+  "id": "A000382",
+  "name": "Angela D. Alsobrooks",
+  "seat": "MD-SEN",
+  "call_status": "not up until 2030 (elected Nov 2024)",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BA Public Policy, Duke University (1993); JD University of Maryland School of Law (1996)",
+   "career": "Assistant state's attorney; executive director of Prince George's County Revenue Authority",
+   "prior_office": "Prince George's County State's Attorney (2011-18); Prince George's County Executive (2018-24); US Senator since Jan 2025"
+  },
+  "self_description": "No ideological self-label found; the Baltimore Banner describes her as center-left. She campaigns on 'kitchen-table' issues and community safety.",
+  "primary_context": "May 2024: beat self-funding Rep. David Trone in a high-spending primary (not a clear left/right contest), then beat Larry Hogan 54.6-42.8.",
+  "L": {
+   "L1": {
+    "v": 0,
+    "e": "Supports raising the corporate tax rate (level unspecified), which does not meet the >28% threshold."
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "As county executive she signed limits on local cooperation with ICE in noncriminal cases. In Jan 2026 she said ICE funding under Trump 'must be stopped'. No call to abolish ICE as an agency."
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Backs Israel's 'right to defend itself' and a two-state solution; voted for the July 2025 resolutions to block some arms sales. No genocide or embargo statement."
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Tough-on-crime prosecutor record; as county executive she opposed removing school resource officers and proposed a police funding increase and a juvenile curfew.",
+    "src": "https://en.wikipedia.org/wiki/Angela_Alsobrooks"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-housing-supply/pro-investment: opposed a 2023 townhouse moratorium as discouraging investment and co-led adding the Community Investment and Prosperity Act to the ROAD to Housing Act. Also one of 18 Democrats voting for the GENIUS (stablecoin) Act.",
+    "src": "https://en.wikipedia.org/wiki/Angela_Alsobrooks"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Senator and former county executive of a large county and county prosecutor (office 3). JD (cred 2). First-term senator with bills introduced (Tariff Transparency Act, farmland bill) but none verified as enacted; subcommittee ranking member (policy 1)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2024: took part in about 14 primary forums and debates with Trone (Trone skipped several and refused a WBAL/WRC debate). In the general she debated Hogan on MPT (10 Oct, moderated by Chuck Todd) and at The Arc Maryland forum (22 Oct). Media: no 2025-26 town-hall or hostile-outlet record verified (unverified). Substance: engaged directly in hearings (e.g. questioning RFK Jr. on vaccine schedules)."
+  },
+  "outside_support": [
+   "EMILY's List, DSCC, Democratic Majority for Israel, J Street PAC, JDCA, MoveOn, LCV, Sierra Club, AFL-CIO, AFT, NEA, SEIU",
+   "Opponent Hogan was endorsed by the Maryland FOP and the US Chamber"
+  ],
+  "notable_positions": [
+   "Prosecutor and county-executive record of tough-on-crime policies plus police funding (https://en.wikipedia.org/wiki/Angela_Alsobrooks)",
+   "Voted for the GENIUS stablecoin Act and helped negotiate the CLARITY Act yield compromise, then voted against advancing it (https://en.wikipedia.org/wiki/Angela_Alsobrooks)",
+   "Voted against the Laken Riley Act and against ending the Nov 2025 shutdown (bulk data)",
+   "Said ICE funding under Trump 'must be stopped' after Baltimore facility video (Jan 2026) (https://en.wikipedia.org/wiki/Angela_Alsobrooks)",
+   "Supports a public option, a carbon tax, and raising the corporate rate (https://en.wikipedia.org/wiki/Angela_Alsobrooks)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "The left index is only DC statehood (LI 1). Centrist markers are a pro-police prosecutor and county-executive record (C5) and pro-investment and housing-supply positions (C8), for CI 2. Neither threshold is met. She debated extensively in 2024 and is well credentialed, so step 5 places her nearest Cat 4 by CI > LI. This is an imperfect fit: her Senate voting record (Laken Riley Nay, shutdown Nay) is mainstream-liberal.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angela_Alsobrooks",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Maryland",
+   "https://jewishinsider.com/2025/07/majority-senate-democrats-block-u-s-aid-to-israel-bernie-sanders/"
+  ]
+ }
+]

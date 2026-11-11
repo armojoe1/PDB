@@ -1,0 +1,1308 @@
+[
+ {
+  "id": 81,
+  "name": "Colin Allred",
+  "seat": "TX-33",
+  "call_status": "confirmed winner (per roster/Wikipedia new-members list; general vs Patrick Gillespie (R) in Dem-leaning redrawn seat; not independently re-verified after search budget ran out)",
+  "bio": {
+   "birth_year": 1983,
+   "education": "BA Baylor University; JD UC Berkeley School of Law",
+   "career": "Former NFL linebacker (Tennessee Titans); civil-rights attorney; special assistant in HUD General Counsel's office (Obama administration)",
+   "prior_office": "U.S. Representative TX-32 (2019-2025); 2024 Democratic nominee for U.S. Senate (lost to Ted Cruz); withdrew from 2026 Senate primary Dec 2025 to run for TX-33"
+  },
+  "self_description": "Pitches himself as a pragmatic coalition-builder; 2024 ad called him 'tough' and 'standing up to extremists in both parties'; in 2026 said 'Democrats need to put forward what they're for and what they're against.'",
+  "primary_context": "Beat incumbent Rep. Julie Johnson (displaced from TX-32 by redistricting; backed by AOC, Jeffries and New Dem Action Fund) ~55-45 in the 26 May 2026 runoff after leading the 3 March primary 45.5-34. Contest centred on ICE: Allred moved left to call for abolishing ICE and attacked Johnson's Palantir stock; Johnson called him a 'flip-flopper' over his 2024 Laken Riley Act and anti-sanctuary votes.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Opposed Medicare for All in Jan 2024 Senate primary debate vs Roland Gutierrez (who backed near-single-payer); historically backs a public option.",
+    "src": "https://www.texastribune.org/2024/01/28/texas-senate-democratic-debate/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": -1,
+    "e": "2024 Senate ad and debate: 'I don't want boys playing girls' sports.'",
+    "src": "https://www.fox26houston.com/news/allred-cruz-attack-ad-i-dont-want-boys-playing-girls-sports"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "2026 immigration agenda: 'Colin will fight to abolish ICE' - pass legislation to abolish ICE and transfer functions to FBI/DEA/CBP/new civil agency; 'ICE has to go... abolish ICE, whatever you want to call it.'",
+    "src": "https://colinallred.com/immigration"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Jan 2024: opposed an unconditional Gaza ceasefire ('a ceasefire is not a magical term'); 2024 campaign touted backing from both AIPAC and J Street. 2025 criticised Israeli war aims but no genocide/embargo language found.",
+    "src": "https://www.texastribune.org/2024/01/28/texas-senate-democratic-debate/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposed Medicare for All in 2024 Senate primary debate; supports a Medicare buy-in/public option building on ACA.",
+    "src": "https://www.texastribune.org/2024/01/28/texas-senate-democratic-debate/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0,
+    "e": "CONFLICT: voted for Laken Riley Act, No Sanctuary Cities Act and a 2024 GOP resolution condemning Biden border policy, but in 2026 campaigns on abolishing ICE; net 0.",
+    "src": "https://www.cbsnews.com/texas/news/democrats-julie-johnson-colin-allred-north-texas-blast-each-other-battle-newly-drawn-congressional-district/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "2024 Senate ad/debate: 'I don't want boys playing girls' sports' (drew criticism from LGBTQ advocates).",
+    "src": "https://www.fox26houston.com/news/allred-cruz-attack-ad-i-dont-want-boys-playing-girls-sports"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented record of breaking with party on border votes (Laken Riley Act; one of 14 Dems backing Jan 2024 resolution condemning Biden border policy); 'I've built broad coalitions'.",
+    "src": "https://www.texastribune.org/2026/05/13/texas-democratic-primary-runoff-colin-allred-julie-johnson-congress/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former 3-term U.S. Rep and 2024 Senate nominee (office 3); Berkeley JD + NFL/HUD career (cred 2); detailed written plans naming specific bills (12-point anti-corruption plan, affordability agenda, immigration agenda with Dream and Promise Act, End For-Profit Private Prisons Act, etc.) (policy 2)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 cycle: per a rival campaign's petition, Allred (and Johnson) skipped the 'singular sanctioned debate' of the TX-33 primary; they appeared only in separately recorded Lone Star Politics (NBC5/DMN) segments; no 2026 general-election debate with Gillespie found (search budget ran out, so not exhaustive). Prior cycles: debated Cruz (2024) and Gutierrez (2024 primary). Regular mainstream TV/press interviews incl. Fox affiliates; engages critiques of his record (defended past ICE votes as made under a different DHS)."
+  },
+  "outside_support": [
+   "AI-industry super PAC (~$400K for him in runoff, per Texas Tribune)",
+   "Rep. Jasmine Crockett (endorsement)",
+   "AIPAC and J Street support claimed in 2024 Senate race (not verified for 2026)"
+  ],
+  "notable_positions": [
+   "Abolish ICE and transfer its functions to FBI/DEA, CBP and a new civil agency; end for-profit detention (https://colinallred.com/immigration)",
+   "Opposes Medicare for All; public option/Medicare negotiation of all drug prices and march-in rights (https://www.texastribune.org/2024/01/28/texas-senate-democratic-debate/; https://colinallred.com/affordability)",
+   "Federal price-gouging ban on groceries; repeal Trump tariffs; close 'billionaire hedge fund loophole' (https://colinallred.com/affordability)",
+   "12-point anti-corruption plan: ban member stock trading, ban corporate PAC money, overturn Citizens United, independent redistricting commissions (https://colinallred.com/corruption)",
+   "2024: 'I don't want boys playing girls' sports' (https://www.fox26houston.com/news/allred-cruz-attack-ad-i-dont-want-boys-playing-girls-sports)",
+   "Opposed unconditional Gaza ceasefire in 2024 (https://www.texastribune.org/2024/01/28/texas-senate-democratic-debate/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Record and 2024 positions are centrist (opposed M4A, broke with party on border votes, trans-sports comments), but in 2026 he shifted left on immigration to call for abolishing ICE and had no centrist-group endorsements; LI ~1 vs CI ~3, so neither threshold is met. Highly credentialed (EPD 7) and media-engaged but skipped the only 2026 primary debate (EO 3), so falls to step 5 'nearest' = Cat 4, flagged imperfect fit given the 2026 leftward turn on ICE.",
+  "sources": [
+   "https://www.texastribune.org/2026/05/26/texas-colin-allred-julie-johnson-congress-district-33-democratic-primary-runoff/",
+   "https://www.texastribune.org/2026/05/13/texas-democratic-primary-runoff-colin-allred-julie-johnson-congress/",
+   "https://www.cbsnews.com/texas/news/democrats-julie-johnson-colin-allred-north-texas-blast-each-other-battle-newly-drawn-congressional-district/",
+   "https://news.ballotpedia.org/2026/05/27/colin-allred-d-defeated-incumbent-julie-johnson-d-in-the-democratic-primary-runoff-for-texas-33rd-congressional-district-on-may-26-2026/",
+   "https://colinallred.com",
+   "https://colinallred.com/immigration",
+   "https://colinallred.com/affordability",
+   "https://colinallred.com/corruption",
+   "https://www.texastribune.org/2024/01/28/texas-senate-democratic-debate/",
+   "https://www.fox26houston.com/news/allred-cruz-attack-ad-i-dont-want-boys-playing-girls-sports",
+   "https://actionnetwork.org/petitions/empty-podiums-dont-lead-demand-colin-allred-and-julie-johnson-debate-now",
+   "https://texasmetronews.com/?p=106018",
+   "https://www.tpr.org/government-politics/2026-10-15/talarico-says-he-doesnt-support-abolishing-ice-but-criticizes-their-work-under-trump-as-secret-police"
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Johnny Garcia",
+  "seat": "TX-35",
+  "call_status": "confirmed winner (AP: 57.2% to 42.8% over Carlos De La Cruz (R) in redrawn Trump+10 seat)",
+  "bio": {
+   "birth_year": 1987,
+   "education": "Memorial HS (Edgewood ISD); attended St. Philip's College (no degree reported)",
+   "career": "Bexar County Sheriff's Office ~18-20 yrs: jail, patrol, SWAT hostage negotiator, then public information officer/spokesman for Sheriff Javier Salazar; earlier construction work",
+   "prior_office": "none"
+  },
+  "self_description": "'Old-school Democrat'; described himself as a moderate trying to 'build a broad coalition'; TPR: focused on law and order and household finances, avoids divisive fights.",
+  "primary_context": "Finished second in March primary, then beat housing activist Maureen Galindo ~64-36 in 26 May runoff after Galindo's comments about Israel/Zionists were condemned as antisemitic by party leaders; Galindo was boosted by 'Lead Left PAC'. Garcia was the establishment/Blue Dog-backed candidate; he said he was pro-choice and criticised ICE tactics while defending its mission.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Defended ICE's mission while opposing some tactics; supports giving Border Patrol needed resources and holding immigration agencies to police accountability standards.",
+    "src": "https://www.sacurrent.com/news/san-antonio-news/johnny-garcia-declares-victory-in-tx-35-race-against-controversy-mired-maureen-galindo/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Accepted endorsement from Democratic Majority for Israel; opposed by Galindo over Israel (denied taking AIPAC money).",
+    "src": "https://www.tpr.org/government-politics/2026-05-14/democratic-runoff-in-texas-35th-congressional-district-roiled-by-comments-about-jews-and-israel"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Says 'Biden got it wrong' on the border and securing it is a priority; supports Border Patrol resources and 'targeted enforcement' against 'tough criminals' while defending ICE's mission.",
+    "src": "https://www.tpr.org/government-politics/2026-10-09/in-hotly-contested-tx35-candidates-debate-affordability-immigration-and-tariffs-impact-on-business-owners"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC (endorsed Jan 2026; Blue Dog-aligned PAC spent ~$1-1.25M for him in primary)"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 0,
+   "policy": 1,
+   "note": "No elected office; sheriff's deputy and agency spokesman (not a senior public role); no degree reported; some concrete proposals (end tariffs, renew ACA subsidies, restrict large investment firms buying homes, apprenticeships) but avoided committing to specific legislation in Oct forum."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Participated in primary debates/forums with Galindo and an Oct 2026 Hispanic Chamber forum with De La Cruz (moderated by TPR); appeared on TPR's The Source (De La Cruz declined). Media mostly local; engaged on Biden border record but 'shied away from making promises' on specific legislation."
+  },
+  "outside_support": [
+   "Blue Dog PAC / Blue Dog Action PAC (~$1M+)",
+   "DCCC Red to Blue",
+   "Democratic Majority for Israel (endorsement)",
+   "BOLD PAC (CHC)",
+   "Hakeem Jeffries (campaigned for him)",
+   "Texas AFT",
+   "San Antonio Express-News editorial endorsement",
+   "Rep. Sam Liccardo (endorsement)"
+  ],
+  "notable_positions": [
+   "Self-described 'old-school Democrat' focused on affordability and ending Trump's tariffs (https://bluedogdems.com/blue-dog-pac-endorses-bobby-pulido-and-johnny-garcia-in-texas-15th-and-35th-congressional-districts/)",
+   "'Biden got it wrong' on border; criticises Trump ICE raids as harming local business (https://www.tpr.org/government-politics/2026-10-09/in-hotly-contested-tx35-candidates-debate-affordability-immigration-and-tariffs-impact-on-business-owners)",
+   "Restrict large investment firms from buying residential homes; renew ACA subsidies; protect Medicare/Social Security (https://sanantonioreport.org/congressional-district-35-midterm-election-johnny-garcia-profile/; https://www.tpr.org/podcast/the-source/2026-10-04/affordability-latino-turnout-and-trumps-endorsement-shape-race-for-texas-redrawn-35th-district)",
+   "Pro-choice; supports reining in ICE tactics while securing the border (https://www.sacurrent.com/news/san-antonio-news/johnny-garcia-declares-victory-in-tx-35-race-against-controversy-mired-maureen-galindo/)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "Clearly a moderate (Blue Dog PAC-backed, border-security messaging, beat a far-left primary rival), but documented centrist markers total only ~CI 3 and LI 0, so neither ideological threshold is met. With no prior office, no degree and generic-to-moderate policy depth (EPD 1), the decision rule yields Cat 2; Cat 4 is the plausible alternative if more centrist markers surface.",
+  "sources": [
+   "https://sanantonioreport.org/congressional-district-35-midterm-election-johnny-garcia-profile/",
+   "https://www.tpr.org/podcast/the-source/2026-10-04/affordability-latino-turnout-and-trumps-endorsement-shape-race-for-texas-redrawn-35th-district",
+   "https://www.tpr.org/government-politics/2026-05-26/garcia-defeats-galindo-in-democratic-runoff-for-redrawn-tx-35-setting-up-high-stakes-general-election-fight",
+   "https://www.tpr.org/government-politics/2026-05-14/democratic-runoff-in-texas-35th-congressional-district-roiled-by-comments-about-jews-and-israel",
+   "https://www.tpr.org/government-politics/2026-10-09/in-hotly-contested-tx35-candidates-debate-affordability-immigration-and-tariffs-impact-on-business-owners",
+   "https://bluedogdems.com/blue-dog-pac-endorses-bobby-pulido-and-johnny-garcia-in-texas-15th-and-35th-congressional-districts/",
+   "https://www.texasobserver.org/35th-congressional-district-runoff-johnny-garcia/",
+   "https://www.sacurrent.com/news/san-antonio-news/johnny-garcia-declares-victory-in-tx-35-race-against-controversy-mired-maureen-galindo/",
+   "https://www.texastribune.org/text/229200/",
+   "https://www.ksat.com/news/local/2026/10/21/political-newcomers-de-la-cruz-and-garcia-battle-for-redrawn-texas-35th-congressional-district/",
+   "https://news4sanantonio.com/news/local/johnny-garcia-secures-victory-in-texas-35th-congressional-district-over-de-la-cruz",
+   "https://ktar.com/?p=5925239",
+   "https://bluevoterguide.org/TX/candidate_Johnny_Garcia/707812",
+   "https://www.click2houston.com/news/texas/2026/10/19/hakeem-jeffries-to-campaign-in-texas-on-behalf-of-bexar-county-congressional-candidate-johnny-garcia/"
+  ]
+ },
+ {
+  "id": 83,
+  "name": "Ben McAdams",
+  "seat": "UT-1",
+  "call_status": "confirmed winner (70.3% to 26.0% over Riley Owen (R) in new court-ordered Salt Lake County seat; Dem flip)",
+  "bio": {
+   "birth_year": 1974,
+   "education": "BA political science, University of Utah; JD, Columbia Law School",
+   "career": "Securities lawyer (Davis Polk; Dorsey & Whitney); senior adviser to SLC Mayor Ralph Becker; adjunct law faculty, University of Utah",
+   "prior_office": "Utah State Senate (2009-2012); Salt Lake County Mayor (2013-2019); U.S. Representative UT-4 (2019-2021)"
+  },
+  "self_description": "Describes himself as a moderate who will 'work with anyone to get results' and run 'against out-of-touch politicians in both parties'; disputed Gov. Cox's claim he moved left for the new seat: 'I haven't changed.'",
+  "primary_context": "Won 23 June 2026 four-way primary with 51.9% over progressive state Sen. Nate Blouin (27.5%; backed by Bernie Sanders, CPC, Our Revolution, PCCC, Leaders We Deserve, Track AIPAC) and Liban Mohamed (16.7%; backed by Ilhan Omar), after Mohamed narrowly beat him at the party convention. Clear establishment/centrist vs progressive contest.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "In 2019 said he did not support Medicare for All because it would not 'work for [his] constituents'.",
+    "src": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": -1,
+    "e": "2019: 'No deal on the Green New Deal' (declined to back GND) per cited Connect To Congress piece; 2026 platform backs clean energy/grid investment only.",
+    "src": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Did not support Medicare for All (2019); platform focuses on 'protecting coverage' and lowering drug prices.",
+    "src": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "2019: said a border wall 'is not immoral' and he could vote for it under certain circumstances (2026 platform is softer: asylum protections, pathway to citizenship).",
+    "src": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Voted against Pelosi for Speaker (2019); rated most conservative House Democrat of the 116th Congress by DW-NOMINATE; one of 18 Dems opposing the $2.2T 2020 COVID bill; voted against $15 minimum wage bill.",
+    "src": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Platform: 'increase housing supply, cut red tape that drives up costs' (abundance/pro-supply framing).",
+    "src": "https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families/"
+   }
+  },
+  "C1_endorsements": [
+   "NewDem Action Fund",
+   "WelcomePAC",
+   "Blue Dog Coalition member in 116th Congress (2019-21; endorsed by Blue Dogs in 2018)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former U.S. Rep, county mayor and state senator (office 3); Columbia JD + BigLaw (cred 2); authored legislative record in Congress/state senate, though 2026 platform text is fairly general (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Participated in the 27 May 2026 PBS Utah/Utah Debate Commission primary debate (all 4 candidates) and the 29 Sep 2026 Utah Debate Commission general debate vs Riley Owen. Long record of mainstream Utah media (KSL, Deseret News, SL Tribune) reaching Republican-leaning audiences; engages critics (rebutted Cox's 'moved left' claim)."
+  },
+  "outside_support": [
+   "NewDem Action Fund",
+   "WelcomePAC",
+   "LCV Action Fund",
+   "AFGE",
+   "NEA",
+   "UMWA COMPAC",
+   "Democrats for Education Reform",
+   "Jewish Democratic Council of America",
+   "Deb Haaland, Martin O'Malley, SLC Mayor Erin Mendenhall (endorsements)"
+  ],
+  "notable_positions": [
+   "Self-described moderate who 'will work with anyone' (https://benmcadams.com/priorities/)",
+   "Did not support Medicare for All (2019) (https://en.wikipedia.org/wiki/Ben_McAdams)",
+   "Increase housing supply and cut red tape; oppose tariffs raising grocery prices (https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families/)",
+   "Codify Roe; humane immigration with pathway to citizenship and asylum protections; LGBTQ+ protections incl. trans people (https://benmcadams.com/platform/defending-human-rights-and-opportunity-for-every-utahn/)",
+   "Protect public lands, pass America's Red Rock Wilderness Act, restore Great Salt Lake (https://benmcadams.com/platform/protecting-the-environment/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Strong centrist profile: New Dem Action Fund and WelcomePAC backing, former Blue Dog, voted against Pelosi, opposed M4A, pro-housing-supply (CI ~7, LI 0). He beat a Sanders/CPC-backed progressive in the primary. Some markers rest on his 2019-20 House record; his 2026 platform is softer on immigration but contains no left-index positions.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_McAdams",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+   "https://www.benmcadams.com/",
+   "https://benmcadams.com/priorities/",
+   "https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families/",
+   "https://benmcadams.com/platform/protecting-the-environment/",
+   "https://benmcadams.com/platform/defending-human-rights-and-opportunity-for-every-utahn/",
+   "https://utahdebatecommission.org/schedule/",
+   "https://www.sltrib.com/news/politics/2026/06/01/nate-blouin-again-calls/"
+  ]
+ },
+ {
+  "id": 84,
+  "name": "Shannon Taylor",
+  "seat": "VA-1",
+  "call_status": "winner per Wikipedia results (51.16% to 48.60% over Rep. Rob Wittman, ~10.5k votes); NOTE: Henrico Citizen reported 4-5 Nov that AP had not yet called the race and Wittman had not conceded - verify AP call/concession",
+  "bio": {
+   "birth_year": 1967,
+   "education": "BA University of Virginia (1989); JD University of Richmond School of Law (1995)",
+   "career": "Career prosecutor; Henrico County Commonwealth's Attorney since 2012; president, Virginia Association of Commonwealth's Attorneys",
+   "prior_office": "Henrico County Commonwealth's Attorney (elected 2011, re-elected 2015/2019/2023); lost 2025 Democratic primary for Virginia Attorney General to Jay Jones 48.9-51.1"
+  },
+  "self_description": "Runs as a tough-on-crime prosecutor against a 'corrupt and unaccountable Washington'; touts 'bringing together Republicans, Independents and Democrats'. No ideological label found.",
+  "primary_context": "Won 4 Aug 2026 seven-way primary with ~53% over public-interest lawyer Salaam Bhatti (~20%; backed by Progressive Victory and Track AIPAC) and Navy veteran Jason Knapp (~10%). Establishment favourite (DCCC, Gov. Spanberger, Sens. Warner and Kaine); contest was not framed in sharp ideological terms in available coverage.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaign site: 'endorsed by 13 Sheriffs because of her record of taking on violent criminals'; pledges legislation to get fentanyl off streets and support law enforcement.",
+    "src": "https://shannontaylorva.com/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "NewDem Action Fund"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Elected county prosecutor for 14 years (office 2); JD + senior prosecutorial career (cred 2); some concrete proposals (12-year congressional term limits, stock-trading and lifetime lobbying ban, restore ACA tax credits, data centres must not raise power bills, rein in private equity in health care) but little detail with numbers/bills (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the 28 June 2026 Henrico County Democrats primary debate (all 7 candidates). No general-election debate with Wittman found (none listed on Wikipedia; search budget exhausted, so not exhaustive). Media: local TV/print interviews (CBS 6, Henrico Citizen, AP); responded to 'soft on crime' attacks by citing her record."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "NewDem Action Fund",
+   "End Citizens United",
+   "Giffords",
+   "Elect Democratic Women",
+   "AFGE",
+   "Association of Flight Attendants",
+   "Planned Parenthood Action Fund",
+   "House Majority PAC (sponsored PPP polling)"
+  ],
+  "notable_positions": [
+   "Endorsed by 13 sheriffs; support law enforcement and fentanyl legislation (https://shannontaylorva.com/)",
+   "12-year congressional term limits, ban member stock trading, reject corporate PAC money (https://shannontaylorva.com/)",
+   "Restore ACA tax credits, expand Medicare drug negotiation, end surprise billing (https://shannontaylorva.com/)",
+   "Rein in private equity in health care, restore Medicaid funding (https://www.henricocitizen.com/taylor-aims-to-rein-in-private-equity-in-healthcare-restore-medicaid-funding-and-aca-subsidies/)",
+   "Opposes utility price hikes; data centres must not raise family energy costs (https://shannontaylorva.com/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Prosecutor-centred, law-and-order campaign with sheriff endorsements and New Dem backing, but few documented ideological markers either way (LI 0, CI ~2). Credentialed (EPD 5) and participated in the primary debate (EO 3), so step 5 'nearest' gives Cat 4 as an imperfect fit; evidence is thin and her general-election debate record is unverified.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shannon_Taylor_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "https://shannontaylorva.com/",
+   "https://www.henricocitizen.com/taylor-unseats-wittman-in-congressional-victory-fueled-by-overwhelming-henrico-support/",
+   "https://www.henricocitizen.com/shannon-taylor-declares-victory-over-rob-wittman-whats-next/",
+   "https://www.henricocitizen.com/for-henrico-voters-in-the-countrys-median-district-decision-in-wittman-taylor-race-may-be-shaped-by-rising-costs-and-rule-of-law/",
+   "https://www.henricocitizen.com/taylor-aims-to-rein-in-private-equity-in-healthcare-restore-medicaid-funding-and-aca-subsidies/",
+   "https://www.cbsnews.com/news/virginia-1st-congressional-district-democratic-primary-results-shannon-taylor/",
+   "https://www.youtube.com/watch?v=obC_bocs154"
+  ]
+ },
+ {
+  "id": 85,
+  "name": "Elaine Luria",
+  "seat": "VA-2",
+  "call_status": "confirmed winner (53.0% to 44.5% over Rep. Jen Kiggans, per Wikipedia results)",
+  "bio": {
+   "birth_year": 1975,
+   "education": "BS U.S. Naval Academy; MS Old Dominion University",
+   "career": "20-year U.S. Navy surface warfare/nuclear officer, retired as Commander (O-5), commanded Assault Craft Unit 2; founded small business (Mermaid Factory)",
+   "prior_office": "U.S. Representative VA-2 (2019-2023): vice chair House Armed Services, chaired VA Disability Assistance subcommittee, member Jan. 6 Select Committee; lost 2022 to Kiggans"
+  },
+  "self_description": "Called herself a 'security Democrat' (2019); 2026 pitch: 'In the Navy, when the mission isn't going according to plan, you right the ship'; self-described 'unabashed supporter' of the U.S.-Israel relationship.",
+  "primary_context": "Won 4 Aug 2026 primary with 80.3% over physician Nila Devanath (16.4%; endorsed by Tidewater DSA and US Campaign for Palestinian Rights Action) and two minor candidates; establishment-backed (DCCC, Spanberger, Kaine, Warner).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Self-described 'unabashed supporter' of the U.S.-Israel relationship; endorsed by Democratic Majority for Israel in 2026.",
+    "src": "https://en.wikipedia.org/wiki/Elaine_Luria"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "2026 platform: 'a strong border is essential to strengthening our nation's security'; pledges to 'strengthen our border security'; in 2019 was one of 60 House Dems backing some physical border barrier.",
+    "src": "https://elaineforcongress.com/issues/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Problem Solvers Caucus member; repeatedly broke with Biden administration on Navy shipbuilding budgets and co-led a bipartisan ~$37B NDAA amendment over the chair's objection; lone Democrat voting against repeal of the 2002 Iraq AUMF (2021).",
+    "src": "https://en.wikipedia.org/wiki/Elaine_Luria"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "NewDem Action Fund (2026 endorsement; she was a New Democrat Coalition member 2019-23)",
+   "Problem Solvers Caucus (member 2019-23)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former two-term member of Congress and HASC vice chair (office 3); Navy Commander with 20-year career + MS (cred 2); authored legislation enacted (Veterans' COLA Act 2019, Gold Star Families Act; PACT Act champion) (policy 2)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "Was ABSENT from the only 2026 primary debate listed (24 Jun 2026, hosted by CoVa Coalition/Indivisible; all three rivals attended). No 2026 general-election debate with Kiggans found (not listed on Wikipedia; search budget exhausted, so this is unverified - if she debated Kiggans, raise to 1-2). Media: MSNBC Morning Joe and local outlets; engages Kiggans' record substantively (votes on OBBB, Iran war, DOGE)."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "EMILY's List",
+   "VoteVets",
+   "NewDem Action Fund",
+   "Democratic Majority for Israel",
+   "314 Action",
+   "LCV",
+   "NRDC Action Fund",
+   "Giffords PAC",
+   "Brady PAC",
+   "SEIU Virginia",
+   "AFGE",
+   "Human Rights Campaign",
+   "Planned Parenthood Action Fund",
+   "Gov. Wes Moore and Gov. Mikie Sherrill (endorsements)"
+  ],
+  "notable_positions": [
+   "Strong border security plus pathway to citizenship for those who follow the law (https://elaineforcongress.com/issues/)",
+   "Opposes the Iran war as an 'unnecessary and endless military intervention' while backing naval seapower and deterrence of Russia/China/Iran (https://elaineforcongress.com/issues/)",
+   "Ban stock trading by members and families; ban prediction-market insider trading (https://elaineforcongress.com/issues/)",
+   "Oppose offshore drilling; founded bipartisan Offshore Wind Caucus; fully fund Chesapeake Bay Program (https://elaineforcongress.com/issues/)",
+   "'Unabashed supporter' of U.S.-Israel relationship (https://en.wikipedia.org/wiki/Elaine_Luria)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Low",
+  "rationale": "National-security centrist with New Dem/Problem Solvers ties and border-security messaging (CI ~4, LI 0), just short of the Cat 4 threshold. Highly credentialed (EPD 7); the only 2026 debate found was one she skipped, giving EO 2 and a mechanical Cat 3. This hinges on her unverified general-election debate record; if she debated Kiggans, she moves to Cat 4 (imperfect fit).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elaine_Luria",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "https://elaineforcongress.com/",
+   "https://elaineforcongress.com/issues/",
+   "https://newrepublic.com/post/215092/elaine-luria-virginia-swing",
+   "https://www.youtube.com/watch?v=Kb1XHGcdCWA",
+   "https://www.politico.com/news/2026/02/19/pro-israel-dmfi-endorsements-democrats-house-primaries-00787254",
+   "https://votevets.org/press-releases/votevets-pac-endorses-elaine-luria-or-congress",
+   "https://www.whro.org/elections/2026-10-15/new-poll-in-virginias-2nd-district-luria-leads-kiggans-by-3-points"
+  ]
+ },
+ {
+  "id": 86,
+  "name": "Mitchell Berman",
+  "seat": "WI-1",
+  "call_status": "confirmed winner (52.0% to 48.0% over Rep. Bryan Steil, per Wikipedia; Milwaukee Journal Sentinel and WPR reported Berman defeats Steil)",
+  "bio": {
+   "birth_year": 1986,
+   "education": "BS Nursing, Marian University (Wisconsin)",
+   "career": "Registered/ER nurse ~20 years, incl. ~11 years at VA hospitals in SE Wisconsin; union member (Teamsters in college, National Nurses United); local open-government activist in Raymond school-board dispute",
+   "prior_office": "none"
+  },
+  "self_description": "Running as 'an advocate for the working class'; 'I was born and raised here in Wisconsin... had working class parents'; no ideological label found.",
+  "primary_context": "Won Aug 2026 primary with 44% over Milwaukee Ald. Peter Burgelis (withdrew, endorsed Berman), Lorenzo Santos and Miguel Aranda; earlier frontrunner Randy Bryce (Our Revolution-backed) withdrew and endorsed Berman. Not an ideological contest; he consolidated labour and establishment support.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Backs a public option and restoring ACA subsidies, not single payer (public option alone = 0)."
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC / Blue Dog Action (general-election endorsement)",
+   "NewDem Action Fund"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior office (office 0); BSN + mid-level nursing career (cred 1); priorities page has concrete but standard items - public option, raise number of drugs Medicare negotiates, PRO Act, Richard Star Act, lift Social Security cap, ban private equity buying homes/hospitals - few numbers (policy 1)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated Steil in Oct 2026 (Wisconsin Examiner, 'Steil, Berman face off in debate'); held town halls (WPR). Primary debate record not checked. Media mostly local/regional; engaged Steil on tariffs vs tax relief."
+  },
+  "outside_support": [
+   "DCCC Red to Blue (and joint DCCC-Berman ad buy)",
+   "Blue Dog PAC",
+   "NewDem Action Fund",
+   "J Street",
+   "End Citizens United",
+   "UAW",
+   "Wisconsin AFL-CIO",
+   "SEIU Wisconsin",
+   "WEAC/NEA",
+   "Teamsters Joint Council 39",
+   "314 Action",
+   "LCV Action Fund",
+   "House Majority PAC (sponsored polling)",
+   "Sen. Tammy Baldwin"
+  ],
+  "notable_positions": [
+   "Create a public option; restore ACA subsidies and reverse OBBB Medicaid cuts (https://www.bermanforcongress.com/priorities)",
+   "Raise federal minimum wage; pass PRO Act (https://www.bermanforcongress.com/priorities)",
+   "Lift Social Security cap so high earners pay on all income (https://www.bermanforcongress.com/priorities)",
+   "Stop private equity buying single-family homes and hospitals; end tax breaks for data centres (https://www.bermanforcongress.com/priorities)",
+   "No corporate PAC money; overturn Citizens United; congressional stock-trading ban (https://www.bermanforcongress.com/priorities)",
+   "Repeal Trump tariffs; end the war in Iran and reassert War Powers (https://www.bermanforcongress.com/priorities; https://www.wpr.org/news/1st-house-district-bryan-steil-mitchell-berman-2026)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Medium",
+  "rationale": "Union nurse running a mainstream labour-Democratic platform (public option, PRO Act) with Blue Dog and New Dem endorsements but no other centrist or left markers (LI 0, CI 3). With no prior office and modest policy depth (EPD 2), the rule gives Cat 2; small-dollar share is typical-to-high (0.37).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Berman_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "https://www.bermanforcongress.com/priorities",
+   "https://www.bermanforcongress.com/endorsers",
+   "https://www.wpr.org/news/1st-house-district-bryan-steil-mitchell-berman-2026",
+   "https://wisconsinexaminer.com/2026/10/21/steil-berman-face-off-in-debate-for-1st-congressional-district-seat/",
+   "https://racinecountyeye.com/racine-county-voter-guide-2026/us-house-wisconsin-1st-district-2026/",
+   "https://bluedogdems.com/blue-dog-pac-endorses-four-new-candidates-ready-to-win-tough-seats/",
+   "https://www.newdemactionfund.com/news/new-dems-endorse-seven-more-candidates-in-key-red-to-blue-seats",
+   "https://www.jsonline.com/story/news/politics/elections/2026/11/03/mitchell-berman-defeats-bryan-steil-in-wisconsins-1st-district/92415764007/"
+  ]
+ },
+ {
+  "id": 87,
+  "name": "Rebecca Cooke",
+  "seat": "WI-3",
+  "call_status": "confirmed winner (52.4% to 45.8% over Rep. Derrick Van Orden, per Wikipedia)",
+  "bio": {
+   "birth_year": 1987,
+   "education": "BA University of St. Thomas (Minnesota)",
+   "career": "Dairy-farm upbringing; campaign finance director/political fundraising consultant; small-business owner (Red's Mercantile); founded nonprofit giving grants to women business owners; waitress during 2024 campaign; former Third Way fellow",
+   "prior_office": "Board of Wisconsin Economic Development Corporation (gubernatorial appointee, 2019-2021); 2022 and 2024 nominee/candidate for WI-3"
+  },
+  "self_description": "Identifies as a centrist and says she does 'not identify as a progressive'; plans to caucus with the Blue Dogs; has called congressional Democrats 'too far left' and the party brand 'far left'.",
+  "primary_context": "Beat former Eau Claire council president Emily Berge 60.5-39.5 in Aug 2026 primary; Berge was the insurgent left option (Coulee DSA, Our Wisconsin Revolution, WI-03 Indivisible Coalition, Patriotic Millionaires). Cooke drew a cross-factional coalition including Bernie Sanders, Ro Khanna, Blue Dogs, New Dems and WelcomePAC.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Opposes Medicare for All; would expand Medicare to cover dental, hearing and vision.",
+    "src": "https://en.wikipedia.org/wiki/Rebecca_Cooke"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Has opposed calls to defund the police and to abolish ICE.",
+    "src": "https://en.wikipedia.org/wiki/Rebecca_Cooke"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Mixed: Oct 2025 said she doesn't think 'we should send more military aid to the Netanyahu government invasion' and taxpayer dollars shouldn't fund 'the killing of children', while 'strongly support[ing] Israel's right to defend itself'; no genocide language and not an explicit full embargo.",
+    "src": "https://jewishinsider.com/2025/10/rebecca-cooke-israel-aid-derrick-van-orden-wisconsin/"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders"
+  ],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposes Medicare for All; favours Medicare expansion (dental/vision/hearing) and improving ACA marketplace subsidies.",
+    "src": "https://www.piercecountyjournal.news/stories/wisconsin-congressional-district-3-rebecca-cooke-vs-derrick-van-orden,111158"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Opposes abolishing ICE; 2024 platform: secure the border and add Border Patrol agents alongside bipartisan reform.",
+    "src": "https://en.wikipedia.org/wiki/Rebecca_Cooke"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Has opposed calls to defund the police.",
+    "src": "https://en.wikipedia.org/wiki/Rebecca_Cooke"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Called congressional Democrats 'too far left' and the party's branding 'far left' and out of touch.",
+    "src": "https://en.wikipedia.org/wiki/Rebecca_Cooke"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC (endorsed; she pledges to join Blue Dog Coalition)",
+   "NewDem Action Fund",
+   "WelcomePAC",
+   "Third Way (former fellow)"
+  ],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 1,
+   "note": "No elected office; WEDC board appointee (office 1); BA + small-business/consulting career (cred 1); concrete but modest proposals (Medicare dental/vision/hearing, 5-year property-tax deferral for first-time buyers, right-to-repair, antitrust for agriculture) (policy 1)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 2,
+   "substance": 1,
+   "note": "No 2026 primary or general debate record found (not verified; search budget exhausted). Very media-active across outlets incl. cross-partisan/libertarian (Reason called her 'a straight shooter'), Politico, NYT, local TV; engages opponents on substance."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Blue Dog PAC",
+   "NewDem Action Fund",
+   "WelcomePAC",
+   "EMILY's List",
+   "End Citizens United",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "LCV",
+   "NRDC",
+   "Environmental Defense Fund",
+   "Giffords",
+   "Social Security Works",
+   "Wisconsin AFL-CIO",
+   "AFSCME",
+   "UAW",
+   "IBEW",
+   "LIUNA",
+   "WEAC",
+   "Bernie Sanders",
+   "Pete Buttigieg",
+   "Elissa Slotkin",
+   "Tammy Baldwin"
+  ],
+  "notable_positions": [
+   "Self-identified centrist who does 'not identify as a progressive'; will caucus with Blue Dogs (https://en.wikipedia.org/wiki/Rebecca_Cooke)",
+   "Opposes Medicare for All; expand Medicare to dental, vision, hearing (https://www.piercecountyjournal.news/stories/wisconsin-congressional-district-3-rebecca-cooke-vs-derrick-van-orden,111158)",
+   "Opposes defund the police and abolish ICE; supports more Border Patrol agents (https://en.wikipedia.org/wiki/Rebecca_Cooke)",
+   "Opposed further military aid for the Netanyahu government's Gaza invasion while backing Israel's right to self-defence (https://jewishinsider.com/2025/10/rebecca-cooke-israel-aid-derrick-van-orden-wisconsin/)",
+   "Stronger antitrust, $15 minimum wage, oppose foreign ownership of farmland, oppose Trump tariffs (https://en.wikipedia.org/wiki/Rebecca_Cooke)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Explicitly self-identified centrist and prospective Blue Dog who opposes M4A, defund-the-police and abolish-ICE and criticises her party as too far left (CI ~7). Some populist economic positions and a Sanders endorsement (LI ~1) do not approach the left threshold.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rebecca_Cooke",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "https://jewishinsider.com/2025/10/rebecca-cooke-israel-aid-derrick-van-orden-wisconsin/",
+   "https://www.piercecountyjournal.news/stories/wisconsin-congressional-district-3-rebecca-cooke-vs-derrick-van-orden,111158",
+   "https://thehill.com/homenews/campaign/5359217-bernie-sanders-endorsement-wisconsin-rebecca-cooke/",
+   "https://www.welcomestack.org/p/the-rebecca-cooke-endorsement/",
+   "https://www.wispolitics.com/2025/cooke-campaign-blue-dog-pac-endorses-rebecca-cooke-in-wisconsins-third-congressional-district/",
+   "https://reason.com/2026/08/12/hongs-swan-song/",
+   "https://wisconsinexaminer.com/2026/07/22/former-eau-claire-common-council-president-berges-insurgent-campaign-in-the-3rd-cd/"
+  ]
+ },
+ {
+  "id": 88,
+  "name": "Robert White",
+  "seat": "DC-AL (non-voting delegate)",
+  "call_status": "confirmed winner (87.3% over Denise Rosado (R) and Kymone Freeman (Statehood Green))",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BA political science & philosophy, St. Mary's College of Maryland; JD, American University Washington College of Law",
+   "career": "Attorney; legislative counsel to Del. Eleanor Holmes Norton (2008-13); first director of community outreach, DC Attorney General's office (2015)",
+   "prior_office": "DC Council at-large member (2016-Nov 2026); chaired Council housing committee; runner-up to Bowser in 2022 Democratic mayoral primary"
+  },
+  "self_description": "No ideological self-label found; WFP calls him a 'proven, progressive fighter'; frames run as building 'national momentum' for statehood and carrying forward Norton's work.",
+  "primary_context": "Won 16 June 2026 open-seat primary (Norton retired) with 63.6% over Ward 2 CM Brooke Pinto (20.9%; more business/public-safety oriented, Restaurant Association-backed) and DNC finance official Kinney Zalesne (7.8%; backed by Gottheimer, Holder). White was the progressive/labour candidate (WFP, CPC, Warren, Our Revolution DC).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Congressional Progressive Caucus PAC endorsement states he backs Medicare for All.",
+    "src": "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-robert-white-for-dc-delegate/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 1,
+    "e": "Says 'There's a unique historic opportunity to move D.C. statehood forward right now'; pledges to marshal local and national forces for statehood.",
+    "src": "https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/"
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution DC"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Ten years on the DC Council, which acts as DC's state-level legislature (scored as state legislature, office 2; arguably 1 if treated as a city council); JD + federal legislative counsel (cred 2); authored council legislation (first U.S. jurisdiction to restore voting rights to incarcerated felons, paid-leave expansion) and specific delegate proposals (Puerto Rico-style federal tax exemption for businesses moving to DC, transfer L'Enfant Plaza federal land, seek Appropriations seat) (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in 2026 primary debates/forums (photographed at 'a recent debate' by The 51st; Free DC candidate forum); May 14 debate attendance not confirmed. No general-election debate found (safe seat). Media mainly local (WAMU, The 51st); deleted and apologised for an 'inappropriate and insensitive' post about the WHCD shooting."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution DC",
+   "Congressional Black Caucus",
+   "Sen. Elizabeth Warren",
+   "Reps. Jayapal, Casar, Frost, Clyburn, Meeks",
+   "AFGE",
+   "AFL-CIO Metro Washington Council",
+   "ATU Local 689",
+   "Committee of Interns and Residents (SEIU)",
+   "Jews United for Justice",
+   "Free DC",
+   "Greater Greater Washington",
+   "Capital Stonewall Democrats"
+  ],
+  "notable_positions": [
+   "DC statehood: 'unique historic opportunity to move D.C. statehood forward right now' (https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/)",
+   "Backs Medicare for All, public transit investment, home rule (per CPC PAC) (https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-robert-white-for-dc-delegate/)",
+   "Puerto Rico-style federal tax exemption to attract businesses to DC; transfer federal land at L'Enfant Plaza to local control (https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/)",
+   "Authored DC law restoring voting rights to incarcerated residents; affordable-housing funding as housing chair (https://workingfamilies.org/2026/01/working-families-party-endorsed-janeese-lewis-george-for-mayor-and-robert-white-for-congress-in-washington-d-c/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Progressive-movement candidate (WFP, CPC PAC, Our Revolution DC; M4A per CPC; statehood) with LI ~5, one point short of the Cat 1 threshold, and no centrist markers. Experienced and moderately engaged (EPD 6, EO 3), so step 5 'nearest' gives Cat 1 as an imperfect fit; his positions on policing, ICE and Gaza were not found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_the_District_of_Columbia",
+   "https://en.wikipedia.org/wiki/Robert_White_(Washington,_D.C.,_politician)",
+   "https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/",
+   "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-robert-white-for-dc-delegate/",
+   "https://workingfamilies.org/2026/01/working-families-party-endorsed-janeese-lewis-george-for-mayor-and-robert-white-for-congress-in-washington-d-c/",
+   "https://freedcproject.org/news/announcing-our-endorsements-for-dcs-next-mayor-and-delegate",
+   "https://washingtonsun.com/2026-election/dc-delegate-race-spending",
+   "https://wamu.org/story/26/06/18/dc-robert-white-delegate-to-congress/"
+  ]
+ },
+ {
+  "id": 89,
+  "name": "Alicia Limtiaco",
+  "seat": "GU-AL (non-voting delegate)",
+  "call_status": "winner per Wikipedia/Guam PDN unofficial results: 15,645 (51.0%) to 14,983 (48.8%) over Del. James Moylan (R), a 662-vote margin; check certification by the Guam Election Commission",
+  "bio": {
+   "birth_year": 1963,
+   "education": "BBA University of Southern California; JD UCLA School of Law",
+   "career": "Law-firm partner, assistant attorney general, adjunct faculty (University of Guam, Guam Community College); later regulatory counsel with the Supreme Court of Guam",
+   "prior_office": "Attorney General of Guam (elected, 2007-2010); U.S. Attorney for Guam and the Northern Mariana Islands (Obama appointee, 2010-2017); 2018 candidate for Lt. Governor (lost primary). Registered Independent before 2017."
+  },
+  "self_description": "'I am a fighter, an advocate, and a public servant'; 'If a party position conflicts with Guam's interest, I am clear: I choose Guam'; stresses building bipartisan coalitions.",
+  "primary_context": "Unopposed in the 1 Aug 2026 Democratic primary (99%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0,
+    "e": "Stated independence ('If a party position conflicts with Guam's interest... I choose Guam'), and was a registered Independent until 2017, but no explicit break with party leadership or GOP endorsements found."
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Elected territory-wide AG and U.S. Attorney (office 3); UCLA JD + 30-year legal career (cred 2); some concrete positions (oppose deep-sea mining in the Marianas, oppose bills ending birthright citizenship in territories, federal parity for SSI/Medicaid) but a generic platform page (policy 1)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Attended the 29 Aug 2026 Guam Women's Chamber of Commerce candidate forum, which Moylan skipped; she said candidates 'have a responsibility to show up'. Media mainly local (Guam PDN, Guam Daily Post); answered substantive questions (birthright citizenship, deep-sea mining)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "'Guam needs a delegate who will ensure Guam's priorities come first in Washington'; 'I choose Guam' over party (https://aliciaforcongress.com/guam-daily-post-limtiaco-takes-questions-alone-moylan-skips-saturdays-debate/)",
+   "Opposes legislation ending birthright citizenship for those born in territories (https://aliciaforcongress.com/guam-pdn-fairness-resilience-opportunity-congressional-candidate-alicia-limtiaco-given-spotlight-at-forum-due-to-delegate-moylans-absence/)",
+   "Opposes deep-sea mining in the Marianas and Pacific (https://aliciaforcongress.com/guam-pdn-fairness-resilience-opportunity-congressional-candidate-alicia-limtiaco-given-spotlight-at-forum-due-to-delegate-moylans-absence/)",
+   "Federal parity for Guam in SSI, Medicaid, veterans' care; leverage strategic military importance for infrastructure investment (https://aliciaforcongress.com/guam-daily-post-limtiaco-takes-questions-alone-moylan-skips-saturdays-debate/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "No national left- or centrist-index positions documented (LI 0, CI 0). She is highly credentialed (EPD 6) and engaged (EO 4), so step 5 applies but LI and CI are tied at zero. Cat 4 is suggested only on soft signals: a former Independent and career prosecutor who frames herself as putting Guam ahead of party. FEC: only ~$50K raised, with a 4% small-dollar share.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alicia_Limtiaco",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Guam",
+   "https://aliciaforcongress.com/",
+   "https://aliciaforcongress.com/platform/",
+   "https://aliciaforcongress.com/guam-daily-post-limtiaco-takes-questions-alone-moylan-skips-saturdays-debate/",
+   "https://aliciaforcongress.com/guam-pdn-fairness-resilience-opportunity-congressional-candidate-alicia-limtiaco-given-spotlight-at-forum-due-to-delegate-moylans-absence/",
+   "https://www.postguam.com/news/local/limtiaco-takes-questions-alone-moylan-skips-saturdays-debate/article_1a89c314-be5b-48d3-8b2f-65e86f53a813.html",
+   "https://www.guampdn.com/news/1-30-am-unofficial-results-show-ada-calvo-wins-adelup-limtiaco-takes-congress-tydingco-new/article_19c8dff1-86a5-4420-9e35-772c0b8f26d8.html"
+  ]
+ },
+ {
+  "id": 90,
+  "name": "Janelle Sarauw",
+  "seat": "VI-AL (non-voting delegate)",
+  "call_status": "confirmed winner (~77% over independent Shelley Moorhead; open seat, Plaskett ran for governor)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA political science, Florida Atlantic University; MA organizational leadership, Gonzaga University",
+   "career": "High-school U.S. history teacher (2007-10); Sports, Parks & Recreation coordinator; assistant chief researcher, Office of the Lt. Governor; part-time political science professor, University of the Virgin Islands",
+   "prior_office": "Senator, Virgin Islands Legislature, St. Thomas-St. John district (2017-2023; chaired Rules & Judiciary and Disaster Recovery & Infrastructure committees); independent running mate for Lt. Governor in 2022 (lost)"
+  },
+  "self_description": "'I do embody the Democratic ideals - I always have'; rejoined Democrats in March 2026 because 'I cannot enter Congress unaligned'; long-time critic of VI Democratic Party leadership ('inaction'). First openly LGBTQ member of the VI Legislature.",
+  "primary_context": "Won the 2026 Democratic primary with 53.2% over former U.S. Attorney Delia Smith (32.6%; backed by former delegates Christian-Christensen and Bordallo), Teri Helenese (8.7%) and Emmett Hansen (5.3%). Contest turned on experience and the rum cover-over deal, not ideology; Smith accused her of 'misleading' voters by suggesting she could work with a GOP majority.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0,
+    "e": "Independent 2012-2026 and outspoken critic of the VI Democratic Party's organisation, but criticism was procedural (party 'did absolutely nothing' to promote the primary), not 'too far left'."
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "Six years in the territorial legislature (office 2); BA + MA in organizational leadership, teacher/researcher career (cred 1); one concrete proposal found: renegotiating the rum excise cover-over to a percentage rather than the fixed $13.25 rate. Campaign website not reachable (policy 1, borderline 0)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Participated in the July 2026 four-way Democratic primary debate and engaged sharply (challenged Helenese on rum cover-over). No general-election debate with Moorhead found. Media mainly local (St. Thomas Source, WTJX, VI Consortium)."
+  },
+  "outside_support": [],
+  "fundraising_note": "Roster had no FEC match because she is filed with the FEC under party 'INDEPENDENT': candidate H6VI01065, committee C00939348. Through 14 Oct 2026: receipts $72,508, all individual contributions ($65,093 itemized; $7,415 unitemized), so small_dollar_share = 0.102 (large-donor funded); no PAC money, no self-funding; cash on hand $6,071.",
+  "notable_positions": [
+   "Rejoined Democratic Party to be effective in Congress: 'I cannot enter Congress unaligned' (https://newsfeed.wtjx.org/2026-03-07/janelle-sarauw-critic-of-the-democratic-party-changes-registration-to-democrat-to-run-for-congress)",
+   "Seek a percentage-based rum cover-over instead of a permanent fixed rate (https://stthomassource.com/content/2026/07/10/hansen-helenese-sarauw-and-smith-square-off-in-congressional-debate/)",
+   "Criticised VI Democratic leadership for 'inaction' (https://newsfeed.wtjx.org/2026-03-07/janelle-sarauw-critic-of-the-democratic-party-changes-registration-to-democrat-to-run-for-congress)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "No national ideological markers were found (LI 0, CI 0). She has mid-level territorial-legislative experience with thin documented federal policy substance (EPD 4, borderline: drops to 3 if policy scores 0). She debated in the primary (EO 3). By the rule she is a step-5 tie with no direction; Cat 2 is suggested as the closest fit given the thin federal policy record, but evidence is very limited.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Janelle_Sarauw",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_the_United_States_Virgin_Islands",
+   "https://newsfeed.wtjx.org/2026-03-07/janelle-sarauw-critic-of-the-democratic-party-changes-registration-to-democrat-to-run-for-congress",
+   "https://stthomassource.com/content/2026/07/10/hansen-helenese-sarauw-and-smith-square-off-in-congressional-debate/",
+   "https://viconsortium.com/vi-election/virgin-islands-janelle-sarauw-elected-delegate-to-congress-in-landslide--succeeding-stacey-plaskett",
+   "https://api.open.fec.gov/v1/elections/?office=house&state=VI&district=00&cycle=2026",
+   "https://www.fec.gov/data/committee/C00939348/"
+  ]
+ }
+]

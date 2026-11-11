@@ -1,0 +1,851 @@
+[
+ {
+  "id": "W000805",
+  "name": "Mark R. Warner",
+  "seat": "VA-SEN",
+  "call_status": "re-elected 2026 (AP call 3 Nov 2026; defeated Republican Bert Mizusawa roughly 61%-39%); has said this will be his final term",
+  "bio": {
+   "birth_year": 1954,
+   "education": "BA George Washington University; JD Harvard Law School",
+   "career": "Telecoms/venture-capital entrepreneur (Nextel co-founder investor, Columbia Capital) before politics",
+   "prior_office": "Chair, Democratic Party of Virginia (1993-95); Governor of Virginia (2002-06); U.S. Senator since 2009 (Intelligence Committee chair 2021-25, vice chair 2025-26)"
+  },
+  "self_description": "Widely described as a technocratic centrist; on CNBC (Jul 2026) said he believes in 'a free enterprise system' and capitalism focused on long-term investment, and that he disagreed with much of the DSA agenda while saying wealth inequality must be addressed.",
+  "primary_context": "2026: no Democratic primary held; early declared progressive challengers (e.g. Jason Reynolds, running as a 'progressive alternative') did not make the ballot and Warner was unopposed.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": -1,
+    "e": "On CNBC Squawk Box (21 Jul 2026) said he believes in a free enterprise system and disagreed with much of the Democratic Socialists of America's agenda.",
+    "src": "https://foxnews.com/media/democratic-senator-defends-party-embrace-far-left-candidates-clash-cnbc-host"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "'I do not support defunding the police. I do support meaningful reforms on ICE.' (CNBC, Jul 2026)",
+    "src": "https://foxnews.com/media/democratic-senator-defends-party-embrace-far-left-candidates-clash-cnbc-host"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Long-time deficit hawk: organiser of the bipartisan 'Gang of Six' deficit-reduction effort (2011) and pushed to revive the Simpson-Bowles plan; Senate releases call for a 'responsible approach to spending, debt, deficit'. Has not backed a wealth tax. (Record is mainly 2011-15.)",
+    "src": "https://www.warner.senate.gov/public/index.cfm/2015/3/senator-warner-calls-for-responsible-approach-to-spending-debt-deficit"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "'I do not support defunding the police.' (CNBC, 21 Jul 2026)",
+    "src": "https://foxnews.com/media/democratic-senator-defends-party-embrace-far-left-candidates-clash-cnbc-host"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented bipartisan dealmaker (Gang of Six; one of the senators in the 2021 bipartisan infrastructure talks); ranked 29th of 100 senators on the Lugar Center/Georgetown Bipartisan Index for the 117th Congress (score +0.60), highest of the Democrats in this batch.",
+    "src": "https://www.thelugarcenter.org/ourwork-84.html"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Former venture capitalist; key Democratic negotiator who backed the GENIUS stablecoin/crypto bill in 2025 ('imperfect' but 'far better than the status quo') against Warren-led opposition.",
+    "src": "https://www.theblock.co/post/354925/democrat-warner-backs-stablecoin-bill-ahead-of-key-senate-vote"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former governor and three-term senator (office 3); Harvard JD plus senior business career (cred 2); recognised policy lead as Intelligence Committee chair/vice chair, Gang of Six, GENIUS Act negotiator, AI and health-care bills (policy 2)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 2,
+   "substance": 1,
+   "note": "2026: no debate. AARP Virginia's 7 Oct 'People's Debate' was cancelled because Warner could not commit (cited 'busy official Senate calendar'); Mizusawa had accepted. They only shared a stage at the Buena Vista Labor Day event, which was not a debate (Cardinal News, 10 Sep 2026). Media: frequent unscripted national interviews including Fox News Sunday, CNBC Squawk Box (sparring with Joe Kernen), ABC This Week and CBS Face the Nation; 2025 Charlottesville town hall; Reddit AMA (Dec 2025); campaign stops at colleges. Engages opponents' arguments directly."
+  },
+  "outside_support": [
+   "Large-donor/PAC funded; FEC 2026 small-dollar share 31.5%"
+  ],
+  "notable_positions": [
+   "Voted Yea on the Laken Riley Act (2025) (bulk data)",
+   "Backed the GENIUS stablecoin act after negotiating changes (https://www.theblock.co/post/354925/democrat-warner-backs-stablecoin-bill-ahead-of-key-senate-vote)",
+   "Shifted on health care in 2026: 'It's time for America to move towards universal health care', which 'could take many forms' including Medicare for All; bill to create a low-cost public option and reverse 2025 Medicaid cuts (https://rollcall.com/2026/10/08/warner-pitches-health-care-expansion-as-he-preps-for-swan-song/)",
+   "'I do not support defunding the police. I do support meaningful reforms on ICE' (https://foxnews.com/media/democratic-senator-defends-party-embrace-far-left-candidates-clash-cnbc-host)",
+   "With Kaine, refused to back Homeland Security funding in early 2026 without ICE reforms (https://www.kaine.senate.gov/in-the-news/kaine-warner-wont-back-homeland-security-funding-without-reforms)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Warner has a long centrist record: Gang of Six deficit work, high bipartisanship ranking, pro-business and crypto-friendly votes, a Laken Riley Yea vote, and he explicitly rejects defunding the police and the DSA agenda. His only left marker is DC statehood. Confidence is lowered because his fiscal-hawk evidence is mostly from 2011-15 and he has moved left on health care in 2026, while his refusal to debate in 2026 would otherwise point to Category 3.",
+  "sources": [
+   "https://www.fox5dc.com/news/va-senate-election-mark-warner-fourth-term",
+   "https://cardinalnews.org/2026/09/10/warner-and-mizusawa-may-not-debate-in-2026-senate-race/",
+   "https://rollcall.com/2026/10/08/warner-pitches-health-care-expansion-as-he-preps-for-swan-song/",
+   "https://foxnews.com/media/democratic-senator-defends-party-embrace-far-left-candidates-clash-cnbc-host",
+   "https://www.thelugarcenter.org/ourwork-84.html",
+   "https://www.theblock.co/post/354925/democrat-warner-backs-stablecoin-bill-ahead-of-key-senate-vote",
+   "https://www.warner.senate.gov/public/index.cfm/2015/3/senator-warner-calls-for-responsible-approach-to-spending-debt-deficit",
+   "https://virginiamercury.com/2026/07/15/gop-senate-hopefuls-face-long-odds-in-race-to-challenge-mark-warner/",
+   "https://www.kaine.senate.gov/in-the-news/kaine-warner-wont-back-homeland-security-funding-without-reforms"
+  ]
+ },
+ {
+  "id": "K000384",
+  "name": "Tim Kaine",
+  "seat": "VA-SEN",
+  "call_status": "not up until 2030 (re-elected Nov 2024 over Republican Hung Cao)",
+  "bio": {
+   "birth_year": 1958,
+   "education": "BA University of Missouri; JD Harvard Law School",
+   "career": "Civil-rights and fair-housing lawyer; Jesuit volunteer in Honduras",
+   "prior_office": "Richmond City Council (1994-98) and Mayor of Richmond (1998-2001); Lieutenant Governor (2002-06) and Governor of Virginia (2006-10); DNC chair (2009-11); U.S. Senator since 2013; 2016 Democratic VP nominee"
+  },
+  "self_description": "No ideological self-label found this session. Defended his Nov 2025 shutdown vote: he does not 'need a permission slip' from Schumer, while calling Schumer 'an effective leader'.",
+  "primary_context": "2024: unopposed for the Democratic nomination (Wikipedia lists him as the sole Democratic nominee).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Declined to co-sponsor Sanders' Medicare for All; on single-payer said 'I've got some concerns about it', citing the 100M+ people satisfied with employer coverage (5 Mar 2018); offers the Medicare-X public option instead.",
+    "src": "https://www.washingtonexaminer.com/?p=1438703"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "'I've got some concerns' about single-payer/Medicare for All (2018); lead sponsor with Bennet of Medicare-X, a public option that builds on the ACA, framed as the alternative to Sanders' plan.",
+    "src": "https://www.kaine.senate.gov/press-releases/kaine-bennet-introduce-medicare-x-to-provide-low-cost-high-quality-care-in-every-zip-code"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed in 2024 by former Republican Rep. Barbara Comstock and ex-GOP Rep. Denver Riggleman. One of 8 Democrats who voted with Republicans to end the Nov 2025 shutdown, saying he does not need a 'permission slip' from Schumer.",
+    "src": "https://www.thewrap.com/tim-kaine-shutdown-vote-permission-slip-chuck-schumer-video/"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former governor, lieutenant governor and mayor (office 3); Harvard JD (cred 2); recognised policy lead on war powers (repeated Iran/Venezuela War Powers resolutions) and Medicare-X, senior on Armed Services, Foreign Relations, HELP and Budget (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "2024: took part in the only debate held (2 Oct 2024, Norfolk State/WAVY). Other debates and forums (Virginia Bar Association, Northern Virginia Chamber/NBC4, AARP) were cancelled because Cao declined. Kaine appeared solo at forums and did a separate AARP tele-town hall. Media: repeated Fox News Sunday appearances (e.g. June 2025 on Iran strikes), NPR, Fox 5 DC; took unscripted questions defending his shutdown vote against left critics (TheWrap video, Nov 2025). No 2025-26 in-person town hall was found this session."
+  },
+  "outside_support": [
+   "FEC 2024 small-dollar share 44.1% (high)",
+   "2024 endorsements: LCV, Sierra Club, Giffords, J Street PAC, NextGen America, United Mine Workers, CASA in Action, Washington Post; Republican Barbara Comstock"
+  ],
+  "notable_positions": [
+   "Voted Nay on Laken Riley Act; Yea to end the Nov 2025 shutdown, citing federal workers and an ACA vote guarantee (https://www.wsls.com/news/politics/2025/11/10/these-8-democrats-voted-with-republicans-on-the-government-shutdown-deal-heres-how-they-explain-it/)",
+   "Lead author of repeated War Powers resolutions against strikes on Iran and Venezuela (https://www.kaine.senate.gov/press-releases/kaine-vows-new-war-powers-fights-after-senate-blocks-trump-venezuela-check)",
+   "Medicare-X public option rather than single-payer (https://www.kaine.senate.gov/press-releases/kaine-bennet-introduce-medicare-x-to-provide-low-cost-high-quality-care-in-every-zip-code)",
+   "ICE 'reform, not abolition'. With Warner, refused DHS funding in 2026 without reforms: 'It can't just be the Wild West' (https://www.kaine.senate.gov/in-the-news/kaine-warner-wont-back-homeland-security-funding-without-reforms)",
+   "Voted for Sanders' resolutions blocking some offensive arms sales to Israel (Jul 2025), but no call for a full embargo or 'genocide' language found (https://www.jns.org/two-sanders-bids-to-ban-arms-sales-to-israel-fail-in-senate-draw-a-lot-of-dem-support/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Kaine is a mainstream, institutionally minded Democrat. He has few left markers (DC statehood only) and a few centrist ones: public option over Medicare for All, a cross-party shutdown vote and Republican endorsements. He is highly credentialed and engaged (he debated and appears on Fox News Sunday), so under the sequence he falls to step 5 and leans Category 4 on CI 2 vs LI 1. This is an imperfect fit, since he lacks fiscal-hawk, border or cultural-centrist markers.",
+  "sources": [
+   "https://cardinalnews.org/2024/10/02/kaine-and-cao-meet-for-the-first-time-on-the-debate-stage/",
+   "https://augustafreepress.com/news/two-more-u-s-senate-debates-canceled-because-hung-cao-doesnt-want-to-engage/",
+   "https://www.washingtonexaminer.com/?p=1438703",
+   "https://www.kaine.senate.gov/press-releases/kaine-bennet-introduce-medicare-x-to-provide-low-cost-high-quality-care-in-every-zip-code",
+   "https://www.thewrap.com/tim-kaine-shutdown-vote-permission-slip-chuck-schumer-video/",
+   "https://www.wsls.com/news/politics/2025/11/10/these-8-democrats-voted-with-republicans-on-the-government-shutdown-deal-heres-how-they-explain-it/",
+   "https://m.washingtontimes.com/news/2025/jun/22/tim-kaine-virginia-democrat-says-president-trump-waging/",
+   "https://www.kaine.senate.gov/in-the-news/kaine-warner-wont-back-homeland-security-funding-without-reforms",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Virginia",
+   "https://www.thelugarcenter.org/ourwork-84.html"
+  ]
+ },
+ {
+  "id": "S000033",
+  "name": "Bernard Sanders",
+  "seat": "VT-SEN",
+  "call_status": "not up until 2030 (re-elected Nov 2024 with 63.2% over Republican Gerald Malloy); Independent who caucuses with Democrats",
+  "bio": {
+   "birth_year": 1941,
+   "education": "BA University of Chicago (1964)",
+   "career": "Carpenter, writer and documentary filmmaker before politics",
+   "prior_office": "Mayor of Burlington (1981-89); U.S. House (VT-AL, 1991-2007); U.S. Senator since 2007; Budget Committee chair (2021-23), HELP Committee chair (2023-25) and ranking member (2025-); 2016 and 2020 presidential candidate"
+  },
+  "self_description": "Self-identified democratic socialist and independent. His 2025-26 'Fighting Oligarchy' tour framed politics as taking on 'the Oligarchs and corporate interests'.",
+  "primary_context": "2024: ran as an independent. No primary challenge of note (Wikipedia lists no Democratic primary contest). Not otherwise verified this session.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Mar 2026: with Rep. Khanna introduced the Make Billionaires Pay Their Fair Share Act, a '5% annual wealth tax' on net worth above $1 billion.",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-and-khanna-introduce-legislation-to-tax-billionaire-wealth-and-invest-in-working-families/"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 1,
+    "e": "Self-described democratic socialist. Jun 2026 American AI Sovereign Wealth Fund Act would 'give the public a direct ownership stake in the largest AI companies in America' via a one-time 50% tax paid in their stock (~$7T fund).",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/"
+   },
+   "L5": {
+    "v": 1,
+    "e": "Aug 2026: with AOC and Ramirez reintroduced the Green New Deal for Public Housing Act. Long-time GND backer.",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-ramirez-reintroduce-the-green-new-deal-for-public-housing-act/"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Federal price control: Sanders-Hawley bill capping credit-card interest at 10% (Feb 2025). Also a 32-hour workweek bill (Sep 2026).",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-hawley-introduce-bill-capping-credit-card-interest-rates-at-10/"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "17 Sep 2025: 'The conclusion is inescapable: Israel is committing genocide in Gaza' and 'We must end all arms sales to the extremist Netanyahu government.'",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-it-is-genocide/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Lead Senate sponsor of Medicare for All (reintroduced Apr 2025).",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-jayapal-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/"
+   },
+   "C3": {
+    "v": -1,
+    "e": "Backs a 5% annual wealth tax on billionaires.",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-and-khanna-introduce-legislation-to-tax-billionaire-wealth-and-invest-in-working-families/"
+   },
+   "C4": {
+    "v": -1,
+    "e": "Jan 2026 statement 'ICE is Out of Control': 'Congress must vote NO on any additional funding for DHS'. Sought to repeal the $75B for ICE in the 2025 GOP law.",
+    "src": "https://www.sanders.senate.gov/press-releases/news-sanders-statement-ice-is-out-of-control/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Five-term senator, 16 years in the House, former mayor (office 3); BA only, pre-political career as carpenter and filmmaker (cred 1); former Budget and HELP chair and HELP ranking member who leads signature bills (Medicare for All, wealth tax, 32-hour week) and was dubbed the House 'amendment king' (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2024 debates with Gerald Malloy: unverified (Wikipedia's 2024 Vermont page lists no debates section). Media: holds many unscripted public events. The 2025-26 'Fighting Oligarchy' tour included stops in Republican-leaning areas (Amarillo TX, Alpena MI, Bakersfield CA, Melbourne FL). He also holds issue town halls (teacher pay Jul 2025, care workers Apr 2025) and a statewide telephone town hall with Welch and Balint (Nov 2025). Long record of appearing on cross-partisan outlets. Argues policy substance directly."
+  },
+  "outside_support": [
+   "FEC 2024 small-dollar share 53% (high), PAC share 1%",
+   "2024: Vermont Progressive Party, United Farm Workers, Association of Flight Attendants, Planned Parenthood Action Fund",
+   "Founder and figurehead of the movement that created Our Revolution. He is the endorser rather than the endorsed, so no L13 points are recorded."
+  ],
+  "notable_positions": [
+   "Israel is committing 'genocide'; end all arms sales to Netanyahu government (https://www.sanders.senate.gov/press-releases/news-sanders-it-is-genocide/)",
+   "5% annual billionaire wealth tax (https://www.sanders.senate.gov/press-releases/news-sanders-and-khanna-introduce-legislation-to-tax-billionaire-wealth-and-invest-in-working-families/)",
+   "Public ownership stake in AI companies via $7T sovereign wealth fund (https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/)",
+   "Medicare for All lead sponsor (https://www.sanders.senate.gov/press-releases/news-sanders-jayapal-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/)",
+   "Cut $75B in ICE funding and redirect it to Medicaid; no new DHS funding without reforms (https://www.sanders.senate.gov/press-releases/news-sanders-secures-vote-on-his-amendment-to-cut-75-billion-in-ice-funding-and-redirect-those-funds-to-medicaid/)",
+   "Sanders-Hawley 10% credit-card interest cap (https://www.sanders.senate.gov/press-releases/news-sanders-hawley-introduce-bill-capping-credit-card-interest-rates-at-10/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Sanders is the leading movement-left figure. Bulk data already gives Medicare for All, the 99.5% estate-tax bill and DC statehood. Research adds a billionaire wealth tax, democratic-socialist identity with a public-ownership AI fund, a Green New Deal bill, price controls, and calling Gaza a genocide while demanding an end to all arms sales. LI is well above 6, with no centrist markers.",
+  "sources": [
+   "https://www.sanders.senate.gov/press-releases/news-sanders-it-is-genocide/",
+   "https://www.sanders.senate.gov/press-releases/news-sanders-and-khanna-introduce-legislation-to-tax-billionaire-wealth-and-invest-in-working-families/",
+   "https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/",
+   "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-ramirez-reintroduce-the-green-new-deal-for-public-housing-act/",
+   "https://www.sanders.senate.gov/press-releases/news-sanders-hawley-introduce-bill-capping-credit-card-interest-rates-at-10/",
+   "https://www.sanders.senate.gov/press-releases/news-sanders-statement-ice-is-out-of-control/",
+   "https://berniesanders.com/oligarchy/",
+   "https://berniesanders.com/about/",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Vermont"
+  ]
+ },
+ {
+  "id": "W000800",
+  "name": "Peter Welch",
+  "seat": "VT-SEN",
+  "call_status": "not up until 2028 (elected Nov 2022 over Republican Gerald Malloy)",
+  "bio": {
+   "birth_year": 1947,
+   "education": "BA College of the Holy Cross; JD UC Berkeley School of Law",
+   "career": "Public defender, then trial lawyer in White River Junction, VT",
+   "prior_office": "Vermont Senate (1981-89, President pro tem 1985-89; 2001-07); U.S. House VT-AL (2007-23); U.S. Senator since 2023"
+  },
+  "self_description": "Casts himself as a common-ground legislator: 'Others try to find common ground and don't escalate and try to find a way to actually get something done'; bipartisan bills are 'the only way to have your accomplishments endure' (Jan 2025). Was a Congressional Progressive Caucus member in the House (not verified this session).",
+  "primary_context": "2022 Democratic primary for the open seat: won 87.0% over Isaac Evans-Frantz (7.3%, running to his left) and Niki Thran (5.1%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (2022 Senate race)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Jan 2026: 'I will not vote to give DHS any more federal funds until Secretary Noem and ICE are held accountable'; 'ICE needs to be reformed and reined in.' He stops short of 'abolish'.",
+    "src": "https://www.welch.senate.gov/welch-announces-opposition-to-funding-ice-in-upcoming-government-appropriations-bill/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator, eight-term House member and former state Senate president pro tem (office 3); JD (cred 2); authored the TRANQ Research Act with Ted Cruz, signed into law, and leads Medicare drug-price negotiation expansion and rural broadband/energy bills (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "2022: took part in the general-election debate with Malloy (Vermont Public Radio, 13 Oct 2022). No declined invitations found. Media: writes op-eds for Fox News ('I'm a Democrat and we need to fix FEMA with local control', Jul 2025; on Cuba, Jun 2026). Held a Rutland 'community conversation' town hall attended by hundreds (May 2025), a statewide telephone town hall with Sanders and Balint (Nov 2025), and a VPIRG town hall (Oct 2026). Engages Republicans on substance with many bipartisan bills (Cruz, Braun, Marshall, Collins, Murkowski)."
+  },
+  "outside_support": [
+   "FEC 2022 small-dollar share 10.8% (large-donor funded); PAC share 17.6%",
+   "2022: Sanders, LCV, Indivisible, Rights & Democracy Vermont, CWA, NEA, Planned Parenthood, Everytown, HRC"
+  ],
+  "notable_positions": [
+   "Co-sponsored Sanders' resolutions to block offensive weapons sales to Israel (Jul 2025) and called Gaza starvation 'a war crime'. No 'genocide' wording or full-embargo call found (https://www.welch.senate.gov/welch-cosponsors-sanders-resolutions-to-block-certain-offensive-weapons-sales-to-israel/)",
+   "Led a Senate resolution, with 45 senators, decrying the Gaza aid blockade (https://www.welch.senate.gov/45-senators-join-welchs-senate-resolution-calling-for-end-to-siege-on-gaza-republicans-block-passage/)",
+   "Opposed ICE/DHS funding in 2026 appropriations without accountability (https://www.welch.senate.gov/welch-announces-opposition-to-funding-ice-in-upcoming-government-appropriations-bill/)",
+   "Bill for a 70% renewable electricity standard by 2036 (https://www.welch.senate.gov/welch-van-hollen-clarke-reintroduce-bicameral-bill-to-create-70-renewable-energy-resource-standard-by-2036-speed-u-s-clean-energy-transition/)",
+   "Supreme Court ethics code and gift-ban bills rather than court expansion (https://www.welch.senate.gov/welch-lujan-schiff-raskin-ocasio-cortez-introduce-bicameral-legislation-imposing-gift-ban-on-supreme-court-justices/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk data gives Welch three left markers (Ultra-Millionaire Tax Act, Medicare for All, DC statehood), plus a Sanders endorsement, so LI is about 4: progressive-leaning but short of the Category 1 threshold. He has no centrist markers. He is highly experienced and engaged (debated, Fox News op-eds, town halls), so the sequence reaches step 5 and he leans Category 1 as an imperfect fit. His style is pragmatic and bipartisan rather than movement-left.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Vermont",
+   "https://www.welch.senate.gov/vt-senator-peter-welch-is-determined-to-continue-legacy-of-bipartisanship-who-he-works-with/",
+   "https://www.welch.senate.gov/welch-announces-opposition-to-funding-ice-in-upcoming-government-appropriations-bill/",
+   "https://www.welch.senate.gov/welch-statement-on-trump-administrations-2-8-billion-munitions-sale-to-israel/",
+   "https://www.welch.senate.gov/welch-for-fox-news-im-a-democrat-and-we-need-to-fix-fema-with-local-control/",
+   "https://www.welch.senate.gov/welch-for-fox-news-trump-is-leading-us-into-another-unnecessary-war-this-time-its-cuba-2/",
+   "https://www.welch.senate.gov/welch-hosts-town-hall-in-rutland/",
+   "https://www.welch.senate.gov/sanders-welch-balint-host-telephone-town-hall-as-vermonters-face-health-insurance-premium-hikes/",
+   "https://www.welch.senate.gov/welch-joins-vpirg-for-town-hall-on-ending-corporate-spending-in-elections-reversing-citizens-united/"
+  ]
+ },
+ {
+  "id": "C000127",
+  "name": "Maria Cantwell",
+  "seat": "WA-SEN",
+  "call_status": "not up until 2030 (re-elected Nov 2024 over Republican Raul Garcia)",
+  "bio": {
+   "birth_year": 1958,
+   "education": "BA Miami University (Ohio)",
+   "career": "Tech executive: senior vice president at RealNetworks (1995-2000) after early public-policy work",
+   "prior_office": "Washington House of Representatives (1987-93); U.S. House WA-1 (1993-95); U.S. Senator since 2001; Commerce Committee chair (2021-25) and ranking member (2025-); senior Finance Committee member"
+  },
+  "self_description": "No ideological self-label found. Presents herself as a pro-trade, pro-innovation Democrat: 'Our strategy has to be opening markets, delivering great U.S. products' (Jul 2026).",
+  "primary_context": "2024 top-two primary: advanced with Republican Raul Garcia; the only other Democrat, Paul Giesick, was eliminated. No serious left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Long-time free-trade and export champion: WITA Congressional Leadership Award (Jul 2026) for 'advancing international trade and open markets'; leads Export-Import Bank reauthorisation; her bipartisan Cantwell-Grassley Trade Review Act was endorsed by the U.S. Chamber of Commerce and the National Retail Federation.",
+    "src": "https://www.cantwell.senate.gov/news/press-releases/cantwell-honored-for-longtime-leadership-wita"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term senator and former House member (office 3); BA plus a senior tech-executive career at RealNetworks (cred 2); Commerce chair/ranking member who led the CHIPS and Science Act and Ocean Shipping Reform Act (2022, law) and leads on trade, aviation safety and college-sports bills (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2024: took part in the general-election debate with Garcia (8 Oct 2024; Gonzaga/KSPS/Spokesman-Review/Washington State Debate Coalition). It was the only debate held, and no evidence was found of declined invitations (not fully verified). Media: some unscripted national interviews (CNBC on tariffs, CNN on the Coast Guard commandant firing), but mostly hearings, press events, roundtables and site visits. No 2025-26 open town halls or conservative-outlet appearances found in her releases. Engages policy detail substantively."
+  },
+  "outside_support": [
+   "FEC 2024 small-dollar share 11.1% (large-donor funded); PAC share <1%",
+   "2024: AIPAC, J Street PAC, JDCA, EMILY's List, LCV, NRDC, NEA, Washington State Labor Council, Planned Parenthood, Seattle Times, The Stranger"
+  ],
+  "notable_positions": [
+   "Cantwell-Grassley Trade Review Act to require congressional approval of tariffs, endorsed by U.S. Chamber of Commerce (https://www.cantwell.senate.gov/news/press-releases/us-chamber-of-commerce_worlds-largest-business-org--endorses-cantwells-bipartisan-trade-review-act)",
+   "Export-Import Bank reauthorisation champion (https://www.cantwell.senate.gov/news/press-releases/cantwell-honored-for-longtime-leadership-wita)",
+   "Voted against House-passed DHS/ICE funding in Jan 2026: 'I don't think ICE should be in Minnesota' (https://www.cantwell.senate.gov/news/press-releases/cantwell-floor-remarks-on-why-shes-voting-no-on-more-funding-for-dhs-and-ice)",
+   "Proposed a multinational peacekeeping force to deliver Gaza aid; backed acknowledging the Gaza hunger crisis. No 'genocide' or embargo language found (https://www.cantwell.senate.gov/news/press-releases/cantwell-supports-congressional-acknowledgement-of-gaza-hunger-crisis)",
+   "Voted Nay on Laken Riley Act and on both 2025 GOP stopgaps (bulk data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Cantwell is a mainstream, business- and trade-oriented Democrat. Her only left marker is DC statehood (bulk), and her clearest centrist marker is pro-trade/pro-business (C8), so LI and CI are both about 1. With EPD 7 and EO about 4 the sequence reaches step 5 with a near tie. Category 4 is suggested as the nearer fit given her trade and business orientation, but it is a weak, imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Washington",
+   "https://www.cantwell.senate.gov/news/press-releases/cantwell-honored-for-longtime-leadership-wita",
+   "https://www.cantwell.senate.gov/news/press-releases/us-chamber-of-commerce_worlds-largest-business-org--endorses-cantwells-bipartisan-trade-review-act",
+   "https://www.cantwell.senate.gov/news/press-releases/senators-cantwell-and-grassley-introduce-bipartisan-bill-to-reassert-congressional-trade-role",
+   "https://www.cantwell.senate.gov/news/press-releases/cantwell-floor-remarks-on-why-shes-voting-no-on-more-funding-for-dhs-and-ice",
+   "https://www.cantwell.senate.gov/news/press-releases/cantwell-supports-congressional-acknowledgement-of-gaza-hunger-crisis",
+   "https://www.cantwell.senate.gov/news/press-releases",
+   "https://www.thelugarcenter.org/ourwork-84.html"
+  ]
+ },
+ {
+  "id": "M001111",
+  "name": "Patty Murray",
+  "seat": "WA-SEN",
+  "call_status": "not up until 2028 (re-elected Nov 2022 over Republican Tiffany Smiley)",
+  "bio": {
+   "birth_year": 1950,
+   "education": "BA Washington State University (1972)",
+   "career": "Preschool teacher and parent-education instructor; education activist ('mom in tennis shoes')",
+   "prior_office": "Shoreline School Board (1985-89); Washington State Senate (1989-93); U.S. Senator since 1993: Budget Committee chair (2013-15), HELP chair (2021-23), Appropriations chair and President pro tempore (2023-25), Appropriations vice chair (2025-)"
+  },
+  "self_description": "No ideological self-label found this session. Presents herself as a pragmatic appropriator who calls for 'bipartisan funding bills'. Has long-standing bipartisan deals (Ryan-Murray budget, Alexander-Murray ESSA; not re-verified this session).",
+  "primary_context": "2022 top-two primary: advanced with Republican Tiffany Smiley; minor Democratic candidates (Pano Churchill, Ravin Pierre, Mohammed Said and others) were eliminated. No serious left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "Nov 2025: joined an amicus brief (with Hirono, Baldwin and 130 lawmakers) urging the Supreme Court in West Virginia v. B.P.J. and Little v. Hecox to hold that categorical bans on transgender students playing on teams consistent with their gender identity violate Title IX and Equal Protection.",
+    "src": "https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": -1,
+    "e": "Signed the amicus brief opposing categorical bans on trans students in school sports (Nov 2025).",
+    "src": "https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/"
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Five-term senator and former Appropriations/HELP/Budget chair (office 3); BA plus a teaching career (cred 1); among the most senior legislators in the chamber, with many enacted laws and current Appropriations vice chair (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2022: took part in two encounters with Smiley, a debate at Gonzaga (23 Oct) and a town-hall-style forum at KIRO-TV (30 Oct), but her campaign declined a scheduled 25 Oct debate at Seattle University (Wikipedia, 2022 WA Senate election). Media: her 2025-26 public schedule is mostly controlled events (site visits, roundtables, press conferences, ICYMI videos, floor speeches). No open town halls or appearances on hostile/conservative outlets were found in her 2025-26 releases. Engages policy substance in detail (e.g. budget-baseline arguments) but largely through party messaging."
+  },
+  "outside_support": [
+   "FEC 2022 small-dollar share 32% (typical); PAC share 15.8%",
+   "2022: EMILY's List, NARAL, LCV, Sierra Club, Giffords, End Citizens United, SEIU 775, Washington AFL-CIO, Seattle Times"
+  ],
+  "notable_positions": [
+   "Joined amicus brief opposing state bans on trans students in school sports (https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/)",
+   "Voted Nay on Laken Riley Act, March 2025 CR cloture and Nov 2025 shutdown-ending CR (bulk data)",
+   "Bill requiring ICE agents to show clear ID and not hide behind masks (Jul 2025): reform, not abolition (https://www.murray.senate.gov/murray-padilla-booker-colleagues-unveil-new-bill-to-require-ice-to-display-clear-identification-stop-ice-agents-from-hiding-behind-masks-plainclothes/)",
+   "Wyden-Murray bill to close billionaire trust loopholes (May 2026), not a wealth tax (https://www.murray.senate.gov/murray-and-wyden-target-billionaire-trusts-introduce-landmark-legislation-to-close-loopholes-sheltering-potentially-trillions-in-untaxed-wealth/)",
+   "Joined 39 Democrats calling for large-scale Gaza humanitarian aid and a ceasefire. No 'genocide' wording or embargo call found (https://www.murray.senate.gov/murray-schiff-schatz-schumer-rosen-join-39-senate-democrats-in-calling-for-large-scale-expansion-of-humanitarian-aid-in-gaza-and-resumption-of-diplomatic-efforts-to-secure-a-ceasefire-and-end-the/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Murray is a senior party-leadership appropriator with a mainstream-liberal record. Her only left markers are DC statehood (bulk) and joining the trans-sports amicus brief, and she has no centrist markers. She is highly experienced, but her EO is borderline at 3: she ducked one 2022 debate and mainly uses controlled media settings. If EO is scored at 2 or lower she would be Category 3; at 3 the sequence gives a weak Category 1 lean (LI 2 vs CI 0). Either way she is not a movement-left figure.",
+  "sources": [
+   "https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Washington",
+   "https://www.thelugarcenter.org/ourwork-84.html",
+   "https://www.murray.senate.gov/murray-padilla-booker-colleagues-unveil-new-bill-to-require-ice-to-display-clear-identification-stop-ice-agents-from-hiding-behind-masks-plainclothes/",
+   "https://www.murray.senate.gov/murray-and-wyden-target-billionaire-trusts-introduce-landmark-legislation-to-close-loopholes-sheltering-potentially-trillions-in-untaxed-wealth/"
+  ]
+ },
+ {
+  "id": "B001230",
+  "name": "Tammy Baldwin",
+  "seat": "WI-SEN",
+  "call_status": "not up until 2030 (narrowly re-elected Nov 2024 over Republican Eric Hovde)",
+  "bio": {
+   "birth_year": 1962,
+   "education": "BA Smith College; JD University of Wisconsin-Madison",
+   "career": "Attorney in Madison",
+   "prior_office": "Dane County Board of Supervisors (1986-94); Wisconsin State Assembly (1993-99); U.S. House WI-2 (1999-2013); U.S. Senator since 2013 (Appropriations Labor-HHS subcommittee leader)"
+  },
+  "self_description": "Has described herself as a 'progressive' in the mold of Robert La Follette (2012); Wikipedia notes a progressive record on health care, reproductive and LGBT rights. Campaigns heavily on 'Made in America'/Buy America economic nationalism and farm issues.",
+  "primary_context": "2024: unopposed in the Democratic primary (99.8%).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "Nov 2025: joined the Murray/Hirono amicus brief in West Virginia v. B.P.J. and Little v. Hecox arguing that categorical bans on transgender students playing on teams consistent with their gender identity violate Title IX and Equal Protection.",
+    "src": "https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of Medicare for All (S.1506, 119th; bulk data). In 2026 she also led a bill lowering Medicare eligibility to 50.",
+    "src": "https://www.baldwin.senate.gov/news/press-releases/baldwin-leads-colleagues-in-introducing-bill-to-lower-age-of-medicare-eligibility-to-50-lower-health-care-costs"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Feb 2026: co-sponsored the PUBLIC SAFETY Act to move ~$75B from ICE to hire and train 200,000 local police: 'we should instead double down on what we know actually keeps people safe - and that is investing in our local police.'",
+    "src": "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-cosponsors-bill-to-redirect-excessive-ice-funding-to-local-police"
+   },
+   "C6": {
+    "v": -1,
+    "e": "Joined the Nov 2025 amicus brief opposing categorical bans on trans students in school sports.",
+    "src": "https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/"
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed in 2024 by the Wisconsin Farm Bureau Federation board, a business/agriculture group that usually backs Republicans, and won the American Farm Bureau 'Friend of Farm Bureau' award (Oct 2024).",
+    "src": "https://wfbf.com/farm-bureau-news/baldwin-tiffany-and-van-orden-among-federal-candidates-endorsed-by-wfbf-board/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term senator, seven-term House member (office 3); JD (cred 2); lead sponsor of the Respect for Marriage Act (2022, law); Baldwin-Vance bill on Made-in-America taxpayer-funded inventions passed the Senate; Appropriations Labor-HHS lead (policy 2)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2024: took part in the one general-election debate held with Hovde (18 Oct 2024, WMTV Madison). No documented refusal of other invitations was found, but whether more were offered is unverified. Media: 2025-26 activity is mainly controlled settings: a statewide 'Ending Chaos, Lowering Costs' tour, site visits, floor and hearing videos, an op-ed. No open town halls or conservative-outlet appearances were found in her releases. Engages substance on health care, trade and war powers."
+  },
+  "outside_support": [
+   "FEC 2024 small-dollar share 33.9% (typical); $50M raised",
+   "2024: EMILY's List, LCV, HRC, LGBTQ Victory Fund, UAW, USW District 7, Wisconsin AFL-CIO, NextGen, Swing Left, 314 Action, J Street PAC, Wisconsin Farm Bureau Federation"
+  ],
+  "notable_positions": [
+   "Co-sponsored the PUBLIC SAFETY Act redirecting ICE funds to 200,000 local police (https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-cosponsors-bill-to-redirect-excessive-ice-funding-to-local-police)",
+   "Joined amicus brief against state bans on trans students in school sports (https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/)",
+   "Buy America / Made-in-America economic nationalism, incl. the Baldwin-Vance bill that passed the Senate (https://www.baldwin.senate.gov/news/press-releases/baldwin-vance-bipartisan-bill-to-ensure-taxpayer-funded-inventions-are-made-in-america-passes-senate)",
+   "Paying a Fair Share Act: 30% minimum tax on incomes over $1M, framed partly as deficit reduction; not a wealth tax (https://www.baldwin.senate.gov/news/press-releases/baldwin-colleagues-reintroduce-bill-to-ensure-wealthiest-americans-pay-their-fair-share-in-taxes)",
+   "Forced a War Powers vote to end the 2026 Iran war (https://www.baldwin.senate.gov/news/press-releases/watch-baldwin-condemns-trumps-illegal-war-in-iran-forces-vote-on-her-war-powers-resolution-to-immediately-end-it)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Baldwin has a progressive record: Medicare for All co-sponsor and DC statehood (bulk), plus the trans-sports amicus brief, giving LI about 3. She mixes this with heartland-centrist signals (police-funding framing, a Farm Bureau endorsement, Buy America bills with Republicans), giving CI about 2. With high EPD and EO about 4 the sequence reaches step 5 and leans Category 1 only narrowly. This is an imperfect fit: she is a mainstream progressive, not a movement-left figure.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Wisconsin",
+   "https://en.wikipedia.org/wiki/Tammy_Baldwin",
+   "https://www.murray.senate.gov/murray-hirono-bicameral-colleagues-file-amicus-brief-opposing-bans-on-transgender-students-in-school-sports/",
+   "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-cosponsors-bill-to-redirect-excessive-ice-funding-to-local-police",
+   "https://www.baldwin.senate.gov/news/press-releases/baldwin-colleagues-reintroduce-bill-to-ensure-wealthiest-americans-pay-their-fair-share-in-taxes",
+   "https://www.baldwin.senate.gov/news/press-releases/baldwin-earns-american-farm-bureau-federations-friend-of-farm-bureau-award",
+   "https://wfbf.com/farm-bureau-news/baldwin-tiffany-and-van-orden-among-federal-candidates-endorsed-by-wfbf-board/",
+   "https://www.baldwin.senate.gov/news/press-releases/tour-baldwin-launches-ending-chaos-lowering-costs-statewide-tour",
+   "https://www.thelugarcenter.org/ourwork-84.html"
+  ]
+ }
+]

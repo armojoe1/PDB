@@ -1,0 +1,1834 @@
+[
+ {
+  "id": "M001225",
+  "name": "Kevin Mullin",
+  "seat": "CA-15",
+  "call_status": "re-elected 2026 (beat Charles Hoelter (R), ~79-21% with 83% counted per AP via Wikipedia)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA communications, University of San Francisco (1992); MPA, San Francisco State University (1998); Harvard Kennedy School executive programme",
+   "career": "Founder of KM2 Communications (local TV production/host); district director for state Sen. Jackie Speier",
+   "prior_office": "South San Francisco City Council 2007-2012 (incl. a year as mayor); California Assembly 2012-2022 (Speaker pro Tempore 2014-2022); U.S. House since 2023"
+  },
+  "self_description": "Described himself as a pro-Israel lawmaker in 2022 and was called a 'moderate Dem' by J. Weekly when AIPAC spent ~$600k for him (https://jweekly.com/2022/11/18/how-pro-israel-pacs-helped-a-moderate-dem-win-jackie-speiers-seat-in-congress/); now a member of BOTH the Congressional Progressive Caucus and the New Democrat Coalition.",
+  "primary_context": "June 2026 top-two primary: advanced with Republican Charles Hoelter over two minor Democrats (Anthony Dang, Mantosh Kumar) and an NPP candidate; no organised left or right challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Voted YES on the July 2026 Massie amendment to H.R. 8595 barring all US (military) aid to Israel: 'I cannot agree to continued American support of Netanyahu's actions in Gaza and the West Bank' (statement 7/15/26). NOTE: an aid cut-off vote, not a 'genocide' statement or embargo bill - reviewer may downgrade.",
+    "src": "https://fmep.org/?p=32051"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2023 (office=3). MPA plus long senior legislative career (Assembly Speaker pro Tem 8 yrs) -> cred 2. Authored Prop 19 (2020 legislative constitutional amendment, passed) in the Assembly; Energy & Commerce member in 119th -> policy 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate vs Hoelter (R) in 2026: unverified (no debate or joint forum found). Holds in-person and Zoom town halls (Mar/Aug 2025 in-district, Nov 2025 Zoom with AG Bonta, Apr 2026 College of San Mateo) per kevinmullin.house.gov/about/events; Feb 2025 town hall cancelled for medical reasons. No appearances on cross-partisan/hostile outlets found."
+  },
+  "outside_support": [
+   "California Labor Federation",
+   "NUHW",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "J Street PAC",
+   "Planned Parenthood Action Fund",
+   "Sierra Club",
+   "California Environmental Voters",
+   "AIPAC-aligned spending in 2022 (~$600k)"
+  ],
+  "notable_positions": [
+   "Called to 'rein in and overhaul ICE immediately' and said he 'would not support another dime for ICE'; voted against DHS funding (Jan 2026) (https://kevinmullin.house.gov/2026/01/28/overhaul-ice-immediately)",
+   "Backed articles of impeachment against DHS Secretary Noem after the Minneapolis ICE killing (https://kevinmullin.house.gov/2026/01/14/rep-mullin-seeks-impeachment-of-homeland-security-secretary-noem-following-ice-killing-unarmed-mother)",
+   "Voted for Massie amendment to cut off US aid to Israel, July 2026 (https://fmep.org/?p=32051)",
+   "Original co-sponsor of Medicare for All Act 2025 and Green New Deal (bulk)",
+   "Left hospital bed with IV to vote against the Feb 2025 GOP budget resolution (https://www.sfchronicle.com/politics/article/kevin-mullin-budget-vote-20189062.php)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk record (M4A, GND, DC statehood co-sponsor; CPC member) plus a July 2026 vote to end US aid to Israel gives LI ~4, while his only centrist marker is New Dem membership (CI ~1). Credentialed (EPD 7) and holds regular town halls, so he falls to the 'nearest of 1/4' step and leans left - an imperfect fit for a former AIPAC-backed 'moderate' who is not a movement-left figure.",
+  "sources": [
+   "https://kevinmullin.house.gov/2026/01/28/overhaul-ice-immediately",
+   "https://fmep.org/?p=32051",
+   "https://kevinmullin.house.gov/about/events",
+   "https://jweekly.com/2022/11/18/how-pro-israel-pacs-helped-a-moderate-dem-win-jackie-speiers-seat-in-congress/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://en.wikipedia.org/wiki/Kevin_Mullin",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "L000607",
+  "name": "Sam Liccardo",
+  "seat": "CA-16",
+  "call_status": "re-elected 2026 (beat Peter Sundin Soule (R), ~78-22% with 76% counted per AP via Wikipedia)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA government, Georgetown (magna cum laude); JD Harvard Law School; MPP Harvard Kennedy School",
+   "career": "Criminal prosecutor, Santa Clara County District Attorney's office",
+   "prior_office": "San Jose City Council 2007-2014; Mayor of San Jose 2015-2023; U.S. House since 2025"
+  },
+  "self_description": "Pitches himself as a pragmatic, bipartisan problem-solver: 'Sam has worked across the aisle to advance practical solutions' (samliccardo.com/about); a March 2026 Puck profile (reposted on his House site) described him as pushing his party toward a 'middle passage'.",
+  "primary_context": "June 2026 top-two primary: advanced with Republican Peter Soule; no significant Democratic challenger (2024 opponent's ally Peter Dixon withdrew). California Labor Federation declined to endorse him.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Fiscal-restraint record as mayor: resolved pension-reform battles that 'saved taxpayers $3 billion in retiree costs', improved the city's credit rating and left 'a $30 million budget surplus' (campaign bio); no wealth-tax/rate-hike support found.",
+    "src": "https://www.samliccardo.com/about"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "'When protests following the murder of George Floyd brought calls for defunding the police... I refused'; added 200+ officers to SJPD 2017-2020 (campaign 'Crime' page).",
+    "src": "https://www.samliccardo.com/crime"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-housing-supply/pro-tech: 'The House and Senate have each approved four of Sam's bills to expand housing supply'; chairs New Dems' Innovation & Technology working group; endorsed by AI-industry super PAC Leading the Future.",
+    "src": "https://www.samliccardo.com/about"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk; NDC members page)",
+   "New Democrat Action Fund endorsement (2026, per search summary)",
+   "Possible Problem Solvers Caucus member (listed in his Wikipedia bio but NOT on the PSC roster used for bulk data - unverified, not counted)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024 (office=2; big-city mayor). JD+MPP Harvard -> cred 2. Four housing bills passed each chamber per campaign; authored bills on Afghan refugees, AI, ICE/military deployment -> policy 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Soule (R): unverified. In 2024 he debated Evan Low on NBC Bay Area/KQED after postponing once citing laryngitis (https://www.nbcbayarea.com/news/local/congressional-district-16-debate-liccardo-low/3660078/). Active with press (Puck, Punchbowl, The Hill op-eds, Mountain View press conference on shutdown) but no hostile-outlet appearances or 2025-26 town halls verified."
+  },
+  "outside_support": [
+   "Leading the Future (AI-industry super PAC)",
+   "J Street",
+   "CAIR Action",
+   "LCV Action Fund",
+   "Sierra Club",
+   "Equality California",
+   "Planned Parenthood Action Fund",
+   "California Democratic Party",
+   "2024: Neighbors for Results (Bloomberg-funded super PAC)"
+  ],
+  "notable_positions": [
+   "Refused calls to defund police in 2020; rebuilt SJPD (https://www.samliccardo.com/crime)",
+   "Co-sponsored Block the Bombs to Israel Act (July 2026) but voted NO on the Massie amendment to end all aid, saying 'leadership requires disappointing your friends at a rate they can tolerate' (https://fmep.org/?p=32051)",
+   "Voted against ICE funding (Jan 2026) (https://liccardo.house.gov/media/press-releases/congressman-sam-liccardo-votes-against-funding-ice)",
+   "Housing-supply and tech/AI-innovation focus; co-led bipartisan US-China AI talks call with Rep. Kevin Kiley (https://liccardo.house.gov/media/in-the-news)",
+   "Pension reform and balanced budgets as San Jose mayor (https://www.samliccardo.com/about)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Clear centrist markers - New Dem (C1), refused 'defund' and rebuilt police (C5), pension-reform/surplus fiscal record (C3), housing-supply/pro-tech with AI-industry PAC backing (C8) - give CI 4-5 against LI ~2 (DC statehood and a 2026 Block the Bombs co-sponsorship). Confidence trimmed because the PSC membership is unverified and he has moved left on ICE and Israel arms.",
+  "sources": [
+   "https://www.samliccardo.com/crime",
+   "https://www.samliccardo.com/about",
+   "https://en.wikipedia.org/wiki/Sam_Liccardo",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://fmep.org/?p=32051",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://liccardo.house.gov/media/in-the-news",
+   "https://www.nbcbayarea.com/news/local/congressional-district-16-debate-liccardo-low/3660078/"
+  ]
+ },
+ {
+  "id": "K000389",
+  "name": "Ro Khanna",
+  "seat": "CA-17",
+  "call_status": "re-elected 2026 (beat Ritesh Tandon (R), ~72-28% with 79% counted per AP via Wikipedia)",
+  "bio": {
+   "birth_year": 1976,
+   "education": "BA economics, University of Chicago; JD, Yale Law School",
+   "career": "Tech/IP lawyer (Wilson Sonsini); Deputy Assistant Secretary of Commerce (2009-11); economics lecturer at Stanford",
+   "prior_office": "U.S. House since 2017; Armed Services, Oversight committees"
+  },
+  "self_description": "Self-described 'progressive capitalist' calling for a 'new economic patriotism' (https://www.foxbusiness.com/politics/progressive-capitalism-is-the-recipe-for-economic-growth-and-innovation-california-rep-ro-khanna); co-chaired Bernie Sanders' 2020 campaign; joined Justice Democrats in 2017.",
+  "primary_context": "June 2026: faced a challenge from the CENTRE/tech right - entrepreneur Ethan Agarwal (backed by Ron Conway, Garry Tan, ex-Rep. Mike Honda) attacking his support for California's billionaire wealth tax; Khanna advanced first with Republican Ritesh Tandon.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Co-introduced with Sanders the Stop WALMART Act (2018) banning large-company stock buybacks unless they pay $15/hr, 7 days sick leave and cap CEO pay at 150x median; also Stop BEZOS Act.",
+    "src": "https://thehill.com/policy/finance/416927-sanders-rolls-out-bill-aimed-at-getting-walmart-to-raise-wages/"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": -1,
+    "e": "Free-speech stance: opposed Twitter's suppression of the NY Post Hunter Biden laptop story (2020/22 Twitter Files), arguing against platform censorship.",
+    "src": "https://en.wikipedia.org/wiki/Ro_Khanna"
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "'I cannot vote for aid to a country that committed genocide' (X post 7/14/26, voted YES on Massie amendment); co-sponsored Tlaib's Nov 2025 resolution recognising Israel's genocide in Gaza.",
+    "src": "https://fmep.org/?p=32051"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats (2026)",
+   "California Working Families Party (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Has 'championed the abundance agenda' and is a member of the Congressional YIMBY Caucus (pro-housing supply).",
+    "src": "https://www.politico.com/news/2025/03/27/california-abundance-craze-00253159"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Five-term member; Yale JD + senior Commerce Dept role; co-authored (with Massie) the Epstein Files Transparency Act signed into law Nov 2025; founder/co-chair of the Antitrust Caucus."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 debate vs Tandon (R) or primary rival Agarwal: unverified. Very high media exposure across lanes: Fox Business op-eds/appearances, 53 podcast/YouTube appearances Jan-Sep 2025 (https://www.chaoticera.news/p/ro-khanna-floods-the-zone); frequently argues policy with conservatives (Massie partnership)."
+  },
+  "outside_support": [
+   "Justice Democrats",
+   "California WFP",
+   "Progressive Democrats of America",
+   "Progressive Victory",
+   "National Nurses United",
+   "UAW Region 6",
+   "Teamsters Joint Council 7",
+   "End Citizens United",
+   "J Street",
+   "CAIR Action",
+   "Emgage Action",
+   "Track AIPAC",
+   "Peace Action"
+  ],
+  "notable_positions": [
+   "Called Israel's war a genocide and voted to end US aid (July 2026) (https://fmep.org/?p=32051)",
+   "Backed California billionaire wealth tax; co-sponsor of the 2026 Ultra-Millionaire Tax Act (https://www.nytimes.com/2026/01/07/us/politics/ro-khanna-california-wealth-tax.html)",
+   "Medicare for All and Green New Deal co-sponsor (bulk)",
+   "Co-led Epstein Files Transparency Act with Thomas Massie, enacted Nov 2025 (https://en.wikipedia.org/wiki/Ro_Khanna)",
+   "Led 47 House members urging recognition of a Palestinian state (Sept 2025) (https://en.wikipedia.org/wiki/Ro_Khanna)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships (M4A, Ultra-Millionaire Tax, GND, DC statehood, Block the Bombs) plus Stop WALMART buyback ban, a 2026 'genocide' statement and Justice Democrats/WFP endorsements put LI well above 6. He styles himself a 'progressive capitalist' and backs abundance/YIMBY policy, but the left index dominates.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://fmep.org/?p=32051",
+   "https://en.wikipedia.org/wiki/Ro_Khanna",
+   "https://thehill.com/policy/finance/416927-sanders-rolls-out-bill-aimed-at-getting-walmart-to-raise-wages/",
+   "https://www.politico.com/news/2025/03/27/california-abundance-craze-00253159",
+   "https://www.foxbusiness.com/politics/progressive-capitalism-is-the-recipe-for-economic-growth-and-innovation-california-rep-ro-khanna",
+   "https://www.chaoticera.news/p/ro-khanna-floods-the-zone",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "L000397",
+  "name": "Zoe Lofgren",
+  "seat": "CA-18",
+  "call_status": "re-elected 2026 (beat Shane Lewis (R))",
+  "bio": {
+   "birth_year": 1947,
+   "education": "BA Stanford; JD Santa Clara University",
+   "career": "Aide to Rep. Don Edwards (incl. Nixon impeachment staff work); immigration lawyer; law lecturer",
+   "prior_office": "San Jose-Evergreen Community College board; Santa Clara County Board of Supervisors 1981-1994; U.S. House since 1995 (chair House Administration 2019-23, chair Ethics 2009-11, Ranking Member Science 2023-)"
+  },
+  "self_description": "No explicit ideological label found; former CPC member (Wikipedia lists membership as 'former') and Medicare for All Caucus member; tech-friendly Silicon Valley liberal.",
+  "primary_context": "June 2026: advanced with Republican Shane Lewis over Democrat Luis Arreguin and Forward Party-backed independent Chris Demers; no organised left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": -1,
+    "e": "In 2021 opposed the bipartisan House antitrust package aimed at breaking up Big Tech, criticising it with other California members.",
+    "src": "https://theintercept.com/2021/07/14/congressional-progressive-caucus-antitrust-zoe-lofgren/"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "16-term member, JD; Ranking Member of Science Committee, former chair of House Administration and Ethics; long immigration-law legislative record."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Lewis (R): unverified. No 2025-26 town-hall or cross-partisan media evidence gathered (search budget exhausted)."
+  },
+  "outside_support": [
+   "California Labor Federation",
+   "NUHW",
+   "CAIR Action",
+   "J Street",
+   "Center for Biological Diversity Action Fund",
+   "Sierra Club",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Original co-sponsor of Medicare for All Act 2025 (bulk; had withdrawn from the 2019 version citing its timeline) (https://en.wikipedia.org/wiki/Zoe_Lofgren)",
+   "Co-sponsored Block the Bombs to Israel Act (Sept 2025) and the Ultra-Millionaire Tax Act (Oct 2026) (bulk)",
+   "Opposed 2021 Big Tech antitrust break-up package (https://theintercept.com/2021/07/14/congressional-progressive-caucus-antitrust-zoe-lofgren/)",
+   "Long-time champion of net neutrality and Aaron's Law (https://en.wikipedia.org/wiki/Zoe_Lofgren)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships alone give LI 5 (M4A, Ultra-Millionaire Tax, GND, DC statehood, Block the Bombs), with no centrist markers found; she explicitly opposed Big Tech break-ups. Credentialed and senior, she falls to the 'nearest of 1/4' step and leans to Cat 1, though she is an establishment figure rather than a movement-left one - imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://en.wikipedia.org/wiki/Zoe_Lofgren",
+   "https://theintercept.com/2021/07/14/congressional-progressive-caucus-antitrust-zoe-lofgren/",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "P000613",
+  "name": "Jimmy Panetta",
+  "seat": "CA-19",
+  "call_status": "re-elected 2026 (beat Peter Coe Verbica (R))",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA international relations, UC Davis; JD, Santa Clara University",
+   "career": "Deputy district attorney (Alameda and Monterey counties); US Navy Reserve intelligence officer, Afghanistan 2007 (Bronze Star)",
+   "prior_office": "U.S. House since 2017 (Ways and Means, Trade subcommittee; regional whip)"
+  },
+  "self_description": "No explicit ideological label found; founder of the bipartisan For Country Caucus and member of the Problem Solvers Caucus and New Democrat Coalition (also listed on CPC roster).",
+  "primary_context": "June 2026: advanced with Republican Peter Verbica; Democrat Sean Dougherty, backed by Central Coast DSA, CAIR Action and Track AIPAC, ran from the left and was eliminated.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Ranked #13 of 435 on the Lugar Center-McCourt Bipartisan Index for 2023 (score 1.61; #25 in the 117th Congress); founded the bipartisan For Country Caucus.",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce for 2026.",
+    "src": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jimmy-panetta-for-californias-nineteenth-district"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member",
+   "Problem Solvers Caucus member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Five-term member; JD, prosecutor and Navy intelligence officer -> cred 2. Ways & Means trade member with an amendment strategy on H.R. 8595; no enacted signature bill verified -> policy 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Verbica (R): unverified. No 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "U.S. Chamber of Commerce",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "VoteVets",
+   "California Labor Federation",
+   "NUHW",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "Endorsed by Reps. Khanna, Lofgren, Liccardo, Carbajal"
+  ],
+  "notable_positions": [
+   "Voted NO on the Massie amendment to cut aid to Israel; opposed the rule to advance his own amendment (July 2026) (https://fmep.org/?p=32051)",
+   "One of 16 Democrats to vote against the 2022 Merger Filing Fee Modernization (antitrust) Act (https://www.cnbc.com/2022/09/29/house-passes-antitrust-bill-raising-ma-fees.html)",
+   "Original co-sponsor of Medicare for All Act 2025 and of the 2023 Green New Deal resolution (bulk)",
+   "Introduced 2026 bill requiring IRS to act on refund claims within a year (https://panetta.house.gov/media/press-releases/representatives-panetta-ross-delauro-introduce-bill-deliver-faster-relief)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Centrist markers - New Dem and Problem Solvers membership, a top-15 Lugar bipartisanship ranking and a Chamber of Commerce endorsement - give CI ~4, against LI ~3 from bulk co-sponsorships (M4A, GND, DC statehood). Credentialed with no evidence of avoiding scrutiny, he lands at the 'nearest of 1/4' step, leaning centrist; mixed signals keep confidence low.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jimmy-panetta-for-californias-nineteenth-district",
+   "https://fmep.org/?p=32051",
+   "https://en.wikipedia.org/wiki/Jimmy_Panetta",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ },
+ {
+  "id": "C001059",
+  "name": "Jim Costa",
+  "seat": "CA-21",
+  "call_status": "re-elected 2026 (beat Kyle Kirkland (R))",
+  "bio": {
+   "birth_year": 1952,
+   "education": "BA political science, California State University, Fresno",
+   "career": "Congressional aide (Rep. John Krebs); legislative chief of staff; family dairy/farm background",
+   "prior_office": "California Assembly 1978-1994; California Senate 1994-2002; U.S. House since 2005 (Blue Dog Coalition co-chair for policy 2023, earlier administration/communications co-chair)"
+  },
+  "self_description": "Long-time Blue Dog leader (former Blue Dog co-chair); described as one of the 'conservative Democrats' in the 2021 'Unbreakable Nine' (The Intercept).",
+  "primary_context": "June 2026: advanced with Republican Kyle Kirkland (casino owner); Democrats Lourin Hubbard (labor organizer) and Eric Garcia eliminated - mild left/labor challenge, not organised by national left groups.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Blue Dog Coalition co-chair for policy (fiscal-responsibility caucus); in 2021 joined the 'Unbreakable Nine' conservative Democrats who threatened to derail the $3.5 trillion reconciliation package unless the bipartisan infrastructure bill passed first.",
+    "src": "https://theintercept.com/2021/08/24/reconciliation-infrastructure-gottheimer-democrats-unbreakable-nine/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Ranked #44 on the Lugar Center Bipartisan Index (2023); one of ten Democrats who joined all Republicans to censure Rep. Al Green (Mar 2025); called on Biden to withdraw (July 2024).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce for 2026; one of 28 House Democrats to vote to build the Keystone XL pipeline (2015).",
+    "src": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jim-costa-for-californias-twenty-first-congressional-district"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition member and former co-chair (https://bluedogcaucus-golden.house.gov/members)",
+   "New Democrat Coalition member",
+   "Problem Solvers Caucus member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "11-term member and 24 years in the state legislature; BA only -> cred 1; senior Agriculture/Natural Resources member with enacted bills (e.g., Hmong/Lao veterans burial act, 2018) and lead on water/farm-labour bills -> policy 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Kirkland (R): unverified. Competitive-seat member historically, but no 2025-26 town-hall or hostile-outlet evidence gathered (search budget exhausted)."
+  },
+  "outside_support": [
+   "U.S. Chamber of Commerce",
+   "Sens. Padilla and Schiff",
+   "Gov. Newsom",
+   "California Labor Federation",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Voted YES on the Laken Riley Act (Jan 2025) (bulk)",
+   "Voted with all Republicans to censure Rep. Al Green (Mar 2025) (https://www.theguardian.com/us-news/2025/mar/06/al-green-censure-house-trump-speech-democrats)",
+   "Member of the 2021 'Unbreakable Nine' moderates on reconciliation (https://theintercept.com/2021/08/24/reconciliation-infrastructure-gottheimer-democrats-unbreakable-nine/)",
+   "Voted to approve Keystone XL (2015) (https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/)",
+   "Co-sponsor of Dream and Promise Act and farmworker legalisation bills (https://en.wikipedia.org/wiki/Jim_Costa)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Blue Dog leader who is also in the New Dem and Problem Solvers caucuses (C1 capped at 3), with a Laken Riley Yea, Chamber endorsement, Keystone XL vote and top-50 Lugar bipartisanship ranking; CI is ~7 while LI is ~1 (DC statehood co-sponsor only). Clear Clinton-style centrist.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://en.wikipedia.org/wiki/Jim_Costa",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jim-costa-for-californias-twenty-first-congressional-district",
+   "https://bluedogcaucus-golden.house.gov/members",
+   "https://theintercept.com/2021/08/24/reconciliation-infrastructure-gottheimer-democrats-unbreakable-nine/",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ },
+ {
+  "id": "C001112",
+  "name": "Salud Carbajal",
+  "seat": "CA-24",
+  "call_status": "re-elected 2026 (beat Bob Smith (R))",
+  "bio": {
+   "birth_year": 1964,
+   "education": "BA, UC Santa Barbara; MA organizational management, Fielding Graduate University",
+   "career": "US Marine Corps Reserve (8 yrs, mobilised in Gulf War); county government aide",
+   "prior_office": "Santa Barbara County Board of Supervisors 2004-2016; U.S. House since 2017 (Ranking Member, T&I Coast Guard & Maritime Transportation subcommittee)"
+  },
+  "self_description": "No explicit ideological label found; member of New Democrat Coalition and Problem Solvers Caucus; official bio stresses bipartisan infrastructure law and local delivery.",
+  "primary_context": "June 2026: advanced with Republican Bob Smith; Democrat Sarah Bacon (graduate student) and Peace & Freedom's Helena Pasquarella eliminated - no serious challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Voted YES on the July 2026 Massie amendment to H.R. 8595 to halt $3.3bn in military funding to Israel, after growing critical of Netanyahu's war strategy. NOTE: an aid cut-off vote, not a 'genocide' statement - reviewer may downgrade.",
+    "src": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3505"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Ranked #58 of 435 on the Lugar Center Bipartisan Index for 2023 (score 0.48; #83 in the 117th).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member",
+   "Problem Solvers Caucus member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Five-term member; BA + non-elite MA and county-supervisor career -> cred 1; subcommittee Ranking Member with several bills signed into law (Conception boat-fire safety, red-flag implementation) -> policy 2 (carbajal.house.gov/biography)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Bob Smith (R): unverified. Holds telephone town halls (carbajal.house.gov/townhall) - a controlled format; no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "Brady Campaign",
+   "J Street",
+   "Center for Biological Diversity Action Fund",
+   "California Labor Federation",
+   "NUHW",
+   "Sierra Club",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Voted for Massie amendment to halt military aid to Israel (July 2026) (https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3505)",
+   "Voted for FY2025 NDAA despite being 'vehemently opposed' to its ban on gender-affirming care for military children (https://www.cnn.com/2024/12/11/politics/house-vote-ndaa-transgender-children/index.html)",
+   "Original co-sponsor of Medicare for All Act 2025 and 2023 Green New Deal resolution (bulk)",
+   "Helped write the 2021 Bipartisan Infrastructure Law as T&I member (https://carbajal.house.gov/biography/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Mixed record: bulk co-sponsorships (M4A, GND, DC statehood) plus a 2026 vote to cut Israel military aid give LI ~4, while New Dem + Problem Solvers membership and a top-60 Lugar bipartisanship score give CI ~3. Credentialed and not shown to avoid scrutiny, he reaches the 'nearest of 1/4' step with a marginal left lean - a weak, imperfect fit; Cat 4 is nearly as defensible.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://en.wikipedia.org/wiki/Salud_Carbajal",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf",
+   "https://carbajal.house.gov/biography/",
+   "https://carbajal.house.gov/townhall/",
+   "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3505",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ },
+ {
+  "id": "R000599",
+  "name": "Raul Ruiz",
+  "seat": "CA-25",
+  "call_status": "re-elected 2026 (beat Joe Males (R), Hemet city councilor)",
+  "bio": {
+   "birth_year": 1972,
+   "education": "BS UCLA; MD, MPP and MPH, Harvard University",
+   "career": "Emergency physician (Eisenhower Medical Center); senior associate dean, UC Riverside School of Medicine",
+   "prior_office": "U.S. House since 2013 (Chair, Congressional Hispanic Caucus 2021-2023; co-chair Doctors Caucus)"
+  },
+  "self_description": "Campaign site stresses constituent service and bipartisanship: 'While Washington remains gridlocked, I am committed to serving and helping constituents'; official site has a 'Problem Solving and Bipartisanship' page.",
+  "primary_context": "June 2026: advanced with Republican Joe Males over two other Republicans; no Democratic challenger.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Seven-term member; MD/MPP/MPH Harvard; former CHC chair and Energy & Commerce health member with long veterans' burn-pit and health legislative work -> policy 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Males (R): unverified (he debated Mary Bono Mack in 2012 per Idyllwild Town Crier). No 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "JACPAC",
+   "J Street",
+   "314 Action",
+   "California Labor Federation",
+   "NUHW",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Voted YES on the 2025 resolution denouncing socialism (context only; bulk)",
+   "Defends and seeks to improve the ACA rather than single-payer framing: called it 'a giant step in the right direction' that 'needs to be improved' (https://en.wikipedia.org/wiki/Raul_Ruiz_(politician))",
+   "Campaign platform: protect Medicare/Social Security, veterans, small-business red-tape cutting (https://www.drraulruiz.com/)",
+   "DC statehood co-sponsor (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Very few markers either way: LI ~1 (DC statehood) and CI ~1 (New Dem). Highly credentialed (Harvard MD/MPP/MPH, ex-CHC chair) with no documented avoidance of debate, so he reaches the 'nearest of 1/4' step on a tie; leaning Cat 4 on New Dem membership and a bipartisanship/constituent-service brand. Thin evidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)",
+   "https://www.drraulruiz.com/",
+   "https://ruiz.house.gov/about",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "W000830",
+  "name": "George Whitesides",
+  "seat": "CA-27",
+  "call_status": "re-elected 2026 (beat Jason Gibbs (R), Santa Clarita councilmember; district made bluer by Prop 50)",
+  "bio": {
+   "birth_year": 1974,
+   "education": "BA Princeton (School of Public and International Affairs); MPhil, University of Cambridge; Fulbright scholar",
+   "career": "NASA chief of staff (2009-10); first CEO of Virgin Galactic (~2010-2021); executive director, National Space Society",
+   "prior_office": "No elected office before Congress; U.S. House since 2025 (vice-ranking member, Science Committee)"
+  },
+  "self_description": "'I want to be a voice for business in Congress' (SCV Chamber forum, Aug 2026); runs on costs, aerospace jobs, wildfire and AI safety.",
+  "primary_context": "June 2026: advanced with Republican Jason Gibbs; minor Democrats Caleb Norwood and Roberto Ramos eliminated.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Calls ICE 'an agency that is in dire need of oversight' but supports border security and does not favour abolishing the agency (LA Times 2026 voter guide).",
+    "src": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Supports border security and explicitly does not favour abolishing ICE (LA Times voter guide, May 2026).",
+    "src": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "'I want to be a voice for business in Congress'; opposes tariffs as raising manufacturers' input costs; calls for cutting red tape so housing permitting is easier and co-sponsored the bipartisan Fix Our Forests Act easing environmental review.",
+    "src": "https://signalscv.com/2026/08/business-and-basics-whitesides-discusses-business-optimism-during-chamber-congressional-forum/"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (NDC members page; not in bulk caucus data)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected 2024; NASA chief of staff counts as senior federal appointee (office 2 either way). Cambridge MPhil + CEO career -> cred 2. Co-sponsored House-passed bipartisan bills (Fix Our Forests, Begich DOE-NASA bill), introduced AI-in-classrooms bill; no authored bill passed verified -> policy 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No joint 2026 debate with Gibbs found; both appeared separately before the same Antelope Valley College candidate-forum panel (Gibbs Oct 7; Whitesides later) and Whitesides took unscripted questions there and at the SCV Chamber forum (avpress.com; signalscv.com). Runs his own 'Capitol Heat' interview series (Spectrum News). No hostile-outlet appearances found. Debate set to 1 (unverified)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "314 Action",
+   "End Citizens United",
+   "Giffords",
+   "Brady Campaign",
+   "LCV Action Fund",
+   "Sierra Club",
+   "California Labor Federation",
+   "NUHW",
+   "Reproductive Freedom for All"
+  ],
+  "notable_positions": [
+   "Supports border security, does not favour abolishing ICE (https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide)",
+   "Opposes Trump tariffs and wants the Canada trade war ended (https://signalscv.com/2026/08/business-and-basics-whitesides-discusses-business-optimism-during-chamber-congressional-forum/)",
+   "Co-led letter of 108 Democrats urging Congress to stay in session to pass AI catastrophic-risk safeguards; proposed a one-month frontier-AI 'safety stand-down' (https://thehill.com/policy/technology/6090277-california-democrat-ai-safety-regulation/)",
+   "Voted for June 2026 Iran War Powers Resolution (https://www.wsj.com/politics/how-each-member-of-the-house-voted-on-the-war-powers-bill-91634dc2)",
+   "Co-sponsored bipartisan Fix Our Forests Act (Jan 2025) (https://www.latimes.com/politics/story/2025-01-16/palisades-eaton-altadena-los-angeles-wildfires-federal-legislation)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left markers (no bulk co-sponsorships; explicitly does not back abolishing ICE) against centrist markers for New Dem membership, border-security stance and a pro-business, anti-tariff, permitting-reform pitch (CI ~3, LI ~0). Credentialed and engaging in open forums, he falls to the 'nearest of 1/4' step and clearly leans Cat 4; voted 'Yea' on the 2025 socialism resolution (context) and is second only to Costa in this batch for DW-NOMINATE moderation (context only).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/George_T._Whitesides",
+   "https://signalscv.com/2026/08/business-and-basics-whitesides-discusses-business-optimism-during-chamber-congressional-forum/",
+   "https://www.avpress.com/news/whitesides-quizzed-at-forum/article_71e03f23-6f5d-46ba-ac40-3f8de1f10cc2.html",
+   "https://spectrumlocalnews.com/us/snplus/politics/2026/09/23/whitesides-turns-up-the-heat-to-connect-with-voters",
+   "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+   "https://newdemocratcoalition.house.gov/members"
+  ]
+ },
+ {
+  "id": "C001080",
+  "name": "Judy Chu",
+  "seat": "CA-28",
+  "call_status": "re-elected 2026 (beat April Verlato (R))",
+  "bio": {
+   "birth_year": 1953,
+   "education": "BA mathematics, UCLA; PhD psychology, California School of Professional Psychology (Alliant)",
+   "career": "Psychology professor (East Los Angeles College and others)",
+   "prior_office": "Garvey school board (1985); Monterey Park City Council 1988-2001 (mayor 3 times); California Assembly 2001-2006; State Board of Equalization 2007-2009; U.S. House since 2009 (CAPAC chair 2011-2025; Ways and Means)"
+  },
+  "self_description": "Vice-chair of the Congressional Progressive Caucus and member of the Medicare for All Caucus (https://en.wikipedia.org/wiki/Judy_Chu).",
+  "primary_context": "June 2026: advanced with Republican April Verlato; Democrat Peter Roybal eliminated; endorsed by every California House Democrat - no organised challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 1,
+    "e": "Co-sponsored the Judiciary Act of 2021 (H.R. 2584) to expand the Supreme Court from 9 to 13 justices (co-sponsored 28 Oct 2021).",
+    "src": "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Nine-term member; PhD; long-time CAPAC chair, Ways & Means member and lead sponsor of the Women's Health Protection Act (passed House 2021-22)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Verlato (R): unverified. No 2025-26 town-hall or hostile-outlet evidence gathered (search budget exhausted)."
+  },
+  "outside_support": [
+   "Progressive Democrats of America",
+   "East Area Progressive Democrats",
+   "Giffords",
+   "J Street",
+   "National Women's Political Caucus",
+   "Sierra Club",
+   "California Labor Federation",
+   "NUHW",
+   "Gov. Newsom, Sens. Padilla & Schiff, all CA House Dems"
+  ],
+  "notable_positions": [
+   "Signed 27-member statement and voted YES on the Massie amendment to end $3.3bn military aid to Israel (July 2026) (https://fmep.org/?p=32051)",
+   "Voted against April 2024 Israel aid package (https://en.wikipedia.org/wiki/Judy_Chu)",
+   "Co-sponsor of Medicare for All, Ultra-Millionaire Tax Act, GND, DC statehood and Block the Bombs (bulk)",
+   "Co-sponsored Supreme Court expansion (Judiciary Act of 2021) (https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (M4A, Ultra-Millionaire Tax, GND, DC statehood, Block the Bombs) plus co-sponsoring the 2021 court-expansion bill give LI 6, and no centrist markers were found. A CPC vice-chair with an establishment profile rather than movement-left endorsements, so confidence is medium.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/Judy_Chu",
+   "https://www.congress.gov/bill/117th-congress/house-bill/2584/cosponsors",
+   "https://fmep.org/?p=32051",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "R000620",
+  "name": "Luz Rivas",
+  "seat": "CA-29",
+  "call_status": "re-elected 2026 (Democrat-vs-Democrat general; beat Angelica Maria Duenas (D))",
+  "bio": {
+   "birth_year": 1974,
+   "education": "BS electrical engineering, MIT; EdM, Harvard Graduate School of Education",
+   "career": "Motorola engineer; founder of DIY Girls (STEM non-profit, Pacoima); LA Board of Public Works commissioner",
+   "prior_office": "California Assembly 2018-2024 (Legislative Progressive Caucus); U.S. House since 2025 (freshman class representative to Democratic leadership)"
+  },
+  "self_description": "Member of the Congressional Progressive Caucus and, in Sacramento, the California Legislative Progressive Caucus; no ideological self-label found.",
+  "primary_context": "Challenged from the LEFT: perennial progressive candidate Angelica Duenas (backed by Feel the Bern SFV, Track AIPAC, Courage for Democracy, Knock LA) finished second in the June 2026 top-two primary (Republican eliminated) and faced Rivas in the November general; Rivas won.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected 2024 after six years in the Assembly (office 2). MIT BS + Harvard EdM and engineering/non-profit career -> cred 2. No signature federal bill verified -> policy 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated Duenas in the D-vs-D general is unverified. No 2025-26 town-hall or hostile-outlet evidence gathered (search budget exhausted)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "314 Action",
+   "LCV Action Fund",
+   "Center for Biological Diversity Action Fund",
+   "Giffords",
+   "Sierra Club",
+   "PODER PAC",
+   "Elect Democratic Women",
+   "California Labor Federation",
+   "LA County Democratic Party"
+  ],
+  "notable_positions": [
+   "Voted NO on the July 2026 Massie amendment to end aid to Israel, calling it 'a poorly drafted and hyper-partisan amendment' (https://fmep.org/?p=32051)",
+   "Original co-sponsor of the Medicare for All Act 2025; DC statehood co-sponsor (bulk)",
+   "In the Assembly, opposed easing coastal-zone rules for affordable housing and sought limits on faith-based housing bills (https://calmatters.org/housing/2023/07/california-coast-housing-bill/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Only bulk left markers (M4A and DC statehood co-sponsor; CPC member) give LI ~2, with no centrist markers found (CI 0), so the 'nearest of 1/4' step leans Cat 1 by default. She is AIPAC/DMFI-backed, rejected the Israel aid cut-off and beat a left challenger, so she is better described as a mainstream progressive-caucus Democrat - imperfect fit; Cat 3 possible if her debate record proves thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/Luz_Rivas",
+   "https://fmep.org/?p=32051"
+  ]
+ },
+ {
+  "id": "F000483",
+  "name": "Laura Friedman",
+  "seat": "CA-30",
+  "call_status": "re-elected 2026 (beat Scott Alan Meyers (R))",
+  "bio": {
+   "birth_year": 1966,
+   "education": "BA, University of Rochester",
+   "career": "Film/TV producer and executive (VP of development, Rysher Entertainment)",
+   "prior_office": "Glendale City Council 2009-2016 (mayor 2011-12); California Assembly 2016-2024 (chair of Transportation and of Natural Resources committees; Assistant Speaker pro Tem); U.S. House since 2025"
+  },
+  "self_description": "Member of the Congressional Progressive Caucus and formerly the California Legislative Progressive Caucus; official bio emphasises housing, water, wildfire and transportation.",
+  "primary_context": "June 2026: advanced with Republican Scott Meyers over three minor Democrats (incl. activist Joel Lava) and an NPP candidate; no organised left challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "First elected 2024 (office 2). BA + senior film-industry career -> cred 1. Chaired Assembly Transportation and Natural Resources; authored enacted laws (first-in-nation fur sale ban AB 44, 2019; road-safety and water-conservation bills) -> policy 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Meyers (R): unverified. No 2025-26 town-hall or hostile-outlet evidence gathered (search budget exhausted)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "J Street",
+   "JACPAC",
+   "East Area Progressive Democrats",
+   "LCV Action Fund",
+   "Center for Biological Diversity Action Fund",
+   "Giffords",
+   "Sierra Club",
+   "Vote Mama",
+   "California Labor Federation",
+   "NUHW"
+  ],
+  "notable_positions": [
+   "Original co-sponsor of the Ultra-Millionaire Tax Act of 2026 (wealth tax) and of Medicare for All 2025 (bulk)",
+   "Authored California's first-in-nation ban on sale of new fur products (2019) (https://en.wikipedia.org/wiki/Laura_Friedman)",
+   "As Assembly Transportation chair, delayed release of $4bn in high-speed-rail bonds pending a spending plan (2021) (https://cal.streetsblog.org/2021/09/07/friedman-derails-bullet-train-budget/)",
+   "DC statehood co-sponsor (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships (Ultra-Millionaire Tax, M4A, DC statehood) give LI ~3 and no centrist markers were found. Experienced legislator (EPD 5) with no evidence of avoiding scrutiny, so the 'nearest of 1/4' step leans Cat 1, but she has no movement-left endorsements and is AIPAC/DMFI-backed - imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/Laura_Friedman",
+   "https://friedman.house.gov/about"
+  ]
+ },
+ {
+  "id": "C001123",
+  "name": "Gil Cisneros",
+  "seat": "CA-31",
+  "call_status": "re-elected 2026 (beat Eric Ching (R))",
+  "bio": {
+   "birth_year": 1971,
+   "education": "BA political science, George Washington University; MBA, Regis University; MA urban education policy, Brown University",
+   "career": "US Navy supply officer (~11 yrs); Frito-Lay manager; philanthropist after a 2010 lottery jackpot",
+   "prior_office": "U.S. House 2019-2021 (CA-39); Under Secretary of Defense for Personnel and Readiness 2021-2023; U.S. House since 2025"
+  },
+  "self_description": "A Republican until 2008, he said he left because the GOP had become 'too ideological' (Roll Call); New Democrat Coalition member.",
+  "primary_context": "June 2026: advanced with Republican Eric Ching; no Democratic challenger.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (NDC members page; not in bulk caucus data)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected 2018 (office 3) and served as a Senate-confirmed Under Secretary of Defense. MBA + MA and naval-officer career -> cred 2. No signature bill verified -> policy 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 debate vs Ching (R): unverified. No 2025-26 town-hall or hostile-outlet evidence gathered (search budget exhausted). Lugar Bipartisan Index 2019-20: #111 (score 0.59) - moderately bipartisan, not counted for C7."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Jewish Democratic Council of America",
+   "J Street",
+   "Giffords",
+   "LCV Action Fund",
+   "Sierra Club",
+   "California Labor Federation",
+   "NUHW",
+   "Planned Parenthood Action Fund"
+  ],
+  "notable_positions": [
+   "Former Republican who switched parties in 2008 (https://www.rollcall.com/news/politics/lottery-winner-challenge-royce)",
+   "Voted YES on 2025 resolution denouncing socialism (context; bulk)",
+   "Ran DoD personnel and readiness policy under Biden (https://en.wikipedia.org/wiki/Gil_Cisneros)",
+   "DC statehood co-sponsor (bulk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Few markers: LI ~1 (DC statehood) and CI ~1 (New Dem membership; 116th-Congress Lugar score only middling). Credentialed (Navy, Under Secretary of Defense) with no documented avoidance of debate, so he reaches the 'nearest of 1/4' step on a near-tie; leaning Cat 4 given New Dem membership and an ex-Republican, defence-oriented profile. Thin evidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/Gil_Cisneros",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://www.thelugarcenter.org/assets/htmldocuments/116%20BPI%20House.pdf"
+  ]
+ },
+ {
+  "id": "S000344",
+  "name": "Brad Sherman",
+  "seat": "CA-32",
+  "call_status": "re-elected 2026 (beat Larry Thompson (R))",
+  "bio": {
+   "birth_year": 1954,
+   "education": "BA UCLA; JD Harvard Law School; CPA",
+   "career": "Tax lawyer and certified public accountant",
+   "prior_office": "California State Board of Equalization 1991-1997 (chair); U.S. House since 1997 (senior Foreign Affairs member; Ranking Member, Financial Services Capital Markets subcommittee)"
+  },
+  "self_description": "No ideological self-label found; listed on both CPC and New Dem rosters; co-chair of the Israel Allies Caucus and a leading congressional crypto critic.",
+  "primary_context": "June 2026: crowded generational challenge - Jake Levine (ex-NSC climate director; backed by Our Revolution, J Street, LCV, CA Environmental Voters), Chris Ahuja (Progressive Victory, Track AIPAC) and others ran against him; Sherman advanced with Republican Larry Thompson (Levine ~15%). Sherman was endorsed by Newsom, Pelosi, all other CA House Democrats, AIPAC and DMFI.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Voted NO on the July 2026 Massie amendment to end US aid to Israel: 'I stood against this anti-Israel, pro-terror amendment'; long-time Israel Allies Caucus co-chair.",
+    "src": "https://fmep.org/?p=32051"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "15-term member and former elected Board of Equalization member; Harvard JD + CPA; subcommittee Ranking Member and senior Foreign Affairs member."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary/general debates unverified. Historically holds many town halls (160+ by 2012 per LA Daily News) including contentious ones with challenger supporters (2018 Reseda), but 2025-26 town halls not verified."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "Jewish Democratic Council of America",
+   "California Labor Federation",
+   "Planned Parenthood Action Fund",
+   "Gov. Newsom",
+   "Nancy Pelosi"
+  ],
+  "notable_positions": [
+   "Called the Massie amendment 'anti-Israel, pro-terror' and voted no (July 2026) (https://fmep.org/?p=32051)",
+   "Advocates banning cryptocurrency in the US (https://www.forbes.com/sites/jasonbloomberg/2018/07/21/congressman-prohibit-us-persons-from-buying-or-mining-cryptocurrency/)",
+   "Original co-sponsor of Medicare for All 2025 and the 2023 Green New Deal resolution (bulk)",
+   "Introduced articles of impeachment against Trump in 2017 (https://en.wikipedia.org/wiki/Brad_Sherman)",
+   "Led House revolt against the 2008 bank bailout (https://en.wikipedia.org/wiki/Brad_Sherman)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships (M4A, GND, DC statehood) give LI ~3 while he explicitly rejects the Israel aid cut-off (L12 = -1); centrist markers are limited to New Dem membership (CI ~1). Credentialed and historically town-hall-heavy, he reaches the 'nearest of 1/4' step with a marginal left lean - a poor fit for a hawkish, establishment-backed veteran; Cat 4 or 3 are plausible alternatives.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/Brad_Sherman",
+   "https://fmep.org/?p=32051",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "A000371",
+  "name": "Pete Aguilar",
+  "seat": "CA-33",
+  "call_status": "re-elected 2026 (beat Stephanie Vargas (R))",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BS, University of Redlands",
+   "career": "Deputy director, then interim director, of Gov. Gray Davis's Inland Empire regional office",
+   "prior_office": "Redlands City Council 2006-2014 (Mayor 2010-2014); U.S. House since 2015; House Democratic Caucus Vice Chair 2021-23, Chair 2023-present (No. 3 in leadership); Jan. 6 Committee member; Appropriations"
+  },
+  "self_description": "Party leadership figure; New Democrat Coalition member; no ideological self-label found.",
+  "primary_context": "June 2026: advanced with Republican Stephanie Vargas; Democrat Antonis Christodoulou (endorsed by Inland Empire DSA) ran from the left and was eliminated.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Six-term member and House Democratic Caucus Chair (recognised leadership/policy role) -> policy 2; BS only -> cred 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "2026 debate vs Vargas (R): unverified. As Caucus Chair holds regular leadership press conferences with the Capitol press corps and does cross-audience interviews, e.g. CNBC Squawk Box with Joe Kernen and NBC Meet the Press NOW (https://www.dems.gov/newsroom/press-releases)."
+  },
+  "outside_support": [
+   "AIPAC",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "J Street",
+   "Giffords",
+   "LCV Action Fund",
+   "Population Connection",
+   "California Labor Federation",
+   "NUHW"
+  ],
+  "notable_positions": [
+   "Voted NO on the July 2026 Massie amendment: 'this amendment is the wrong approach to U.S. policy in the Middle East' (https://fmep.org/?p=32051)",
+   "Opposed the 2025 trans-sports bill, arguing only '10 athletes out of 500,000' were affected and Congress should focus on costs (https://thenationaldesk.com/news/nation-world/transgender-athlete-womens-sports-congress-title-ix-mike-johnson-riley-gaines-republicans-politics)",
+   "One of 16 Democrats to vote against the 2022 Merger Filing Fee Modernization (antitrust) Act (https://www.cnbc.com/2022/09/29/house-passes-antitrust-bill-raising-ma-fees.html)",
+   "Voted YES on 2025 resolution denouncing socialism (context; bulk)",
+   "Long-time DACA/Dream and Promise Act advocate (https://en.wikipedia.org/wiki/Pete_Aguilar)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A leadership loyalist with almost no markers either way: LI ~1 (DC statehood) and CI ~1 (New Dem). Credentialed by office and engaged with the press, he reaches the 'nearest of 1/4' step on a tie; leaning Cat 4 on New Dem membership, his 2022 vote against an antitrust package and rejection of the Israel aid cut-off. Imperfect fit - a mainstream-establishment Democrat.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://en.wikipedia.org/wiki/Pete_Aguilar",
+   "https://www.dems.gov/newsroom/press-releases",
+   "https://fmep.org/?p=32051",
+   "https://newdemocratcoalition.house.gov/members",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ }
+]

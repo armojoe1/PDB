@@ -1,0 +1,1074 @@
+[
+ {
+  "id": "K000377",
+  "name": "Mark Kelly",
+  "seat": "AZ-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1964,
+   "education": "B.S. marine engineering, U.S. Merchant Marine Academy; M.S. aeronautical engineering, Naval Postgraduate School",
+   "career": "U.S. Navy combat pilot (retired captain, O-6), NASA astronaut (four Space Shuttle missions), gun-safety advocate",
+   "prior_office": "U.S. Senator from Arizona since Dec 2020 (special election 2020, re-elected 2022); no prior elected office"
+  },
+  "self_description": "Cultivates an independent, pragmatic image; in July 2026 said far-left positions (abolishing police, eliminating the border, defunding the Pentagon) 'don't make sense' and hurt Democrats (https://www.foxnews.com/media/sen-mark-kelly-warns-far-left-policies-dont-make-sense-cost-democrats-seats)",
+  "primary_context": "2022: unopposed in Democratic primary; not on 2026 ballot",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "Rejected calls to abolish police as positions that 'don't make sense' (Katie Couric interview, July 2026); on ICE has called for reform (use-of-force standards, Noem/Miller ouster) not abolition",
+    "src": "https://www.foxnews.com/media/sen-mark-kelly-warns-far-left-policies-dont-make-sense-cost-democrats-seats"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for Laken Riley Act; in 2022 debate called the border 'a mess' and distanced himself from Biden on it",
+    "src": "https://fox10phoenix.com/news/arizona-senate-debate-2022"
+   },
+   "C5": {
+    "v": 1,
+    "e": "July 2026: rejected far-left calls to abolish police and said such positions cost Democrats seats",
+    "src": "https://www.foxnews.com/media/sen-mark-kelly-warns-far-left-policies-dont-make-sense-cost-democrats-seats"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center Bipartisan Index 2023: ranked 24th of 98 senators (positive score 0.49); 2026 criticism of 'far-left' positions as dragging down the party",
+    "src": "http://www.thelugarcenter.org/ourwork-85.html"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Co-authored (with Ted Cruz) the Building Chips in America Act streamlining NEPA permitting for semiconductor plants, signed into law Oct 2024; praised by U.S. Chamber",
+    "src": "https://www.kelly.senate.gov/?p=79964"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Sitting senator; Navy captain/astronaut with M.S. (senior professional career); authored Building Chips in America Act (law, 2024) and key CHIPS Act provisions"
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "2022: took part in the only general-election debate with Blake Masters (Oct 6, 2022, Arizona PBS/Clean Elections) (https://www.foxnews.com/politics/arizona-senate-showdown-democratic-sen-kelly-gop-challenger-masters-face-off-friday-debate.amp); no declined debates found. Media: 2025-26 town halls in AZ (Sierra Vista, Tucson, Flagstaff) and in GOP-held districts out of state (John James's MI district; Raleigh NC) (https://www.semafor.com/article/07/24/2025/kelly-heads-to-michigan-to-whack-republicans); appears on Fox News (The Sunday Briefing; Fox News Digital interviews) (https://www.kelly.senate.gov/?p=84506), plus Couric, The Ringer, Bulwark podcasts."
+  },
+  "outside_support": [
+   "2022 cycle: 44.8% small-dollar share of individual receipts (FEC)",
+   "Gun-safety groups (Giffords co-founder)"
+  ],
+  "notable_positions": [
+   "Co-led 'illegal orders' video (Nov 2025) urging troops to refuse unlawful orders; fought Pentagon censure/demotion threat in court (https://www.foxnews.com/politics/mark-kelly-eyes-2028-white-house-run-fighting-trump-demotion-threat)",
+   "Voted for Laken Riley Act (Jan 2025); in 2026 called for ICE reform and for Noem/Miller to go rather than abolition; co-sponsored Stop Excessive Force in Immigration Act with Gallego (https://ktar.com/immigration/mark-kelly-ice-minneapolis)",
+   "Co-authored bipartisan Building Chips in America Act (permitting reform), law Oct 2024 (https://www.kelly.senate.gov/?p=79964)",
+   "Switched in April 2026 to back Sanders resolutions blocking specific bulldozer/bomb sales to Israel while calling Israel a partner he 'cannot and will not abandon' (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Backed a public option rather than Medicare for All in 2020; avoided endorsing Sanders' bill (https://freebeacon.com/politics/pro-medicare-for-all-pac-supports-mark-kelly-but-he-hasnt-come-out-to-support-it/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "No left markers (LI 0 incl. bulk) and an explicit rejection of abolish-police positions; centrist markers on border (Laken Riley vote, 'border is a mess'), policing, bipartisanship (Lugar top-quarter) and permitting reform give CI about 4, just under the Cat 4 threshold. Credentialed and highly engaged (debated, Fox appearances, town halls in GOP districts), so the decision sequence lands on nearest-fit Cat 4 (imperfect fit).",
+  "sources": [
+   "https://fox10phoenix.com/news/arizona-senate-debate-2022",
+   "https://www.foxnews.com/politics/arizona-senate-showdown-democratic-sen-kelly-gop-challenger-masters-face-off-friday-debate.amp",
+   "https://www.kelly.senate.gov/?p=84506",
+   "https://www.semafor.com/article/07/24/2025/kelly-heads-to-michigan-to-whack-republicans",
+   "https://www.kjzz.org/politics/2025-03-18/congressional-democrats-highlight-lack-of-gop-town-halls-by-holding-their-own-across-arizona",
+   "https://ncnewsline.com/2025/08/31/at-raleigh-town-hall-us-sen-mark-kelly-criticizes-cuts-to-va-firing-of-veterans-in-government/",
+   "https://www.foxnews.com/media/sen-mark-kelly-warns-far-left-policies-dont-make-sense-cost-democrats-seats",
+   "https://politicalwire.com/2026/07/31/mark-kelly-warns-far-left-policies-dont-make-sense/",
+   "https://www.kelly.senate.gov/?p=79964",
+   "http://www.thelugarcenter.org/ourwork-85.html",
+   "https://ktar.com/immigration/mark-kelly-ice-minneapolis",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/",
+   "https://freebeacon.com/politics/pro-medicare-for-all-pac-supports-mark-kelly-but-he-hasnt-come-out-to-support-it/",
+   "https://www.theringer.com/podcasts/the-press-box/2026/01/25/senator-mark-kelly-on-trump-and-greenland-ice-raids-combat-missions-in-iraq-and-his-2028-plans",
+   "https://www.foxnews.com/politics/mark-kelly-eyes-2028-white-house-run-fighting-trump-demotion-threat"
+  ]
+ },
+ {
+  "id": "G000574",
+  "name": "Ruben Gallego",
+  "seat": "AZ-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1979,
+   "education": "A.B. international relations, Harvard",
+   "career": "U.S. Marine Corps Reserve (Iraq 2005), public-affairs/consulting work",
+   "prior_office": "Arizona House of Representatives 2011-2014; U.S. House (AZ-7/AZ-3) 2015-2025, incl. chair of HASC Intelligence & Special Operations subcommittee 2019-2023; U.S. Senate since Jan 2025"
+  },
+  "self_description": "Former House Progressive Caucus member who ran in 2024 on border security, police support and working-class costs; no recent ideological self-label found in sources reviewed",
+  "primary_context": "2024: unopposed in Democratic primary after Sen. Sinema declined to run (https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Arizona)",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Progressive Change Campaign Committee (2024 Senate)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for Laken Riley Act; Jan 2026 Fox News op-ed says 'enforce the law, but do it lawfully' - seeks ICE reform (use-of-force rules, body cameras) rather than abolition",
+    "src": "https://www.gallego.senate.gov/news/press-releases/gallego-in-fox-ice-cannot-exist-as-we-know-it-now/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed in 2024 by the Arizona Police Association (12,000+ officers), which had backed Trump; Gallego said he was 'proud' of the support",
+    "src": "https://www.mediaite.com/politics/ouch-trump-backing-police-union-endorses-kari-lakes-democratic-opponent"
+   },
+   "C6": {
+    "v": 1,
+    "e": "May 2025 interview with The Dispatch: said some trans athletes should not compete with girls (decision for school boards) and parents' concerns are 'legitimate'; drew criticism from LGBTQ groups",
+    "src": "https://cronkitenews.azpbs.org/2025/07/22/arizona-senator-ruben-gallego-stance-on-transgender-girls-in-school-sports/"
+   },
+   "C7": {
+    "v": 1,
+    "e": "2024 endorsements from Republicans incl. Mesa Mayor John Giles and former GOP state Rep. Robin Shaw",
+    "src": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Arizona"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Sitting senator (10 yrs House + state House); Harvard A.B. and Marine service (no advanced degree); chaired HASC subcommittee and authors detailed bills (e.g., Stop Excessive Force in Immigration Act 2026)"
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "2024: debated Kari Lake in the one general-election debate (Clean Elections, Oct 2024), no declines recorded (https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Arizona). Media: Fox News op-ed (Jan 2026), interview with center-right The Dispatch (May 2025), joint town halls with Kelly across Arizona in 2025 (https://www.kelly.senate.gov/?p=81732)."
+  },
+  "outside_support": [
+   "Arizona Police Association (2024)",
+   "PCCC (2024)",
+   "2024 cycle: 45.4% small-dollar share (FEC)"
+  ],
+  "notable_positions": [
+   "Voted for Laken Riley Act (Jan 2025) (bulk roll call)",
+   "Jan 2026 Fox News op-ed: 'ICE cannot exist as we know it now', refuses new ICE money without use-of-force standards and body cameras; not abolition (https://www.gallego.senate.gov/news/press-releases/gallego-in-fox-ice-cannot-exist-as-we-know-it-now/)",
+   "Said some trans athletes should not compete in girls' sports, left to local bodies (May 2025) (https://cronkitenews.azpbs.org/2025/07/22/arizona-senator-ruben-gallego-stance-on-transgender-girls-in-school-sports/)",
+   "Accepted Arizona Police Association endorsement in 2024 (https://www.mediaite.com/politics/ouch-trump-backing-police-union-endorses-kari-lakes-democratic-opponent)",
+   "Moved in April 2026 to back Sanders resolutions blocking specific arms sales to Israel (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Former CPC member, but his Senate-era record shows border/enforcement, police-union and trans-sports breaks with the left (CI about 4 incl. bulk C4), against LI about 2 (DC statehood, PCCC). Credentialed and engaged (debated Lake, Fox op-ed, town halls), so the sequence lands on nearest-fit Cat 4 as an imperfect fit; his House-era progressive record lowers confidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Arizona",
+   "https://www.gallego.senate.gov/news/press-releases/gallego-in-fox-ice-cannot-exist-as-we-know-it-now/",
+   "https://www.mediaite.com/politics/ouch-trump-backing-police-union-endorses-kari-lakes-democratic-opponent",
+   "https://www.npr.org/2024/08/30/nx-s1-5092666/rep-gallego-faces-backlash-from-progressive-groups-after-a-major-police-endorsement",
+   "https://cronkitenews.azpbs.org/2025/07/22/arizona-senator-ruben-gallego-stance-on-transgender-girls-in-school-sports/",
+   "https://www.lookoutnews.org/once-by-his-side-gallego-gets-pushback-from-lgbtq-organizations/",
+   "https://www.kelly.senate.gov/?p=81732",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/"
+  ]
+ },
+ {
+  "id": "S001150",
+  "name": "Adam B. Schiff",
+  "seat": "CA-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1960,
+   "education": "B.A. Stanford; J.D. Harvard Law School",
+   "career": "Assistant U.S. Attorney (Los Angeles), then state legislator",
+   "prior_office": "California State Senate 1996-2000; U.S. House 2001-2024 (House Intelligence Committee chair 2019-2023, lead impeachment manager 2020, Jan. 6 committee); U.S. Senate since Dec 2024"
+  },
+  "self_description": "No ideological self-label found in sources reviewed; ran in 2024 as the establishment-backed candidate against progressives Porter and Lee",
+  "primary_context": "2024 top-two primary: finished first ahead of Republican Steve Garvey; defeated progressive Democrats Katie Porter (PCCC-backed) and Barbara Lee (WFP/Our Revolution-backed) (https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California)",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Sitting senator, 24 years in House; Harvard J.D., ex-federal prosecutor; former House Intelligence chair and impeachment manager"
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2024: took part in all three listed primary debates (Jan 22, Feb 12, Feb 20) and the single general-election debate with Garvey (Oct 8, 2024) (https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California). Media: held town halls in 2025-26 (San Luis Obispo Apr 2025; Santa Rosa Aug 2026) (https://www.schiff.senate.gov/?s=town+hall); frequent mainstream/friendly TV; no Fox/hostile-outlet appearances found in his office's releases."
+  },
+  "outside_support": [
+   "End Citizens United, Planned Parenthood Action Fund, Reproductive Freedom for All (2024)",
+   "Endorsed in general by Porter and Lee",
+   "2024 cycle: 41.7% small-dollar share (FEC)"
+  ],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All (S.1506) and Ultra-Millionaire Tax Act 2026 (bulk co-sponsorship data)",
+   "With Padilla, voted in April 2026 for Sanders resolutions to block specific arms sales to Israel 'which might be used in Iran' after opposing earlier ones (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Voted against the Laken Riley Act (bulk roll call)",
+   "Led House Intelligence Committee and first Trump impeachment; Jan. 6 committee member (https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships (M4A, Ultra-Millionaire Tax, GND, DC statehood) give LI 4 with no further left markers or movement endorsements found, and no centrist markers (CI 0). Highly credentialed and debated in all 2024 debates, so EO > 2 and the sequence assigns the nearest bucket by LI vs CI: Cat 1 as an imperfect fit, though he was the establishment candidate against the left in 2024.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_California",
+   "https://www.schiff.senate.gov/?s=town+hall",
+   "https://www.schiff.senate.gov/news/press-releases/photos-sen-schiff-rep-carbajal-host-town-hall-discuss-californians-concerns/",
+   "https://www.schiff.senate.gov/news/press-releases/photos-sen-schiff-and-state-senator-mike-mcguire-host-economy-for-all-town-hall-in-santa-rosa/",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/",
+   "https://www.ontheissues.org/CA/Adam_Schiff.htm"
+  ]
+ },
+ {
+  "id": "P000145",
+  "name": "Alex Padilla",
+  "seat": "CA-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1973,
+   "education": "B.S. mechanical engineering, MIT",
+   "career": "Aerospace engineer (Hughes Aircraft), political staffer",
+   "prior_office": "Los Angeles City Council 1999-2006 (president 2001-06); California State Senate 2006-2014; California Secretary of State 2015-2021; U.S. Senate since Jan 2021 (appointed, elected 2022)"
+  },
+  "self_description": "No ideological self-label found; described by others as a 'technocrat' (FiveThirtyEight) and earlier as a 'business-friendly moderate' (WSJ, state Senate years) (https://en.wikipedia.org/wiki/Alex_Padilla)",
+  "primary_context": "2022 top-two primary: finished first ahead of Republican Mark Meuser; no significant Democratic challenger",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Jan 18, 2021 statement on taking office supported the Green New Deal (and Medicare for All)",
+    "src": "https://en.wikipedia.org/wiki/Alex_Padilla"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Sitting senator, ex-Secretary of State; MIT B.S.; Ranking Member of Senate Rules Committee and of Judiciary immigration subcommittee (119th)"
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2022 debate record vs Mark Meuser unverified (could not confirm whether a debate was held or declined). Media: high-profile confrontation at Noem press conference (June 2025, handcuffed); no 2025-26 town halls found on his Senate site (only 2021 events) and no hostile-outlet appearances found (https://www.padilla.senate.gov/?s=town+hall)."
+  },
+  "outside_support": [
+   "Warren, Schumer, Newsom; California Teachers Association, NEA, Equality California, NARAL (2022)",
+   "2022 cycle: 5.6% small-dollar share - large-donor funded (FEC)"
+  ],
+  "notable_positions": [
+   "Removed and handcuffed at DHS Secretary Noem's Los Angeles press conference (June 12, 2025) while questioning immigration raids (https://en.wikipedia.org/wiki/Alex_Padilla)",
+   "Co-sponsor of Medicare for All and DC statehood; backed Green New Deal (bulk data; https://en.wikipedia.org/wiki/Alex_Padilla)",
+   "Introduced Dignity for Detained Immigrants Act with Booker to end private for-profit detention; supports ending the filibuster (https://en.wikipedia.org/wiki/Alex_Padilla)",
+   "With Schiff, voted in April 2026 for Sanders resolutions blocking specific arms sales to Israel (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "LI about 3 (M4A, DC statehood from bulk plus a GND statement) and CI 0; no movement-left endorsements or socialist self-identification found. Credentialed (EPD 6); debate record unverified and media mostly controlled settings, so EO sits at about 3 \u2014 if the 2022 debate was skipped he would fall to Cat 3. Placed in nearest-fit Cat 1 as an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Padilla",
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_California",
+   "https://www.padilla.senate.gov/?s=town+hall",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/"
+  ]
+ },
+ {
+  "id": "H000273",
+  "name": "John W. Hickenlooper",
+  "seat": "CO-SEN",
+  "call_status": "re-elected 2026 (defeated Republican state Sen. Mark Baisley about 60%-36%)",
+  "bio": {
+   "birth_year": 1952,
+   "education": "B.A. English and M.A. geology, Wesleyan University",
+   "career": "Petroleum geologist, then founder of Wynkoop Brewing Company (restaurateur/businessman)",
+   "prior_office": "Mayor of Denver 2003-2011; Governor of Colorado 2011-2019; 2020 presidential candidate; U.S. Senate since Jan 2021"
+  },
+  "self_description": "Calls himself 'a fiscal conservative' and has said 'I don't think the government needs to be bigger' (2019, Politico, cited at https://en.wikipedia.org/wiki/John_Hickenlooper); in 2019 argued 'socialism is not the answer'",
+  "primary_context": "June 30, 2026: challenged from the left by state Sen. Julie Gonzales (endorsed by Colorado WFP, Our Revolution, Colorado AFL-CIO); Hickenlooper won about 53-55%, losing Denver; he petitioned onto the ballot and skipped the state assembly (https://news.ballotpedia.org/2026/07/01/incumbent-sen-john-hickenlooper-defeated-julie-gonzales-in-the-democratic-primary-for-the-u-s-senate-in-colorado/)",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "'Against single payer; supports public option' (2019); 'evolution, not revolution'",
+    "src": "https://www.ontheissues.org/Senate/John_Hickenlooper.htm"
+   },
+   "L4": {
+    "v": -1,
+    "e": "2019: 'Favoring socialism is a disaster at the ballot box'; 'Socialist policies will not appeal to Americans'",
+    "src": "https://www.ontheissues.org/Senate/John_Hickenlooper.htm"
+   },
+   "L5": {
+    "v": -1,
+    "e": "Denounced the Green New Deal (Mar 2019) while backing climate action; strong supporter of fracking",
+    "src": "https://www.ontheissues.org/Senate/John_Hickenlooper.htm"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposes single payer/Medicare for All; supports a public option built on existing coverage (2019)",
+    "src": "https://www.ontheissues.org/Senate/John_Hickenlooper.htm"
+   },
+   "C3": {
+    "v": 1,
+    "e": "Self-described 'fiscal conservative'; 'Don't pass on $1.5 trillion new debt to future generations' (2020); no wealth tax (note: backed taxing capital gains as ordinary income in 2019)",
+    "src": "https://www.ontheissues.org/Senate/John_Hickenlooper.htm"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center Bipartisan Index 2023: 27th of 98 senators (positive score 0.41); 2019 warnings that socialism is 'a disaster at the ballot box' for Democrats",
+    "src": "http://www.thelugarcenter.org/ourwork-85.html"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Long-time supporter of Colorado's oil and gas industry and fracking (drank fracking fluid at 2013 Senate hearing); co-authored BIG WIRES permitting/transmission bill (2023)",
+    "src": "https://en.wikipedia.org/wiki/John_Hickenlooper"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former two-term governor and Denver mayor; master's in geology plus senior business career; bipartisan bills (Fix Our Forests Act, BIG WIRES) and subcommittee leadership"
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 primary: refused Gonzales's calls to debate, citing his schedule; she called it a 'disservice to Colorado voters' (https://www.summitdaily.com/news/how-western-slope-voters-helped-reelect-hickenlooper-amid-colorados-wave-of-progressive-upsets/). 2026 general: two debates with Baisley (Oct 2026) (https://hickenlooper.com/baisley-raised-more-questions-than-answers-in-first-senate-debate/). Media: in-person town halls in GOP-leaning Grand Junction and Colorado Springs plus Western Slope stops, Apr 2025, and a virtual statewide town hall (https://www.hickenlooper.senate.gov/press_releases/icymi-hickenlooper-highlights-trump-admin-chaos-at-town-halls-in-grand-junction-colorado-springs-events-across-western-slope/); no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "Elizabeth Warren, Brady PAC, End Citizens United (2026 primary)",
+   "National Education Association; Cobalt (abortion rights) (2026)",
+   "2026 cycle: 24.5% small-dollar share; 11.2% PAC (FEC)"
+  ],
+  "notable_positions": [
+   "Opposes Medicare for All and the Green New Deal; 'socialism is not the answer' (2019) (https://www.ontheissues.org/Senate/John_Hickenlooper.htm)",
+   "Pro-fracking former governor; created first state methane-capture rules for oil and gas (https://en.wikipedia.org/wiki/John_Hickenlooper)",
+   "Called for ICE reforms with Bennet during Jan 2026 DHS funding standoff (cited at https://en.wikipedia.org/wiki/John_Hickenlooper)",
+   "Voted in April 2026 for Sanders resolutions blocking specific arms sales to Israel after opposing earlier ones (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Declined to debate his 2026 progressive primary challenger (https://www.summitdaily.com/news/how-western-slope-voters-helped-reelect-hickenlooper-amid-colorados-wave-of-progressive-upsets/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Explicitly rejects Medicare for All, the Green New Deal and socialism; self-described fiscal conservative, pro-fracking and above-average bipartisan (CI about 4; LI 1 from DC statehood). Highly credentialed; ducked primary debates but debated in the general, so EO about 3 and the sequence lands on nearest-fit Cat 4 (one marker short of the CI threshold).",
+  "sources": [
+   "https://www.coloradopolitics.com/2026/11/03/john-hickenlooper-mark-baisley-colorado-senate-election-results/",
+   "https://news.ballotpedia.org/2026/07/01/incumbent-sen-john-hickenlooper-defeated-julie-gonzales-in-the-democratic-primary-for-the-u-s-senate-in-colorado/",
+   "https://www.summitdaily.com/news/how-western-slope-voters-helped-reelect-hickenlooper-amid-colorados-wave-of-progressive-upsets/",
+   "https://hickenlooper.com/baisley-raised-more-questions-than-answers-in-first-senate-debate/",
+   "https://hickenlooper.com/baisleys-extreme-views-made-clear-in-final-senate-debate/",
+   "https://www.ontheissues.org/Senate/John_Hickenlooper.htm",
+   "https://en.wikipedia.org/wiki/John_Hickenlooper",
+   "http://www.thelugarcenter.org/ourwork-85.html",
+   "https://www.hickenlooper.senate.gov/press_releases/icymi-hickenlooper-highlights-trump-admin-chaos-at-town-halls-in-grand-junction-colorado-springs-events-across-western-slope/",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/"
+  ]
+ },
+ {
+  "id": "B001267",
+  "name": "Michael F. Bennet",
+  "seat": "CO-SEN",
+  "call_status": "not up until 2028 (lost June 30, 2026 Democratic gubernatorial primary to AG Phil Weiser; remains in the Senate)",
+  "bio": {
+   "birth_year": 1964,
+   "education": "B.A. Wesleyan; J.D. Yale Law School",
+   "career": "Clinton-era Justice Dept. counsel, Anschutz investment executive, chief of staff to Denver Mayor Hickenlooper, Denver Public Schools superintendent 2005-2009",
+   "prior_office": "U.S. Senate since Jan 2009 (appointed; elected 2010, 2016, 2022); 2020 presidential candidate; 2026 gubernatorial candidate (lost primary)"
+  },
+  "self_description": "2019: 'Most Democrats are not socialists and should say so'; 2026 campaign pitched solutions beyond 'Washington's broken politics' and defended voting for some Trump nominees (https://www.coloradopolitics.com/2026/06/30/phil-weiser-defeats-michael-bennet-in-colorados-democratic-gubernatorial-primary/)",
+  "primary_context": "Most recent: June 30, 2026 Democratic primary for governor, lost to AG Phil Weiser about 55%-45%; Weiser attacked Bennet's votes to confirm Trump nominees. Last Senate primary (2022) uncontested",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "'Public option better than Medicare for All' (2019 presidential campaign; Medicare-X plan); 'single payer would lead to massive tax increase' (2017)",
+    "src": "https://www.ontheissues.org/Senate/Michael_Bennet.htm"
+   },
+   "L4": {
+    "v": -1,
+    "e": "'Most Democrats are not socialists and should say so' (Mar 2019)",
+    "src": "https://www.ontheissues.org/Senate/Michael_Bennet.htm"
+   },
+   "L5": {
+    "v": -1,
+    "e": "'Climate change is major issue; but not Green New Deal' (May 2019)",
+    "src": "https://www.ontheissues.org/Senate/Michael_Bennet.htm"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": -1,
+    "e": "2019 debate: opposed decriminalizing unauthorized border crossing ('Don't decriminalize border')",
+    "src": "https://www.ontheissues.org/Senate/Michael_Bennet.htm"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Explicitly argued a public option is better than Medicare for All; letting people keep private insurance (2019)",
+    "src": "https://www.ontheissues.org/Senate/Michael_Bennet.htm"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Bipartisan Index 2023: 32nd of 98 (positive score); voted to confirm several Trump nominees and defended it in the 2026 primary; criticised socialist drift (2019)",
+    "src": "http://www.thelugarcenter.org/ourwork-85.html"
+   },
+   "C8": {
+    "v": 1,
+    "e": "2019: 'Build Keystone pipeline, or oil will be transported by rail'",
+    "src": "https://www.ontheissues.org/Senate/Michael_Bennet.htm"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Three-term senator; Yale J.D., former schools superintendent and investment executive; signature author of the expanded Child Tax Credit (enacted temporarily in 2021)"
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Most recent election (2026 gubernatorial primary): took part in multiple debates with Weiser, where he was pressed on Trump-nominee votes (https://www.coloradopolitics.com/2026/06/30/phil-weiser-defeats-michael-bennet-in-colorados-democratic-gubernatorial-primary/); no declined debates found. Media: extensive statewide campaigning in 2025-26; no hostile-outlet appearances verified (searches limited)."
+  },
+  "outside_support": [
+   "2022 cycle: 29% small-dollar share (FEC)"
+  ],
+  "notable_positions": [
+   "Opposed Medicare for All (Medicare-X public option) and the Green New Deal in 2019 presidential run (https://www.ontheissues.org/Senate/Michael_Bennet.htm)",
+   "Voted to confirm several Trump second-term nominees, calling opposition 'the easiest vote in America' (https://www.coloradopolitics.com/2026/06/30/phil-weiser-defeats-michael-bennet-in-colorados-democratic-gubernatorial-primary/)",
+   "Supports raising income tax rates on high earners and lifting the payroll-tax cap; author of expanded Child Tax Credit (https://www.ontheissues.org/Senate/Michael_Bennet.htm)",
+   "Voted in April 2026 for Sanders resolutions blocking specific arms sales to Israel (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Lost 2026 Colorado governor primary to Phil Weiser, 55-45 (https://www.ksut.org/government-politics/2026-06-30/colorado-democratic-gubernatorial-primary-election-results-weiser-defeats-bennet)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Explicitly rejects Medicare for All, the Green New Deal, decriminalising border crossings and socialism, and has an above-average bipartisan record (CI about 3, LI 1). He backs higher top income-tax rates, so not a fiscal centrist. Credentialed and debated in his 2026 primary, so the sequence gives nearest-fit Cat 4 as an imperfect fit.",
+  "sources": [
+   "https://www.coloradopolitics.com/2026/06/30/phil-weiser-defeats-michael-bennet-in-colorados-democratic-gubernatorial-primary/",
+   "https://www.ksut.org/government-politics/2026-06-30/colorado-democratic-gubernatorial-primary-election-results-weiser-defeats-bennet",
+   "https://www.ontheissues.org/Senate/Michael_Bennet.htm",
+   "http://www.thelugarcenter.org/ourwork-85.html",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/"
+  ]
+ },
+ {
+  "id": "M001169",
+  "name": "Christopher Murphy",
+  "seat": "CT-SEN",
+  "call_status": "not up until 2030",
+  "bio": {
+   "birth_year": 1973,
+   "education": "B.A. Williams College; J.D. University of Connecticut School of Law",
+   "career": "Lawyer and political staffer; career legislator",
+   "prior_office": "Southington planning & zoning commission 1997; Connecticut House 1999-2003; Connecticut Senate 2003-2007; U.S. House 2007-2013; U.S. Senate since 2013"
+  },
+  "self_description": "Since 2022 has urged Democrats to abandon 'neoliberalism'/Third Way policies and embrace left-wing economic populism and a big-tent coalition (https://en.wikipedia.org/wiki/Chris_Murphy)",
+  "primary_context": "2024: renominated without a significant primary challenge; also ran on the Working Families Party line",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (cross-nominated on WFP ballot line, 2024)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator since 2013, J.D.; lead Democratic negotiator of the Bipartisan Safer Communities Act (2022 law); Appropriations Homeland Security subcommittee leader"
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2024 debate record vs Matthew Corey unverified (not found in sources checked). Media: one of the most visible Democratic messengers in 2025 (CNN, op-eds, NYT/NYMag profiles) per his office's 'In the News' (https://www.murphy.senate.gov/newsroom/in-the-news); no Fox/hostile-outlet appearances or 2025-26 town halls verified."
+  },
+  "outside_support": [
+   "Giffords, LCV, Sierra Club, NRDC, Planned Parenthood, J Street, JDCA (2024)",
+   "2024 cycle: 29% small-dollar share (FEC)"
+  ],
+  "notable_positions": [
+   "Lead Democratic negotiator of the Bipartisan Safer Communities Act (gun law, 2022) (https://en.wikipedia.org/wiki/Chris_Murphy)",
+   "Voted for Sanders resolutions to block arms sales to Israel in April 2025 and April 2026; has not called it genocide (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Backs Medicare buy-in (Choose Medicare Act) rather than single payer; 2026: 'everyone... should have access to the Medicare plan' (https://en.wikipedia.org/wiki/Chris_Murphy)",
+   "Urged post-2024 break with neoliberalism toward left-populism (https://en.wikipedia.org/wiki/Chris_Murphy)",
+   "Supports 30% minimum tax on incomes over $1 million and D.C. statehood (https://www.ontheissues.org/Senate/Chris_Murphy.htm)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Populist-left rhetoric but few hard left markers: LI about 2 (DC statehood, WFP line), with no M4A, wealth-tax or genocide positions; CI 0 and a low Lugar bipartisanship rank. Highly credentialed with an authored law; debate record unverified, so EO about 3 and the sequence gives nearest-fit Cat 1 as an imperfect fit (Cat 3 if the 2024 debate was skipped).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Murphy",
+   "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Connecticut",
+   "https://www.murphy.senate.gov/newsroom/in-the-news",
+   "https://www.ontheissues.org/Senate/Chris_Murphy.htm",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/",
+   "http://www.thelugarcenter.org/ourwork-85.html"
+  ]
+ },
+ {
+  "id": "B001277",
+  "name": "Richard Blumenthal",
+  "seat": "CT-SEN",
+  "call_status": "not up until 2028",
+  "bio": {
+   "birth_year": 1946,
+   "education": "B.A. Harvard; J.D. Yale Law School",
+   "career": "U.S. Attorney for Connecticut 1977-1981; Marine Corps Reserve; lawyer",
+   "prior_office": "Connecticut House and Senate (1980s); Connecticut Attorney General 1991-2011; U.S. Senate since 2011"
+  },
+  "self_description": "No ideological self-label found in sources reviewed",
+  "primary_context": "2022: no significant primary challenge; cross-nominated on the Working Families Party line",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (cross-nominated on WFP ballot line, 2022)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator since 2011, 20-year state AG, ex-U.S. Attorney; Yale J.D.; co-author of Kids Online Safety Act (passed Senate 91-3, July 2024); ranking member, Permanent Subcommittee on Investigations"
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "2022: debated Leora Levy (Nov 2, 2022, WFSB/CT Insider); no declined debates recorded (https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Connecticut). Media: frequent press conferences and mainstream TV; no hostile-outlet appearances or 2025-26 town halls verified."
+  },
+  "outside_support": [
+   "Connecticut AFL-CIO, LCV, NARAL, Sierra Club, Pro-Israel America, Jewish Dems (2022)",
+   "2022 cycle: 7.8% small-dollar share - large-donor/PAC funded (FEC)"
+  ],
+  "notable_positions": [
+   "Co-author with Marsha Blackburn of the Kids Online Safety Act, passed Senate 91-3 in 2024 (https://en.wikipedia.org/wiki/Kids_Online_Safety_Act)",
+   "Co-sponsor of Medicare for All and DC statehood (bulk co-sponsorship data)",
+   "One of seven Senate Democrats who voted against both April 2026 Sanders resolutions to block arms sales to Israel (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Voted against the Laken Riley Act (bulk roll call)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "LI about 3 (Medicare for All and DC statehood co-sponsorships plus WFP line), CI 0; pro-Israel votes and no movement-left identity. Highly credentialed with a major bill to his name and debated in 2022, so EO about 4 and the sequence assigns nearest-fit Cat 1 as an imperfect fit; a mainstream liberal.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Connecticut",
+   "https://en.wikipedia.org/wiki/Kids_Online_Safety_Act",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/",
+   "http://www.thelugarcenter.org/ourwork-85.html"
+  ]
+ },
+ {
+  "id": "C001088",
+  "name": "Christopher A. Coons",
+  "seat": "DE-SEN",
+  "call_status": "re-elected 2026 (defeated Republican Michael Katz about 64%-36%)",
+  "bio": {
+   "birth_year": 1963,
+   "education": "B.A. Amherst; J.D. and M.A.R. (ethics), Yale",
+   "career": "Corporate counsel (W.L. Gore), nonprofit leader",
+   "prior_office": "New Castle County Council president 2001-2005; New Castle County Executive 2005-2010; U.S. Senate since Nov 2010"
+  },
+  "self_description": "2010: 'I am not a bearded Marxist; but a clean-shaven capitalist' (https://www.ontheissues.org/Senate/Chris_Coons.htm); 2026 pitch for 'bipartisan, steady, capable leadership' (https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/)",
+  "primary_context": "Sept 15, 2026: beat three minor challengers (Appelhans 10.6%, Louve 7.5%, Hansen 3.9%) with 78%; no organised left challenge found (https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware)",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": -1,
+    "e": "Describes himself as 'a clean-shaven capitalist', not a Marxist (2010)",
+    "src": "https://www.ontheissues.org/Senate/Chris_Coons.htm"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Co-chairs the bipartisan Senate Law Enforcement Caucus (with Blunt 2015-21, Cornyn 2024-25), hosting Police Week events",
+    "src": "https://www.coons.senate.gov/meet-chris/caucuses/senate-law-enforcement-caucus/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center Bipartisan Index 2023: 16th of 98 senators (score 0.95), the highest-ranked in this batch",
+    "src": "http://www.thelugarcenter.org/ourwork-85.html"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Senator since 2010, ex-county executive; Yale J.D./M.A.R.; Ethics Committee vice chair, senior appropriator and foreign-policy dealmaker"
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "2026: met Katz in a Rotary Club of Wilmington candidate forum (Oct 22, 2026), engaging on tariffs, ACA and ICE (https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/); no declined debates found. Media: Fox News Sunday interview (Apr 2025), Fox News op-ed (Feb 2025), Shannon Bream's Fox podcast (Mar 2025) (https://www.coons.senate.gov/?s=Fox+News)."
+  },
+  "outside_support": [
+   "AIPAC, J Street, JACPAC, Jewish Democratic Council (2026)",
+   "LCV, Giffords, Planned Parenthood, 314 Action, NEA, AFGE (2026)",
+   "2026 cycle: 3.2% small-dollar share, 33% of receipts from PACs - PAC/large-donor funded (FEC)"
+  ],
+  "notable_positions": [
+   "One of seven Senate Democrats who voted against both April 2026 Sanders resolutions to block arms sales to Israel (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/)",
+   "Backs 'humane' immigration enforcement with ICE body cameras and judicial warrants (Oct 2026) (https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/)",
+   "Co-chairs bipartisan Senate Law Enforcement Caucus (https://www.coons.senate.gov/meet-chris/caucuses/senate-law-enforcement-caucus/)",
+   "Criticised Trump tariffs as 'a new national sales tax' on Fox News Sunday (Apr 2025) (https://www.coons.senate.gov/?s=Fox+News)",
+   "Defends and seeks to build on the ACA (https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Institutionalist dealmaker with the strongest bipartisan ranking in this batch, law-enforcement-caucus leadership and pro-Israel votes, but few explicit centrist policy markers were documented (CI about 2, LI 1). Credentialed and engaged with Fox News and a 2026 candidate forum, so the sequence assigns nearest-fit Cat 4 as an imperfect fit.",
+  "sources": [
+   "https://whyy.org/articles/election-2026-delaware-primary-senate-democrat-winner/",
+   "https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+   "https://www.fox29.com/news/chris-coons-wins-reelection-delaware-senate-race-ap-projects",
+   "https://www.ontheissues.org/Senate/Chris_Coons.htm",
+   "https://www.coons.senate.gov/?s=Fox+News",
+   "https://www.coons.senate.gov/meet-chris/caucuses/senate-law-enforcement-caucus/",
+   "http://www.thelugarcenter.org/ourwork-85.html",
+   "https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/"
+  ]
+ }
+]

@@ -1,0 +1,857 @@
+[
+ {
+  "id": 8,
+  "name": "Roy Cooper",
+  "seat": "NC-SEN",
+  "call_status": "confirmed winner (AP call 3 Nov; Whatley conceded election night; prelim ~58.8%-39.0%; state certification pending)",
+  "bio": {
+   "birth_year": 1957,
+   "education": "BA UNC-Chapel Hill; JD UNC-Chapel Hill",
+   "career": "Attorney in family law practice (Rocky Mount) before and alongside legislative service",
+   "prior_office": "NC House 1987-91; NC Senate 1991-2001 (Majority Leader); NC Attorney General 2001-17; Governor of North Carolina 2017-25"
+  },
+  "self_description": "No explicit ideological label found; frames himself as a bipartisan dealmaker who expanded Medicaid 'through a Republican-controlled legislature' and runs on 'make stuff cost less'. Republican pollster Whit Ayres calls him a 'reasonably moderate, popular governor'.",
+  "primary_context": "Effectively uncontested: won 3 Mar 2026 Democratic primary with ~92% over minor candidates Justin Dues and Orrick Quick; former Rep. Wiley Nickel exited and endorsed him. No ideological contest.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Has not embraced Medicare for All; focuses on expanding existing coverage/Medicaid and adding dental/vision/hearing to Medicare (no explicit rejection found)"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "As governor vetoed NC's 2023 ban on transgender girls in girls' school sports (HB 574), calling it 'neither fair nor needed'; avoided the topic in the 2026 Senate race (declined WaPo interview on it)",
+    "src": "https://www.wunc.org/politics/2023-07-05/nc-gov-cooper-vetoes-three-lgbtq-bills-but-overrides-are-likely"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Vetoed bills mandating sheriffs honor ICE detainers (2019, 2022/2024) but did not call for abolishing ICE; also said 'no way do we defund the police'"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Campaign statement (Aug 2025): Cooper 'generally does not believe we should withhold aid from a critical ally like Israel'; rejected effort to block arms sales while urging more humanitarian aid to Gaza",
+    "src": "https://jewishinsider.com/2025/08/democrats-top-senate-recruit-roy-cooper-rejects-effort-to-block-aid-to-israel/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0,
+    "e": "Builds on ACA/Medicaid and Medicare expansion; no explicit statement opposing single payer found"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0,
+    "e": "Mixed: ad touts backing 'the toughest border security bill in decades' (2024 bipartisan bill) but as governor vetoed ICE-detainer mandates for sheriffs"
+   },
+   "C5": {
+    "v": 1,
+    "e": "2026 TV ad 'Safe': 'As your Governor, I toughened bail laws, went after drug dealers pushing fentanyl and said, no way do we defund the police'",
+    "src": "https://roycooper.com/new-tv-ad-roy-cooper-releases-new-tv-ad-highlighting-his-work-to-keep-north-carolinians-safe/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Documented bipartisan governing record: Medicaid expansion enacted via deal with GOP supermajority legislature (2023); runs on that as proof he 'can work across party lines'",
+    "src": "https://www.newstribune.com/news/2026/oct/19/roy-coopers-north-carolina-playbook-is-working-can-other-democrats-copy-it/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Housing-supply framing: would make housing affordable 'by building more homes, eliminating unnecessary rules' (AARP Q&A); governor-era business-recruitment record",
+    "src": "https://www.aarp.org/states/north-carolina/cooper-whatley-senate-2026-q-and-a/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term governor and four-term AG; JD; long authored/executive legislative record (Medicaid expansion, 2021 HB 951 energy law). Campaign platform itself is thin on numbers ('make stuff cost less')."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "No general-election debate found: as of 10 Sept 2026 none of three invitations (Spectrum, NC Assoc. of Broadcasters, WUNC/UNC) accepted; Cooper only said his team was 'happy to sit down and discuss'; would be first NC Senate race without a debate in ~30 years (The Assembly). Media: frequent MS NOW/Maddow, sports and left-leaning podcasts; extended local interviews rare; campaign limited access for conservative North State Journal; declined WaPo and other interview requests. Engages substance on crime/immigration attacks (sheriff rationale, fact-check ad) but avoided trans issue and Schumer-leadership question."
+  },
+  "outside_support": [
+   "Senate Majority PAC / DSCC (Schumer recruit)",
+   "Democratic Majority for Israel",
+   "J Street",
+   "MoveOn",
+   "Giffords PAC",
+   "LCV",
+   "Sierra Club",
+   "Planned Parenthood Action Fund",
+   "End Citizens United",
+   "NC AFL-CIO",
+   "UAW",
+   "NEA",
+   "AFGE",
+   "HRC PAC",
+   "National Committee to Preserve Social Security and Medicare"
+  ],
+  "notable_positions": [
+   "Core message 'Make Stuff Cost Less': groceries, utilities (hold Duke Energy accountable), child care, housing (https://roycooper.com/make-stuff-cost-less/)",
+   "Protect Medicaid expansion; expand Medicare to dental/vision/hearing and broaden drug-price negotiation (https://www.aarp.org/states/north-carolina/cooper-whatley-senate-2026-q-and-a/)",
+   "'No way do we defund the police'; touts tougher bail laws and fentanyl prosecutions (https://roycooper.com/new-tv-ad-roy-cooper-releases-new-tv-ad-highlighting-his-work-to-keep-north-carolinians-safe/)",
+   "Backed 2024 bipartisan border bill; defends vetoes of ICE-detainer mandates as forcing sheriffs 'to do the job of federal agents' (https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf)",
+   "Opposes withholding military aid to Israel; urges more humanitarian aid into Gaza (https://jewishinsider.com/2025/08/democrats-top-senate-recruit-roy-cooper-rejects-effort-to-block-aid-to-israel/)",
+   "Supports banning stock trading by top federal officials (WRAL, Dec 2025, per Wikipedia race page)"
+  ],
+  "suggested_category": 3,
+  "confidence": "Medium",
+  "rationale": "Mainstream establishment Democrat: LI ~1 (2023 trans-sports veto only; rejects arms embargo) and CI ~3 (anti-defund, bipartisan record, housing supply), so neither left nor centrist test is met. Highly credentialed (EPD 7) but ran a front-runner campaign with no debate, few long-form local interviews and a slogan-level platform, giving EO ~2, which maps to Cat 3. If an October debate was in fact held it would lift EO to ~3-4 and the fit would become an imperfect Cat 4 lean.",
+  "sources": [
+   "https://www.wect.com/2026/11/04/cooper-beats-trump-backed-whatley-north-carolina-senate-race/",
+   "https://www.wunc.org/2026-11-03/whatley-concedes-to-cooper-in-u-s-senate-race-north-carolina-is-a-state-worth-fighting-for",
+   "https://www.wunc.org/politics/2026-09-10/nc-us-senate-race-debates-local-interviews-whatley-cooper",
+   "https://www.theassemblync.com/news/politics/whatley-cooper-senate-debate/",
+   "https://roycooper.com/make-stuff-cost-less/",
+   "https://www.aarp.org/states/north-carolina/cooper-whatley-senate-2026-q-and-a/",
+   "https://www.newstribune.com/news/2026/oct/19/roy-coopers-north-carolina-playbook-is-working-can-other-democrats-copy-it/",
+   "https://roycooper.com/new-tv-ad-roy-cooper-releases-new-tv-ad-highlighting-his-work-to-keep-north-carolinians-safe/",
+   "https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf",
+   "https://jewishinsider.com/2025/08/democrats-top-senate-recruit-roy-cooper-rejects-effort-to-block-aid-to-israel/",
+   "https://www.wunc.org/politics/2023-07-05/nc-gov-cooper-vetoes-three-lgbtq-bills-but-overrides-are-likely",
+   "https://ncnewsline.com/2026/03/03/roy-cooper-michael-whatley-secure-us-senate-nominations-setting-up-fierce-november-election/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+   "https://www.washingtonexaminer.com/?p=4505725",
+   "https://giffords.org/press-release/2025/08/giffords-pac-endorses-governor-roy-cooper-for-u-s-senate-in-north-carolina/"
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Annie Andrews",
+  "seat": "SC-SEN",
+  "call_status": "confirmed winner (AP call 3 Nov; ~51.1%-46.6% over appointed Sen. Darline Graham, Lindsey Graham's sister, appointed after his July 2026 death; certification pending). Roster's 'Darline Graham' is correct.",
+  "bio": {
+   "birth_year": 1980,
+   "education": "BA Univ. of Dayton; MD Univ. of Cincinnati; MS clinical research MUSC",
+   "career": "Pediatric hospitalist / associate professor at MUSC Children's Hospital (~14 yrs, to 2023), firearm-injury researcher; later part-time at Children's National (DC)",
+   "prior_office": "none (lost 2022 SC-01 House race to Nancy Mace, 42.5%-56.5%)"
+  },
+  "self_description": "Calls herself a 'radical centrist'; pledges 'I'll be an independent voice and a brick wall between South Carolina and Washington, even when my own party gets it wrong' (Fox News op-ed, 2 Nov 2026).",
+  "primary_context": "Won 9 Jun 2026 Democratic primary with ~61.5% over Brandon Brown and Kyle Freeman; low-profile contest without a clear ideological axis.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Backs a public option and called Medicare for All 'a policy from a few decades ago'",
+    "src": "https://en.wikipedia.org/wiki/Annie_Andrews"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0,
+    "e": "Detailed anti-consolidation health agenda (PBMs, private-equity hospitals, insurer vertical integration, hospital price caps) closely tracks CAP's mainstream 'Patients' Bill of Rights'; not scored as beyond party mainstream"
+   },
+   "L7": {
+    "v": -1,
+    "e": "Oct 2026 ad / Fox interview: 'I don't support biological men playing in women's sports and I don't support gender surgery on minors' (in 2022 she had called SC's trans-sports law 'shameful')",
+    "src": "https://www.foxnews.com/politics/dem-scrambles-change-tune-trans-athletes-trump-targets-past-record-annie-trannie"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Supports public option and building on ACA (restore enhanced credits, reverse Medicaid cuts); dismissed Medicare for All as 'a policy from a few decades ago'",
+    "src": "https://en.wikipedia.org/wiki/Annie_Andrews"
+   },
+   "C3": {
+    "v": 1,
+    "e": "Taxpayer Pledge: oppose tax increases on households under $500k, make 'No Tax on Tips'/'No Tax on Social Security' permanent; 'Our debt just hit $40 trillion... Democrats spend billions without asking whether programs work'; platform plank 'Tackle debt, rein in spending, cut taxes'; no wealth tax found",
+    "src": "https://www.foxnews.com/opinion/dr-annie-andrews-south-carolina-should-expect-more-senator.amp"
+   },
+   "C4": {
+    "v": 0,
+    "e": "Mixed: 'we need to have a secure border to be a secure nation... enforce the immigration laws that we have on the books' but called current ICE tactics 'deeply unamerican'; platform 'Security with Dignity'"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "Publicly opposes 'biological men playing in women's sports' and gender surgery on minors",
+    "src": "https://www.lgbtqnation.com/2026/10/dem-candidate-says-she-opposes-biological-men-playing-womens-sports/"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by Republicans/ex-Republicans: former GOP Gov. David Beasley, former GOP state Sen. Katrina Shealy, columnist George Will; pledges to 'stand up to my own party'",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+   },
+   "C8": {
+    "v": 0,
+    "e": "Proposes two-year data-center moratorium and ending data-center tax breaks (not pro-growth framing)"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 2,
+   "note": "No elected office; MD plus clinical-research master's and academic medical career; unusually detailed health-care platform (PBMs, prior authorization, MLR loophole, site-neutral payments, hospital price caps) per American Prospect."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Pressed for three debates ('Debate Me Darline' site), accepted SCETV and a Fox Carolina invitation; debated Graham on SCETV 11 Oct 2026 (Graham accepted only one); debated Mace in 2022. Gave interviews to Fox News Digital and wrote a Fox News op-ed; rural 'Patients and Prices' tour. Debate exchanges were partly personal (Graham's Taiwan gaffe, name) but she also stated positions on Social Security age, data centers."
+  },
+  "outside_support": [
+   "Fresh Start PAC (~$2.5M)",
+   "EMILYs List",
+   "314 Action Fund",
+   "NEA",
+   "Reproductive Freedom for All",
+   "Jewish Democratic Council of America",
+   "JAC",
+   "Vote Mama",
+   "National Women's Political Caucus"
+  ],
+  "notable_positions": [
+   "Public option, not Medicare for All; reverse OBBBA Medicaid cuts, restore enhanced ACA credits, expand Medicare drug negotiation (https://prospect.org/2026/10/08/south-carolina-senate-hopeful-runs-on-health-care-populism-annie-andrews/)",
+   "Opposes tax hikes on households under $500k; permanent no tax on tips/Social Security; congressional stock-trading ban; two-term limit pledge (https://www.foxnews.com/opinion/dr-annie-andrews-south-carolina-should-expect-more-senator.amp)",
+   "Opposes 'biological men' in women's sports and gender surgery for minors (reversal from 2022 criticism of SC law) (https://www.foxnews.com/politics/dem-scrambles-change-tune-trans-athletes-trump-targets-past-record-annie-trannie)",
+   "Secure border and enforce existing law, but ICE tactics 'deeply unamerican'; path to citizenship (https://abcnews4.com/news/state/annie-andrews-discusses-affordability-immigration-and-abortion-during-marion-stop-race-senator-us-campaign-priorities-november-election)",
+   "Restore Roe-style framework; universal background checks (https://en.wikipedia.org/wiki/Annie_Andrews)",
+   "Two-year data-center moratorium; vows to 'lead the charge to impeach and remove RFK Jr.' (https://www.foxnews.com/politics/dem-who-vows-impeach-rfk-jr-clinches-nomination-key-senate-race)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Self-described 'radical centrist' with explicit breaks from the left (dismisses Medicare for All, opposes trans athletes in women's sports, fiscal/tax-cut pledges) and Republican endorsers, giving CI ~4 and LI ~0. CI falls just short of 5 (no centrist-coalition endorsement found; border stance mixed), but as a credentialed (EPD 4) and engaged (EO 5) candidate she resolves to Cat 4 via the nearest-fit rule. Note her trans-policy stance shifted from 2022, and her health agenda is detailed and populist in tone.",
+  "sources": [
+   "https://www.foxcarolina.com/2026/11/04/annie-andrews-projected-win-us-senate-race-flipping-south-carolina-seat-blue/",
+   "https://www.opb.org/article/2026/11/03/democrat-annie-andrews-wins-us-senate-election-in-south-carolina-over-republican-darline-graham/",
+   "https://en.wikipedia.org/wiki/Annie_Andrews",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+   "https://www.foxnews.com/opinion/dr-annie-andrews-south-carolina-should-expect-more-senator.amp",
+   "https://www.foxnews.com/politics/dem-scrambles-change-tune-trans-athletes-trump-targets-past-record-annie-trannie",
+   "https://www.lgbtqnation.com/2026/10/dem-candidate-says-she-opposes-biological-men-playing-womens-sports/",
+   "https://abcnews4.com/news/state/annie-andrews-discusses-affordability-immigration-and-abortion-during-marion-stop-race-senator-us-campaign-priorities-november-election",
+   "https://prospect.org/2026/10/08/south-carolina-senate-hopeful-runs-on-health-care-populism-annie-andrews/",
+   "https://drannieandrews.com/platform",
+   "https://drannieandrews.com/dr-annie-andrews-unveils-policy-priorities-centered-on-affordability-public-health-and-accountability/",
+   "https://spectrumlocalnews.com/south-carolina/politics/2026/10/12/sc-senate-debate",
+   "https://www.foxnews.com/politics/sc-dem-senate-candidate-claims-stand-party-graham-ties-socialist-democrats",
+   "https://www.live5news.com/2026/09/12/darline-graham-agrees-debate-democratic-challenger-annie-andrews-south-carolina-senate-race/",
+   "https://www.foxnews.com/politics/dem-who-vows-impeach-rfk-jr-clinches-nomination-key-senate-race",
+   "https://ballotpedia.org/Annie_Andrews"
+  ]
+ },
+ {
+  "id": 10,
+  "name": "James Talarico",
+  "seat": "TX-SEN",
+  "call_status": "confirmed winner (defeated AG Ken Paxton ~55.1%-43.0%; Cornyn lost GOP runoff to Paxton on 26 May)",
+  "bio": {
+   "birth_year": 1989,
+   "education": "BA Government UT-Austin (2011); M.Ed. education policy Harvard GSE (2016); MA theological studies Austin Presbyterian Theological Seminary (2025), MDiv in progress",
+   "career": "Teach For America middle-school teacher (San Antonio, 2011-13); Central Texas executive director of nonprofit Reasoning Mind",
+   "prior_office": "Texas House of Representatives 2018-2026 (HD-52, then HD-50)"
+  },
+  "self_description": "Calls himself a 'Border Security Democrat'; widely described as an economic/progressive populist influenced by Christian social teaching; stressed a 'measured approach' versus Crockett's 'firebrand' style.",
+  "primary_context": "Beat Rep. Jasmine Crockett 52.4% in 3 Mar 2026 primary (no runoff) after Colin Allred withdrew; candidates 'largely aligned on policy' at the single AFL-CIO debate and analysts saw it as a personality/electability contest rather than ideological; Talarico ran stronger with White and Latino voters, Crockett with Black voters.",
+  "L": {
+   "L1": {
+    "v": 0,
+    "e": "'New American Dream' plan repeals tax cuts for top 1% and closes 'billionaire tax loopholes' - no wealth tax or >=50% rate found"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Backs universal coverage via buy-in Medicare / public option ('Medicare for Y'all'), not single payer replacing private insurance"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": -1,
+    "e": "April 2026 'all-of-the-above' energy plan includes investment in oil and gas alongside nuclear and renewables",
+    "src": "https://en.wikipedia.org/wiki/James_Talarico"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Aug 2026 health plan to break up vertically integrated health companies (PBMs, insurers, hospital networks); economic plan caps credit-card interest rates",
+    "src": "https://en.wikipedia.org/wiki/James_Talarico"
+   },
+   "L7": {
+    "v": 1,
+    "e": "Voted against Texas's 2021 trans school-sports ban and against bills restricting gender-affirming care for minors; in 2026 said he supports trans athletes in girls' sports unless it 'endangers safety or fairness' and that politics should not interfere with doctors' decisions (campaign ads say he opposes surgery for minors)",
+    "src": "https://en.wikipedia.org/wiki/James_Talarico"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Called for diverting the Trump-era increase in ICE funding to other services (Jan 2026 debate) but self-describes as 'Border Security Democrat'; no abolish-ICE call"
+   },
+   "L10": {
+    "v": 0,
+    "e": "Backs Court term limits and ethics code; only 'open' to adding justices"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Condemns Israel's 'atrocities' and 'war crimes', opposes offensive US aid and supports banning sale of offensive weapons to Israel, critic of AIPAC; no 'genocide' label or full embargo found"
+   }
+  },
+  "L13_endorsements": [
+   "Progressive Change Campaign Committee",
+   "Our Revolution"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Campaigned as a 'Border Security Democrat': 750-mile border tour, plan for more agents, judges and technology, said 'Joe Biden and his administration failed us on our southern border', appeared with a Republican sheriff backing his plan",
+    "src": "https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0,
+    "e": "Hedged trans-sports answer on Fox ('if it endangers safety or fairness') and ads opposing surgery for minors, but campaign said he had 'not shifted any of his stances'"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by numerous Republicans incl. Adam Kinzinger, ex-state Sen. Kel Seliger, ex-Rep. Alan Steelman, Neil Bush, ex-TX GOP executive director Wayne Thorburn, two former GOP Texas Supreme Court justices",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+   },
+   "C8": {
+    "v": 1,
+    "e": "'All-of-the-above' energy plan incl. oil and gas; 'New American Dream' includes cutting regulations on home building",
+    "src": "https://en.wikipedia.org/wiki/James_Talarico"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term state legislator, lead author of ~200 bills (16 enacted: insulin cap, school finance, Javier Ambler's Law); Harvard M.Ed. plus theology MA (cred scored 2, borderline); detailed federal plans on economy, health, energy, data centers, border."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Debated Crockett in the only primary debate (AFL-CIO, 24 Jan 2026). In the general he accepted multiple invitations including a Fox News debate he challenged Paxton to; Paxton declined all, so none were held (first Texas Senate race since 2000 without one). Unusually wide cross-partisan media: Joe Rogan Experience, Fox News interview, The View, Colbert, Kimmel, Psaki. Engages opponents' arguments (border attack ad answered with border plan; clarified trans position, though criticised as ambiguous)."
+  },
+  "outside_support": [
+   "Progressive Change Campaign Committee",
+   "Our Revolution",
+   "LCV",
+   "Giffords",
+   "End Citizens United",
+   "Human Rights Campaign",
+   "Democrats for Education Reform",
+   "Texas AFL-CIO",
+   "UAW",
+   "AFT Texas",
+   "AFGE",
+   "Congressional Black Caucus (PAC)",
+   "People for the American Way",
+   "Feminist Majority PAC",
+   "small-dollar national donor base (record $64M Q3; rejects corporate PAC money)"
+  ],
+  "notable_positions": [
+   "'Medicare for Y'all': universal coverage via Medicare buy-in/public option; break up vertically integrated health companies (https://en.wikipedia.org/wiki/James_Talarico)",
+   "'Border Security Democrat': more agents/judges/tech, ICE focused on serious threats, plus path to citizenship and Dignity Act (https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf)",
+   "'All-of-the-above' energy incl. oil and gas; end data-center tax incentives; suspend federal gas/diesel tax during Iran-war price spike (https://en.wikipedia.org/wiki/James_Talarico)",
+   "Repeal top-1% tax cuts, close billionaire loopholes; universal child care, paid leave, minimum-wage increase, credit-card rate cap (https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas)",
+   "Two-state solution; condemns Israeli 'war crimes', backs ban on offensive weapons sales to Israel; critic of AIPAC; opposed 2026 Iran war (https://en.wikipedia.org/wiki/James_Talarico)",
+   "End filibuster (talking filibuster), Court term limits and ethics code, 'open' to more justices; overturn Citizens United, congressional term limits and stock-trading ban (https://en.wikipedia.org/wiki/James_Talarico)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Genuinely mixed profile: progressive markers (health-industry break-ups, past votes against trans-sports and minors' care bans, PCCC and Our Revolution backing; LI ~4) sit alongside centrist ones (Border Security Democrat, all-of-the-above energy, many Republican endorsers; CI ~3). Neither threshold is met; he is credentialed (EPD 6) and highly engaged (EO 5), so the nearest-fit rule tips narrowly to Cat 1 on LI > CI, flagged as an imperfect fit. Cat 4 would be equally defensible if the border/energy positioning is weighted more heavily.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Talarico",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+   "https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf",
+   "https://www.kxan.com/video/texas-senate-primary-debate-democratic-candidates-jasmine-crockett-james-talarico/11458258/",
+   "https://wlos.com/news/nation-world/key-takeaways-from-us-senate-primaries-texas-gop-runoff-prime-flip-opportunity-in-north-carolina-politics-arkansas-james-talarico-jasmine-crockett-john-cornyn-ken-paxton-roy-cooper-michael-whatley-tom-cotton-hallie-shoffner"
+  ]
+ },
+ {
+  "id": 91,
+  "name": "Sherrod Brown",
+  "seat": "OH-SEN (special, Class III)",
+  "call_status": "confirmed winner (special election; ~50.0%-45.2% over appointed Sen. Jon Husted per Wikipedia race page; takes office on certification, before 3 Jan 2027)",
+  "bio": {
+   "birth_year": 1952,
+   "education": "BA Russian studies Yale (1974); MA education (1979) and MPA (1981) Ohio State",
+   "career": "Career politician; taught at Ohio State Mansfield 1979-81; post-2025 Harvard Kennedy School visiting fellow and founder of the Dignity of Work Institute",
+   "prior_office": "Ohio House 1975-83; Ohio Secretary of State 1983-91; U.S. House 1993-2007; U.S. Senate 2007-25 (Banking Committee chair 2021-25); lost 2024 re-election to Bernie Moreno"
+  },
+  "self_description": "Pro-worker economic populist; argues 'Democrats Must Become the Workers' Party Again' (TNR, Mar 2025); campaign site stresses fights against corporate/billionaire tax breaks and bad trade deals. National Journal (2011) ranked him tied for most liberal senator.",
+  "primary_context": "Uncontested in substance: beat IT professional Ron Kincaid 89.4%-10.6% (May 2026); no ideological contest. Schumer recruit.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Cosponsored the single-payer Expanded and Improved Medicare for All Act (H.R. 676) in 2006 and said in 2016 he had 'always been supportive' of single payer while promoting his own Medicare buy-in at 55 plan; no 2026 statement found (dated evidence)",
+    "src": "https://en.wikipedia.org/wiki/Sherrod_Brown"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Co-authored the 2010 Brown-Kaufman amendment (SAFE Banking Act) to break up the largest banks via statutory size limits",
+    "src": "https://en.wikipedia.org/wiki/Brown%E2%80%93Kaufman_amendment"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Signed 2016 AIPAC-backed letter urging veto of 'one-sided' UN resolutions; in 2024 urged recognition of a 'nonmilitarized' Palestinian state after the war; no genocide/embargo position found"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed in 2026 by the Ohio Patrolmen's Benevolent Association (police union) and Ohio Association of Professional Fire Fighters",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0,
+    "e": "Long-time free-trade critic (opposed NAFTA/CAFTA, backed tariffs on China); critic of data centers ('They eat up our land. They swallow up our water')"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Three-term senator and former Banking chair, ex-House member and Ohio Secretary of State; Yale BA plus OSU MPA; long authored legislative record (pensions rescue, insulin caps, Railway Safety Act, Buy America)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "UNVERIFIED for 2026: web-search budget ran out before Brown-Husted debate/media coverage could be checked, and the Wikipedia race page lists no debates. Mid-point values assigned as placeholders. Historical pattern: debated opponents in prior Senate races (incl. two debates with Moreno in 2024). Needs a follow-up check."
+  },
+  "outside_support": [
+   "Senate Majority PAC / DSCC (Schumer recruit)",
+   "Ohio AFL-CIO",
+   "UAW",
+   "United Steelworkers",
+   "IBEW",
+   "Teamsters (Ohio Conference)",
+   "NEA",
+   "Ohio Patrolmen's Benevolent Association",
+   "United Mine Workers COMPAC",
+   "MoveOn",
+   "LCV",
+   "Giffords",
+   "End Citizens United",
+   "HRC",
+   "Planned Parenthood Action Fund",
+   "JDCA",
+   "JAC"
+  ],
+  "notable_positions": [
+   "Opposes 'massive tax breaks for corporations and billionaires'; capped insulin costs and drug prices for seniors; protected pensions (https://www.sherrodbrown.com/)",
+   "Critic of data-center build-out; says approval should be decided locally, attacked Husted over data-center tax breaks (https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio)",
+   "Protectionist on trade: opposed NAFTA/CAFTA, backed China tariffs and Buy America rules (https://en.wikipedia.org/wiki/Sherrod_Brown)",
+   "Historic single-payer sympathy (2006 H.R. 676 cosponsor) but favoured Medicare buy-in at 55 (https://en.wikipedia.org/wiki/Sherrod_Brown)",
+   "Bank break-up via Brown-Kaufman amendment; anti-Wall Street record as Banking chair (https://en.wikipedia.org/wiki/Brown%E2%80%93Kaufman_amendment)",
+   "Critical of the 2026 Iran war and its effect on gas prices (https://en.wikipedia.org/wiki/Sherrod_Brown)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Veteran pro-labour economic populist with a long Senate record. Few 2026-specific markers were found: LI ~2 (dated single-payer support, bank break-up amendment) and CI ~1 (police-union endorsement), so neither threshold is met. Highly credentialed (EPD 7); EO is a placeholder pending a check of his 2026 debate/media record. The nearest-fit rule gives an imperfect Cat 1 (LI > CI), but the margin rests on dated votes, so confidence is low.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
+   "https://en.wikipedia.org/wiki/Sherrod_Brown",
+   "https://en.wikipedia.org/wiki/Brown%E2%80%93Kaufman_amendment",
+   "https://www.sherrodbrown.com/",
+   "https://www.washingtonexaminer.com/?p=4505725",
+   "https://fox8.com/news/sherrod-brown-or-ron-kincaid-in-u-s-senate-race/"
+  ]
+ },
+ {
+  "id": 92,
+  "name": "Mary Peltola",
+  "seat": "AK-SEN",
+  "call_status": "still uncalled (as of 10-11 Nov: Peltola led first-choice count ~49%-47% with ~84% reporting, margin only hundreds of votes on 6 Nov; RCV tabulation pending ~18 Nov; FairVote/Alaska Beacon preliminary RCV projections favoured Sullivan ~51-49; state and federal investigations into alleged recruitment of same-name spoiler candidate Dan J. Sullivan)",
+  "bio": {
+   "birth_year": 1973,
+   "education": "Attended Univ. of Northern Colorado and Univ. of Alaska campuses (elementary education); no degree",
+   "career": "Commercial fisher; Donlin Creek Mine community-development manager 2008-14; lobbyist 2015-17; executive director Kuskokwim River Inter-Tribal Fish Commission; tribal court judge",
+   "prior_office": "Alaska House 1999-2009; Bethel City Council 2011-13; U.S. House (AK-AL) 2022-25"
+  },
+  "self_description": "Runs as 'Alaskan first': 'Forget party, forget politics…I took on Joe Biden to secure the border'; described as a moderate Blue Dog Democrat; rejected Kamala Harris's endorsement.",
+  "primary_context": "Top-four nonpartisan primary (18 Aug): led with 49.5% to Sullivan's 41.4%. Democratic-socialist David Leslie attacked her from the left on Gaza, environment and ICE, placed fourth, then withdrew under party pressure.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Supports a public option and extending ACA subsidies"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": -1,
+    "e": "Backed ConocoPhillips Willow project and expanded oil development in NPR-A",
+    "src": "https://en.wikipedia.org/wiki/Mary_Peltola"
+   },
+   "L6": {
+    "v": 0,
+    "e": "Antitrust-minded (opposed Kroger-Albertsons merger) but no statutory break-up / price-control proposals found"
+   },
+   "L7": {
+    "v": 1,
+    "e": "Voted against the 2023 Protection of Women and Girls in Sports Act, calling it 'bullying' and 'federal overreach'",
+    "src": "https://en.wikipedia.org/wiki/Mary_Peltola"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Calls for 'accountability for ICE' but voted for Laken Riley Act; no abolish-ICE stance"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Broke with party in the House to vote for military aid to Israel; criticised from the left by David Leslie over Gaza",
+    "src": "https://en.wikipedia.org/wiki/Mary_Peltola"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0,
+    "e": "Builds on ACA (public option, extend subsidies, protect Medicaid expansion); no explicit anti-M4A statement found"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "In 2024 voted for the Laken Riley Act, bills to deport immigrants who assault police or commit sex crimes, and to condemn Biden's border handling; 2026 message 'I took on Joe Biden to secure the border'",
+    "src": "https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 1,
+    "e": "Notably pro-gun-owner: only Democratic congressional candidate endorsed by the NRA in 2024; 'guns are a part of Alaska's culture'",
+    "src": "https://en.wikipedia.org/wiki/Mary_Peltola"
+   },
+   "C7": {
+    "v": 1,
+    "e": "Frequently broke party line in House (GovTrack: more conservative than all but 13 House Dems); kept Republican staff; rejected Kamala Harris endorsement in 2026; endorsed by Republican Adam Kinzinger",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Supports new oil and gas (Willow, NPR-A) and faster federal permitting for energy/infrastructure",
+    "src": "https://en.wikipedia.org/wiki/Mary_Peltola"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition (member, 118th Congress)",
+   "Problem Solvers Caucus (member)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Former U.S. Representative and 10-year state legislator; no college degree but senior roles (inter-tribal fish commission ED, tribal judge); authored House-passed bills (VA Office of Food Security) and bycatch/bottom-trawl bills."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Three general-election debates with Sullivan (Alaska Oil and Gas Assoc. 27 Aug; Kodiak Chamber/KMXT 12 Sept; Alaska Public Media/KTOO/Alaska's News Source 15 Oct). Media pattern not fully verified; campaign hit by NYT reports on staff mistreatment and an alleged spoiler-candidate scheme, which she denied."
+  },
+  "outside_support": [
+   "Senate Majority PAC / DSCC (Schumer recruit)",
+   "EMILYs List",
+   "J Street",
+   "JDCA",
+   "End Citizens United",
+   "Reproductive Freedom for All",
+   "NOW PAC",
+   "Alaska AFL-CIO",
+   "NEA",
+   "AFGE",
+   "SEIU 775",
+   "CWA",
+   "UAW",
+   "Sealaska Corporation",
+   "Democratic-aligned groups promoting Gerald Heikes (>$2M)"
+  ],
+  "notable_positions": [
+   "Pro-resource-development: backed Willow oil project and NPR-A development; faster permitting (https://en.wikipedia.org/wiki/Mary_Peltola)",
+   "Voted for Laken Riley Act and to condemn Biden's border record; now calls for 'accountability for ICE' (https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf)",
+   "NRA-endorsed in 2024; 'avid hunter' defending gun rights (https://en.wikipedia.org/wiki/Mary_Peltola)",
+   "Public option, extend ACA subsidies, oppose Medicaid cuts; pro-choice, codify Roe (https://en.wikipedia.org/wiki/Mary_Peltola)",
+   "Voted against 2023 House trans sports ban, calling it 'bullying' (https://en.wikipedia.org/wiki/Mary_Peltola)",
+   "Term limits, stricter campaign finance and congressional insider-trading limits; would have backed Iran war-powers resolution (https://en.wikipedia.org/wiki/Mary_Peltola)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Former Blue Dog and Problem Solvers member with a pro-oil, pro-gun (NRA-endorsed), border-hawkish voting record and repeated breaks from her party. CI ~7 against LI ~1 (her only left marker is the 2023 vote against the House trans-sports bill). That is a clear Cat 4. The race is still uncalled pending ranked-choice tabulation and is clouded by the spoiler-candidate investigations.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mary_Peltola",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+   "https://www.thirdway.org/memo/battleground-democrats-arent-ducking-the-immigration-fight.pdf",
+   "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+   "https://alaskabeacon.com/2026/11/03/democratic-candidate-mary-peltola-leads-in-early-vote-counts-for-alaskas-us-senate-election/",
+   "https://fairvote.org/results-and-analysis-from-alaskas-2026-elections/",
+   "https://www.kold.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/",
+   "https://www.democracydocket.com/news-alerts/new-data-suggests-peltola-likely-to-win-alaska-voters-not-confused-by-2-dan-sullivans/"
+  ]
+ },
+ {
+  "id": 93,
+  "name": "Scott Colom",
+  "seat": "MS-SEN",
+  "call_status": "still uncalled (as of 10 Nov: Colom 470,074 / 49.09% vs Hyde-Smith 467,084 / 48.81% with ~98% counted, lead ~2,000-3,000 votes; affidavit/absentee ballots still being processed; counties certify by 13 Nov, state by 3 Dec; Hyde-Smith campaign/NRSC demanding affidavit ballots be segregated and preserved; Mississippi has no recount mechanism, so a legal fight is expected)",
+  "bio": {
+   "birth_year": 1982,
+   "education": "BA English & history Millsaps College (2005); JD cum laude Univ. of Wisconsin Law School (2009)",
+   "career": "Teacher in Guyana; staff lawyer Mississippi Center for Justice 2009-11; private practice 2011-16; part-time judge and city prosecutor",
+   "prior_office": "District Attorney, 16th Judicial District of Mississippi 2016-present; Lowndes County justice court judge (appointed 2011); Aberdeen municipal judge 2012-13; Columbus city prosecutor 2013-16. Biden district-court nominee 2022-23, blocked by Hyde-Smith's blue slip"
+  },
+  "self_description": "Campaign brands him 'A Reformer' who will 'put Mississippi first' and 'work with anyone, Republican or Democrat'; seventh-generation Mississippian, Christian, prosecutor.",
+  "primary_context": "Won 10 Mar 2026 Democratic primary with 72.9% over teacher Priscilla Williams-Till (18.6%) and veteran Albert Littell; 2024 nominee Ty Pinkins withdrew and ran as an independent (~2% in general). No clear ideological contest.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0,
+    "e": "Platform: cancel Medicaid cuts, restore ACA credits, encourage MS Medicaid expansion; Medicare for All not addressed"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0,
+    "e": "Calls for a pause on new data-center construction until companies pay their own power/water costs; raise and index minimum wage (not scored as L6)"
+   },
+   "L7": {
+    "v": 1,
+    "e": "As DA signed a joint prosecutors' letter condemning the criminalization of gender-affirming care (for youth); said he never took a position on trans sports",
+    "src": "https://en.wikipedia.org/wiki/Scott_Colom"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Alexandria Ocasio-Cortez (personally)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0,
+    "e": "Proposes ending federal income tax for Mississippians earning under $75,000 and closing corporate subsidies/loopholes; tax-cut populism rather than deficit framing"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Platform plank: 'work to secure the border and enforce immigration laws' (no further detail; no ICE criticism found)",
+    "src": "https://scottcolom.com/priorities/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Platform: 'back law enforcement with the pay and tools to do the job'; campaigns on his record prioritising violent-crime prosecutions",
+    "src": "https://scottcolom.com/priorities/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0,
+    "e": "Ad featured Republican voter/businessman Mark Vines; 2022-23 judicial nomination backed by Sen. Wicker and ex-GOP Govs. Bryant and Barbour (not campaign endorsements)"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-trade: opposes tariffs as a 'Mississippi last' sales tax, praised Rand Paul for opposing them, would return tariff authority to Congress (but also wants a data-center pause)",
+    "src": "https://en.wikipedia.org/wiki/Scott_Colom"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "Ten-year elected DA (prosecutor) and former judge; JD cum laude; Biden judicial nominee. Platform has some concrete proposals (no income tax under $75k, cancel ~$11B Medicaid cuts, data-center conditions, stock-trading ban) but no authored legislative record."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Challenged Hyde-Smith to three debates (29 Sept), incl. one hosted by an outlet of her choosing; no evidence she accepted or that any debate was held. Says he has held 50+ town halls; national coverage mostly friendly (MS NOW, viral X ad) - no hostile-outlet appearances verified."
+  },
+  "outside_support": [
+   "Congressional Black Caucus PAC",
+   "Mississippi AFL-CIO",
+   "NEA",
+   "UAW",
+   "AFGE",
+   "AFA-CWA",
+   "Indivisible DeSoto MS",
+   "national Democratic surrogates (Obama ad, Clinton, Buttigieg, Warnock, Warren, AOC, Schumer)"
+  ],
+  "notable_positions": [
+   "End federal income tax for Mississippians earning under $75,000, 'starting with teachers and law enforcement officers' (https://scottcolom.com/priorities/)",
+   "Opposes Trump tariffs; return tariff and war powers to Congress (https://en.wikipedia.org/wiki/Scott_Colom)",
+   "Cancel Medicaid cuts, restore ACA credits, push MS Medicaid expansion to save rural hospitals (https://scottcolom.com/priorities/)",
+   "Pause new data-center construction until firms pay for their own power and water and hire locally (https://scottcolom.com/priorities/)",
+   "Back law enforcement pay and tools; secure the border and enforce immigration law (https://scottcolom.com/priorities/)",
+   "Raise and index the minimum wage; congressional stock-trading ban; overturn Citizens United (https://scottcolom.com/priorities/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Pragmatic populist platform (tax cuts under $75k, anti-tariff, pro-police, border-security plank) gives CI ~3, against LI ~2 (AOC endorsement; past letter opposing criminalisation of gender-affirming care). He meets neither threshold. As a credentialed DA with a debate-seeking, town-hall-heavy campaign (EPD 5, EO ~4), the nearest-fit rule leans narrowly to Cat 4, flagged as an imperfect fit. The race itself is still uncalled.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scott_Colom",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+   "https://scottcolom.com/",
+   "https://scottcolom.com/priorities/",
+   "https://scottcolom.com/latest/",
+   "https://mississippitoday.org/2026/11/09/hinds-county-mississippi-senate-colom-hyde-smith",
+   "https://mississippitoday.org/2026/11/05/thousands-of-affidavit-ballots-outstanding-in-mississippi-senate-election-campaigns-prepare-for-legal-fight/",
+   "https://www.wlox.com/2026/11/06/colom-campaign-calls-hyde-smiths-affidavit-ballot-separation-preservation-demand-unlawful-attack-voter-privacy/",
+   "https://www.wfsb.com/2026/11/04/colom-hyde-smith-separated-by-narrow-margin-mississippi-senate-race/"
+  ]
+ }
+]

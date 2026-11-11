@@ -1,0 +1,1471 @@
+[
+ {
+  "id": 51,
+  "name": "Teresa Benitez-Thompson",
+  "seat": "NV-02",
+  "call_status": "confirmed winner (AP call; ~50.4% vs Flippo (R) 44.5%, Chapman (IAP) 5.2%)",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BA political science, Univ of Nevada Reno; MSW Univ of Michigan",
+   "career": "Licensed social worker (special-needs adoptions, hospice); Miss Nevada 2002; chief of staff to NV Attorney General Aaron Ford after leaving legislature",
+   "prior_office": "Nevada Assembly (AD-27) 2010-2022; Assembly Majority Leader 2016/17-2022"
+  },
+  "self_description": "Pragmatic rather than ideological: \"I'm about getting things done\"; voters want someone \"more about their community than about a political party\" (Nevada Newsmakers, Aug 2026). Nevada Independent describes her as known as a moderate in the Assembly who embraced some progressive positions in 2026 (e.g. conditioning Israel aid).",
+  "primary_context": "Won 8-way Democratic primary (9 Jun 2026) with ~46%; main rival was self-funding tech investor and ex-Republican/independent Greg Kidd (endorsed by Rep. Susie Lee), who ran as a bipartisan outsider. Contest was on profile/establishment ties rather than clear left-vs-centre lines; Teamsters backed her on a pledge to repeal right-to-work laws.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Answered 'No' to 'raise federal tax rates' in Nevada Independent candidate survey: 'taxes shouldn't be raised for the sake of raising taxes'; no wealth-tax or rate-hike proposals found",
+    "src": "https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "12 years in state Assembly incl. ~6 as Majority Leader, then chief of staff to state AG (state-legislature tier, not statewide elected). MSW (Michigan) plus senior legislative career. Policy content is concrete but modest: survey answers (SAVE Act, tariffs, Medicaid work requirements, Social Security age, PROMISE Act, lands bills), affordability/tariff focus; no detailed federal plan found."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Said she would debate and 'the community has to know what you're about'; attended Douglas County (Gardnerville) CD2 debate moderated by Judge Tod Young which Flippo skipped (Nevada Independent, Oct 2026). Did Nevada Newsmakers interview (Aug 2026), completed Nevada Independent survey, campaigned in deep-red rural counties. Engages specifics (e.g. Israel: two-state solution, no Hamas resurgence, reduce offensive arms funding)."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "Invest in Tomorrow Coalition (clean-energy group, ~$2M)",
+   "BOLD PAC",
+   "Teamsters (primary)",
+   "IATSE",
+   "NOW / NOW Nevada PAC",
+   "PLAN Action",
+   "Northern Nevada Central Labor Council",
+   "Sen. Catherine Cortez Masto"
+  ],
+  "notable_positions": [
+   "Opposes SAVE America Act; says states hold constitutional power over elections (https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues)",
+   "Reduce US support for Israel 'mostly yes': 'move away from funding offensive arms sales to Israel'; backs two-state solution and opposes any Hamas resurgence (https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues; https://www.thefallonpost.org/article/9839,benitez-thompson-on-the-record)",
+   "Opposes mass deportation ('mostly no'); wants 'fair and efficient reform with humane enforcement' (https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues)",
+   "Against raising federal tax rates; against raising Social Security retirement age; backs reinstating ACA subsidies and opposes Medicaid work requirements (https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues)",
+   "Tariffs have harmed Nevada; Congress has ceded too much power to the executive (https://www.thefallonpost.org/article/9839,benitez-thompson-on-the-record)",
+   "Pledged to Teamsters to repeal right-to-work laws (https://dnyuz.com/?p=192576)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Few rubric markers either way: LI 0 (Israel stance stops short of embargo/genocide language; no left-movement endorsements) and CI 1 (opposes raising federal tax rates). Credentialed (Assembly Majority Leader, AG chief of staff, MSW) and engaged (attended a debate her opponent skipped, cross-partisan rural outreach, Nevada Newsmakers), so she falls to the 'nearest of 1/4' step; leans pragmatic/mainstream-labour Democrat rather than a defined centrist; imperfect fit.",
+  "sources": [
+   "https://thenevadaindependent.com/article/teresa-benitez-thompson-flips-northern-nevada-house-seat-for-first-time-in-blue-wave/",
+   "https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+   "https://thenevadaindependent.com/es/article/cuales-son-las-posturas-de-los-candidatos-al-2-o-distrito-congresional-del-norte-de-nevada-en-temas-clave",
+   "https://www.thefallonpost.org/article/9839,benitez-thompson-on-the-record",
+   "https://thenevadaindependent.com/article/opinion-a-notable-no-show-at-a-rural-nevada-debate-hints-the-ground-is-shifting-in-cd2",
+   "https://thenevadaindependent.com/article/democrats-have-never-won-northern-nevadas-2nd-district-these-candidates-think-they-can",
+   "https://en.wikipedia.org/wiki/Teresa_Benitez-Thompson",
+   "https://dnyuz.com/?p=192576",
+   "https://www.2news.com/news/cortez-masto-endorses-benitez-thompson-for-nevada-congressional-district-2-race/article_00c83f41-a532-44bb-ac48-6c6bffc05eda.html",
+   "https://www.boldpac.com/candidates/teresa-benitez-thompson",
+   "https://ktar.com/?p=5925641"
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Stefany Shaheen",
+  "seat": "NH-01",
+  "call_status": "confirmed winner (AP call election night over Anthony DiLorenzo (R))",
+  "bio": {
+   "birth_year": 1974,
+   "education": "BA Fairfield Univ; MPA Harvard; MBA MIT",
+   "career": "Co-founder/president of Good Measures (nutrition health-tech, acquired 2024); consultant/strategy role at ARMI (Manchester biofabrication institute); Joslin Diabetes Center board; daughter of Sen. Jeanne Shaheen",
+   "prior_office": "Portsmouth City Council (2014-2016); chair, Portsmouth Police Commission; appointee, President's Council on Sports, Fitness & Nutrition (2023)"
+  },
+  "self_description": "No explicit ideological self-label found; ran on 'big, bold solutions' and 'a bold vision for the change this country needs'; said 'Our health care system is broken, and it has to be fixed.' Her mother calls her 'very independent'; she publicly opposed her mother's Nov 2025 shutdown-deal vote.",
+  "primary_context": "Narrowly won crowded 8 Sep 2026 primary (~37% to 35%) over Marine veteran/ex-Obama official Maura Sullivan (DMFI-endorsed, backed a Medicare buy-in), plus progressive Carleigh Beriont. Shaheen attacked Sullivan from the left on health care ('Medicare for All Who Want It is Medicare for Some') and over pro-Israel donor money; Sullivan attacked her as a dynastic, lobbyist-funded candidate.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "WMUR primary debate (Aug/Sep 2026): 'We absolutely, positively need Medicare for All'; opposed opt-in version because it preserves private insurance ('Medicare for Some'); campaign website listed Medicare for All; reiterated it as a first-term priority post-election (though also said she'd keep 'every option on the table' incl. public option, Aug 18)",
+    "src": "https://www.citizenscount.org/candidate/stefany-shaheen/running/2026-primary-us-house"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0,
+    "e": "Borderline, not scored: said she would have supported the Massie amendment cutting off $3.3B in US military aid to Israel (Jewish Insider, Aug 2026), but avoided answering whether Israel committed genocide (May 2026 forum); no stated arms-embargo position",
+    "src": "https://jewishinsider.com/2026/08/stefany-shaheen-maura-sullivan-attack-aipac-donors/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Explicitly supports Medicare for All and attacked opponent's opt-in plan for preserving private insurance",
+    "src": "https://indepthnh.org/2026/09/03/five-democrats-fired-up-in-1st-congressional-district-primary-debate/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 1,
+   "cred": 2,
+   "policy": 1,
+   "note": "Local office only (city council, police commission chair) plus an advisory federal appointment. Strong credentials (Harvard MPA, MIT MBA, company co-founder). Some concrete proposals (expand Medicare to dental/vision/hearing; ICE mask ban, body cameras, end raids at schools/churches; expand LIHEAP; end tax breaks for private-equity home purchases; overturn Citizens United) but no detailed costed plans; declined to engage specifics of NCPSSM payroll-tax proposals and declined Citizens Count survey."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated in multiple primary debates (WMUR, C-SPAN) and general-election events with DiLorenzo: NHPR/Granite State News Collaborative forum (6 Oct, Meredith), New England College debate (19 Oct), Conway debate (26 Oct), WMUR Granite State Debate (29 Oct). Media mostly local/mainstream NH outlets; declined to answer Patch questions on NCPSSM payroll-tax plans and avoided direct answer on Gaza genocide question; declined Citizens Count survey."
+  },
+  "outside_support": [
+   "LCV Action Fund",
+   "GIFFORDS PAC",
+   "NCPSSM (National Committee to Preserve Social Security and Medicare)",
+   "Teamsters Local 633",
+   "IBEW 490",
+   "AFT-New Hampshire",
+   "JAC PAC",
+   "Animal Wellness Action",
+   "Former Rep. Carol Shea-Porter; Christian Urrutia (post-withdrawal)"
+  ],
+  "notable_positions": [
+   "Supports Medicare for All; opposes opt-in buy-in as 'Medicare for Some'; near-term expand Medicare to vision/hearing/dental (https://www.citizenscount.org/candidate/stefany-shaheen/running/2026-primary-us-house; https://www.ctpublic.org/2026-08-21/democrats-in-nhs-1st-district-race-push-competing-visions-for-health-care-reform)",
+   "ICE/DHS must be 'completely overhauled' (mask ban, body cameras, no warrantless searches, no raids at schools/churches/hospitals) but stopped short of abolishing ICE; prioritise deporting violent criminals (https://www.nhpr.org/nh-news/2026-10-07/cost-of-living-nh-newhampshire-1st-congressional-district-2026-midterms-shaheen-dilorenzo; https://www.collaborativenh.org/civdoc-reports/2026/5/18/cd1-democratic-candidate-forum-erupts-over-topic-of-israel-gaza)",
+   "Would have supported Massie amendment to cut $3.3B US aid to Israel; attacked primary rival over pro-Israel donors (https://jewishinsider.com/2026/08/stefany-shaheen-maura-sullivan-attack-aipac-donors/)",
+   "Opposes expanding oil and gas leasing on public land ('fight this tooth and nail'); wants tariffs rolled back (https://www.citizenscount.org/candidate/stefany-shaheen/running/2026-primary-us-house)",
+   "Trans athletes: no 'one-size-fits-all federal law'; leave to schools/families (https://www.citizenscount.org/candidate/stefany-shaheen/running/2026-primary-us-house)",
+   "Overturn Citizens United; congressional term limits; end tax breaks for the wealthiest (https://www.citizenscount.org/candidate/stefany-shaheen/running/2026-primary-us-house)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Only one left marker scores (explicit Medicare for All support, LI 1) and no centrist markers or coalition ties (CI 0, with M4A support counting against C2). Credentialed (Harvard MPA/MIT MBA, local office) and debated extensively, so she reaches the 'nearest of 1/4' step and tilts to Cat 1 on LI vs CI; she is better described as a mainstream-to-progressive establishment Democrat, so this is an imperfect fit with thin marker evidence.",
+  "sources": [
+   "https://nhpr.org/nh-news/2026-11-03/democrats-sweep-nh-congressional-seats-goodlander-shaheen-win",
+   "https://indepthnh.org/2026/09/03/five-democrats-fired-up-in-1st-congressional-district-primary-debate/",
+   "https://www.collaborativenh.org/civdoc-reports/2026/5/18/cd1-democratic-candidate-forum-erupts-over-topic-of-israel-gaza",
+   "https://www.citizenscount.org/candidate/stefany-shaheen/running/2026-primary-us-house",
+   "https://www.ctpublic.org/2026-08-21/democrats-in-nhs-1st-district-race-push-competing-visions-for-health-care-reform",
+   "https://jewishinsider.com/2026/08/stefany-shaheen-maura-sullivan-attack-aipac-donors/",
+   "https://www.nhpr.org/politics/2026-09-06/nh-newhampshire-1st-congressional-district-maura-sullivan-stefany-shaheen-2026-midterm-elections",
+   "https://www.nhpr.org/nh-news/2026-10-07/cost-of-living-nh-newhampshire-1st-congressional-district-2026-midterms-shaheen-dilorenzo",
+   "https://www.nhpr.org/politics/2026-10-06/1st-district-newhampshire-congress-dilorenzo-shaheen-live-debate-youtube",
+   "https://www.bostonglobe.com/2026/10/22/metro/nh-senate-debate-nhpr-canceled/",
+   "https://patch.com/new-hampshire/portsmouth-nh/stefany-shaheen-touts-endorsement-group-pushing-payroll-tax-hike-every",
+   "https://www.nhpr.org/nh-news/2026-08-31/stefany-shaheen-campaign-congress-1st-district-midterms-elections-2026",
+   "https://giffords.org/press-release/2026/07/giffords-pac-endorses-stefany-shaheen-for-congress/",
+   "https://www.lcv.org/?p=50589",
+   "https://stefanyshaheen.com/article/stefany-shaheen-gets-first-major-union-endorsement-in-race-for-1st-congressional-district/",
+   "https://en.wikipedia.org/wiki/Stefany_Shaheen"
+  ]
+ },
+ {
+  "id": 53,
+  "name": "Zack Mullock",
+  "seat": "NJ-02",
+  "call_status": "confirmed winner (50.8% to Van Drew 48.1%; Van Drew conceded)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA Mount Saint Mary's Univ; MBA Saint Joseph's Univ",
+   "career": "Small-business owner and former PGA golf professional; construction manager for Harriet Tubman Museum (Cape May)",
+   "prior_office": "Cape May City Council; Mayor of Cape May (2021-present, nonpartisan; re-elected unopposed 2024); Historic Preservation Commission / land-use boards"
+  },
+  "self_description": "Frames himself as an independent, nonpartisan mayor putting 'Country Over Party'; campaign site: 'Cape May's independent mayor and a small business owner' who 'will fight for bipartisan solutions to lower costs, cut taxes'; invoked Ronald Reagan's 1989 farewell address on immigration (InsiderNJ, Aug 2026).",
+  "primary_context": "Won 4-way June 2026 primary with 39.8% over civil-rights attorney Tim Alexander (27.4%, backed by most county parties and UNITE HERE), ex-USAID official Bayly Winder (22.2%, backed by Samantha Power and NJ Citizen Action) and Terri Reese; contest turned on electability/local roots (Cape May County party backed him) rather than ideology.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Campaign tax plan: 'A Wealth Tax on Extreme Fortunes - Establish an annual tax on the net worth of the wealthiest households in America'; also 'Raise the corporate tax rate' (no figure)",
+    "src": "https://mullockforcongress.com/issues"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign issues page: 'Support Medicare for All funded by fairer corporate taxes and a fair tax on the top 5%'; 'healthcare should be a right'",
+    "src": "https://mullockforcongress.com/issues"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Issues page endorses Medicare for All",
+    "src": "https://mullockforcongress.com/issues"
+   },
+   "C3": {
+    "v": 0,
+    "e": "Mixed, not scored: touts never raising municipal taxes in 6+ years and promises to 'cut taxes', but also backs an annual wealth tax and higher corporate rate",
+    "src": "https://bluedogdems.com/zack-mullock/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Issues page: 'As Mayor, public safety is #1. I completely support our First Responders... we added more officers'; pledges to fund community policing",
+    "src": "https://mullockforcongress.com/issues"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog PAC"
+  ],
+  "EPD": {
+   "office": 1,
+   "cred": 1,
+   "policy": 1,
+   "note": "Mayor of a ~2,800-person city plus council (local tier). BA + MBA from Saint Joseph's (regional programme) and small-business/PGA career; cred borderline 1-2. Issues page has many concrete bullets (wealth tax, M4A, payroll cap above $400k, expand Medicare drug negotiation beyond 10-15 drugs, ban institutional bulk-buying of single-family homes, permanent CTC) but few figures or bill names."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "General-election debate with Van Drew scheduled 22 Oct at Stockton Univ (Hughes Center / Press of Atlantic City), promoted by his campaign; no evidence he declined any debate (completion of debate not independently verified). Media: NJ Spotlight News TV interview, InsiderNJ, WHYY voter guide; no hostile/cross-partisan appearances found. Engaged Van Drew on Medicaid/Medicare cuts and immigration (Reagan speech)."
+  },
+  "outside_support": [
+   "Blue Dog PAC",
+   "NJEA",
+   "UNITE HERE",
+   "UFCW NY/NJ",
+   "SMART union",
+   "SEIU NJ State Council",
+   "CWA",
+   "New Jersey Sierra Club",
+   "Reproductive Freedom for All",
+   "Committee to Protect Health Care",
+   "Emgage",
+   "NJ Citizen Action",
+   "Progressive Voters Network",
+   "Vote Save America",
+   "Philadelphia Inquirer editorial board",
+   "Gov. Mikie Sherrill; Sen. Andy Kim; DNC chair Ken Martin"
+  ],
+  "notable_positions": [
+   "Annual wealth tax on the largest fortunes; tax capital gains as wages for high earners; raise corporate rate; crack down on stock buybacks (https://mullockforcongress.com/issues)",
+   "Medicare for All funded by corporate taxes and a tax on the top 5%; expand Medicare drug negotiation (https://mullockforcongress.com/issues)",
+   "Ban institutional investors from bulk-buying single-family homes; more federal affordable-housing funding (https://mullockforcongress.com/issues)",
+   "Public safety '#1': hired more police as mayor, fund community policing; 'common-sense gun safety' (https://mullockforcongress.com/issues)",
+   "Israel 'an important American ally' with right to exist in peace; Palestinian civilians deserve safety and dignity; opposes open-ended Iran war (https://whyy.org/articles/election-2026-new-jersey-2nd-congressional-district-voter-guide/)",
+   "Raise Social Security payroll cap above $400k; overturn Citizens United; ban congressional stock trading (https://mullockforcongress.com/issues)"
+  ],
+  "suggested_category": 2,
+  "confidence": "Low",
+  "rationale": "Markers conflict: his issues page backs a wealth tax and Medicare for All (LI 2), yet he carried a Blue Dog PAC endorsement and campaigned on police funding and 'country over party' (CI about 2). Neither index reaches threshold; EPD of about 3 (small-city mayor, regional MBA, bullet-point platform) puts him in Cat 2 under the sequence. If cred is scored 2 (MBA), he moves to the 1/4 tie-break with LI and CI level, so confidence is low.",
+  "sources": [
+   "https://mullockforcongress.com/issues",
+   "https://mullockforcongress.com/",
+   "https://bluedogdems.com/zack-mullock/",
+   "https://en.wikipedia.org/wiki/Zack_Mullock",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://whyy.org/articles/election-2026-new-jersey-2nd-congressional-district-voter-guide/",
+   "https://www.insidernj.com/mullock-invokes-ronald-reagan-as-he-takes-on-magas-van-drew/",
+   "https://6abc.com/post/nj-primary-2026-zack-mullock-wins-democratic-nomination-us-house-new-jerseys-2nd-congressional-district/19223439/",
+   "https://newjerseyglobe.com/congress/cape-may-mayor-prepping-congressional-bid-in-nj-2/"
+  ]
+ },
+ {
+  "id": 54,
+  "name": "Rebecca Bennett",
+  "seat": "NJ-07",
+  "call_status": "confirmed winner (~60.3% to Kean Jr. 38.3%)",
+  "bio": {
+   "birth_year": 1987,
+   "education": "BS chemical engineering Cornell; MBA Wharton (Univ of Pennsylvania)",
+   "career": "US Navy helicopter pilot and test pilot 2009-2019 (Afghanistan-era deployment), Air National Guard officer since 2022; health-tech executive (Noom, Midi Health, J&J; VP strategic partnerships at Oshi Health)",
+   "prior_office": "none"
+  },
+  "self_description": "Describes herself as a moderate Democrat (per Wikipedia citing NJ press) and 'a pragmatic, common sense leader who looks for common ground' (NJ Spotlight News); 'I'm running to work across the aisle' and 'put country over party'. Raised in a conservative Texas family; registered Republican before 2016.",
+  "primary_context": "Won 2 Jun 2026 primary with 45.3% over physician/ex-Surgeon General adviser Tina Shah (20.0%), ex-Forward Party chair Brian Varela (19.1%, backed by Our Revolution NJ, CAIR Action, Peace Action) and ex-SBA chief of staff Michael Roth (15.6%, backed by Indivisible chapters). She was the county-party/establishment and veteran-network candidate (Moulton, Crow, Pat Ryan, VoteVets, J Street); a voter described her as having 'the more centrist views'.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Jewish Insider (Aug 2025): supports continuing US aid to Israel without restrictions or conditions; 'Israel has a right to defend itself and has a right to exist'",
+    "src": "https://jewishinsider.com/2025/08/rebecca-bennett-tom-kean-jr-new-jerseys-7th-congressional-district/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Backs a public option 'so Americans can keep their current insurance or choose a lower-cost public plan', plus extending ACA subsidies and restoring Medicaid cuts; no M4A support (borderline: not an explicit anti-M4A statement)",
+    "src": "https://www.njspotlightnews.org/special-report/2026-primary-7th-congressional-district/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Platform: 'Support the essential work our law enforcement officers do' and 'ensure local law enforcement agencies have the resources and tools they need'; held gun-safety roundtable with local law enforcement",
+    "src": "https://rebeccabennettforcongress.com/priorities/keeping-our-neighborhoods-safe/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Endorsed by former Republican Rep. Adam Kinzinger, who cited her 'ability to work across the aisle'; she pledged to 'put country over party'",
+    "src": "https://rebeccabennettforcongress.com/congressman-adam-kinzinger-endorses-rebecca-bennett-for-congress/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Platform: 'cut red tape, increase housing supply and construction'; 'commonsense and predictable trade policy'; public-private partnerships; AI/biotech/clean-energy growth agenda",
+    "src": "https://rebeccabennettforcongress.com/priorities/making-new-jersey-more-affordable/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund"
+  ],
+  "EPD": {
+   "office": 0,
+   "cred": 2,
+   "policy": 1,
+   "note": "No prior elected office; Navy service as aviator/test pilot (rank below O-5 as far as found). Strong credentials (Cornell engineering, Wharton MBA, VP-level health-tech career). Platform has concrete items (restore SALT, reinstate silencer tax, CDC gun research, cross-state medical licensing, outcome-based payment incentives, Gateway Tunnel, paid family leave) but few numbers or bill names."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in all three listed primary debates/forums (LWV Somerset-Hunterdon 11 May; NJ Globe/Rider 12 May; LCV 30 May) and the general-election debate with Kean (27 Sep). Ran a 'Deckplate leadership tour' and attacked Kean as an 'invisible congressman'; media mostly mainstream/friendly outlets (Jewish Insider, NJ Spotlight, NJ Globe); no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "DCCC",
+   "EMILY's List",
+   "VoteVets",
+   "Serve America PAC (Moulton)",
+   "314 Action",
+   "J Street PAC",
+   "End Citizens United",
+   "GIFFORDS",
+   "Democrats for Education Reform",
+   "New Dem Action Fund",
+   "Vote Mama",
+   "AFL-CIO",
+   "1199SEIU",
+   "SEIU 32BJ",
+   "AFSCME Council 63",
+   "NJEA",
+   "CWA",
+   "NJ Sierra Club",
+   "Reproductive Freedom for All",
+   "Hakeem Jeffries; Cory Booker; Andy Kim; Gov. Mikie Sherrill; Pete Buttigieg; Adam Kinzinger"
+  ],
+  "notable_positions": [
+   "Public option so people can keep current insurance; extend ACA subsidies; restore Medicaid/Medicare cuts (https://www.njspotlightnews.org/special-report/2026-primary-7th-congressional-district/)",
+   "Continue US aid to Israel without conditions; two-state solution long-term (https://jewishinsider.com/2025/08/rebecca-bennett-tom-kean-jr-new-jerseys-7th-congressional-district/)",
+   "Comprehensive immigration reform that secures the border with a path to citizenship; end masked ICE agents and warrantless home entries (https://www.njspotlightnews.org/special-report/2026-primary-7th-congressional-district/)",
+   "Fully restore SALT deduction; cut red tape to boost housing supply (https://rebeccabennettforcongress.com/priorities/making-new-jersey-more-affordable/)",
+   "Gun safety: get 'weapons of war' off streets, reinstate silencer tax, while resourcing local police (https://rebeccabennettforcongress.com/priorities/keeping-our-neighborhoods-safe/)",
+   "Counter China as top strategic threat; reform DoD acquisition; War Powers vote on Iran (https://rebeccabennettforcongress.com/priorities/protecting-americas-national-security/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "CI reaches about 5 (NewDem Action Fund, public option over M4A, pro-police resourcing, Kinzinger endorsement and bipartisan framing, supply-side housing/trade agenda) while LI is negative (backs unconditional Israel aid; no left endorsements). She calls herself a moderate/pragmatic Democrat and debated fully. Confidence is medium because two CI points (C2, C5) rest on platform framing rather than explicit rejections.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rebecca_Bennett_(politician)",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://rebeccabennettforcongress.com/priorities/lowering-healthcare-costs/",
+   "https://rebeccabennettforcongress.com/priorities/making-new-jersey-more-affordable/",
+   "https://rebeccabennettforcongress.com/priorities/keeping-our-neighborhoods-safe/",
+   "https://rebeccabennettforcongress.com/priorities/growing-new-jerseys-economy/",
+   "https://rebeccabennettforcongress.com/priorities/protecting-americas-national-security/",
+   "https://rebeccabennettforcongress.com/congressman-adam-kinzinger-endorses-rebecca-bennett-for-congress/",
+   "https://jewishinsider.com/2025/08/rebecca-bennett-tom-kean-jr-new-jerseys-7th-congressional-district/",
+   "https://www.njspotlightnews.org/special-report/2026-primary-7th-congressional-district/",
+   "https://whyy.org/articles/new-jersey-election-2026-primary-kean-7th-district/",
+   "https://www.insidernj.com/press-release/seiu-nj-state-council-and-32bj-seiu-endorse-rebecca-bennett-for-congress-in-new-jerseys-7th-congressional-district/"
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Adam Hamawy",
+  "seat": "NJ-12",
+  "call_status": "confirmed winner (safe D seat vs perennial GOP candidate Gregg Mele; listed as member-elect; vote totals not yet on Wikipedia)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BS Rutgers-New Brunswick; MD New Jersey Medical School (UMDNJ); general-surgery residency Weill Cornell, plastic-surgery fellowship UT Southwestern; MBA Rutgers-Camden (2018)",
+   "career": "Plastic/reconstructive surgeon with private practice in Princeton; US Army Medical Corps combat surgeon in Iraq (treated Tammy Duckworth in 2004), left as Lieutenant Colonel; volunteer surgeon in Gaza (2024-25), Haiti, Syria, Sarajevo",
+   "prior_office": "none (military: Army Lt. Col., O-5)"
+  },
+  "self_description": "Runs as a progressive anti-war doctor: 'Healthcare, Not Bombs'; 'too many Democratic politicians aren't doing enough to fight back'; 'A people-powered campaign. No corporate PAC money.' Joined Justice Democrats' 2026 slate.",
+  "primary_context": "Won 13-way open-seat primary (2 Jun 2026) with 28.6% over East Brunswick mayor Brad Cohen (14.6%, Middlesex party line), Princeton professor Sam Wang (9.4%), Somerset commissioner Shanel Robinson, Assemblywoman Verlina Reynolds-Jackson (Mercer line) and WFP-backed Sue Altman (8.5%). He was the insurgent left/pro-Palestinian candidate, backed by Sanders, AOC, Justice Democrats and ~$2M from American Priorities PAC; faced attacks over 1995 testimony in the 'Blind Sheikh' trial, which he called 'guilt-by-association'.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "Priorities page: 'I will fight to tax wealth, not just income'",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "'We need universal, single-payer healthcare with no out-of-pocket costs' - Medicare for All",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Backs the Homes Act federal housing-development model and 'public sector innovation' to build housing, i.e. national-scale public/social housing (no democratic-socialist self-label found)",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L5": {
+    "v": 1,
+    "e": "'An all-of-government, Green New Deal approach'; 'ambitious deadlines for ending fossil fuel usage across the economy'",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L6": {
+    "v": 1,
+    "e": "Pledges to 'break up monopolies that have captured entire industries' and to break up pharmacy benefit managers",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "'Abolishing and prosecuting ICE... This agency... cannot be reformed'; also dismantle DHS",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L10": {
+    "v": 1,
+    "e": "'expand the Court to restore its independence and legitimacy'",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L11": {
+    "v": 1,
+    "e": "'I will fight to abolish the Electoral College and elect the President by national popular vote'",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "L12": {
+    "v": 1,
+    "e": "'What I witnessed was a genocide, paid for with American tax dollars'; supports arms embargoes and 'cutting off military aid to these countries, including Israel'",
+    "src": "https://hamawyfornj.com/priorities"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "Bernie Sanders",
+   "AOC",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Congressional Progressive Caucus",
+   "Progressive Change Campaign Committee",
+   "Working Families Party (NJ, general election)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports single-payer Medicare for All",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "C3": {
+    "v": -1,
+    "e": "Backs a wealth tax",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "C4": {
+    "v": -1,
+    "e": "Calls for abolishing ICE and dismantling DHS",
+    "src": "https://hamawyfornj.com/priorities"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "No elected office, but Army Lt. Colonel (O-5) combat surgeon. MD plus MBA, senior surgical career. Very detailed platform naming bills and figures (Medical Debt Cancellation Act for $220B, PRO Act, Homes Act, For the People Act, Transgender Health Care Access Act, Department of Peacebuilding Act, 12 weeks paid leave)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the listed NJ Globe primary debate (26 Apr 2026, all 9 major candidates); no general-election debate with Mele found (safe seat). Media: national mainstream and left outlets (NPR, NYT, CNN, Jacobin, NJ Globe), congressional briefing on Gaza; no hostile/cross-partisan appearances found. Responded to 'Blind Sheikh' coverage by calling it partisan 'guilt-by-association'."
+  },
+  "outside_support": [
+   "American Priorities PAC (pro-Palestinian, ~$2M)",
+   "Justice Democrats",
+   "Track AIPAC",
+   "PAL PAC",
+   "CAIR Action",
+   "Emgage Action",
+   "Jewish Voice for Peace Action",
+   "US Campaign for Palestinian Rights Action",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Congressional Progressive Caucus",
+   "PCCC",
+   "Progressive Democrats of America",
+   "National Nurses United",
+   "Rutgers AAUP-AFT",
+   "314 Action",
+   "NJ Working Families Party",
+   "AFL-CIO",
+   "AFGE",
+   "GIFFORDS",
+   "NJ Sierra Club",
+   "Sen. Tammy Duckworth; Sen. Bernie Sanders; Rep. Bonnie Watson Coleman (general)"
+  ],
+  "notable_positions": [
+   "Single-payer Medicare for All with no out-of-pocket costs; cancel $220B medical debt (https://hamawyfornj.com/priorities)",
+   "Abolish and prosecute ICE ('cannot be reformed'); dismantle DHS (https://hamawyfornj.com/priorities)",
+   "Calls Gaza a 'genocide' and the West Bank 'apartheid'; cut off military aid to Israel; supports Palestinian right of return (https://hamawyfornj.com/priorities)",
+   "Tax wealth; break up monopolies; reparations; PRO Act; universal childcare and paid leave (https://hamawyfornj.com/priorities)",
+   "Expand the Supreme Court; abolish the Electoral College (https://hamawyfornj.com/priorities)",
+   "Green New Deal with deadlines to end fossil-fuel use; slash the Pentagon budget (https://hamawyfornj.com/priorities)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "His platform explicitly backs a wealth tax, single-payer, Green New Deal, abolishing ICE, Court expansion, abolishing the Electoral College and an Israel arms cut-off, and calls Gaza a genocide. He was endorsed by Justice Democrats, Sanders, AOC and other left groups, giving LI well above 6. He is credentialed (MD/MBA, Army Lt. Col.) with a detailed platform, but under the decision sequence the left markers settle the category.",
+  "sources": [
+   "https://hamawyfornj.com/priorities",
+   "https://hamawyfornj.com/",
+   "https://en.wikipedia.org/wiki/Adam_Hamawy",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://newjerseyglobe.com/congress/justice-democrats-add-hamawy-to-2026-slate/",
+   "https://newjerseyglobe.com/congress/in-packed-nj-12-race-bernie-sanders-will-support-adam-hamawy/",
+   "https://newjerseyglobe.com/congress/pro-palestinian-pac-intended-to-counter-aipac-endorses-hamawy-in-nj-12/",
+   "https://www.nj.com/politics/2026/06/plastic-surgeon-beats-huge-field-in-hotly-contested-democratic-primary-in-njs-12th-district.html",
+   "https://www.politico.com/newsletters/new-jersey-playbook/2026/05/05/the-history-of-hamawy-and-the-blind-sheikh-00906080",
+   "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests"
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Claire Valdez",
+  "seat": "NY-07",
+  "call_status": "confirmed winner (~83% on D/WFP lines vs Melvin Rivera (R/C), 88% reporting as of 5 Nov)",
+  "bio": {
+   "birth_year": 1989,
+   "education": "BFA School of the Art Institute of Chicago",
+   "career": "Program assistant, Columbia University visual arts dept; UAW Local 2110 unit chair; NYC-DSA New Member Coordinator and electoral organiser",
+   "prior_office": "New York State Assembly, AD-37 (Queens), 2025-present"
+  },
+  "self_description": "Democratic socialist and DSA member (Socialist Majority Caucus; New York State Socialists in Office); 'We're going to prioritize rebuilding the labor movement and getting every single worker into a union. And that's going to be priority number one for me' (NY1, Jun 2026).",
+  "primary_context": "Won 23 Jun 2026 open-seat primary 56%-36% over Brooklyn Borough President Antonio Reynoso (backed by Velazquez, WFP and most unions) and Councilmember Julie Won. Both leaders backed abolishing ICE and called Gaza a genocide; the race was a DSA-vs-WFP proxy fight, with Valdez as Mayor Mamdani's and NYC-DSA's pick.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Supports Medicare for All and transition to single-payer (NY Daily News op-ed 'why I'm running', 31 May 2026)",
+    "src": "https://www.nydailynews.com/2026/05/31/claire-valdez-why-im-running-for-congress-this-year/"
+   },
+   "L4": {
+    "v": 1,
+    "e": "DSA member and self-identified democratic socialist; also backs social housing (Homes Act federal public-housing authority) and public renewable power",
+    "src": "https://en.wikipedia.org/wiki/Claire_Valdez"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Advocates a federal job guarantee, ending at-will employment and a four-day workweek",
+    "src": "https://jacobin.com/2026/04/valdez-labor-left-congress-campaign"
+   },
+   "L7": {
+    "v": 1,
+    "e": "Attended Sept 2026 protest against NYU Langone's decision to bar minors from gender-affirming care; backs Transgender Bill of Rights and funding gender-affirming care (borderline evidence: protest attendance, not a written statement)",
+    "src": "https://en.wikipedia.org/wiki/Claire_Valdez"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Named abolishing ICE as a day-one legislative priority",
+    "src": "https://qns.com/2026/01/valdez-union-advocacy-ny-7/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Called Israel's actions in Gaza a genocide and apartheid; arrested in 2025 protesting Schumer/Gillibrand votes against halting arms sales to Israel",
+    "src": "https://hellgatenyc.com/claire-valdez-running-on-moral-clarity-ny-7/"
+   }
+  },
+  "L13_endorsements": [
+   "NYC-DSA",
+   "Justice Democrats",
+   "Bernie Sanders",
+   "Leaders We Deserve",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Progressive Change Campaign Committee",
+   "Congressional Progressive Caucus (general)",
+   "Working Families Party (general)",
+   "Zohran Mamdani"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports single-payer Medicare for All",
+    "src": "https://www.nydailynews.com/2026/05/31/claire-valdez-why-im-running-for-congress-this-year/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Abolish ICE as day-one priority",
+    "src": "https://qns.com/2026/01/valdez-union-advocacy-ny-7/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "One term in the state Assembly (state-legislature tier). BFA plus union and organising career. Concrete proposals (Homes Act, PRO Act, county-level rent boards, federal job guarantee, Not On Our Dime Act sponsorship, $200M public renewables ask) but a short authored record."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in both televised primary debates (NY1 3 Jun, PIX11 10 Jun 2026); no general-election debate found in a D+25 seat. Media: NY1 Inside City Hall, Curbed, Hell Gate, Jacobin, NY Daily News op-ed; mostly mainstream-local and left outlets; no hostile/cross-partisan appearances found."
+  },
+  "outside_support": [
+   "American Priorities PAC",
+   "Justice Democrats",
+   "NYC-DSA",
+   "Leaders We Deserve",
+   "PAL PAC",
+   "Track AIPAC / Track Oil PACs",
+   "A New Policy PAC",
+   "Jewish Voice for Peace",
+   "UAW",
+   "Association of Flight Attendants",
+   "IFPTE",
+   "End Citizens United (general)",
+   "Congressional Progressive Caucus (general)",
+   "Working Families Party (general)"
+  ],
+  "notable_positions": [
+   "Democratic socialist; DSA member (https://en.wikipedia.org/wiki/Claire_Valdez)",
+   "Abolish ICE as a day-one priority; arrested inspecting 26 Federal Plaza ICE facility (https://qns.com/2026/01/valdez-union-advocacy-ny-7/)",
+   "Calls Gaza a genocide and apartheid; supports arresting Netanyahu if he visits NY (https://hellgatenyc.com/claire-valdez-running-on-moral-clarity-ny-7/)",
+   "Medicare for All/single-payer (https://www.nydailynews.com/2026/05/31/claire-valdez-why-im-running-for-congress-this-year/)",
+   "Federal job guarantee, end at-will employment, four-day week, PRO Act (https://jacobin.com/2026/04/valdez-labor-left-congress-campaign)",
+   "Universal rent control via county rent boards; federal social housing via Homes Act (https://www.curbed.com/article/claire-valdez-housing-plan-congress-exclusive-interview.html)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Valdez is a DSA member and self-described democratic socialist backed by NYC-DSA, Justice Democrats, Sanders and Mamdani. She explicitly supports Medicare for All, abolishing ICE and a federal job guarantee, and calls Gaza a genocide, so LI is about 10, far above the Cat 1 threshold.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Claire_Valdez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.nydailynews.com/2026/05/31/claire-valdez-why-im-running-for-congress-this-year/",
+   "https://qns.com/2026/01/valdez-union-advocacy-ny-7/",
+   "https://jacobin.com/2026/04/valdez-labor-left-congress-campaign",
+   "https://hellgatenyc.com/claire-valdez-running-on-moral-clarity-ny-7/",
+   "https://www.curbed.com/article/claire-valdez-housing-plan-congress-exclusive-interview.html",
+   "https://ny1.com/nyc/all-boroughs/inside-city-hall/2026/06/25/what-are-claire-valdez-s-priorities-for-congress-",
+   "https://justicedemocrats.com/candidate/claire-valdez/",
+   "https://www.fox5ny.com/election/nyc-politics-zohran-mamdani-bernie-sanders-claire-valdez-congress",
+   "https://prospect.org/2026/06/17/new-york-commie-corridor-valdez-reynoso-seventh-district-congressional-race/"
+  ]
+ },
+ {
+  "id": 57,
+  "name": "Brad Lander",
+  "seat": "NY-10",
+  "call_status": "confirmed winner (~83% on D/WFP lines vs Jennifer Moore (R/C), 88% reporting as of 5 Nov)",
+  "bio": {
+   "birth_year": 1969,
+   "education": "BA Univ of Chicago (Truman Scholar); MSc anthropology University College London (Marshall Scholar); MS urban planning Pratt Institute",
+   "career": "Executive director, Fifth Avenue Committee (affordable-housing nonprofit) 1993-2003; director, Pratt Center for Community Development 2003-2009",
+   "prior_office": "NYC Council (District 39) 2010-2021; NYC Comptroller (citywide elected) 2022-2025; 2025 NYC mayoral candidate"
+  },
+  "self_description": "Progressive 'fight, don't fold' Democrat and self-described liberal Zionist 'who believes in the vision of a Jewish and democratic Israel'; joined DSA as a student but left it in 2023 after October 7; calls for a Democratic Party with 'the backbone to fight fascism, the courage to stand up to lobbyists and corporate power'.",
+  "primary_context": "Defeated incumbent Rep. Dan Goldman 66%-34% (23 Jun 2026), running to his left with Mayor Mamdani's backing. Goldman was backed by Jeffries, Pelosi, Hochul, AIPAC, DMFI and most building-trades unions. Lander attacked Goldman over Israel, AIPAC/crypto/Wall Street money and his refusal to endorse Mamdani; NYC-DSA's candidate Alexa Aviles withdrew in Lander's favour.",
+  "L": {
+   "L1": {
+    "v": 1,
+    "e": "'Strongly supports Senator Elizabeth Warren's Ultra-Millionaire Tax Act to tax the net wealth of households with over $50 million... and an even more aggressive ultra-wealth tax on fortunes over $1 billion'",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Issues page: will fight for a wealth tax 'to provide the resources for universal child care, Medicare for All'; Wikipedia/Prospect report he supports Medicare for All",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Platform: repeal the Faircloth Amendment, 'social bonds to help fund social housing', supports the Green New Deal for Public Housing, i.e. national-scale public/social housing (left DSA in 2023, so no current socialist self-label)",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L5": {
+    "v": 1,
+    "e": "'end our reliance on fossil fuels and implement a Green New Deal to transition rapidly to renewables'",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "'Dedicated to protecting gender affirming care for transgender youth'; criticised NYU Langone and Mt. Sinai for 'cancelling gender-affirming care' for minors",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "'Brad has called for abolishing ICE since 2018' (heading 'Abolish ICE & Reform Our Immigration System'); also backed defunding NYPD by $1B in 2020",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L10": {
+    "v": 1,
+    "e": "'Congress must balance the scales in the nation's highest court by expanding it to 13 justices'",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "'Israel's destruction of Gaza was a genocide'; US should stop military aid to Israel; will co-sponsor Block the Bombs Act and vote against further military aid",
+    "src": "https://bradlanderforcongress.com/issues"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders",
+   "Working Families Party",
+   "Our Revolution",
+   "Progressive Change Campaign Committee",
+   "Congressional Progressive Caucus (general)",
+   "Zohran Mamdani",
+   "Elizabeth Warren"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "C3": {
+    "v": -1,
+    "e": "Backs a federal wealth tax and equalising capital-gains rates",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "C4": {
+    "v": -1,
+    "e": "Has called for abolishing ICE since 2018",
+    "src": "https://bradlanderforcongress.com/issues"
+   },
+   "C5": {
+    "v": -1,
+    "e": "Voiced support for defunding the NYPD by $1B in 2020",
+    "src": "https://council.nyc.gov/brad-lander/2020/06/10/my-commitment-to-working-to-defund-the-nypd"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "12 years on NYC Council plus 4 years as citywide-elected NYC Comptroller (a city larger than most states; arguably 3, scored 2 as not statewide). Marshall/Truman scholar with two master's degrees. Very detailed platform naming bills (Ultra-Millionaire Tax Act, Equal Tax Act, Block the Bombs Act, Ceasefire Compliance Act, John Lewis VRAA, Faircloth repeal, 13-justice Court) and a long authored local legislative record."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated Goldman in both televised primary debates (NY1 1 Jun; PIX11 15 Jun 2026) and in multiple 2025 mayoral debates; no general-election debate found in a D+26 seat. Very visible in press (NY1, Zeteo, Substack, frequent interviews) but mainly friendly/mainstream outlets; engages policy substance in detail."
+  },
+  "outside_support": [
+   "American Priorities PAC",
+   "Working Families Party",
+   "MoveOn",
+   "Indivisible",
+   "IfNotNow",
+   "The Jewish Vote (JFREJ)",
+   "Our Revolution",
+   "PCCC",
+   "Progressive Democrats of America",
+   "Congressional Progressive Caucus",
+   "32BJ SEIU",
+   "CWA District 1",
+   "NYSNA",
+   "UAW Region 9A",
+   "J Street (general)",
+   "LCV Action Fund",
+   "GIFFORDS"
+  ],
+  "notable_positions": [
+   "Federal wealth tax (Warren's Ultra-Millionaire Tax Act plus a billionaire tier); equalise capital-gains and ordinary rates (https://bradlanderforcongress.com/issues)",
+   "Abolish ICE (advocated since 2018); arrested by federal agents at 26 Federal Plaza in 2025 escorting an asylum seeker (https://bradlanderforcongress.com/issues)",
+   "Calls Gaza a genocide; end US military aid to Israel; co-sponsor Block the Bombs Act; detained by Israeli authorities in the West Bank in Oct 2026 (https://bradlanderforcongress.com/issues; https://www.reuters.com/world/us/us-democratic-congressional-nominee-lander-detained-by-israeli-authorities-west-2026-10-21/)",
+   "Expand the Supreme Court to 13 justices plus term limits (https://bradlanderforcongress.com/issues)",
+   "Medicare for All; Green New Deal; social housing and Faircloth repeal (https://bradlanderforcongress.com/issues)",
+   "Protect gender-affirming care for trans youth (https://bradlanderforcongress.com/issues)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Lander's platform explicitly backs a federal wealth tax, Medicare for All, the Green New Deal, abolishing ICE, expanding the Court to 13 and ending military aid to Israel, and calls Gaza a genocide. He was endorsed by Sanders, WFP and other left groups, so LI is well above 6. He is highly experienced (Council, citywide Comptroller) with a detailed platform, but the decision sequence places him in Cat 1.",
+  "sources": [
+   "https://bradlanderforcongress.com/issues",
+   "https://bradlanderforcongress.com/",
+   "https://en.wikipedia.org/wiki/Brad_Lander",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://nymag.com/intelligencer/article/brad-lander-vs-dan-goldman-will-be-a-popcorn-worthy-primary.html",
+   "https://zeteo.com/p/meet-the-progressive-jewish-critic-israel-brad-lander",
+   "https://council.nyc.gov/brad-lander/2020/06/10/my-commitment-to-working-to-defund-the-nypd",
+   "https://www.nytimes.com/2025/12/10/nyregion/lander-goldman-mamdani-congress.html",
+   "https://www.reuters.com/world/us/us-democratic-congressional-nominee-lander-detained-by-israeli-authorities-west-2026-10-21/"
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Micah Lasher",
+  "seat": "NY-12",
+  "call_status": "confirmed winner (~77% vs Caroline Shinkle (R/C), 86% reporting as of 5 Nov)",
+  "bio": {
+   "birth_year": 1981,
+   "education": "BA sociology, New York University (2003)",
+   "career": "Co-founder of SKDKnickerbocker consultancy; NYC (Bloomberg) Director of State Legislative Affairs; chief of staff to NY AG Eric Schneiderman; head of policy & communications at Sidewalk Labs (Alphabet) 2017-2020; Gov. Kathy Hochul's Director of Policy 2021-2024; chair, Riverside Park Conservancy",
+   "prior_office": "New York State Assembly, AD-69 (Manhattan), 2025-present; senior state/city executive staff roles (policy director to Governor; AG chief of staff)"
+  },
+  "self_description": "Mainstream-liberal 'fight back' Democrat running 'to revitalize the Democratic Party, fight Trump's agenda, and deliver results'; widely described as the establishment candidate (Nadler/Hochul/Bloomberg-backed); calls ICE 'the embodiment of a thugocracy'.",
+  "primary_context": "Won 23 Jun 2026 open-seat primary with 38.9% over Assemblyman Alex Bores (34.9%, AI-regulation focus), Jack Schlossberg (10.9%) and George Conway (6.1%). The New Yorker noted minimal ideological differences; all four frontrunners supported continuing weapons sales to Israel. WFP and Mamdani stayed neutral; Our Revolution backed Bores. Second-most expensive House primary on record.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Platform: 'Push to pass Medicare for All, or a similar plan that ensures universal care'; co-sponsor of the single-payer New York Health Act (hedged wording, but explicit M4A plus state single-payer co-sponsorship)",
+    "src": "https://micahlasher.com/platform-and-policies/"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 1,
+    "e": "Platform: 'Fight to guarantee access to gender-affirming care for trans youth by opposing anti-trans federal and state efforts, ensuring every child can access the medical care they need'",
+    "src": "https://micahlasher.com/platform-and-policies/"
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Platform: 'In Congress, Micah will: Fight to abolish ICE'; called ICE 'the embodiment of a thugocracy'",
+    "src": "https://micahlasher.com/platform-and-policies/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Per The New Yorker (via Wikipedia), all four NY-12 frontrunners incl. Lasher supported continuing weapons sales to Israel; his platform has no Gaza/arms-embargo language",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus (general election)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Backs Medicare for All or similar universal plan; co-sponsored NY Health Act",
+    "src": "https://micahlasher.com/platform-and-policies/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Pledges to 'fight to abolish ICE'",
+    "src": "https://micahlasher.com/platform-and-policies/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "State Assemblyman (since 2025) plus senior state executive roles (Governor's Policy Director, AG chief of staff); senior professional career (SKDK co-founder, Sidewalk Labs). Very detailed platform naming dozens of bills (PRO Act, Child Care Modernization Act, Restoring Access to Detainees Act, AI Civil Rights Act, No Robot Bosses Act, etc.) and an authored state record (RECOURSE Act, Tariff Transparency Act, FAIR Business Practices Act)."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in both televised primary debates (WPIX 4 Jun; Baruch/Gothamist/NY1/WNYC 9 Jun 2026); no general-election debate found in a safe seat. Media mostly mainstream NYC outlets (NY1, WNYC/Brian Lehrer, Atlantic profile); no hostile/cross-partisan appearances found."
+  },
+  "outside_support": [
+   "Jerry Nadler",
+   "Gov. Kathy Hochul",
+   "Michael Bloomberg",
+   "Nydia Velazquez",
+   "Congressional Progressive Caucus (general)",
+   "End Citizens United (general)",
+   "GIFFORDS (general)",
+   "J Street (general)",
+   "AFGE",
+   "AAUP",
+   "Actors' Equity",
+   "Council of School Supervisors & Administrators"
+  ],
+  "notable_positions": [
+   "Fight to abolish ICE; Restoring Access to Detainees Act (https://micahlasher.com/platform-and-policies/)",
+   "Medicare for All 'or a similar plan'; strengthen ACA and extend subsidies (https://micahlasher.com/platform-and-policies/)",
+   "Guarantee access to gender-affirming care for trans youth (https://micahlasher.com/platform-and-policies/)",
+   "National moratorium on new data-center construction; antitrust probes of Google/Microsoft/OpenAI/Anthropic partnerships; national wage insurance (https://micahlasher.com/platform-and-policies/)",
+   "Supported continued weapons sales to Israel (per The New Yorker, via https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York)",
+   "Repeal Trump tax breaks for the rich; raise and index minimum wage; PRO Act (https://micahlasher.com/platform-and-policies/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "An establishment-backed (Nadler, Hochul, Bloomberg) and very experienced policy operative whose written platform still backs Medicare for All, abolishing ICE and gender-affirming care for minors (LI about 4 with a CPC nod). He supported continued Israel arms sales and has no centrist markers (CI negative). He clears the EPD and EO screens, so he falls to the 'nearest of 1/4' step and tilts to Cat 1 as an imperfect fit; large-donor funded (3% small-dollar).",
+  "sources": [
+   "https://micahlasher.com/platform-and-policies/",
+   "https://micahlasher.com/",
+   "https://en.wikipedia.org/wiki/Micah_Lasher",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.nbcnews.com/politics/2026-election/rep-jerry-nadler-endorses-former-aide-micah-lasher-successor-rcna258146",
+   "https://www.cityandstateny.com/politics/2026/06/meet-voters-new-yorks-12th-congressional-district/414132/"
+  ]
+ },
+ {
+  "id": 59,
+  "name": "Darializa Avila Chevalier",
+  "seat": "NY-13",
+  "call_status": "confirmed winner (~87.5% on D/WFP lines vs Jomo Williams (R), 90% reporting as of 5 Nov)",
+  "bio": {
+   "birth_year": 1993,
+   "education": "BA Middle Eastern studies, Columbia (2016); MPhil sociology, CUNY Graduate Center (PhD candidate)",
+   "career": "Investigator at Neighborhood Defender Service of Harlem (public defender; UAW Local 2325 member); adjunct teaching at Lehman College and NYU; organiser with BYP100 and Families for Freedom",
+   "prior_office": "none"
+  },
+  "self_description": "Democratic socialist and NYC-DSA member; denies being a communist ('a distraction'); campaign slogans 'Abolish ICE', 'Babies, Not Bombs', 'Medicare for All', 'Housing for All'.",
+  "primary_context": "Defeated incumbent Rep. Adriano Espaillat (Congressional Hispanic Caucus chair, backed by CBC, CPC chair Casar and AIPAC-linked spending of $650k+ against her) 49.5%-45.7% (23 Jun 2026). Recruited by Justice Democrats and backed by NYC-DSA and Mayor Mamdani; framed nationally as establishment vs democratic-socialist wing. Faced scrutiny over 2018-22 tweets (police/prison/border abolition, communism), which she said she regrets.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign site: 'Darializa will fight for Medicare for All: a free, universal system that covers primary and mental health care, dental, vision...'",
+    "src": "https://www.darializaforcongress.com/issues"
+   },
+   "L4": {
+    "v": 1,
+    "e": "Member of Democratic Socialists of America; describes herself as a democratic socialist",
+    "src": "https://jacobin.com/2026/01/avila-chevalier-harlem-bronx-socialism"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Campaign plank 'Abolish ICE'; opposes all deportations including of people convicted of crimes; called open borders an 'ideal vision'",
+    "src": "https://www.darializaforcongress.com/issues"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "'Unequivocal in condemning Israel as an apartheid state committing genocide' (City & State); supports Block the Bombs Act limiting arms transfers to Israel",
+    "src": "https://www.cityandstateny.com/politics/2026/06/avila-chevalier-attended-oct-8-pro-palestinian-rally-lander-condemned/413981/"
+   }
+  },
+  "L13_endorsements": [
+   "Justice Democrats",
+   "NYC-DSA",
+   "Our Revolution",
+   "Sunrise Movement",
+   "Progressive Change Campaign Committee",
+   "Working Families Party (general)",
+   "Congressional Progressive Caucus (general)",
+   "Zohran Mamdani"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Supports Medicare for All",
+    "src": "https://www.darializaforcongress.com/issues"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Abolish ICE; opposes all deportations",
+    "src": "https://www.darializaforcongress.com/issues"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 0,
+   "cred": 1,
+   "policy": 1,
+   "note": "No prior office. BA Columbia plus MPhil/ABD sociology; mid-level career as public-defender investigator and organiser. Platform has concrete planks (Block the Bombs Act, fully fund Section 8 and NYCHA, baby bonds, free legal representation for immigrants, no corporate PAC money) but little detail or numbers."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in all five primary debates/forums (WNYC/Brian Lehrer 4 Jun; PIX11 12 Jun; BronxNet/City & State 15 Jun; NY1 16 Jun; Telemundo 47 Spanish-language 17 Jun); no general-election debate found (D+ safe seat). Did probing interviews (Astead Herndon, Politico, MS NOW, CNN coverage of old tweets); initially deflected a 'condemn Hamas' question and hedged on impeachment, but states contested positions plainly (e.g. opposes all deportations)."
+  },
+  "outside_support": [
+   "American Priorities PAC",
+   "Justice Democrats",
+   "NYC-DSA",
+   "PAL PAC",
+   "Track AIPAC",
+   "Jewish Voice for Peace Action",
+   "CAIR Action NY",
+   "Indivisible",
+   "Our Revolution",
+   "PCCC",
+   "Sunrise Movement",
+   "Third Act",
+   "UAW Region 9A",
+   "Working Families Party (general)",
+   "Congressional Progressive Caucus (general)",
+   "End Citizens United (general)",
+   "Opposed by AIPAC (~$650k+)"
+  ],
+  "notable_positions": [
+   "Democratic socialist; DSA member (https://jacobin.com/2026/01/avila-chevalier-harlem-bronx-socialism)",
+   "Abolish ICE and oppose all deportations; open borders an 'ideal vision' (https://www.darializaforcongress.com/issues; https://nyeditorialboard.substack.com/p/darializa-avila-chevalier-on-housing)",
+   "Calls Israel an apartheid state committing genocide; Block the Bombs Act (https://www.cityandstateny.com/politics/2026/06/avila-chevalier-attended-oct-8-pro-palestinian-rally-lander-condemned/413981/)",
+   "Medicare for All covering dental/vision/hearing/long-term care (https://www.darializaforcongress.com/issues)",
+   "'Babies, Not Bombs': shift war spending to child tax credits and baby bonds; fight monopolies and super PACs (https://www.darializaforcongress.com/issues)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "She is a DSA member backed by Justice Democrats and NYC-DSA, with explicit Medicare for All and Abolish ICE planks and Gaza genocide language, so LI is about 8 and well over the Cat 1 threshold. Experience is thin (no prior office; EPD about 2), but the left markers settle the classification first.",
+  "sources": [
+   "https://www.darializaforcongress.com/issues",
+   "https://www.darializaforcongress.com/",
+   "https://en.wikipedia.org/wiki/Darializa_Avila_Chevalier",
+   "https://en.wikipedia.org/wiki/2026_New_York%27s_13th_congressional_district_election",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://jacobin.com/2026/01/avila-chevalier-harlem-bronx-socialism",
+   "https://www.cityandstateny.com/politics/2026/06/avila-chevalier-attended-oct-8-pro-palestinian-rally-lander-condemned/413981/",
+   "https://www.theguardian.com/us-news/2026/jun/22/darializa-avila-chevalier-new-york-zohran-mamdani",
+   "https://www.cityandstateny.com/politics/2026/06/aipac-helping-boost-espaillat-against-dsa-challenge/414300/",
+   "https://www.washingtonexaminer.com/news/campaigns/congressional/4587335/mamdani-endorses-democratic-socialist-over-adriano-espaillat/"
+  ]
+ },
+ {
+  "id": 60,
+  "name": "Cait Conley",
+  "seat": "NY-17",
+  "call_status": "confirmed winner (53.0% to Lawler 46.9% with 95% reporting; Lawler conceded)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BS US Military Academy (West Point); MPP Harvard Kennedy School; MBA MIT",
+   "career": "US Army officer 2007-2023 (military police, then special-operations team leader/troop commander; six deployments; three Bronze Stars; left as Major); NSC Director for Counterterrorism 2021-23; CISA senior adviser leading 2024 election-security effort; exec director, Belfer Center Defending Digital Democracy Project; defence-tech consultant",
+   "prior_office": "none elected (senior federal staff: NSC director, CISA senior executive)"
+  },
+  "self_description": "Described as a moderate Democrat (American Prospect; The Nation); 'not a politician - she is a public servant'; her oaths were 'not to any person or political party'; ran TV ads aimed at 'moderate and independent voters' on stock-trading bans and term limits.",
+  "primary_context": "Won 5-way Jun 2026 primary with 49.6% over Rockland legislator Beth Davidson (31.8%, Rockland party and Mondaire Jones) and Tarrytown trustee Effie Phillips-Staley (15.3%, the left candidate backed by WFP, Our Revolution, Track AIPAC and Ro Khanna). Conley was the national-security/establishment pick (NewDem Action Fund, Majority Democrats, DMFI, VoteVets, Moulton/Crow/Ryan).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0,
+    "e": "Not scored: platform calls to 'rein in ICE' (body cameras, no masks, revoke 287(g)) but also to 'secure the border' with enforcement focused on violent criminals; no abolish-ICE language",
+    "src": "https://caitconley.com/policy/"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (general election only)"
+  ],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Platform backs an opt-in public insurance option, 'Defending the Affordable Care Act & Medicaid' and expanding Medicare benefits; no M4A support (borderline: not an explicit anti-M4A statement)",
+    "src": "https://caitconley.com/policy/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0,
+    "e": "Mixed, not scored: 'We need to secure the border... ensure enforcement is focused on violent criminals', alongside reining in ICE and revoking 287(g) agreements",
+    "src": "https://caitconley.com/policy/"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0,
+    "e": "Not scored: 'a gun owner who respects the Second Amendment' but backs universal background checks and red-flag grants",
+    "src": "https://caitconley.com/policy/"
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Platform: 'Getting rid of outdated red tape to get renewable energy projects moving' and 'cutting outdated red tape and zoning rules' to build housing; says data centers can be a net positive",
+    "src": "https://caitconley.com/policy/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund",
+   "Majority Democrats"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "No elected office, but senior federal national-security roles (NSC Director for Counterterrorism; CISA senior executive for election security); Army Major (O-4). West Point, Harvard MPP and MIT MBA. Detailed platform with specifics: opt-in public option, $35 insulin cap for all, end SALT cap, public-service housing-loan programme, revoke 287(g), restore Foreign Malign Influence Center, PRO Act, John Lewis VRAA, BRIC grant expansion."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated Lawler at least twice in the general (News12 Hudson Valley 28 Sep; PIX11 Oct 2026); contested 5-way primary. Media: CNN State of the Union (Dana Bash), MSNBC Morning Joe, Substack Live, local press; no clearly hostile-outlet appearances found. Engages Lawler on record and money; sharp exchanges in debate."
+  },
+  "outside_support": [
+   "DCCC Red to Blue",
+   "House Majority PAC",
+   "EMILY's List",
+   "VoteVets",
+   "New Dem Action Fund",
+   "Majority Democrats",
+   "Democratic Majority for Israel",
+   "J Street",
+   "Jewish Democratic Council of America",
+   "End Citizens United",
+   "GIFFORDS",
+   "Equality PAC",
+   "LPAC",
+   "NRDC Action Fund",
+   "NYSUT",
+   "AAUP",
+   "Democrats for Education Reform",
+   "Working Families Party (general)"
+  ],
+  "notable_positions": [
+   "Opt-in public option; defend ACA and Medicaid; $35 insulin for all; expand Medicare drug negotiation (https://caitconley.com/policy/)",
+   "Secure the border and focus enforcement on violent criminals while reining in ICE (body cams, no masks, revoke 287(g)) and creating a path to citizenship (https://caitconley.com/policy/)",
+   "Two-state solution so Israel 'remains a secure, democratic Jewish state'; support Ukraine; end Iran escalation (https://caitconley.com/policy/)",
+   "Ban congressional stock trading; congressional term limits; overturn Citizens United (https://caitconley.com/policy/)",
+   "Cut red tape and zoning rules for housing and renewables; end SALT cap (https://caitconley.com/policy/)",
+   "Gun owner who 'respects the Second Amendment' but backs universal background checks and red-flag grants (https://caitconley.com/policy/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Described as a moderate Democrat, she was backed by the NewDem Action Fund and Majority Democrats and ran on a public option, border security with criminal-focused enforcement, and supply-side red-tape cutting (CI about 4). LI is about 1 (WFP's general-election line only). She falls just short of the CI 5 threshold, but she is highly credentialed and debated, so the 1/4 tie-break points clearly to Cat 4.",
+  "sources": [
+   "https://caitconley.com/policy/",
+   "https://caitconley.com/",
+   "https://en.wikipedia.org/wiki/Cait_Conley",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://prospect.org/2026/10/01/tale-of-two-toss-ups-democrats-rebecca-bennett-cait-conley/",
+   "https://www.thenation.com/article/politics/ny-17-congress-lawler-conley/",
+   "https://thehill.com/homenews/campaign/6149718-conley-lawler-debate-clash/",
+   "https://www.cityandstateny.com/politics/2026/06/cait-conley-wins-ny-17-primary-take-lawler/414372/"
+  ]
+ }
+]

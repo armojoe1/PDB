@@ -1,0 +1,1764 @@
+[
+ {
+  "id": "R000305",
+  "name": "Deborah K. Ross",
+  "seat": "NC-02",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1963,
+   "education": "BA Brown University; JD UNC-Chapel Hill",
+   "career": "Civil-rights lawyer (ACLU of North Carolina executive director), clean-energy attorney, 2016 US Senate nominee",
+   "prior_office": "NC House of Representatives 2003-2013; US House (NC-2) since 2021; House Democratic Chief Deputy Whip; Steering & Policy Committee"
+  },
+  "self_description": "No ideological label found; describes governing as 'the art of the possible' and says 'compromise often produces better results than confrontation' (2024 candidate questionnaire).",
+  "primary_context": "Mar 2026: effectively unopposed after challenger Rob Bennett, an energy policy analyst, withdrew. No left or right primary challenge. General against Gene (Eugene) Douglass (R), Matt Laszacs (L) and write-in anti-war independent Brian McGinnis.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member; chairs the New Dem Clean Energy Deployment Task Force (https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-hit-fifth-stop-of-the-on-the-road-tour-with-clean-energy-roundtable-in-north-carolina). Not in the bulk caucus list, so add this."
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2021, former 10-year state legislator. JD. Her office says 17 of her bills have been signed into law (sexual-assault nurse examiners, judicial ethics, offshore wind). Chief Deputy Whip."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: unverified. Her 2026 GOP opponent was Eugene Douglass, who joined a Jan 2024 virtual forum with her, but no 2026 debate reporting was found. Media: NC Newsline (Oct 2025) says she held more town halls than any other NC member of Congress (3 in person, 3 by phone). Her March 2025 Raleigh town hall had 500+ attendees (ABC11). Appearances on cross-partisan outlets are unverified. Substance: her 2024 questionnaire answers engage the issues and favour negotiating across the aisle."
+  },
+  "outside_support": [
+   "2026 endorsements: CWA, UAW, JDCA, JACPAC, LCV, Sierra Club, Giffords, Planned Parenthood, NOW, Equality NC, Black Economic Alliance PAC",
+   "AIPAC contributions in 2022 (~$41.9k) and 2024 (~$97.9k); pledged to take no AIPAC money in the 2026 cycle (The Intercept, Aug 2025)",
+   "PAC share of receipts 41% (FEC)"
+  ],
+  "notable_positions": [
+   "Pledged no AIPAC contributions in the 2026 cycle; declined to say whether she would co-sponsor the Block the Bombs Act (https://theintercept.com/2025/08/29/aipac-israel-gaza-democrats-deborah-ross/)",
+   "Supports an assault-weapons ban, a pathway to citizenship, eliminating the debt limit, and making 'big corporations and the wealthiest' pay their fair share (https://www.yahoo.com/news/candidate-us-house-district-2-130000357.html)",
+   "Chairs the New Dem Clean Energy Deployment Task Force; worked on offshore-wind legislation (https://ross.house.gov/official-biography)",
+   "Held more town halls than any other NC member in 2025 (https://ncnewsline.com/2025/10/20/as-trump-opposition-grows-north-carolina-republicans-duck-town-halls-does-it-matter/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream liberal New Democrat in party leadership (Chief Deputy Whip). Bulk data gives only L11, and she has few movement-left or explicit centrist markers (LI about 1, CI about 1). With high EPD (7) and EO 4 (town-hall heavy), she falls to the nearest-fit step. New Dem membership and her pragmatic, compromise-first framing tip her slightly toward Cat 4, but this is an imperfect fit: she votes with the caucus median (DW-NOMINATE about 50th percentile) and voted Nay on Laken Riley and the trans-sports bill.",
+  "sources": [
+   "https://ross.house.gov/official-biography",
+   "https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-hit-fifth-stop-of-the-on-the-road-tour-with-clean-energy-roundtable-in-north-carolina",
+   "https://theintercept.com/2025/08/29/aipac-israel-gaza-democrats-deborah-ross/",
+   "https://ncnewsline.com/2025/10/20/as-trump-opposition-grows-north-carolina-republicans-duck-town-halls-does-it-matter/",
+   "https://abc11.com/16060305",
+   "https://www.yahoo.com/news/candidate-us-house-district-2-130000357.html",
+   "https://efdouglass.substack.com/p/unite-the-vote-virtual-non-partisan",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+  ]
+ },
+ {
+  "id": "F000477",
+  "name": "Valerie P. Foushee",
+  "seat": "NC-04",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1956,
+   "education": "BA UNC-Chapel Hill",
+   "career": "Administrator with the Chapel Hill Police Department; local elected official for 15 years",
+   "prior_office": "Chapel Hill-Carrboro school board; Orange County Board of Commissioners; NC House 2012-2013; NC Senate 2013-2022; US House (NC-4) since 2023"
+  },
+  "self_description": "'proud to champion progressive legislation'; says the district wants 'a progressive leader who will deliver legislation aligned with their values' (Chapelboro Q&A, 2026)",
+  "primary_context": "3 Mar 2026: challenged from the left by Durham County Commissioner Nida Allam, who was backed by Bernie Sanders, Justice Democrats, WFP and Sunrise. Foushee won 49.2% to 48.2% (about 1,200 votes) and Allam conceded. Gov. Josh Stein and Roy Cooper backed Foushee, and pro-AI super PACs spent about $1.3M for her. This was a rematch of 2022, when AIPAC's UDP spent about $2M+ for her.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Lists 'passing Medicare for All' and 'ensuring healthcare is accessible for everyone through Medicare for All' as priorities (2026)",
+    "src": "https://chapelboro.com/news/election/read-valerie-foushee-nida-allam-answer-97-9-the-hills-questions-on-2026-campaigns"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus (PAC) endorsement, 2026 primary (listed on the 2026 NC House elections page)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "In Congress since 2023, with 10 years in the NC legislature. Bachelor's degree plus a public-administration career. Co-chairs Jeffries' House Democratic Commission on AI and the Innovation Economy. No signature enacted bill was identified."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: took part in joint primary forums with Allam, including the Durham NAACP forum on 11 Jan 2026 (9th Street Journal). A general-election debate with Republican Mahesh Ganorkar is unverified. Media: held town halls; she addressed AIPAC at one (Jewish Insider/Intercept, Aug 2025). No cross-partisan outlet appearances were found. Substance: answered the issues at forums."
+  },
+  "outside_support": [
+   "2026 primary endorsements: CPC (PAC), Reps. Pramila Jayapal, Maxwell Frost, Alma Adams, Deborah Ross; Govs. Stein, Cooper and Wes Moore; LCV, Sierra Club, Planned Parenthood, Public First Action (AI-aligned), ASPIRE PAC; News & Observer",
+   "Pro-AI super PACs about $1.3M in the 2026 primary, including Jobs and Democracy PAC (The Intercept)",
+   "Endorsed by Gov. Josh Stein and Roy Cooper",
+   "AIPAC/UDP about $2M+ in 2022; said she will take no AIPAC money for 2026",
+   "PAC share of receipts 55% (FEC)"
+  ],
+  "notable_positions": [
+   "Co-sponsored the Block the Bombs to Israel Act (Aug 2025) and dropped AIPAC money; her victory statement pledged to 'pass legislation to block arms sales to Israel' (https://theintercept.com/2026/03/05/nc-house-primary-valerie-foushee-nida-allam/)",
+   "Backs Medicare for All and lists 'stopping ICE from terrorizing people' as a priority (https://chapelboro.com/news/election/read-valerie-foushee-nida-allam-answer-97-9-the-hills-questions-on-2026-campaigns)",
+   "At a Jan 2026 forum, said the US should not fund Middle East/South American conflicts beyond humanitarian aid (https://9thstreetjournal.org/2026/01/13/in-echo-of-2022-foushee-and-allam-debate-support-for-israel/)",
+   "Co-chairs the House Democratic Commission on AI; heavy pro-AI super PAC support (https://theintercept.com/2026/03/05/nc-house-primary-valerie-foushee-nida-allam/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships alone give LI 6 (L1 Ultra-Millionaire Tax, L3 M4A, L5 GND, L9 Melt ICE, L11, L12 Block the Bombs), and the CPC PAC endorsement adds L13 for an LI of about 7. She calls herself a progressive leader. Confidence is Medium because she was the establishment candidate (backed by Stein, Cooper and AI-industry PACs) against a Justice Democrats/Sanders/WFP challenger, is also a New Dem member, and moved left on Israel only in 2025.",
+  "sources": [
+   "https://theintercept.com/2026/03/05/nc-house-primary-valerie-foushee-nida-allam/",
+   "https://ncnewsline.com/2026/03/04/foushee-narrowly-leads-in-nc-04-democratic-primary-recount-likely/",
+   "https://9thstreetjournal.org/2026/01/13/in-echo-of-2022-foushee-and-allam-debate-support-for-israel/",
+   "https://chapelboro.com/news/election/read-valerie-foushee-nida-allam-answer-97-9-the-hills-questions-on-2026-campaigns",
+   "https://jewishinsider.com/2025/08/maxine-dexter-valerie-foushee-aipac-democrats-israel-weapons/",
+   "https://ballotpedia.org/Valerie_Foushee",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+  ]
+ },
+ {
+  "id": "A000370",
+  "name": "Alma S. Adams",
+  "seat": "NC-12",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1946,
+   "education": "BS and MA Art Education, NC A&T; PhD Art Education/Multicultural Education, Ohio State",
+   "career": "Art professor at Bennett College for 40 years",
+   "prior_office": "Greensboro City School Board; Greensboro City Council (9 yrs); NC House 1994-2014 (chaired NC Legislative Black Caucus); US House since Nov 2014"
+  },
+  "self_description": "No explicit ideological label found. CPC member. Her 2026 campaign stressed 'affordability, health care, and making ends meet' (WFAE).",
+  "primary_context": "3 Mar 2026: defeated Monaca Maye Williamson about 79% to 21% (Williamson reported no fundraising). No significant ideological challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party, 2026 primary (https://workingfamilies.org/2026/02/wfp-announces-endorsements-in-north-carolina-primary/)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2014 and 20 years in the NC House. PhD. Ranking Member of the Ed & Workforce Subcommittee on Higher Education and Workforce Development. Her FUTURE Act (permanent $255M/yr for minority-serving institutions) was enacted. Founded the Bipartisan HBCU Caucus and co-founded the Black Maternal Health Caucus."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: appeared jointly with GOP nominee Jack Codiga at a candidate forum at Friendship Missionary Baptist Church in Oct 2026, answering questions on Iran and education, and earlier at a 20 Sep Black Political Caucus event (WFAE). No refusals were documented. Media: mainly local and official channels; no cross-partisan appearances or 2025-26 town halls verified. Substance: engaged on the issues, though she rebuked the opponent's photo stunt as 'disrespectful'."
+  },
+  "outside_support": [
+   "2026 endorsements: WFP, Progressive Democrats of America, J Street, Bend the Arc, Sierra Club, Planned Parenthood, Equality NC, CWA, UAW; Charlotte Observer",
+   "PAC share of receipts 75% (FEC). Small-dollar share 14%.",
+   "Has accepted donations from pro-Israel groups (WFAE)"
+  ],
+  "notable_positions": [
+   "Only NC member to co-sponsor an Oct 2023 Gaza ceasefire resolution, but voted for the 2024 Israel aid package and opposed a 2025 amendment cutting $3.3B in Israel funding (https://www.wfae.org/politics/2026-10-13/rep-alma-adams-scolds-opponent-jack-codiga-at-forum-in-dispute-over-israel)",
+   "FUTURE Act, enacted: permanent funding for HBCUs and minority-serving institutions (https://adams.house.gov/about)",
+   "Co-founder of the Black Maternal Health Caucus and lead on the Momnibus (https://adams.house.gov/about)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships (M4A, GND, DC statehood, Block the Bombs) give LI 4, and the 2026 WFP endorsement adds L13 for an LI of about 5. That is progressive-leaning but below the Cat 1 threshold. CI is 0. With high EPD (7) and EO 4 (joint forum with her opponent), she reaches the nearest-fit step, which points to Cat 1 as an imperfect fit. Her mixed Israel record (2024 aid vote, opposing a 2025 cut) and heavy PAC funding mark her as an institutional progressive rather than a movement-left figure.",
+  "sources": [
+   "https://adams.house.gov/about",
+   "https://www.wfae.org/politics/2026-10-13/rep-alma-adams-scolds-opponent-jack-codiga-at-forum-in-dispute-over-israel",
+   "https://ballotpedia.org/North_Carolina's_12th_Congressional_District_election,_2026_(March_3_Democratic_primary)",
+   "https://wtop.com/news/2026/03/alma-adams-wins-democratic-nomination-for-u-s-house-in-north-carolinas-12th-congressional-district",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://workingfamilies.org/2026/02/wfp-announces-endorsements-in-north-carolina-primary/"
+  ]
+ },
+ {
+  "id": "G000604",
+  "name": "Maggie Goodlander",
+  "seat": "NH-02",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1986,
+   "education": "BA Yale; JD Yale Law School",
+   "career": "Clerk to Judge Garland and Justice Breyer; foreign-policy adviser to Sens. Lieberman and McCain; Navy Reserve intelligence officer (11 yrs); House Judiciary impeachment counsel; DOJ counselor to the AG and Deputy AAG, Antitrust Division (2022-24); White House senior adviser",
+   "prior_office": "No prior elected office; senior federal appointee (DOJ Deputy AAG). US House (NH-2) since 2025."
+  },
+  "self_description": "No ideological label found. Signed the June 2026 'Promise to America' ('We are capitalist, not socialist ... mainstream, not extreme').",
+  "primary_context": "8 Sep 2026: defeated state Rep. Paige Beauchemin 81.8% to 18.0%. Beauchemin challenged from the left with backing from Peace Action, Track AIPAC and College Democrats of America. In the 2024 primary she beat Colin Van Ostern 64-36.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": -1,
+    "e": "Signed the June 2026 Promise to America pledge: 'We are capitalist, not socialist'. Voted Yea on the 2025 resolution denouncing socialism.",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Signed the Promise to America pledge, whose Fiscal Discipline plank says 'We are responsible, not reckless ... We will prioritize tackling the national debt honestly.' Does not co-sponsor wealth-tax bills.",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "One of about 10-13 moderate House Democrats who signed the 'Promise to America' (June 2026), launched days after DSA-backed candidates won NY primaries: 'We are mainstream, not extreme', rejecting 'extremes on right and left'.",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pledge: 'We are capitalist, not socialist' and 'permitting and tax policy should expand opportunity'. Her campaign priorities include building more housing, 'cutting red tape' and 'ending costly trade wars'.",
+    "src": "https://maggiefornh.com/priorities/"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected 2024, so office is 2 per the incumbent rule (she was also a senior DOJ appointee). Yale JD with Supreme Court clerkship. Concrete proposals (congressional stock-trading ban across all three branches, judicial term limits, ending corporate PAC money) but no enacted signature bill identified."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified. A 2026 general-election debate with Lily Tang Williams (R) was not found in the sources reached, and the search budget ran out. Media: one of six Democrats in the Nov 2025 'refuse illegal orders' video, which drew national cross-partisan attention, but no town-hall record was verified. Substance: specific policy platform."
+  },
+  "outside_support": [
+   "AIPAC, J Street, JDCA, JACPAC (primary endorsements)",
+   "End Citizens United, Giffords, LCV, Planned Parenthood Action Fund, VoteVets",
+   "Endorsed by Gov. Mikie Sherrill and Rep. Chris Pappas; NEA and AFGE (general)",
+   "Small-dollar share 17%; $1.1M in transfers"
+  ],
+  "notable_positions": [
+   "Signed the 'Promise to America' centrist pledge, June 2026 (https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html)",
+   "Voted Yea on the Laken Riley Act and on the 2025 resolution denouncing socialism (bulk key_votes)",
+   "Leads a bill to ban stock trading by senior officials in all three branches; backs term limits for Congress and federal judges (https://maggiefornh.com/priorities/)",
+   "Former DOJ antitrust deputy AAG; campaigns on enforcing antitrust law (https://maggiefornh.com/priorities/)",
+   "Appeared in the Nov 2025 video telling servicemembers they can refuse illegal orders (https://thehill.com/homenews/administration/5614881-trump-calls-democrats-traitors/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "CI reaches about 5: New Dem membership (C1), Laken Riley Yea (C4), and the Promise to America pledge (fiscal discipline, 'capitalist not socialist', 'mainstream not extreme' give C3, C7, C8). LI is only 1 (DC statehood co-sponsorship). Her DW-NOMINATE is in the most moderate ~6% of the caucus. Confidence is Medium because the C3/C7/C8 markers rest largely on a single pledge, and she pairs this with anti-corruption and antitrust populism.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maggie_Goodlander",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire",
+   "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html",
+   "https://www.thepromisetoamerica.com/",
+   "https://maggiefornh.com/priorities/",
+   "https://www.justice.gov/atr/staff-profile/maggie-goodlander-former-deputy-assistant-attorney-general"
+  ]
+ },
+ {
+  "id": "N000188",
+  "name": "Donald Norcross",
+  "seat": "NJ-01",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1958,
+   "education": "Associate degree in criminal justice, Camden County College; attended Rutgers-Camden",
+   "career": "IBEW electrician (apprentice 1980), assistant business manager of IBEW Local 351, president of the Southern NJ AFL-CIO Central Labor Council (16 yrs)",
+   "prior_office": "NJ General Assembly (Jan 2010); NJ Senate 2010-2014; US House (NJ-1) since Nov 2014; assistant whip; Steering & Policy Committee"
+  },
+  "self_description": "Describes himself as a labor leader. Belongs to the Progressive Caucus, New Democrat Coalition and Problem Solvers Caucus at once. No explicit ideological label found.",
+  "primary_context": "June 2026: unopposed (challenger Lonnie Affrime withdrew). Backed by Gov. Sherrill, SEIU, CWA, NEA, AIPAC and DMFI.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the National Troopers Coalition (police union) for the 2026 general election. This was a blanket endorsement of most NJ Democratic incumbents, so it is a weak signal.",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)",
+   "Problem Solvers Caucus member (bulk)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Member since 2014, with 4 years in the NJ Senate. Associate degree but a senior labor-leadership career (arguably cred 2). Ranking Member of the HASC Tactical Air and Land Forces Subcommittee; co-founded the Bipartisan Building Trades Caucus."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified against GOP nominee Damon Galdo; no 2026 debate reporting was found. Media: no 2025-26 town halls or cross-partisan appearances verified. He was absent Apr-Jun 2025 with sepsis. Substance: no evidence either way, so neutral."
+  },
+  "outside_support": [
+   "AIPAC and Democratic Majority for Israel (primary)",
+   "AFL-CIO, NJ Building Trades, Teamsters, UAW, SEIU, CWA, NEA",
+   "LCV, Planned Parenthood, Everytown/Gun Sense Voter, NJ Sierra Club",
+   "PAC share of receipts 52%; small-dollar share 1.5%"
+  ],
+  "notable_positions": [
+   "Labor-first Democrat: former South Jersey AFL-CIO president, founding member of the Bipartisan Building Trades Caucus (https://en.wikipedia.org/wiki/Donald_Norcross)",
+   "Member of the CPC, New Dem Coalition and Problem Solvers Caucus at once (https://en.wikipedia.org/wiki/Donald_Norcross)",
+   "Only Democrat not voting on the April 2025 SAVE Act; missed the June 2025 rescissions vote while ill (https://clerk.house.gov/Votes/2025102)",
+   "Endorsed by AIPAC/DMFI and by police (National Troopers Coalition) and building-trades unions in 2026 (https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A machine and labor Democrat with few ideological markers either way. LI is about 1 (DC statehood). CI is about 3 (New Dem plus Problem Solvers membership, and a police-union endorsement). With EPD 6 and an unverified EO of about 3, he falls to the nearest-fit step and leans Cat 4 on coalition ties. The fit is imperfect: he is also a CPC member, voted Nay on Laken Riley and sits near the caucus median on DW-NOMINATE.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Donald_Norcross",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://norcross.house.gov/media-center/press-releases/building-better-america-together"
+  ]
+ },
+ {
+  "id": "C001136",
+  "name": "Herbert C. Conaway, Jr.",
+  "seat": "NJ-03",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1963,
+   "education": "BA Princeton; MD Jefferson Medical College; JD Rutgers-Newark",
+   "career": "Internal-medicine physician (director of internal medicine clinic, St. Francis Medical Center); US Air Force Medical Corps captain 1992-96",
+   "prior_office": "NJ General Assembly 1998-2025 (Deputy Speaker; Majority Whip 2014-17; Health Committee chair); US House (NJ-3) since 2025"
+  },
+  "self_description": "No ideological label found. Presents himself as a physician-legislator focused on health care.",
+  "primary_context": "June 2026: unopposed (challenger Shawn Scott withdrew). Backed by Gov. Sherrill, county parties, SEIU, CWA, LCV, JDCA and Planned Parenthood.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the National Troopers Coalition (police union) for the 2026 general. This was a blanket endorsement of NJ Democratic incumbents, so it is a weak signal. The NJ State PBA backed his GOP opponent.",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member per his House caucus list (https://conaway.house.gov/about/committees-and-caucuses). Not in the bulk caucus list."
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected to Congress in 2024 (office 2 per the incumbent rule), after 27 years in the NJ Assembly including Health Committee chair and Deputy Speaker. Holds MD and JD. Long authored state legislative record. In 2026 introduced the bipartisan Protecting Patients from Automated Denials Act with Rep. Greg Murphy (R)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified against GOP nominee Michael McGuire, an ex-NYPD officer and Marine veteran; no debate reporting reached. Media: no 2025-26 town halls or cross-partisan appearances verified. Substance: neutral; works across the aisle on health bills."
+  },
+  "outside_support": [
+   "AFL-CIO, NJ Building Trades, Teamsters, SEIU, CWA",
+   "Giffords, Gun Sense Voter, LCV, JDCA, Planned Parenthood, NJ Sierra Club",
+   "PAC share of receipts 55%; small-dollar share 14%"
+  ],
+  "notable_positions": [
+   "Bipartisan bill with Rep. Greg Murphy (R) requiring physician review of AI-assisted Medicare Advantage prior-authorization denials, July 2026 (https://www.govinfo.gov/app/details/BILLS-119hr9734ih)",
+   "As Assembly Health chair, backed ending religious exemptions from school vaccine mandates in 2019 (https://en.wikipedia.org/wiki/Herb_Conaway)",
+   "Voted Yea on the 2025 resolution denouncing socialism; Nay on Laken Riley and the trans-sports bill (bulk key_votes)",
+   "Vice Ranking Member, House Veterans' Affairs Committee (https://conaway.house.gov/about/committees-and-caucuses)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream physician-legislator with few ideological markers. LI is about 1 (DC statehood). CI is about 2 (New Dem membership and a blanket police-union endorsement). He is credentialed (EPD 6), with an unverified EO of about 3, so he goes to the nearest-fit step. He leans slightly to Cat 4 on New Dem ties and a moderate DW-NOMINATE (about 72nd percentile toward moderate), but the fit is imperfect.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herb_Conaway",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://conaway.house.gov/about/committees-and-caucuses",
+   "https://www.govinfo.gov/app/details/BILLS-119hr9734ih",
+   "https://newjerseymonitor.com/2026/11/03/rep-herb-conaway-wins-second-term-in-congress/"
+  ]
+ },
+ {
+  "id": "G000583",
+  "name": "Josh Gottheimer",
+  "seat": "NJ-05",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1975,
+   "education": "BA Penn (summa cum laude); graduate study at Pembroke College, Oxford (Thouron Award); JD Harvard",
+   "career": "Clinton White House speechwriter; FCC/FTC adviser; Microsoft executive; Burson-Marsteller",
+   "prior_office": "US House (NJ-5) since 2017; Democratic co-chair of the Problem Solvers Caucus; 2025 NJ gubernatorial primary candidate (4th, 11.8%)"
+  },
+  "self_description": "Calls himself a bipartisan problem-solver who is not 'ideologically rigid'. Signed the June 2026 'Promise to America' ('capitalist, not socialist ... mainstream, not extreme').",
+  "primary_context": "June 2026: unopposed. In 2025 he lost the gubernatorial primary to Mikie Sherrill, where rivals attacked him from the left over his Laken Riley vote.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": -1,
+    "e": "Opposed single-payer health care (as of 2019); this was an issue in his 2020 primary challenge from Arati Kreibich",
+    "src": "https://www.northjersey.com/story/news/new-jersey/2020/06/25/josh-gottheimer-vote-led-his-primary-challenge-arati-kreibich-2020-primary/3246192001/"
+   },
+   "L4": {
+    "v": -1,
+    "e": "Signed the Promise to America pledge, 'We are capitalist, not socialist' (June 2026)",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "Strongly pro-Israel. Condemned Tlaib and Bush's calls to strip Israel funding, voted to censure Tlaib (Nov 2023), and sponsored the Iron Dome resupply bill.",
+    "src": "https://thehill.com/homenews/house/4245770-tlaib-bush-criticized-by-democrats-over-statements-calling-for-end-to-israel-support/"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 1,
+    "e": "Opposed single-payer (2019); favours fixing the ACA (device tax, Cadillac tax)",
+    "src": "https://www.northjersey.com/story/news/new-jersey/2020/06/25/josh-gottheimer-vote-led-his-primary-challenge-arati-kreibich-2020-primary/3246192001/"
+   },
+   "C3": {
+    "v": 1,
+    "e": "Promise to America signatory: 'We are responsible, not reckless ... prioritize tackling the national debt'. Campaigns on SALT relief and cutting property taxes 15%; no wealth-tax co-sponsorship.",
+    "src": "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html"
+   },
+   "C4": {
+    "v": 1,
+    "e": "Defended his Laken Riley Act vote in the Feb 2025 governor debate: 'If you're a murderer, a rapist, you break into people's homes, you shouldn't be here.'",
+    "src": "https://www.njspotlightnews.org/video/democratic-candidates-for-nj-governor-face-off-for-first-time/"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Authored the Invest to Protect Act ($200M for small police departments; passed House Sept 2022). Voted for the Thin Blue Line Act. Endorsed by the NJ State PBA and National Troopers Coalition (2026).",
+    "src": "https://www.axios.com/2022/01/20/frontline-democrats-bipartisan-bill-fund-police"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center/Georgetown Bipartisan Index: most bipartisan House Democrat in 2020, 2021 and 2022. Democratic co-chair of the Problem Solvers Caucus; works with No Labels.",
+    "src": "https://mccourt.georgetown.edu/news/bipartisan-index-rankings-117th-congress/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Pro-crypto: helped push the GOP-led FIT21 Act through Financial Services and bucked Chair Waters on the stablecoin bill. Endorsed by Fairshake (crypto) and Leading the Future (AI) in 2026.",
+    "src": "https://www.politico.com/news/2023/07/26/democrats-gop-cryptocurrency-bill-00108230"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition member (bulk)",
+   "New Democrat Coalition member (bulk)",
+   "Problem Solvers Caucus co-chair (bulk)",
+   "No Labels: first Democratic co-chair of the No Labels-backed Problem Solvers Caucus (https://theintercept.com/2023/10/02/josh-gottheimer-no-labels/)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Five-term member with a Harvard JD and Rhodes Scholarship. Senior roles at Microsoft and the White House. His Invest to Protect Act passed the House; leading crypto/FIT21 and SALT voice; Problem Solvers co-chair."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Debate: unverified for the 2026 general against Sean Kirrane (R). He did debate in multiple 2025 NJ gubernatorial primary debates (NJ Spotlight, ABC7, WHYY). Media: well known for frequent cable appearances, including cross-partisan outlets such as Fox News/Fox Business and CNBC, and frequent district press events. These appearances were not re-verified this session (search limit). Substance: argues positions on the merits, e.g. defended his Laken Riley vote in the gubernatorial debate."
+  },
+  "outside_support": [
+   "AIPAC, DMFI, JDCA, JACPAC",
+   "Fairshake (crypto), Leading the Future (AI super PAC), Democrats for Education Reform",
+   "NJ State PBA, National Troopers Coalition, AFL-CIO, Building Trades, Teamsters",
+   "Small-dollar share 0.8% (very large-donor funded)"
+  ],
+  "notable_positions": [
+   "Blue Dog, New Dem and Problem Solvers co-chair; ranked most bipartisan House Democrat 2020-22 (https://mccourt.georgetown.edu/news/bipartisan-index-rankings-117th-congress/)",
+   "Voted for and defended the Laken Riley Act (https://www.njspotlightnews.org/video/democratic-candidates-for-nj-governor-face-off-for-first-time/)",
+   "Authored the Invest to Protect police-funding act, passed the House 2022 (https://www.axios.com/2022/01/20/frontline-democrats-bipartisan-bill-fund-police)",
+   "Signed the June 2026 'Promise to America' anti-socialist pledge (https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html)",
+   "Leading pro-Israel Democrat; voted to censure Rep. Tlaib (https://www.njspotlightnews.org/video/gottheimer-joins-21-other-democrats-in-house-censure-of-tlaib/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "The archetypal centrist Democrat. C1 is capped by Blue Dog, New Dem and Problem Solvers co-chair roles, and he has explicit C2, C3, C4, C5, C7 and C8 evidence, for a CI of about 9. He explicitly rejects single-payer, socialism and Israel-critical positions; LI is about 1 (DC statehood only). His DW-NOMINATE is the most moderate in the caucus (99th percentile).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_Gottheimer",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://mccourt.georgetown.edu/news/bipartisan-index-rankings-117th-congress/",
+   "https://www.yahoo.com/news/politics/articles/13-moderate-democrats-reject-socialism-174443764.html",
+   "https://www.axios.com/2022/01/20/frontline-democrats-bipartisan-bill-fund-police",
+   "https://www.njspotlightnews.org/video/democratic-candidates-for-nj-governor-face-off-for-first-time/",
+   "https://www.politico.com/news/2023/07/26/democrats-gop-cryptocurrency-bill-00108230",
+   "https://theintercept.com/2023/10/02/josh-gottheimer-no-labels/",
+   "https://whyy.org/articles/new-jersey-governor-candidates-debate-democrats/"
+  ]
+ },
+ {
+  "id": "P000034",
+  "name": "Frank Pallone, Jr.",
+  "seat": "NJ-06",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1951,
+   "education": "BA Middlebury; MA Fletcher School (Tufts); JD Rutgers-Camden",
+   "career": "Lawyer; Long Branch city council; NJ state senator",
+   "prior_office": "Long Branch City Council; NJ Senate 1984-1988; US House since Nov 1988; Energy & Commerce Committee Chair 2019-2023, Ranking Member 2015-2019 and 2023-present"
+  },
+  "self_description": "CPC member. Ran for Senate in 2013 'on his progressive congressional record'. No explicit 2025-26 ideological label found.",
+  "primary_context": "June 2026: challenged from the left by software engineer John Hsu (Our Revolution NJ, CAIR Action, Emgage, Track AIPAC) and analyst Katie Bansil (Gen-Z for Change, Progressive Victory). Pallone won 65.7%, Hsu 26.7%, Bansil 7.7%.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": -1,
+    "e": "In 2024 he was one of 16 House Democrats who voted to override President Biden's pause on some weapons shipments to Israel. In Jan 2025 he voted for the ICC sanctions bill.",
+    "src": "https://www.congress.gov/votes/house/118-2/217"
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the NJ State Policemen's Benevolent Association and the National Troopers Coalition in the 2026 general election",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Twenty-term member and top Democrat on Energy & Commerce (chair 2019-23). JD and MA. Led committee work on ACA-era health law, the Ryan White extension, IRA drug-pricing and the ADPPA privacy bill."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified for the 2026 primary against Hsu and Bansil and the general against Hillary Herzig (R); no debate reporting reached. Media: visible oversight visits to the Delaney Hall ICE facility in 2026 with public statements on conditions. No town halls or cross-partisan outlet appearances verified. Substance: neutral."
+  },
+  "outside_support": [
+   "AIPAC and Democratic Majority for Israel (primary)",
+   "NJ State PBA, National Troopers Coalition, AFL-CIO, Building Trades, Teamsters, SEIU, CWA, NEA",
+   "PAC share of receipts 65%; small-dollar share 1%"
+  ],
+  "notable_positions": [
+   "Ranking Member of Energy & Commerce; sponsored the American Data Privacy and Protection Act (https://www.axios.com/2022/08/04/online-privacy-bill-roadblocks-congress)",
+   "One of 16 Democrats voting to override Biden's 2024 pause on Israel arms shipments (https://www.congress.gov/votes/house/118-2/217)",
+   "Co-sponsors Medicare for All and the Ultra-Millionaire Tax Act (bulk)",
+   "Visited Delaney Hall ICE detention during the 2026 hunger strike: 'People are languishing without knowing if they'll have enough to eat' (https://jerseyvindicator.org/2026/05/25/new-jersey-governor-denied-entry-to-delaney-hall-as-ice-detainee-strike-continues/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A senior institutional liberal and committee leader. Bulk co-sponsorships give LI 3 (M4A, Ultra-Millionaire Tax, DC statehood); he rejects an arms embargo on Israel (L12 -1) and is AIPAC/DMFI-backed. CI is about 1 (police-union endorsements). With EPD 7 and an unverified EO of about 3, he reaches the nearest-fit step. That leans Cat 1 on LI over CI, but this is an imperfect fit for a mainstream committee leader who just beat a left challenger.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Pallone",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://www.congress.gov/votes/house/118-2/217",
+   "https://jerseyvindicator.org/2026/05/25/new-jersey-governor-denied-entry-to-delaney-hall-as-ice-detainee-strike-continues/"
+  ]
+ },
+ {
+  "id": "M001226",
+  "name": "Robert Menendez",
+  "seat": "NJ-08",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA Political Science UNC-Chapel Hill; JD Rutgers Law School",
+   "career": "Attorney at Lowenstein Sandler; Port Authority of NY & NJ commissioner 2021-2023",
+   "prior_office": "Port Authority commissioner (gubernatorial appointee) 2021-23; US House (NJ-8) since 2023; DCCC Northeast vice chair; CHC vice chair of policy"
+  },
+  "self_description": "No explicit ideological label found. Campaigns on working- and middle-class costs, labor rights, gun control and reproductive rights.",
+  "primary_context": "June 2026: challenged from the left by former Jersey City school board president Mussab Ali (PCCC, Peace Action, PDA, Track AIPAC, Jamaal Bowman). Menendez won 68.8% to 31.2%. In 2024 he beat Hoboken Mayor Ravi Bhalla 52-38. No Republican filed in 2026.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the National Troopers Coalition (police union) in the 2026 general. This was a blanket endorsement of NJ Democratic incumbents, so it is a weak signal.",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "In Congress since 2023, and earlier a Port Authority commissioner who chaired its governance and ethics committee. JD. Sits on Energy & Commerce and holds DCCC and CHC leadership posts. No signature enacted bill identified."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified for the 2026 primary against Mussab Ali. No Republican filed, so the general had only independents. Media: conducted ICE oversight visits at Delaney Hall (May 2025 with McIver and Watson Coleman; May 2026 with Sen. Kim) and issued statements accusing ICE of intimidation. No town halls or cross-partisan outlet appearances verified. Substance: neutral."
+  },
+  "outside_support": [
+   "AIPAC, DMFI, JDCA (primary)",
+   "BOLD PAC, Latino Victory, Leading the Future (AI super PAC), Make the Road Action NJ, Gun Sense Voter, Planned Parenthood",
+   "Sen. Andy Kim, Gov. Sherrill, Hudson/Essex/Union county parties, LiUNA, Carpenters, SEIU, CWA, NEA",
+   "Small-dollar share 2.3%"
+  ],
+  "notable_positions": [
+   "Beat a PCCC-backed progressive challenger 69-31 in June 2026 (https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey)",
+   "ICE oversight at Delaney Hall: 'ICE attempted to intimidate everyone involved and impede our ability to conduct oversight' (https://menendez.house.gov/media/press-releases/menendez-statement-delaney-hall)",
+   "Voted Nay on Laken Riley, the trans-sports bill and both 'denouncing socialism' resolutions (bulk key_votes)",
+   "DCCC Northeast vice chair and finance co-chair of CHC BOLD PAC (https://newjerseyglobe.com/congress/rob-menendez-taking-on-regional-leadership-role-in-dccc/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "An establishment, party-machine Democrat with very few ideological markers either way: LI about 1 (DC statehood) and CI about 1 (blanket police-union endorsement). He is credentialed (EPD 6) with an unverified EO of about 3. At the nearest-fit step LI and CI tie; he is suggested as Cat 1 only because every key vote went with the party's liberal wing (DW-NOMINATE about the 10th percentile toward moderate). He is AIPAC-backed and defeated a progressive challenger, so this is an imperfect fit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rob_Menendez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://menendez.house.gov/media/press-releases/menendez-statement-delaney-hall",
+   "https://jerseyvindicator.org/2026/05/25/new-jersey-governor-denied-entry-to-delaney-hall-as-ice-detainee-strike-continues/"
+  ]
+ },
+ {
+  "id": "P000621",
+  "name": "Nellie Pou",
+  "seat": "NJ-09",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1956,
+   "education": "Attended Kean College, Rutgers and University of Virginia (degree not confirmed)",
+   "career": "City of Paterson administrator (business administrator 2014-18; human services director 1986-97)",
+   "prior_office": "NJ General Assembly 1997-2012 (Appropriations chair 2006-11; Deputy Speaker); NJ Senate 2012-2025 (Majority Caucus Chair; Commerce chair); president of the National Hispanic Caucus of State Legislators 2022-23; US House (NJ-9) since 2025"
+  },
+  "self_description": "No explicit ideological label found. Belongs to both the CPC and the New Democrat Coalition.",
+  "primary_context": "2 Jun 2026: unopposed. In Aug 2025 NJ Monitor reported attacks from progressives over an Israel trip paid for by a pro-Israel group, and from Republicans over immigration and spending votes.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the National Troopers Coalition (police union) in the 2026 general. This was a blanket endorsement of NJ Democratic incumbents, so it is a weak signal.",
+    "src": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (bulk)",
+   "Democrats for Education Reform endorsement (2026), informational"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 2,
+   "note": "First elected to Congress in 2024 (office 2 per the incumbent rule), after 28 years in the NJ Legislature including Assembly Appropriations chair and Senate Majority Caucus Chair. Senior municipal-administration career; degree not confirmed. Long authored state legislative record."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified against GOP nominee Rosie Pino in a competitive Trump-won district; no debate reporting reached (NJ Monitor blocked). Media: no town halls or cross-partisan appearances verified. Substance: neutral."
+  },
+  "outside_support": [
+   "EMILY's List, End Citizens United, Giffords, LCV, JDCA, JACPAC, DFER, Latino Victory, CBC PAC",
+   "AFL-CIO, Building Trades, Teamsters, SEIU, CWA",
+   "Endorsed by Gov. Sherrill; The Bergen Record editorial endorsement",
+   "PAC share of receipts 40%; small-dollar share 15%"
+  ],
+  "notable_positions": [
+   "Co-sponsored the Block the Bombs to Israel Act (bulk) despite progressive criticism of her AIPAC-linked Israel trip (https://newjerseymonitor.com/2025/08/26/first-term-nj-congresswoman-facing-intensifying-attacks-from-both-sides/)",
+   "Voted Yea on the 2025 'denouncing socialism' resolution; Nay on Laken Riley and the trans-sports bill (bulk key_votes)",
+   "Member of both the CPC and the New Dem Coalition (https://en.wikipedia.org/wiki/Nellie_Pou)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A machine-backed former state legislative leader in a swing seat with mixed signals. LI is about 2 (DC statehood, Block the Bombs) and CI about 2 (New Dem membership plus a blanket police-union endorsement). EPD is 5 and EO is an unverified 3, so she reaches the nearest-fit step. LI and CI tie; she leans Cat 4 on New Dem membership, swing-seat positioning and a moderate DW-NOMINATE (about the 71st percentile toward moderate). Evidence is thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nellie_Pou",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://newjerseymonitor.com/2025/08/26/first-term-nj-congresswoman-facing-intensifying-attacks-from-both-sides/"
+  ]
+ },
+ {
+  "id": "M001229",
+  "name": "LaMonica McIver",
+  "seat": "NJ-10",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1986,
+   "education": "BA English, Bloomfield College; MA Educational Leadership & Policy, Seton Hall",
+   "career": "Personnel director, Montclair Public Schools; public affairs manager, PSEG; co-founder of Newark G.A.L.S. nonprofit",
+   "prior_office": "Newark Municipal Council 2018-2024 (president 2022-24); US House (NJ-10) since Sept 2024 special election"
+  },
+  "self_description": "No explicit ideological label found. CPC member. Frames her ICE oversight prosecution as an attempt to 'criminalize and deter legislative oversight'.",
+  "primary_context": "June 2026: defeated Lawrence Poster (managing director, Catalyx Group) 84.8% to 15.2%. No significant ideological challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Expressed support for abolishing ICE in a CNN interview on 4 Feb 2026 (also co-sponsors the Melt ICE Act)",
+    "src": "https://bsky.app/profile/replamonica.bsky.social/post/3me2c55dbxk24"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "New Jersey Working Families Party (2026 primary)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "First elected to Congress in 2024 (office 2 per the incumbent rule); previously Newark council president. Bachelor's and an education master's; mid-level public and private administrative career. Ordinary legislative record."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified against GOP nominee Carmen Bucco in a safe seat; no debate reporting reached. Media: high national profile through CNN interviews and statements on her federal assault prosecution, mainly friendly or mainstream outlets. No town halls or cross-partisan appearances verified. Substance: neutral."
+  },
+  "outside_support": [
+   "NJ Working Families Party, Progressive Democrats of America, CAIR Action, Emgage Action",
+   "LCV, Planned Parenthood, Vote Mama, Rutgers AAUP-AFT, SEIU, CWA, AFL-CIO",
+   "Mayor Ras Baraka, Gov. Sherrill; NJ State PBA endorsed her GOP opponent",
+   "Small-dollar share 66% (high base funding)"
+  ],
+  "notable_positions": [
+   "Indicted June 2025 for allegedly assaulting/impeding ICE officers during the May 2025 Delaney Hall oversight visit. Pleaded not guilty; the Third Circuit denied her motions to dismiss on 27 Aug 2026; the case is pending (https://apnews.com/article/lamonica-mciver-assault-charge-alina-habba-immigration-7b6a5b0fc8079a9efd0606ab68e3f02d)",
+   "Backed abolishing ICE on CNN, Feb 2026 (https://bsky.app/profile/replamonica.bsky.social/post/3me2c55dbxk24)",
+   "Co-sponsors Medicare for All, Melt ICE and Block the Bombs (bulk)",
+   "Endorsed by NJ WFP for 2026 (https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give LI 4 (M4A, Melt ICE, DC statehood, Block the Bombs). Her explicit abolish-ICE statement reinforces L9, and the NJ WFP endorsement adds L13, for an LI of about 5 (progressive-leaning, just under the Cat 1 threshold). CI is 0. EPD is 4 and EO an unverified 3, so the nearest-fit step points to Cat 1, aided by very high small-dollar reliance. Her ICE-related federal prosecution is pending.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/LaMonica_McIver",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://apnews.com/article/lamonica-mciver-assault-charge-alina-habba-immigration-7b6a5b0fc8079a9efd0606ab68e3f02d",
+   "https://www.courtlistener.com/docket/70515005/united-states-v-mciver/",
+   "https://mciver.house.gov/about/meet-lamonica"
+  ]
+ },
+ {
+  "id": "M001246",
+  "name": "Analilia Mejia",
+  "seat": "NJ-11",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA Comparative Literature, MPP (Bloustein School) and MA Labor Relations, all Rutgers-New Brunswick",
+   "career": "Union organizer and political director (UFCW, SEIU 32BJ, HERE, UNITE HERE); executive director of NJ Working Families Alliance (2014-19); national political director of Bernie Sanders 2020; deputy director of the DOL Women's Bureau (Biden); co-executive director of the Center for Popular Democracy",
+   "prior_office": "No prior elected office; senior federal appointee (DOL Women's Bureau deputy director). US House (NJ-11) since Apr 2026 special election."
+  },
+  "self_description": "Ran as a progressive; former Sanders national political director (Punchbowl, NJ.com).",
+  "primary_context": "Feb 2026 special primary: narrowly won an 11-way race (29.3% to Tom Malinowski's 27.6%) despite AIPAC-aligned spending. Won the April special general 60-39 over Joe Hathaway (R). June 2026 regular primary: won 81.7% against minor opponents. November 2026: rematch with Hathaway.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Supports Medicare for All (campaign platform)",
+    "src": "https://www.analiliafornj.com/economy-for-everyone"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "Called for the abolition of ICE during the 2026 special-election campaign",
+    "src": "https://www.inquirer.com/politics/new-jersey/ice-new-jersey-gun-mikie-sherrill-20260213.html"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "Has said she believes Israel is committing genocide in Gaza",
+    "src": "https://www.cnn.com/2026/02/07/politics/aipac-new-jersey-malinowski-mejia"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (personally)",
+   "Alexandria Ocasio-Cortez (personally)",
+   "Working Families Party",
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "Progressive Change Campaign Committee",
+   "(also Elizabeth Warren, Pramila Jayapal, Ro Khanna, Greg Casar, Popular Democracy in Action, Track AIPAC)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 1,
+   "note": "First elected in 2026 (office 2 per the incumbent rule; she was also a senior federal appointee). Holds an MPP and a labor master's and had a senior national political and organizing career. Concrete platform ($25 federal minimum wage, M4A, PRO Act, tuition-free college, AI data-centre regulation) but a short legislative record."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: debated GOP nominee Joe Hathaway on 1 Apr 2026 (NJ Globe/Rider University Rebovich Institute, moderated by Joey Fox) before the special general. Debates in the Nov 2026 rematch are unverified; no refusals documented. Media: interviews with Democracy Now!, CNN and NYT coverage; mostly friendly or mainstream. Hostile-outlet appearances and town halls are unverified. Substance: ran on a detailed affordability and ICE message."
+  },
+  "outside_support": [
+   "Sanders, Warren, AOC; WFP, CPC PAC, Our Revolution, PCCC, Popular Democracy in Action, Track AIPAC, NJ Citizen Action, Make the Road Action NJ",
+   "J Street PAC, EMILY's List, End Citizens United, Patriotic Millionaires, Peace Action, Food & Water Action (special general)",
+   "SEIU 32BJ, 1199SEIU, CWA, NJEA, National Nurses United, NJ AFL-CIO, Teamsters",
+   "Small-dollar share 40% (high)"
+  ],
+  "notable_positions": [
+   "Former Sanders 2020 national political director and NJ Working Families director (https://en.wikipedia.org/wiki/Analilia_Mejia)",
+   "Calls for abolishing ICE (https://www.inquirer.com/politics/new-jersey/ice-new-jersey-gun-mikie-sherrill-20260213.html)",
+   "Says Israel is committing genocide in Gaza; co-sponsors Block the Bombs (https://www.cnn.com/2026/02/07/politics/aipac-new-jersey-malinowski-mejia)",
+   "Supports Medicare for All, a $25 federal minimum wage and tuition-free public college (https://www.analiliafornj.com/economy-for-everyone)",
+   "Co-sponsors the Ultra-Millionaire Tax Act (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "A movement-left figure. Bulk co-sponsorships (Ultra-Millionaire Tax, M4A, DC statehood, Block the Bombs) plus her own abolish-ICE stance give at least 5 policy points, and L13 is capped at 3 (Sanders, AOC, WFP, CPC PAC, Our Revolution, PCCC), for an LI of about 8, well above the Cat 1 threshold. No centrist markers were found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Analilia_Mejia",
+   "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+   "https://punchbowl.news/article/campaigns/mejia-nj-upset/",
+   "https://www.inquirer.com/politics/new-jersey/ice-new-jersey-gun-mikie-sherrill-20260213.html",
+   "https://www.cnn.com/2026/02/07/politics/aipac-new-jersey-malinowski-mejia",
+   "https://www.analiliafornj.com/economy-for-everyone",
+   "https://newjerseyglobe.com/congress/mejia-hathaway-will-face-off-in-first-debate-on-april-1/"
+  ]
+ },
+ {
+  "id": "S001218",
+  "name": "Melanie A. Stansbury",
+  "seat": "NM-01",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA Human Ecology/Natural Science, Saint Mary's College of California; MS Development Sociology, Cornell (PhD candidate)",
+   "career": "White House Fellow at CEQ; OMB program examiner (Obama administration); Senate Energy & Natural Resources Committee staff and aide to Sen. Cantwell; Sandia consultant; UNM Utton Center senior adviser",
+   "prior_office": "NM House of Representatives 2019-2021; US House (NM-1) since June 2021 special election"
+  },
+  "self_description": "Presents herself as a fighter for New Mexico's lands, waters and working families. CPC member. Her campaign site says she supports Medicare for All and takes no corporate PAC money.",
+  "primary_context": "June 2026: unopposed (100%). No primary challenge from left or right.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 1,
+    "e": "Campaign site: 'That means supporting Medicare for All'",
+    "src": "https://www.melaniefornewmexico.com/issues"
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2021 and former state legislator. Cornell MS (PhD candidate) with a senior federal policy career at OMB, CEQ and Senate committee staff. Ranking Member of the House Oversight 'DOGE' Subcommittee (Delivering on Government Efficiency)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified against GOP nominee Didi Okpareke, a pharmacist, in a safe seat; no debate reporting reached (search budget exhausted, KRQE blocked). Media: high-visibility anti-DOGE messaging, including a 'this is not normal' sign at Trump's March 2025 joint address. 2025-26 town halls and cross-partisan appearances unverified. Substance: neutral. Note: she missed the 2026 Hegseth impeachment vote, citing traffic."
+  },
+  "outside_support": [
+   "J Street, LCV, 314 Action, Planned Parenthood, Christopher Street Project (LGBTQ PAC), AFGE, NEA",
+   "No corporate PAC money (campaign site)",
+   "Small-dollar share 41% (high)"
+  ],
+  "notable_positions": [
+   "Ranking Member of the Oversight DOGE Subcommittee and a leading critic of federal layoffs (https://stansbury.house.gov/media/press-releases/not-normal-rep-stansbury-speaks-against-trump-doge)",
+   "Supports Medicare for All, a path to citizenship and LGBTQIA+ protections (https://www.melaniefornewmexico.com/issues)",
+   "Co-sponsors the Ultra-Millionaire Tax Act, Green New Deal and Block the Bombs (bulk)",
+   "2021 Adelante Progressive Caucus questionnaire: pledged M4A, assault-weapons ban, DC statehood, student-debt cancellation (https://adelantecaucus.org/candidate-response-melanie-stansbury/)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give LI 5 (Ultra-Millionaire Tax, M4A, GND, DC statehood, Block the Bombs), progressive-leaning and one point short of the Cat 1 threshold. No movement endorsements or centrist markers were found. EPD is high (7) and EO an unverified 3, so the nearest-fit step points to Cat 1 (LI 5 vs CI 0). High small-dollar share and no corporate PAC money fit a progressive profile.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melanie_Stansbury",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+   "https://www.melaniefornewmexico.com/issues",
+   "https://stansbury.house.gov/media/press-releases"
+  ]
+ },
+ {
+  "id": "V000136",
+  "name": "Gabe Vasquez",
+  "seat": "NM-02",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1984,
+   "education": "BA English and Journalism, New Mexico State University",
+   "career": "Business editor at Las Cruces Bulletin; executive director of Las Cruces Hispanic Chamber of Commerce; field rep for Sen. Heinrich; conservation advocate (NM Wildlife Federation, Wilderness Society, Western Conservation Foundation)",
+   "prior_office": "Las Cruces City Council 2017-2021; US House (NM-2) since 2023"
+  },
+  "self_description": "No explicit ideological label. Stresses bipartisanship ('as a Congress we have to get serious in a bipartisan way and put politics aside'). Chairs the New Dem Immigration & Border Security Working Group.",
+  "primary_context": "June 2026: unopposed (a Green-aligned challenger was disqualified). The general was a nationally targeted race against Trump-endorsed retired police officer Greg Cunningham; Vasquez won.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": -1,
+    "e": "In Sept 2026 voted for a resolution denouncing socialism and the Democratic Socialists of America (also voted Yea in 2025)",
+    "src": "https://www.wane.com/hill-politics/vulnerable-democrats-vote-to-denounce-socialism-amid-midterm-pressure/"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Voted for the Sept 2026 GOP resolution denouncing socialism/DSA, which also called for passing the SAVE America Act. Founded the bipartisan Public Lands Caucus with Rep. Ryan Zinke (R) in May 2025.",
+    "src": "https://nmpoliticalreport.com/2025/05/07/vasquez-zinke-launch-public-lands-caucus-amid-push-to-sell-off-parcels/"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Member of the Bipartisan Congressional YIMBY (pro-housing-supply) Caucus; campaigned in 2026 on 'ending tariffs and trade wars' and linking border security with trade and economic development",
+    "src": "https://vasquez.house.gov/about/committees-and-caucuses"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member; chairs the New Dem Immigration & Border Security Working Group (https://vasquez.house.gov/about/committees-and-caucuses). Not in the bulk caucus list."
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Member since 2023 and former Las Cruces city councillor. BA plus a mid-level journalism, chamber and conservation career. Concrete proposals (data-centre ratepayer protections, a bill to roll back data-centre tax breaks, Parity for Tribal Educators Act) but no enacted signature bill identified."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: agreed to a KRQE televised debate with Cunningham on 16 Oct 2026, and challenged him to an additional Spanish-language Univision debate, which Cunningham declined (ABQ Journal). He debated Yvette Herrell in prior cycles. Media: no 2025-26 town-hall record verified. Substance: engages on specific policy (data centres, prices, trade)."
+  },
+  "outside_support": [
+   "Giffords, J Street, JDCA, JACPAC, Latino Victory, AFGE, NEA",
+   "Small-dollar share 17%; total receipts $5.5M in a targeted race"
+  ],
+  "notable_positions": [
+   "Voted Yea on both 2025 and 2026 resolutions denouncing socialism (https://www.wane.com/hill-politics/vulnerable-democrats-vote-to-denounce-socialism-amid-midterm-pressure/)",
+   "Co-sponsored the Block the Bombs to Israel Act (bulk), unusual for a swing-seat member",
+   "In 2021-22 said ICE needs 'melting' and later deleted tweets critical of oil and gas; supported Biden's 2021 federal oil-and-gas lease pause (https://www.cnn.com/2022/10/14/politics/kfile-gabe-vasquez-new-mexico-deleted-progressive-tweets/index.html)",
+   "Co-founded the bipartisan Public Lands Caucus with Ryan Zinke (https://nmpoliticalreport.com/2025/05/07/vasquez-zinke-launch-public-lands-caucus-amid-push-to-sell-off-parcels/)",
+   "Voted against the Nov 2025 CR, then touted earmarks in it ('vote no and take the dough') (https://www.nbcnews.com/politics/congress/democrats-tout-projects-government-shutdown-funding-bill-opposed-rcna248441)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A swing-seat New Democrat with mixed signals. LI is about 2 (DC statehood and Block the Bombs co-sponsorships); he explicitly voted to denounce socialism. CI is about 3 (New Dem working-group chair, bipartisan and anti-socialist votes, YIMBY/pro-trade). With EPD 5 and EO 4 (debated and sought an extra debate), he reaches the nearest-fit step, which leans Cat 4. The fit is imperfect: he voted Nay on Laken Riley and has a progressive past (2021-22 'melt ICE' rhetoric).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabe_Vasquez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+   "https://vasquez.house.gov/about/committees-and-caucuses",
+   "https://www.abqjournal.com/news/vasquez-cunningham-in-nationally-watched-house-contest/3129126",
+   "https://www.washingtonexaminer.com/news/1206297/ice-needs-melting-says-democratic-house-hopeful-critical-of-immigration-agency/",
+   "https://www.cnn.com/2022/10/14/politics/kfile-gabe-vasquez-new-mexico-deleted-progressive-tweets/index.html",
+   "https://nmpoliticalreport.com/2025/05/07/vasquez-zinke-launch-public-lands-caucus-amid-push-to-sell-off-parcels/"
+  ]
+ },
+ {
+  "id": "L000273",
+  "name": "Teresa Leger Fernandez",
+  "seat": "NM-03",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1959,
+   "education": "BA Yale; JD Stanford Law School",
+   "career": "Attorney running Leger Law and Strategy (community development, tribal advocacy) for 30 years; White House Fellow (Clinton); Advisory Council on Historic Preservation (Obama)",
+   "prior_office": "US House (NM-3) since 2021; Chair of the Democratic Women's Caucus; Rules Committee (Ranking Member, Legislative & Budget Process Subcommittee); CHC vice chair of communications"
+  },
+  "self_description": "Described as 'a political progressive' (Wikipedia). CPC member. Advocated a 'New Mexico Green New Deal' and Medicare for All.",
+  "primary_context": "June 2026: unopposed (100%). General against state Rep. Martin Zamora (R).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 1,
+    "e": "Advocated a 'New Mexico Green New Deal' and a transition from fracking to green energy (2020 campaign)",
+    "src": "https://www.taosnews.com/stories/endorsements-president-congress,63685"
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "(2020 only, outside the 2024/26 window) Working Families Party, AOC, Elizabeth Warren; no 2024/2026 movement endorsements found"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Three-term member and former White House Fellow. Yale BA and Stanford JD. Democratic Women's Caucus chair and Ranking Member of a Rules subcommittee; recognised lead on tribal and land issues."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate: unverified against Martin Zamora (R); no debate reporting reached (search budget exhausted, KRQE blocked). Media: no 2025-26 town halls or cross-partisan appearances verified. In Sept 2026 she called for a pause on NM data-centre development (Source NM). Substance: neutral."
+  },
+  "outside_support": [
+   "J Street, JDCA, Council for a Livable World, Planned Parenthood, Reproductive Freedom for All, AFGE, NEA, National Women's Political Caucus",
+   "Small-dollar share 11%; PAC share 19%"
+  ],
+  "notable_positions": [
+   "Advocated a 'New Mexico Green New Deal', Medicare for All, a transition away from fracking and an assault-weapons ban (https://www.taosnews.com/stories/endorsements-president-congress,63685)",
+   "Co-sponsors the Ultra-Millionaire Tax Act, Medicare for All and Block the Bombs (bulk)",
+   "Called for a pause on data-centre development in New Mexico, Sept 2026 (https://sourcenm.com/2026/09/24/u-s-rep-leger-fernandez-calls-for-pause-on-data-centers-in-new-mexico-as-oracle-stock-falls/)",
+   "Chair of the Democratic Women's Caucus; Rules Committee member (https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give LI 4 (Ultra-Millionaire Tax, M4A, DC statehood, Block the Bombs). Her Green New Deal and anti-fracking advocacy adds L5, for an LI of about 5. She was elected in 2020 as a WFP/AOC-endorsed progressive, but those endorsements fall outside the 2024/26 window. CI is 0. EPD is 7 and EO an unverified 3, so the nearest-fit step points to Cat 1. One more verified marker would cross the LI 6 threshold.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+   "https://www.taosnews.com/stories/endorsements-president-congress,63685",
+   "https://sourcenm.com/2026/09/24/u-s-rep-leger-fernandez-calls-for-pause-on-data-centers-in-new-mexico-as-oracle-stock-falls/",
+   "https://www.riograndesierraclub.org/sierra-club-endorses-teresa-leger-fernandez-for-u-s-house/"
+  ]
+ }
+]

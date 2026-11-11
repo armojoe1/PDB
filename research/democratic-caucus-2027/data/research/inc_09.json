@@ -1,0 +1,1715 @@
+[
+ {
+  "id": "N000191",
+  "name": "Joe Neguse",
+  "seat": "CO-2",
+  "call_status": "re-elected 2026 (defeated Republican Kelley Dennison)",
+  "bio": {
+   "birth_year": 1984,
+   "education": "BA and JD, University of Colorado Boulder",
+   "career": "Attorney; Executive Director, Colorado Dept. of Regulatory Agencies (2015-17)",
+   "prior_office": "University of Colorado Regent (2009-15); 2014 Democratic nominee for Colorado Secretary of State; U.S. House 2019-present; Assistant Democratic Leader (119th Congress); impeachment manager (2021); announced candidacy for Assistant Speaker Nov 2026"
+  },
+  "self_description": "No explicit ideological self-label found; member of the Congressional Progressive Caucus and part of House Democratic leadership.",
+  "primary_context": "Unopposed in the 30 Jun 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th) per bulk data.",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023 (118th Congress, 1st session): ranked #18 of 436 House members (score 1.35), i.e. a documented bipartisan sponsorship record. This does not mean centrist positioning.",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term House member and Assistant Democratic Leader (office 3); JD (cred 2); 2021 impeachment manager, lead sponsor of the CORE Act public-lands bill (passed the House) and a DHS/ICE reform package (Jun 2026) (policy 2)."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 2,
+   "substance": 1,
+   "note": "Declined the 19 Sep 2026 Club 20 debate with Republican Kelley Dennison, citing a 'scheduling conflict' (campaign said he had debated in prior cycles); no other 2026 debate found (https://www.aspentimes.com/news/colorado-candidates-running-state-federal-office-debate-grand-junction/). Held 17 open public town halls in 2025, including in Republican-leaning Weld County (https://neguse.house.gov/media/press-releases/rep-neguse-hosts-17th-town-hall-year-granby). Frequent mainstream TV (CNN, MSNBC); no Fox News appearances found. Engages substantively in oversight questioning (e.g., Noem DHS contract hearing)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Led Colorado House Democrats' DHS/ICE reform bills (oversight and reform rather than abolition), Jun 2026 (https://neguse.house.gov/media/press-releases/rep-neguse-leads-colorado-house-democrats-introducing-immigration-and-customs)",
+   "Led lawsuit by members of Congress over blocked oversight visits to ICE detention facilities, 2025 (https://neguse.house.gov/media/press-releases/members-congress-seek-court-order-allowing-continued-oversight-ice-detention)",
+   "Co-sponsor of Medicare for All, DC statehood and the Green New Deal resolution (bulk data)",
+   "Held 17 public town halls in 2025 (https://neguse.house.gov/media/press-releases/rep-neguse-hosts-17th-town-hall-year-granby)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A CPC member and part of the leadership who co-sponsors M4A, the GND and DC statehood (LI about 3 from bulk). No movement-left endorsements, abolish-ICE or genocide statements were found. His only centrist-type marker is a high Lugar bipartisanship rank (#18 in 2023), which gives CI 1. He is highly credentialed (EPD 7) and holds many town halls, but skipped his only documented 2026 debate. That puts him in the imperfect-fit Cat 1 (LI > CI); if media is scored 1, he becomes Cat 3.",
+  "sources": [
+   "https://www.aspentimes.com/news/colorado-candidates-running-state-federal-office-debate-grand-junction/",
+   "https://www.cpr.org/2026/06/30/colorado-district-2-primary-election-2026-results/",
+   "https://neguse.house.gov/media/press-releases/rep-neguse-hosts-17th-town-hall-year-granby",
+   "https://neguse.house.gov/media/press-releases/rep-neguse-leads-colorado-house-democrats-introducing-immigration-and-customs",
+   "https://assistantdemocraticleader.house.gov/media",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "C001121",
+  "name": "Jason Crow",
+  "seat": "CO-6",
+  "call_status": "re-elected 2026 (AP call; defeated Republican Jason Clark, ~66% on election night)",
+  "bio": {
+   "birth_year": 1979,
+   "education": "BA University of Wisconsin-Madison (2002); JD University of Denver (2009)",
+   "career": "U.S. Army Ranger/paratrooper (Iraq, Afghanistan; Bronze Star); attorney at Holland & Hart",
+   "prior_office": "U.S. House 2019-present; impeachment manager (2020); Armed Services and Intelligence committees"
+  },
+  "self_description": "No explicit ideological label found; New Democrat Coalition member who frames his work around national security, democratic norms and oversight.",
+  "primary_context": "Faced Dylan Shelby in the 30 Jun 2026 Democratic primary and was renominated (no sign of a serious left/right challenge).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th) per bulk data.",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023: ranked #42 of 436 House members (score 0.78).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Four-term House member (office 3); JD plus a military officer career (cred 2); 2020 impeachment manager and sponsor of the ALLIES Act on Afghan SIVs (H.R.3985, passed the House in 2021); co-led a Colorado delegation DHS reform package in 2026 (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 2,
+   "substance": 1,
+   "note": "Whether he debated in 2026 is unverified: no report of a debate with Republican Jason Clark was found. He went on Fox News (Martha MacCallum and others) to defend the Nov 2025 'refuse illegal orders' video and was pressed hard on specifics (https://www.foxnews.com/media/dem-congressman-pressed-what-trump-orders-specifically-were-illegal). He sued over ICE facility access and engaged with specific examples rather than labels."
+  },
+  "outside_support": [
+   "Leadership Now Project (listed candidate)"
+  ],
+  "notable_positions": [
+   "One of six Democratic veterans in the Nov 2025 'refuse illegal orders' video; targeted by a DOJ inquiry (https://www.democracydocket.com/news-alerts/rep-jason-crow-doj-contacted-unlawful-military-order-video/)",
+   "Sued for unannounced congressional oversight of ICE detention and won emergency relief in Feb 2026 (https://crow.house.gov/media/press-releases/crow-granted-emergency-relief-in-lawsuit-to-uphold-congressional-oversight-of-federal-immigration-detention-facilities)",
+   "Proposed DHS reforms with Sen. Bennet in Jun 2026 rather than abolishing ICE (https://crow.house.gov/media/press-releases/crow-bennet-colorado-democratic-delegation-propose-dhs-reforms)",
+   "Co-sponsor of Medicare for All and DC statehood (bulk data)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A New Dem national-security Democrat. LI is about 2 from bulk (M4A and DC statehood co-sponsorships); CI is about 2 (New Dem membership plus a top-50 Lugar bipartisanship rank). No movement-left markers or endorsements were found, and no explicit centrist issue statements either. He is credentialed and engages with hostile press (Fox News), so he falls to the imperfect-fit step with LI and CI tied. Cat 4 is suggested on the basis of his coalition and profile, at low confidence.",
+  "sources": [
+   "https://www.foxnews.com/media/dem-congressman-pressed-what-trump-orders-specifically-were-illegal",
+   "https://crow.house.gov/media/press-releases/crow-bennet-colorado-democratic-delegation-propose-dhs-reforms",
+   "https://www.coloradopolitics.com/tag/6th-congressional-district/",
+   "https://ballotpedia.org/Dylan_Shelby",
+   "https://www.leadershipnowproject.org/candidate-bio-jason-crow",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "P000620",
+  "name": "Brittany Pettersen",
+  "seat": "CO-7",
+  "call_status": "re-elected 2026 (AP call election night; defeated Republican Tim Bennett)",
+  "bio": {
+   "birth_year": 1981,
+   "education": "BA Metropolitan State University of Denver",
+   "career": "State legislator; advocate on opioid/addiction policy and child care",
+   "prior_office": "Colorado House of Representatives (2013-19); Colorado Senate (2019-23); U.S. House 2023-present (Financial Services)"
+  },
+  "self_description": "Running 'to stand up to Donald Trump'; frames herself around affordability, child care and housing (2026 KRDO questionnaire). No ideological label found.",
+  "primary_context": "Renominated without notable challenge, Jun 2026.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023: ranked #57 of 436 House members (score 0.49). Also a member of the Problem Solvers Caucus (bulk).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Says she has 'led bills to lower housing costs, boost construction, and expand affordable homes' (pro-housing-supply framing). She is rated 'somewhat supports crypto' by Stand With Crypto.",
+    "src": "https://krdo.com/2026-u-s-house-of-representatives/2026/06/24/brittany-pettersen/"
+   }
+  },
+  "C1_endorsements": [
+   "New Dem Action Fund (listed on campaign endorsements page: https://brittanypettersen.com/endorsements/)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 1,
+   "note": "Two-term House member and 10 years in the state legislature (office 3); bachelor's degree (cred 1); state opioid legislation and housing/child-care bills, plus the 2025 fight for proxy voting for new parents, but no House-passed signature bill confirmed (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated in 2026 is unverified: no report of a debate with Republican Tim Bennett was found (she debated Erik Aadland on 9News in 2022). She held a large in-person Lakewood town hall (1,800+ attendees) with the AG and the mayor (https://capitolreleases.com/releases/20d4caae-26a4-4e18-a692-9dda561c5432). No hostile or cross-partisan outlet appearances were found."
+  },
+  "outside_support": [
+   "EMILY's List",
+   "AFL-CIO",
+   "AFSCME",
+   "AFT",
+   "NEA",
+   "SEIU",
+   "Teamsters",
+   "IBEW",
+   "CWA",
+   "UFCW",
+   "League of Conservation Voters",
+   "Conservation Colorado",
+   "GIFFORDS",
+   "Human Rights Campaign",
+   "Planned Parenthood",
+   "Future Forum PAC",
+   "West Metro Professional Firefighters"
+  ],
+  "notable_positions": [
+   "Member of both the New Democrat Coalition and the Problem Solvers Caucus (bulk data)",
+   "Says she has led bills to boost housing construction and affordability (https://krdo.com/2026-u-s-house-of-representatives/2026/06/24/brittany-pettersen/)",
+   "Rated 'somewhat supports crypto' (grade B) by Stand With Crypto (https://www.standwithcrypto.org/politicians/person/brittany---pettersen)",
+   "Opposes extending tax breaks for the wealthiest and focuses on child care and the ACA credits (https://krdo.com/2026-u-s-house-of-representatives/2026/06/24/brittany-pettersen/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A New Dem and Problem Solvers member endorsed by the New Dem Action Fund. CI is about 4 (C1 New Dem/PSC, C7 Lugar rank #57, C8 housing supply); LI is about 1 (DC statehood co-sponsorship). Her record is mainstream, with labour and EMILY's List backing. EPD is 5 and EO about 3, so she falls to the imperfect-fit step, which points to Cat 4. The evidence on issue statements is thin.",
+  "sources": [
+   "https://krdo.com/2026-u-s-house-of-representatives/2026/06/24/brittany-pettersen/",
+   "https://capitolreleases.com/releases/20d4caae-26a4-4e18-a692-9dda561c5432",
+   "https://www.standwithcrypto.org/politicians/person/brittany---pettersen",
+   "https://www.coloradopolitics.com/tag/6th-congressional-district/",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf",
+   "https://brittanypettersen.com/endorsements/"
+  ]
+ },
+ {
+  "id": "C001069",
+  "name": "Joe Courtney",
+  "seat": "CT-2",
+  "call_status": "re-elected 2026 (defeated Republican/Independent Party nominee George Austin)",
+  "bio": {
+   "birth_year": 1953,
+   "education": "BA Tufts University (1975); JD University of Connecticut (1978)",
+   "career": "Attorney in Vernon, CT",
+   "prior_office": "Connecticut House of Representatives (1987-95); U.S. House 2007-present; senior Democrat on Armed Services Seapower and Projection Forces subcommittee"
+  },
+  "self_description": "No explicit ideological label found; New Democrat Coalition member focused on submarine/shipbuilding, education and PSLF.",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023: ranked #72 of 436 House members (score 0.35). He also voted Yea on the Laken Riley Act (bulk).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Ten-term member and former state legislator (office 3); JD (cred 2); recognised Seapower/submarine policy lead and PSLF reform author (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether he debated in 2026 is unverified: no report of a debate with George Austin was found. He has a history of debating, e.g. the League of Women Voters debate with Mike France in Oct 2022 (https://joecourtney.com/campaign-news-list/). He gives substantive policy statements, e.g. listing specific ICE reform conditions. No hostile-outlet appearances were found."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Voted for the Jan 2026 package that left DHS on a 10-day stopgap and said he 'will not support any full-year funding bill for DHS' without ICE reforms (no masks, judicial warrants, independent investigations); this is a reform stance, not abolition (https://courtney.house.gov/media-center/press-releases/courtney-votes-force-negotiations-concrete-ice-reforms-end-government)",
+   "Voted Yea on the Laken Riley Act (bulk data)",
+   "Opposed Trump tariffs ('Tariff Tour' of small businesses) (https://courtney.house.gov/media-center/press-releases)",
+   "Lugar Bipartisan Index #72 of 436 in 2023 (https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A mainstream, defence-focused New Dem. LI is about 1 (DC statehood co-sponsorship). CI is about 3: New Dem membership, the Laken Riley Yea vote and a top-75 Lugar bipartisanship rank. He is credentialed (EPD 7) and his EO is average on unverified debate data, so he falls to the imperfect-fit step, where CI > LI points to Cat 4. He is not a strong centrist on issue statements.",
+  "sources": [
+   "https://courtney.house.gov/media-center/press-releases/courtney-votes-force-negotiations-concrete-ice-reforms-end-government",
+   "https://joecourtney.com/campaign-news-list/",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "D000216",
+  "name": "Rosa L. DeLauro",
+  "seat": "CT-3",
+  "call_status": "re-elected 2026 (defeated Republican Chris Lancia)",
+  "bio": {
+   "birth_year": 1943,
+   "education": "BA Marymount College (1964); MA international politics, Columbia University (1966); studied at the London School of Economics",
+   "career": "Chief of staff to Sen. Chris Dodd (1981-87); Executive Director, EMILY's List (1989-90); New Haven city official",
+   "prior_office": "U.S. House 1991-present; Appropriations Committee chair (2021-23) and ranking member (2023-present)"
+  },
+  "self_description": "No ideological self-label found; CPC member. Says 'Healthcare is a right' and fights for working families (child tax credit, labour).",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Eighteen-term member (office 3); MA plus a senior career as Senate chief of staff and EMILY's List executive director (cred 2); top Democrat on Appropriations and lead author of the expanded Child Tax Credit (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated in 2026 is unverified (no information found on a debate with Chris Lancia). No town-hall or hostile-outlet evidence was gathered (the search budget ran out). Her positions are stated substantively in releases."
+  },
+  "outside_support": [
+   "SEIU 1199NE",
+   "Connecticut AFL-CIO",
+   "Connecticut Building Trades",
+   "Connecticut Laborers' District Council",
+   "Sierra Club",
+   "NRDC",
+   "Planned Parenthood",
+   "Reproductive Freedom for All",
+   "NOW"
+  ],
+  "notable_positions": [
+   "Introduced the Medicare for America Act (Oct 2026): universal coverage by opening Medicare to all who want it while preserving employer and private insurance. This is not single-payer, so L3 = 0 (https://delauro.house.gov/media-center/press-releases/delauro-unveils-medicare-all-plan-preserves-private-health-insurance)",
+   "Opposed the $2.8B sale of 40,000 bombs to Israel (Sep 2026): 'These weapons must not be sent'. This opposes a specific sale and is not a full embargo or a genocide claim (https://delauro.house.gov/media-center/press-releases/delauro-opposes-bomb-sales-israel)",
+   "Called for shutting the Delaney Hall detention center and opposed ICE funding increases (https://delauro.house.gov/media-center/press-releases/delauro-calls-shutdown-delaney-detention-center)",
+   "Lead champion of the permanent expanded monthly Child Tax Credit (https://delauro.house.gov/media-center/press-releases)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A senior progressive appropriator and CPC member. Her positions sit at the left edge of the mainstream (public-option universal Medicare, opposition to specific bomb sales, ICE detention criticism) but do not meet the rubric's stricter left markers (LI about 1 from DC statehood). No centrist markers were found (CI 0). She is credentialed and engaged, so she falls to the imperfect-fit step, which points to Cat 1.",
+  "sources": [
+   "https://delauro.house.gov/media-center/press-releases/delauro-unveils-medicare-all-plan-preserves-private-health-insurance",
+   "https://delauro.house.gov/media-center/press-releases/delauro-opposes-bomb-sales-israel",
+   "https://delauro.house.gov/media-center/press-releases/delauro-calls-shutdown-delaney-detention-center",
+   "https://delauro.house.gov/media-center/press-releases/video-delauro-statement-opposing-funding-increases-ice",
+   "https://rosadelauro.com/endorsements/"
+  ]
+ },
+ {
+  "id": "H001047",
+  "name": "James A. Himes",
+  "seat": "CT-4",
+  "call_status": "re-elected 2026 (defeated Republican Michael Goldstein)",
+  "bio": {
+   "birth_year": 1966,
+   "education": "BA Harvard (1988); MPhil Oxford (Rhodes Scholar)",
+   "career": "Goldman Sachs vice president; ran NYC office of Enterprise Community Partners (affordable housing)",
+   "prior_office": "Greenwich Housing Authority chair, Greenwich Board of Estimate and Taxation; U.S. House 2009-present; Ranking Member, House Intelligence Committee (2023-present); former New Democrat Coalition chair; Financial Services Committee"
+  },
+  "self_description": "No explicit label found in this session; a long-standing New Dem who has described himself as committed to 'fiscal responsibility' (deficit reduction, Simpson-Bowles).",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Long-time deficit hawk: a 'staunch supporter of the Simpson-Bowles proposal to cut trillions of dollars from the nation's debt' and has advocated deficit reduction since his first term (2012 release). He voted against unpaid-for tax extenders in 2015 because they added $780B to the debt. This evidence is historical; no wealth-tax support was found.",
+    "src": "https://himes.house.gov/2012/09/27/2012-9-let-record-show-himes-commitment-fiscal-responsibility-spans-both-terms/"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "His Build Now Act was enacted in the 21st Century ROAD to Housing Act (Jun 2026). It ties CDBG funds to localities building more housing and encourages zoning and permitting streamlining ('speed up construction'), a pro-housing-supply/abundance measure.",
+    "src": "https://himes.house.gov/2026/06/24/himes-delivers-on-housing-affordability-congress-passes-landmark-housing-legislation/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Nine-term member and Intelligence Committee ranking member (office 3); Rhodes Scholar MPhil plus a senior finance career (cred 2); two bills enacted in the ROAD to Housing Act, a bipartisan financial-scams bill advancing, and FISA 702 lead (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether he debated in 2026 is unverified (no report of a debate with Michael Goldstein). He is a frequent national TV guest as the Intelligence Committee's top Democrat, but specific Fox or cross-partisan appearances could not be verified this session (the search budget ran out), so media is scored 1. He engages on substance, e.g. grilling Treasury Secretary Bessent (Sep 2026)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Build Now Act (housing supply / zoning reform) enacted via the ROAD to Housing Act (https://himes.house.gov/2026/06/24/himes-delivers-on-housing-affordability-congress-passes-landmark-housing-legislation/)",
+   "Called ICE detentions of parents at school drop-off 'plainly and flatly despicable'; a reform/accountability stance, not abolition (https://himes.house.gov/2026/08/27/himes-statement-on-recent-ice-activity-in-connecticut/)",
+   "Historic Simpson-Bowles deficit-reduction supporter (https://himes.house.gov/2012/09/27/2012-9-let-record-show-himes-commitment-fiscal-responsibility-spans-both-terms/)",
+   "Backed a two-state solution letter (2024) and co-led the West Bank Violence Prevention Act (2025), with no arms-embargo or genocide language (https://himes.house.gov/2025/04/28/2025-4-nadler-smith-himes-introduce-west-bank-violence-prevention-act-in-response-to-ben-gvir-visit/)",
+   "Co-led Iran War Powers resolutions (2025-26) (https://himes.house.gov/2025/06/23/2025-6-himes-meeks-smith-introduce-war-powers-resolution-to-cease-u-s-hostilities-on-iran/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "A former New Dem chair and ex-Goldman banker with a deficit-hawk record and an enacted housing-supply bill. CI is about 3 (C1 New Dem, C3, C8) and LI is about 1 (DC statehood only). He is highly credentialed and engaged, so he falls to the imperfect-fit step, which points to Cat 4. More evidence (e.g. explicit M4A opposition, cross-partisan media) would likely strengthen this.",
+  "sources": [
+   "https://himes.house.gov/2026/06/24/himes-delivers-on-housing-affordability-congress-passes-landmark-housing-legislation/",
+   "https://himes.house.gov/2026/08/27/himes-statement-on-recent-ice-activity-in-connecticut/",
+   "https://himes.house.gov/2012/09/27/2012-9-let-record-show-himes-commitment-fiscal-responsibility-spans-both-terms/",
+   "https://himes.house.gov/2015/12/16/2015-12-himes-opposes-package-deficit-ballooning-tax-extenders/",
+   "https://himes.house.gov/2026/09/16/icymi-no-administrationmore-communist-than-the-trump-administration-himes-grills-treasury-secretary-bessent-at-hearing/",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "H001081",
+  "name": "Jahana Hayes",
+  "seat": "CT-5",
+  "call_status": "re-elected 2026 (Democratic/WFP lines; defeated Republican Chris Shea)",
+  "bio": {
+   "birth_year": 1973,
+   "education": "BA Southern Connecticut State University; MA University of Saint Joseph; Sixth-Year Certificate in educational leadership (SCSU)",
+   "career": "Waterbury high school history teacher; 2016 National Teacher of the Year",
+   "prior_office": "U.S. House 2019-present (Agriculture; Education & Workforce)"
+  },
+  "self_description": "'A community advocate, nationally-recognized educator, and problem solver'; platform 'Leaving no one behind' (campaign site).",
+  "primary_context": "No contested 2026 primary found (not verified). Cross-endorsed by the Working Families Party.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Working Families Party (2026; WFP ballot line and listed on WFP's 2026 candidates page: https://workingfamilies.org/candidates/)"
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Campaign issues page: 'In addition to supporting Medicare for All…'; also a co-sponsor of H.R.3069 (bulk).",
+    "src": "https://jahanahayes.com/issues/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Four-term member (office 3); master's in education and National Teacher of the Year, but no JD/MD/PhD/MBA-type degree (cred 1); leads House Agriculture Democrats' work on SNAP/nutrition (multiple lead bills and letters, including WIC, school meals and SNAP restoration) (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated in 2026 is unverified (no report on a debate with Chris Shea; she debated in her past competitive races). No hostile-outlet or town-hall evidence was gathered this session (the search budget ran out)."
+  },
+  "outside_support": [
+   "Working Families Party",
+   "Committee to Protect Health Care"
+  ],
+  "notable_positions": [
+   "Supports Medicare for All (https://jahanahayes.com/issues/)",
+   "Co-sponsor of the Block the Bombs to Israel Act and the GND resolution, yet voted Yea on the Laken Riley Act (bulk data)",
+   "Immigration page: 'it is important to maintain strong borders and protect national security' alongside immigrant protections (https://jahanahayes.com/issues/)",
+   "Leads House Democrats' fight against SNAP cuts and the USDA FNS reorganisation (https://hayes.house.gov/press-releases)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A mixed profile. Left co-sponsorships (M4A, GND, DC statehood, Block the Bombs) plus a WFP endorsement give LI of about 5, just below the Cat 1 threshold. Centrist signals are a New Dem membership and the Laken Riley Yea vote (CI about 2). She is credentialed (EPD 6) and EO is average on unverified data, so she falls to the imperfect-fit step, where LI > CI points to Cat 1. One more left marker would make her Cat 1 outright.",
+  "sources": [
+   "https://jahanahayes.com/issues/",
+   "https://jahanahayes.com/endorsements/",
+   "https://workingfamilies.org/candidates/",
+   "https://hayes.house.gov/press-releases",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "M001238",
+  "name": "Sarah McBride",
+  "seat": "DE-AL",
+  "call_status": "re-elected 2026 (defeated Republican Joseph Arminio)",
+  "bio": {
+   "birth_year": 1990,
+   "education": "BA American University (2013)",
+   "career": "National press secretary, Human Rights Campaign; LGBTQ rights advocate and author",
+   "prior_office": "Delaware State Senate (2021-25); U.S. House 2025-present (first openly transgender member)"
+  },
+  "self_description": "'Supports a bold agenda that benefits workers and families'. Heavily emphasises bipartisan bills (with Lawler, Luna, Van Drew, Flood). A member of both the CPC and the New Democrat Coalition.",
+  "primary_context": "No contested 2026 primary found (not verified). Launched her re-election with a '57 municipalities in 57 hours' tour (Jun 2026).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Affordability platform calls for 'increasing the supply of housing'; backed the bipartisan 21st Century ROAD to Housing Act; co-sponsored the Energy Bills Relief Act, which 'streamlines permitting'.",
+    "src": "https://sarahmcbride.com/priority/making-life-more-affordable/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "First elected in 2024 after a state Senate term (office 2); BA (cred 1); a passed NDAA amendment and several bipartisan bills, but no enacted signature bill found in Congress (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated in 2026 is unverified (no report on a debate with Joseph Arminio). She ran a '57 municipalities in 57 hours' retail tour and appears on nonpartisan and friendly outlets (SiriusXM Julie Mason Show, MSNBC). No hostile-outlet appearances were verified this session."
+  },
+  "outside_support": [
+   "Human Rights Campaign PAC",
+   "LPAC",
+   "Giffords PAC",
+   "Brady PAC",
+   "Moms Demand Action",
+   "League of Conservation Voters",
+   "NRDC Action Fund",
+   "Reproductive Freedom For All",
+   "NOW PAC",
+   "UFCW Local 27"
+  ],
+  "notable_positions": [
+   "Healthcare: 'I support Medicare for all of our neighbors who want it' and lowering the Medicare eligibility age. This is a public-option framing, not single-payer (https://sarahmcbride.com/priority/healthcare/)",
+   "Immigration: called for impeaching DHS Secretary Noem; helped introduce the PROTECT Immigration Act ending 287(g); supports 'an orderly, secure immigration system and humane enforcement'; no abolish-ICE call (https://sarahmcbride.com/priority/immigration/)",
+   "Housing supply and the ROAD to Housing Act; opposes broad tariffs (https://sarahmcbride.com/priority/making-life-more-affordable/)",
+   "Cosponsored the Defend Our Coast Act banning mid-Atlantic offshore oil and gas leasing (https://sarahmcbride.com/priority/climate-change-sustainability/)",
+   "Voted Nay on the trans sports bill and the Laken Riley Act (bulk); no statements on trans-athlete policy were found in this session"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A first-term member in both the CPC and the New Dems who stresses affordability and bipartisan co-leads. Her healthcare and immigration positions are mainstream Democratic (public-option 'Medicare for all who want it', ICE reform rather than abolition). LI is about 1 (DC statehood) and CI about 2 (New Dem plus housing supply). EPD is 4 and EO about 3, so she falls to the imperfect-fit step, which points marginally to Cat 4. The evidence is thin, and Cat 1 vs 4 is close.",
+  "sources": [
+   "https://sarahmcbride.com/priority/healthcare/",
+   "https://sarahmcbride.com/priority/immigration/",
+   "https://sarahmcbride.com/priority/making-life-more-affordable/",
+   "https://sarahmcbride.com/priority/climate-change-sustainability/",
+   "https://sarahmcbride.com/endorsements/",
+   "https://mcbride.house.gov/media/press-releases"
+  ]
+ },
+ {
+  "id": "S001200",
+  "name": "Darren Soto",
+  "seat": "FL-9",
+  "call_status": "re-elected 2026 (defeated Republican Dan Green; seat redrawn to PVI R+8 under the 2026 Florida map)",
+  "bio": {
+   "birth_year": 1978,
+   "education": "BA Rutgers University (2000); JD George Washington University (2004)",
+   "career": "Attorney",
+   "prior_office": "Florida House (2007-12); Florida Senate (2012-16); U.S. House 2017-present (Energy & Commerce)"
+  },
+  "self_description": "Running 'on the three C's: Lower Costs. Protect Our Care. Stop Corruption.' (campaign site). He belongs to the CPC, the New Dems and the Problem Solvers Caucus.",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 1,
+    "e": "Lead sponsor of Puerto Rico statehood legislation (Puerto Rico Statehood Admission Act, Puerto Rico Status Act), as well as a DC Admission Act co-sponsor (bulk).",
+    "src": "https://soto.house.gov/media/press-releases/natural-resources-committee-passes-puerto-rico-status-act-makes-history"
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023: ranked #59 of 436 House members (score 0.48). Problem Solvers Caucus member. Voted Yea on both 2025 and 2026 'denouncing socialism' resolutions (context).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Leading pro-industry crypto/blockchain legislator: 'Two Bipartisan Soto Blockchain and Cryptocurrency Bills Pass the House'; co-author of the Token Taxonomy Act with Rep. Warren Davidson (R). Classed as pro-business/pro-innovation.",
+    "src": "https://soto.house.gov/media/press-releases/two-bipartisan-soto-blockchain-bills-pass-house-representatives"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Five-term member and former state legislator (office 3); JD (cred 2); lead on the Puerto Rico Status Act (passed the House, Dec 2022) and two blockchain bills that passed the House (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether he debated in 2026 is unverified (no report on a debate with Dan Green in the redrawn R+8 seat). No hostile-outlet or town-hall evidence was gathered (the search budget ran out); he has held VA and climate town halls in past years."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Lead House sponsor of Puerto Rico statehood/status legislation (https://soto.house.gov/media/press-releases/natural-resources-committee-passes-puerto-rico-status-act-makes-history)",
+   "Pro-crypto: bipartisan blockchain bills passed the House; Token Taxonomy Act with Davidson (https://soto.house.gov/media/press-releases/soto-davidson-reintroduce-token-taxonomy-act)",
+   "With Frost, opposed a new ICE detention centre in Central Florida (https://soto.house.gov/media/press-releases/soto-frost-send-letter-dhs-ice-strongly-opposing-detention-center-central)",
+   "Bipartisan Venezuela TPS bills with Salazar and Díaz-Balart (https://soto.house.gov/media/press-releases)",
+   "Voted Yea on the 2025 and 2026 'denouncing socialism' resolutions (bulk, context)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "A cross-caucus pragmatist (CPC, New Dem and Problem Solvers). His only left marker is statehood (LI about 1). Centrist signals are his New Dem/PSC membership, a top-60 Lugar bipartisanship rank and pro-crypto legislation (CI about 4). He is credentialed and EO is average on unverified data, so he falls to the imperfect-fit step, where CI > LI points to Cat 4.",
+  "sources": [
+   "https://soto.house.gov/media/press-releases/natural-resources-committee-passes-puerto-rico-status-act-makes-history",
+   "https://soto.house.gov/media/press-releases/two-bipartisan-soto-blockchain-bills-pass-house-representatives",
+   "https://soto.house.gov/media/press-releases/soto-frost-send-letter-dhs-ice-strongly-opposing-detention-center-central",
+   "https://www.darrensoto.com/",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "F000476",
+  "name": "Maxwell Frost",
+  "seat": "FL-10",
+  "call_status": "re-elected 2026 (unopposed in the general election)",
+  "bio": {
+   "birth_year": 1997,
+   "education": "Attended Valencia College (no degree)",
+   "career": "National Organizing Director, March for Our Lives; ACLU organizer",
+   "prior_office": "U.S. House 2023-present (first Gen Z member; Oversight subcommittee ranking member)"
+  },
+  "self_description": "'I've spent my life as an organizer, fighting for the future we deserve… I will fight to end gun violence, win Medicare For All, transform our racist criminal justice system, and end the climate crisis.' 'I don't take corporate PAC money.' (campaign site)",
+  "primary_context": "Re-nominated in 2026; no Republican filed (wiki candidate list shows him alone). Primary details not verified.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "PCCC (Progressive Change Campaign Committee): listed on its 'Our Candidates' roster (https://boldprogressives.org/candidates/). The endorsement dates from his 2022 race; he is not on PCCC's separate 2026 list."
+  ],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Campaign pledge to 'win Medicare For All'; co-sponsor of H.R.3069 (bulk).",
+    "src": "https://www.frostforcongress.com/"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 0,
+   "policy": 2,
+   "note": "Two-term member (office 3); no degree (cred 0); his discharge petition to extend TPS for Haitians passed the House (2026), and he is an Oversight subcommittee ranking member who introduced the NICE Act (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Unopposed in the Nov 2026 general, so no general-election debate was possible; primary debates are unverified. No hostile-outlet evidence was gathered (the search budget ran out). He engages through oversight visits (e.g. 'Alligator Alcatraz') and detailed bills."
+  },
+  "outside_support": [
+   "PCCC (2022 endorsement, still on roster)",
+   "No corporate PAC money (self-imposed)"
+  ],
+  "notable_positions": [
+   "Campaign: 'win Medicare For All, transform our racist criminal justice system, and end the climate crisis' (https://www.frostforcongress.com/)",
+   "Co-sponsor of the Ultra-Millionaire Tax Act, Medicare for All, the GND, DC statehood and Block the Bombs to Israel (bulk)",
+   "Introduced the NICE Act to end ICE's indefinite holds in local jails; an oversight/reform stance, with no explicit abolish-ICE statement found (https://frost.house.gov/media/press-releases/congressman-maxwell-frost-and-members-of-house-oversight-committee-announce-investigations-and-legislation-to-address-ice-abuse-of-holds-in-local-jails)",
+   "His Haitian TPS discharge petition passed the House (https://frost.house.gov/media/press-releases/breaking-frosts-discharge-petition-to-extend-tps-for-haitians-passes-us-house)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "A movement-left organiser. Bulk co-sponsorships alone give LI 5 (wealth tax, M4A, GND, DC statehood, Block the Bombs), and his campaign site explicitly centres M4A and criminal-justice transformation. PCCC's roster listing would bring LI to 6 if counted. He has no centrist markers. Cat 1 is the natural fit; if L13 is not counted, the imperfect-fit step still points to Cat 1.",
+  "sources": [
+   "https://www.frostforcongress.com/",
+   "https://boldprogressives.org/candidates/",
+   "https://www.boldprogressives.org/candidates/our-endorsements-2026/",
+   "https://frost.house.gov/media/press-releases/breaking-frosts-discharge-petition-to-extend-tps-for-haitians-passes-us-house",
+   "https://frost.house.gov/media/press-releases/congressman-maxwell-frost-and-members-of-house-oversight-committee-announce-investigations-and-legislation-to-address-ice-abuse-of-holds-in-local-jails"
+  ]
+ },
+ {
+  "id": "C001066",
+  "name": "Kathy Castor",
+  "seat": "FL-14",
+  "call_status": "re-elected 2026 (defeated Republican state Rep. Mike Beltran in a seat redrawn to PVI R+4)",
+  "bio": {
+   "birth_year": 1966,
+   "education": "BA Emory University (1988); JD Florida State University (1991)",
+   "career": "Attorney; assistant general counsel, Florida Dept. of Community Affairs",
+   "prior_office": "Hillsborough County Commission (2002-06); U.S. House 2007-present; Chair, Select Committee on the Climate Crisis (2019-23); Energy & Commerce; SEEC leadership"
+  },
+  "self_description": "No explicit label found; a climate and consumer-protection lead (SEEC 'Thriving Economy Project').",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Ten-term member and former county commissioner (office 3); JD (cred 2); chaired the Select Committee on the Climate Crisis and championed passage of the bipartisan Ratepayer Protection Act (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated in 2026 is unverified. This was a competitive race in a redrawn R+4 seat against a sitting state legislator, but no debate report was found (the search budget ran out). No hostile-outlet evidence was gathered."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Championed passage of the bipartisan Ratepayer Protection Act to shield customers from data-centre-driven power costs; opposes new data centres in Hillsborough (http://castor.house.gov/news/documentsingle.aspx?DocumentID=405289)",
+   "Led the SEEC Institute's 'Thriving Economy Project' report (http://castor.house.gov/news/documentsingle.aspx?DocumentID=405290)",
+   "Introduced legislation with Schakowsky to modernise the FTC and strengthen consumer protections (http://castor.house.gov/news/documentsingle.aspx?DocumentID=405293)",
+   "Targets high rents and predatory housing practices (http://castor.house.gov/news/documentsingle.aspx?DocumentID=405286)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A mainstream liberal climate and consumer-protection specialist in no ideological caucus. The only marker found is a DC statehood co-sponsorship (LI 1); no centrist markers were found (CI 0). She is credentialed (EPD 7) and EO is average on unverified data, so she falls to the imperfect-fit step, which points nominally to Cat 1. The evidence is very thin, so treat this as a placeholder.",
+  "sources": [
+   "http://castor.house.gov/news/documentsingle.aspx?DocumentID=405289",
+   "http://castor.house.gov/news/documentsingle.aspx?DocumentID=405290",
+   "http://castor.house.gov/news/documentsingle.aspx?DocumentID=405293",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "W000797",
+  "name": "Debbie Wasserman Schultz",
+  "seat": "FL-20",
+  "call_status": "re-elected 2026 in the redrawn FL-20 (moved from FL-25 after the DeSantis mid-decade map; defeated Republican Brent Andersen). Note: the batch status string refers to Cherfilus-McCormick's resignation, not to DWS.",
+  "bio": {
+   "birth_year": 1966,
+   "education": "BA (1988) and MA political science (1990), University of Florida",
+   "career": "Legislative aide and adjunct instructor; DNC Chair (2011-16)",
+   "prior_office": "Florida House (1992-2000); Florida Senate (2000-04); U.S. House 2005-present; senior appropriator (Military Construction-VA ranking member); DNC Chair 2011-16"
+  },
+  "self_description": "'I reject the DSA. I reject the fringe left socialism that they are promoting.' (Aug 2026). Campaign: 'Florida's senior Congresswoman… senior appropriator and member of Democratic leadership'.",
+  "primary_context": "Won the 18 Aug 2026 FL-20 primary with 45% over former Broward Mayor Dale Holness (23%), DSA-aligned progressive Elijah Manley (14%), former Rep. Sheila Cherfilus-McCormick (9%) and Luther Campbell (8%). This drew criticism over Black representation in the historically Black district.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": -1,
+    "e": "'I reject the DSA. I reject the fringe left socialism that they are promoting.'",
+    "src": "https://www.wlrn.org/government-politics/2026-08-19/following-primary-victory-wasserman-schultz-credits-her-experience-rejects-fringe-left-socialism"
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023: ranked #67 of 436 House members (score 0.39). She publicly rejected 'fringe left socialism' and the DSA after the 2026 primary, and voted Yea on the 2025 'denouncing socialism' resolution (bulk, context).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Eleven-term member, former state legislator and DNC chair (office 3); MA plus a senior national party role (cred 2); senior appropriator who authored enacted laws such as the Virginia Graeme Baker Pool and Spa Safety Act and the EARLY Act ('landmark laws' per her campaign) (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate participation in the crowded 2026 primary and against Brent Andersen in the general is unverified (none mentioned in WLRN/theGrio coverage). She engages with constituents and press via unannounced ICE facility inspections and press conferences. No hostile-outlet evidence was gathered (the search budget ran out)."
+  },
+  "outside_support": [
+   "DMFI PAC",
+   "Florida AFL-CIO",
+   "SEIU Florida",
+   "League of Conservation Voters",
+   "Planned Parenthood",
+   "Giffords",
+   "Moms Demand Action",
+   "Equality PAC",
+   "Broward Teachers Union",
+   "Sun Sentinel editorial board",
+   "Broward Sheriff Gregory Tony (individual)"
+  ],
+  "notable_positions": [
+   "Rejected the DSA and 'fringe left socialism' after beating a DSA-aligned challenger (https://www.wlrn.org/government-politics/2026-08-19/following-primary-victory-wasserman-schultz-credits-her-experience-rejects-fringe-left-socialism)",
+   "Introduced the No PREJUDICE Act (barring ICE racial profiling) and the 'Build Homes, Not Hate Act' redirecting ICE funds to housing, after unannounced ICE facility inspections. This is reform and redirection, not an abolish-ICE call (https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3533)",
+   "Endorsed by DMFI PAC (pro-Israel Democrats) (https://debbiewassermanschultz.com/endorsements/)",
+   "Bipartisan Venezuela TPS legislation with Soto and Salazar (https://soto.house.gov/media/press-releases)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "An establishment, pro-Israel former DNC chair who explicitly rejects democratic socialism (L4 = -1) and has a top-70 Lugar bipartisanship rank. LI is about 1 (DC statehood) and CI about 2 (New Dem, C7). Her ICE positions are firmly anti-Trump-enforcement but stop short of abolition. She is credentialed with average EO on unverified data, so she falls to the imperfect-fit step, which points to Cat 4.",
+  "sources": [
+   "https://www.wlrn.org/government-politics/2026-08-19/following-primary-victory-wasserman-schultz-credits-her-experience-rejects-fringe-left-socialism",
+   "https://www.wlrn.org/light/government-politics/2026-11-03/elections-congressional-dandiya-frankel-gimenez-mast-south-florida",
+   "https://thegrio.com/2026/08/19/florida-district-is-now-out-of-a-black-representative-debbie-wasserman-schultz/",
+   "https://debbiewassermanschultz.com/endorsements/",
+   "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3533",
+   "https://jewishinsider.com/2026/08/florida-voters-reject-political-extremes/",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "F000462",
+  "name": "Lois Frankel",
+  "seat": "FL-23",
+  "call_status": "re-elected 2026 (moved from FL-22 to the redrawn FL-23; defeated Republican Deborah Adeimy about 65.6% to 34.4%)",
+  "bio": {
+   "birth_year": 1948,
+   "education": "BA Boston University (1970); JD Georgetown University (1973)",
+   "career": "Attorney",
+   "prior_office": "Florida House (1986-92, 1994-2002; Democratic Leader); Mayor of West Palm Beach (2003-11); U.S. House 2013-present; Appropriations; former Democratic Women's Caucus co-chair"
+  },
+  "self_description": "No explicit ideological label found.",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": -1,
+    "e": "Co-sponsor of the Medicare for All Act (H.R.3069, 119th) per bulk data.",
+    "src": "https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors"
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Seven-term member, former big-city mayor and state House Democratic leader (office 3); JD (cred 2); appropriator and women's-issues lead, but no enacted signature bill confirmed this session (policy 1)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated in 2026 is unverified (no report on a debate with Deborah Adeimy). No hostile-outlet or town-hall evidence was gathered (the search budget ran out)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Co-sponsor of Medicare for All and DC statehood (bulk)",
+   "Led a bipartisan resolution marking three years since the October 7 attacks on Israel (http://frankel.house.gov/news/documentsingle.aspx?DocumentID=5035)",
+   "Criticised Trump's childhood-vaccine order and his 'attack on voting rights' (http://frankel.house.gov/news/documentsingle.aspx?DocumentID=5026)",
+   "Led the bipartisan Florida delegation urging protection of HIV-prevention funding (http://frankel.house.gov/news/documentsingle.aspx?DocumentID=5028)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "A mainstream liberal with M4A and DC statehood co-sponsorships (LI about 2) and no centrist markers found (Lugar 2023 rank #112, below threshold; CI 0). She is credentialed (EPD 6) and EO is average on unverified data, so she falls to the imperfect-fit step, which points nominally to Cat 1. The evidence is thin.",
+  "sources": [
+   "http://frankel.house.gov/news/documentsingle.aspx?DocumentID=5035",
+   "http://frankel.house.gov/news/documentsingle.aspx?DocumentID=5026",
+   "https://www.wlrn.org/light/government-politics/2026-11-03/elections-congressional-dandiya-frankel-gimenez-mast-south-florida",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ },
+ {
+  "id": "M001217",
+  "name": "Jared Moskowitz",
+  "seat": "FL-25",
+  "call_status": "re-elected 2026 (moved from FL-23 to the redrawn, Trump +9 FL-25; defeated Republican Boca Raton Mayor Scott Singer in a toss-up race, with about $25M spent per side)",
+  "bio": {
+   "birth_year": 1980,
+   "education": "BA George Washington University; JD Nova Southeastern University",
+   "career": "Attorney; Director, Florida Division of Emergency Management under Gov. DeSantis (2019-21)",
+   "prior_office": "Parkland City Commission; Florida House (2012-19); U.S. House 2023-present; Ranking Member, Foreign Affairs Middle East & North Africa subcommittee"
+  },
+  "self_description": "'I didn't change who I am or what I believe, and the voters overwhelmingly chose the independent-minded approach' (after the Aug 2026 primary). Election night: 'This district was re-drawn to defeat me. Voters had other plans.'",
+  "primary_context": "Defeated DSA-backed Oliver Larkin 64% to 36% in the 18 Aug 2026 primary, a challenge from the left backed by streamer Hasan Piker.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "First Democrat to join the DOGE Caucus: 'streamlining government processes and reducing ineffective government spending should not be a partisan issue'. Also introduced the Holiday Bonus Tax Relief Act. No wealth-tax support found.",
+    "src": "https://moskowitz.house.gov/posts/joining-doge-caucus"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Campaigns on delivering law-enforcement funding: announced 'Millions of Dollars in Public Safety Funding' for the Broward Sheriff's Office (2024) and a 2026 package 'Securing Major Wins for Public Safety'. No police-union endorsement was verified.",
+    "src": "https://moskowitz.house.gov/posts/moskowitz-delivers-more-than-7-3-million-for-south-florida-securing-major-wins-for-public-safety-infrastructure-and-economic-growth"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "'Moskowitz Becomes First Democrat to Join Bipartisan DOGE Caucus' (Dec 2024); describes his approach as 'independent-minded'; a former DeSantis appointee; many bipartisan bills (with Donalds, Luna, Lawler, Fry), including a conservation bill that passed 400-0.",
+    "src": "https://moskowitz.house.gov/posts/joining-doge-caucus"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Two-term member, former state emergency-management director and state legislator (office 3); JD (cred 2); Moskowitz-Donalds conservation bill passed the House 400-0 (Dec 2025); leads a FEMA independence and DHS restructuring package; MENA subcommittee ranking member (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether he debated Scott Singer in 2026 is unverified (no debate found in WLRN/JNS coverage). He is known for heavy media presence across outlets; this session verified only a 535 News/MeidasTouch interview (May 2026). Fox or Newsmax appearances were not verified (the search budget ran out), so media is scored 1. He engages substantively on DHS restructuring and FEMA."
+  },
+  "outside_support": [
+   "DCCC (primary)",
+   "AIPAC (indirect support in the primary per Fox News)",
+   "Heavy party/outside spending in the general (~$25M each side)"
+  ],
+  "notable_positions": [
+   "Joined the DOGE Caucus as its first Democrat to push DHS restructuring and spending efficiency (https://moskowitz.house.gov/posts/joining-doge-caucus)",
+   "Bipartisan DHS reform package: Secret Service to the EOP, FEMA independent, TSA to DOT (https://moskowitz.house.gov/posts/moskowitz-unveils-bipartisan-legislative-package-to-reform-the-department-of-homeland-security)",
+   "Voted Yea on the Laken Riley Act (bulk); beat a DSA-backed primary challenger 64-36 (https://jewishinsider.com/2026/08/florida-voters-reject-political-extremes/)",
+   "Strongly pro-Israel: anti-BDS legislation, PLO/PA martyr-payments bill, Abraham Accords bill (https://moskowitz.house.gov/posts/moskowitz-reintroduces-bipartisan-legislation-to-counteract-anti-israel-bds-movement)",
+   "Pro gun-safety (Parkland): school background checks, 3D-printed ghost-gun ban (https://moskowitz.house.gov/posts/moskowitz-fry-bipartisan-school-background-check-bill-clears-judiciary-committee-heads-to-house-floor)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "A self-described 'independent-minded' moderate: first Democrat in the DOGE caucus, a former DeSantis appointee, a Laken Riley Yea vote, and a decisive win over a DSA challenger. CI is about 5 (C1 New Dem, C3, C4 vote, C5, C7). LI is about 2, coming only from M4A and DC statehood co-sponsorships (an unusual M4A co-sponsorship for him). That meets the Cat 4 test (CI ≥ 5, LI ≤ 3); C5 is the weakest marker.",
+  "sources": [
+   "https://moskowitz.house.gov/posts/joining-doge-caucus",
+   "https://moskowitz.house.gov/posts/moskowitz-unveils-bipartisan-legislative-package-to-reform-the-department-of-homeland-security",
+   "https://moskowitz.house.gov/posts/moskowitz-discusses-bipartisan-dhs-reform-package-on-535-news",
+   "https://moskowitz.house.gov/posts/moskowitz-delivers-more-than-7-3-million-for-south-florida-securing-major-wins-for-public-safety-infrastructure-and-economic-growth",
+   "https://moskowitz.house.gov/posts/moskowitz-donalds-bipartisan-conservation-bill-passes-house-400-0",
+   "https://www.foxnews.com/politics/pro-israel-moderate-survives-primary-challenge-socialist-insurgent.amp",
+   "https://jewishinsider.com/2026/08/florida-voters-reject-political-extremes/",
+   "https://www.wlrn.org/government-politics/2026-11-03/democrat-rep-jared-moskowitz-wins-newly-created-25th-district-over-republican-scott-singer"
+  ]
+ },
+ {
+  "id": "B000490",
+  "name": "Sanford D. Bishop, Jr.",
+  "seat": "GA-2",
+  "call_status": "re-elected 2026 (defeated Republican Matt Day)",
+  "bio": {
+   "birth_year": 1947,
+   "education": "BA Morehouse College (1968); JD Emory University (1971)",
+   "career": "Attorney; U.S. Army (1969-71)",
+   "prior_office": "Georgia House (1977-91); Georgia Senate (1991-93); U.S. House 1993-present; ranking member, Appropriations Agriculture-FDA subcommittee"
+  },
+  "self_description": "Blue Dog Coalition member; frames votes around fiscal responsibility and rural Georgia.",
+  "primary_context": "No contested 2026 primary found (not verified).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Repeatedly frames opposition to GOP budgets around deficits: H.R.1 'explodes the federal budget deficit… We need to fight fraud, waste, and abuse – not use those words as political cover for billionaire tax giveaways and ballooning the country's budget deficit'. Several releases are headlined on increasing deficits. No wealth-tax support found.",
+    "src": "https://bishop.house.gov/media-center/press-releases/congressman-bishop-opposes-bill-that-makes-the-biggest-cut-to-medicaid-in-american-history-threatens-hospitals-guts-snap-kills-jobs-undermines-energy-independence-increases-the-deficit"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Lugar Center–McCourt Bipartisan Index 2023: ranked #63 of 436 House members (score 0.44). Many bipartisan bills (e.g. with Austin Scott and Fitzpatrick).",
+    "src": "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Seventeen-term member and former state legislator (office 3); JD (cred 2); top Democrat on the Agriculture-FDA appropriations subcommittee, with enacted bills (e.g. the Jimmy and Rosalynn Carter Post Office) (policy 2)."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether he debated Matt Day in 2026 is unverified. No hostile-outlet or town-hall evidence was gathered (the search budget ran out). His releases engage policy specifics (Medicaid, SNAP, deficits)."
+  },
+  "outside_support": [],
+  "notable_positions": [
+   "Blue Dog: opposed H.R.1 partly because it 'explodes the federal budget deficit' (https://bishop.house.gov/media-center/press-releases/congressman-bishop-opposes-bill-that-makes-the-biggest-cut-to-medicaid-in-american-history-threatens-hospitals-guts-snap-kills-jobs-undermines-energy-independence-increases-the-deficit)",
+   "Voted Yea on the Laken Riley Act (bulk)",
+   "Led Blue Dog action on the fentanyl crisis (https://bishop.house.gov/media-center/press-releases/congressman-bishop-blue-dog-coalition-help-lead-congressional-action-on-fentanyl-crisis)",
+   "Supported the bipartisan resolution backing Israel after Oct 7 (https://bishop.house.gov/media-center/press-releases)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "A long-serving Blue Dog. Blue Dog membership (C1 = 2), deficit-focused framing (C3), a Laken Riley Yea vote (C4) and a top-65 Lugar bipartisanship rank (C7) give CI about 5, against LI about 1 (DC statehood). That meets the Cat 4 test.",
+  "sources": [
+   "https://bishop.house.gov/media-center/press-releases/congressman-bishop-opposes-bill-that-makes-the-biggest-cut-to-medicaid-in-american-history-threatens-hospitals-guts-snap-kills-jobs-undermines-energy-independence-increases-the-deficit",
+   "https://bishop.house.gov/media-center/press-releases/congressman-bishop-blue-dog-coalition-help-lead-congressional-action-on-fentanyl-crisis",
+   "https://www.thelugarcenter.org/assets/htmldocuments/2023_BPI_House_FULL.pdf"
+  ]
+ }
+]

@@ -1,0 +1,1788 @@
+[
+ {
+  "id": "F000481",
+  "name": "Shomari Figures",
+  "seat": "AL-2",
+  "call_status": "re-elected 2026 (defeated Republican Rhett Marques ~54-46 under a GOP-redrawn map; Marques conceded election night)",
+  "bio": {
+   "birth_year": 1985,
+   "education": "BA Univ. of Alabama (2006); JD Univ. of Alabama School of Law (2010)",
+   "career": "Federal law clerk; Obama 2012 campaign; Obama White House Presidential Personnel Office; White House liaison to AG Loretta Lynch; legislative counsel to Sen. Sherrod Brown; deputy chief of staff/senior adviser to AG Merrick Garland",
+   "prior_office": "No prior elected office; U.S. House since Jan 2025 (1 term)"
+  },
+  "self_description": "No explicit ideological self-label found; campaigns on delivering federal money to the district, farm relief and affordability ('a congressman who will work for them'). New Democrat Coalition member (chairs its Transportation Task Force).",
+  "primary_context": "Unopposed in the 11 Aug 2026 Democratic primary (redrawn district). In 2024 he won an 11-way primary and runoff against state House Minority Leader Anthony Daniels, with crypto PACs spending millions for him.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (chair, Transportation Task Force)"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024 with senior federal staff background (DOJ senior adviser/deputy chief of staff to AG Garland) -> 2; JD -> 2; his bipartisan Made in America Jobs Act of 2026 (with Rep. Jeff Hurd) passed the House -> 2."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 2,
+   "substance": 1,
+   "note": "Accepted all three 2026 general-election debate invitations (AL.com, Montgomery Chamber, Christian Coalition of Alabama) and said 'I will debate Rhett Marques anytime, any place'; Marques refused to 'give a platform' to him, so no debate took place (alreporter.com 9 Oct 2026). Holds frequent in-person town halls across the district, including contentious ones (Fox10 Mar 2025/Mar 2026; ASU Hornet Tribune) and gave an interview to Fox News Digital on voter ID (Apr 2026). Engaged substantively on voter ID, saying he supports ID requirements."
+  },
+  "outside_support": [
+   "DCCC Frontline program (2026)",
+   "Crypto PACs (Protect Progress/Fairshake network) spent millions in his 2024 primary",
+   "Giffords endorsement"
+  ],
+  "notable_positions": [
+   "Voted Yea on Laken Riley Act (bulk key vote)",
+   "Co-sponsor of Medicare for All Act H.R.3069 (bulk) while campaigning mainly on Medicaid expansion and rural hospitals (https://en.wikipedia.org/wiki/Shomari_Figures)",
+   "Bipartisan Made in America Jobs Act of 2026 passed the House (https://figures.house.gov/media)",
+   "Says he supports voter ID while opposing the SAVE Act (https://www.alreporter.com/2026/04/03/no-shomari-figures-was-not-embarrassed-at-a-town-hall/)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Bulk data is mixed: New Dem member and Laken Riley Yea, but also a Medicare for All and DC statehood co-sponsor; no movement-left endorsements or centrist statements beyond that were found, so LI and CI are both low (~2 each). He is credentialed (JD, senior DOJ role, a House-passed bill) and highly engaged (sought debates, many town halls), so he falls to the 'nearest of 1/4' step; his New Dem leadership, crypto-PAC backing and border vote lean marginally centrist. Imperfect fit.",
+  "sources": [
+   "https://www.alreporter.com/2026/10/09/figures-calls-for-cd2-debates-marques-refuses-invitation/",
+   "https://www.alreporter.com/2026/08/13/cd2-race-draws-national-heat-as-figures-marques-face-partisan-scrutiny/",
+   "https://thegrio.com/2026/11/04/shomari-figures-wins-reelection-in-alabamas-2nd-district-congressional-race-despite-redistricting/",
+   "https://www.fox10tv.com/2025/03/18/congressman-shomari-figures-townhall-well-attended-with-constituents-voicing-concerns/",
+   "https://www.alreporter.com/2026/04/03/no-shomari-figures-was-not-embarrassed-at-a-town-hall/",
+   "https://en.wikipedia.org/wiki/Shomari_Figures",
+   "https://figures.house.gov/media",
+   "https://www.alabamagazette.com/story/2026/05/21/news/terri-sewell-and-shomari-figures-are-running-unopposed-in-august-11-democratic-primary/11226.html"
+  ]
+ },
+ {
+  "id": "S001185",
+  "name": "Terri A. Sewell",
+  "seat": "AL-7",
+  "call_status": "re-elected 2026 (defeated Republican Ammie Akin in the GOP-redrawn 7th)",
+  "bio": {
+   "birth_year": 1965,
+   "education": "AB Princeton (1986); Oxford (Marshall Scholar, MA); JD Harvard Law School",
+   "career": "Federal law clerk; securities lawyer at Davis Polk & Wardwell; public-finance partner at Maynard Cooper & Gale (first Black woman partner)",
+   "prior_office": "U.S. House since Jan 2011 (8 terms); senior Ways and Means member; New Democrat Coalition vice chair"
+  },
+  "self_description": "No explicit ideological self-label found; emphasises voting rights, rural health and jobs. Described by the U.S. Chamber as taking a 'bipartisan approach'.",
+  "primary_context": "Unopposed in the 11 Aug 2026 Democratic primary.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce for re-election (Aug 2026), citing her bipartisan approach and small-business/workforce work.",
+    "src": "https://uschamber.com/improving-government/u-s-chamber-endorses-rep-terri-sewell-for-alabamas-seventh-district"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (vice chair)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member of Congress since 2011 -> 3; Harvard JD, Oxford, big-law partner -> 2; lead sponsor of the John Lewis Voting Rights Advancement Act (passed House) and an enacted HBCU capital-funding bill; senior Ways and Means member -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "No report found of any 2026 debate or forum with Republican Ammie Akin (unverified). Her 2025 annual report lists five telephone town halls plus 'community conversations' and mobile office hours: mostly controlled formats; no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "U.S. Chamber of Commerce",
+   "AFL-CIO (92% 2025 score)"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act in Jan 2025, one of 46-48 Democrats (https://en.wikipedia.org/wiki/Terri_Sewell)",
+   "Lead sponsor of the John Lewis Voting Rights Advancement Act (https://en.wikipedia.org/wiki/Terri_Sewell)",
+   "Co-sponsor of DC Admission Act (bulk)",
+   "U.S. Chamber endorsement 2026 (https://uschamber.com/improving-government/u-s-chamber-endorses-rep-terri-sewell-for-alabamas-seventh-district)",
+   "Ranked 94th most bipartisan House member (114th Congress, Lugar Index) - old and mid-table, not used as a marker"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream establishment Democrat with an orthodox liberal voting record but some centrist signals: New Dem vice chair, Laken Riley Yea, U.S. Chamber endorsement (CI ~3); LI ~1 (DC statehood). Highly credentialed with a policy record, and engagement is moderate (EO ~3, debate unverified), so she reaches the 'nearest of 1/4' step and leans to 4 as an imperfect fit.",
+  "sources": [
+   "https://uschamber.com/improving-government/u-s-chamber-endorses-rep-terri-sewell-for-alabamas-seventh-district",
+   "https://sewell.house.gov/2025/12/rep-sewell-releases-annual-report-2025-in-review",
+   "https://www.newsfromthestates.com/article/ammie-akin-wins-republican-nomination-alabamas-7th-congressional-district",
+   "https://en.wikipedia.org/wiki/Terri_Sewell",
+   "https://aflcio.org/scorecard/legislators/terri-sewell",
+   "https://www.alabamagazette.com/story/2026/05/21/news/terri-sewell-and-shomari-figures-are-running-unopposed-in-august-11-democratic-primary/11226.html"
+  ]
+ },
+ {
+  "id": "A000381",
+  "name": "Yassamin Ansari",
+  "seat": "AZ-3",
+  "call_status": "re-elected 2026",
+  "bio": {
+   "birth_year": 1992,
+   "education": "BA Stanford (international relations); MPhil St John's College, Cambridge (Gates Scholar)",
+   "career": "Senior policy adviser/climate staff to UN Secretaries-General Ban Ki-moon and Antonio Guterres (Paris Agreement); climate-action organiser",
+   "prior_office": "Phoenix City Council 2021-24 (incl. vice mayor); U.S. House since Jan 2025 (1 term); Democratic freshman class president; ranking member, Natural Resources Energy & Mineral Resources subcommittee"
+  },
+  "self_description": "Described as a 'progressive Democrat'; CPC member. In 2024 ran as a DMFI-backed, pro-Israel progressive, but moved left on Israel and ICE in 2025-26.",
+  "primary_context": "Faced Sandy Cano-Bravo in the 4 Aug 2026 Democratic primary and won (margin not checked); no notable progressive or centrist group backing for the challenger found. 2024: won open-seat primary over Raquel Teran by 39 votes.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 1,
+    "e": "After the killing of Alex Pretti (Jan 2026) called for abolishing ICE; July 2026 floor speech backing the Drain ICE Act; posted 'We need to abolish ICE and end for-profit detention centers once and for all'; called ICE detention facilities 'concentration camps'.",
+    "src": "https://ansari.house.gov/media/press-releases/rep-ansari-condemns-ice-murders-calls-for-passage-of-drain-ice-act"
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "In July 2026 voted for the Massie amendment to end all regularly appropriated aid to Israel: 'Not one more taxpayer dollar should fund war and destruction'; co-sponsors Block the Bombs Act. (In Nov 2024 she had opposed Sanders' arms-sale resolutions.)",
+    "src": "https://en.wikipedia.org/wiki/Yassamin_Ansari"
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC (2024)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": -1,
+    "e": "Publicly calls for abolishing ICE (see L9).",
+    "src": "https://ansari.house.gov/media/press-releases/rep-ansari-condemns-ice-murders-calls-for-passage-of-drain-ice-act"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024; former Phoenix vice mayor -> 2; Cambridge MPhil + senior UN policy role -> 2; subcommittee ranking member and author of ICE-oversight bill package and Hegseth impeachment articles -> 2."
+  },
+  "EO": {
+   "debate": 0,
+   "media": 1,
+   "substance": 1,
+   "note": "Did not respond to the Arizona Clean Elections Commission's invitation to the 2026 CD3 general-election debate (No Labels and Green candidates debated without her, 25 Aug 2026) (azfamily.com). Frequent media presence on friendly/mainstream outlets (KJZZ, Arizona PBS, cable); no hostile-outlet appearances or in-person town halls found in this research."
+  },
+  "outside_support": [
+   "Democratic Majority for Israel (2024)",
+   "IAFF and other unions (2024)",
+   "Congressional Progressive Caucus PAC (2024)"
+  ],
+  "notable_positions": [
+   "Calls to abolish ICE; Drain ICE Act (https://ansari.house.gov/media/press-releases/rep-ansari-condemns-ice-murders-calls-for-passage-of-drain-ice-act)",
+   "Voted to end all regular aid to Israel (Massie amendment, July 2026) after backing unconditional aid in 2024 (https://en.wikipedia.org/wiki/Yassamin_Ansari)",
+   "Introduced articles of impeachment against Defense Secretary Hegseth (Apr 2026) (https://en.wikipedia.org/wiki/Yassamin_Ansari)",
+   "Co-sponsor of Medicare for All, Ultra-Millionaire Tax Act, Melt ICE Act (bulk)"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (L1, L3, L9, L11, L12) plus a 2024 CPC PAC endorsement give LI about 6, at the Category 1 threshold; her own 2026 statements (abolish ICE, end aid to Israel) reinforce it. Confidence is medium because she ran in 2024 as a DMFI-backed pro-Israel progressive and the movement-left endorsement record is thin.",
+  "sources": [
+   "https://ansari.house.gov/media/press-releases/rep-ansari-condemns-ice-murders-calls-for-passage-of-drain-ice-act",
+   "https://en.wikipedia.org/wiki/Yassamin_Ansari",
+   "https://yassaminforcongress.com/news/congressional-progressive-caucus-pac-endorses-yassamin-ansari-az-03/",
+   "https://www.azfamily.com/2026/08/21/stay-informed-heres-when-candidates-are-debating-before-november-election/",
+   "https://californiaglobe.com/fr/arizona-democrat-draws-aoc-comparisons-after-calling-ice-facilities-concentration-camps/"
+  ]
+ },
+ {
+  "id": "S001211",
+  "name": "Greg Stanton",
+  "seat": "AZ-4",
+  "call_status": "re-elected 2026 (defeated Republican Zuhdi Jasser)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA Marquette (1992); JD Univ. of Michigan (1995)",
+   "career": "Education attorney; adjunct law professor",
+   "prior_office": "Phoenix City Council 2000-09; Arizona Deputy Attorney General 2009-11; Mayor of Phoenix 2012-18; U.S. House since 2019 (4 terms)"
+  },
+  "self_description": "Stresses 'work across the aisle' and pragmatic problem-solving; described by Fox News and local press as a 'moderate' in the New Democrat wing.",
+  "primary_context": "Challenged from the left on 21 Jul 2026 by Kai Newkirk (DSA member; ran on Medicare for All, abolishing ICE, no AIPAC money); Stanton won roughly 65-35. Stanton skipped the primary debate.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Voted for the Laken Riley Act and criticised the Biden administration on the border; chairs the New Democrat Coalition's Immigration Task Force; opposed in 2026 by an abolish-ICE challenger.",
+    "src": "https://foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat"
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the U.S. Chamber of Commerce and local chambers of commerce, citing his infrastructure work and bipartisan solutions.",
+    "src": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-greg-stanton-for-arizonas-fourth-district"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (chair, Immigration Task Force)"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2019 and former two-term mayor of Phoenix -> 3; JD -> 2; ranking member of a Transportation & Infrastructure subcommittee -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Skipped the 27 May 2026 Clean Elections Democratic primary debate, leaving challenger Kai Newkirk alone on stage (Fox10), but took part in the 5 Oct 2026 Clean Elections general-election debate with Republican Zuhdi Jasser and a No Labels candidate (Mesa Independent). Media pattern: mainstream local outlets; no town-hall or hostile-outlet evidence found."
+  },
+  "outside_support": [
+   "U.S. Chamber of Commerce",
+   "Democratic Majority for Israel PAC",
+   "AIPAC-linked donors (challenger cited >$300K)",
+   "Protect Progress (crypto) and Think Big (AI) super PAC spending in 2026 primary (single source)",
+   "Building trades and other unions",
+   "LCV Action Fund",
+   "Human Rights Campaign"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act (bulk; https://foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat)",
+   "Backs ceasefire and two-state solution; opposed Biden-era limits on arms sales per challenger (https://foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat)",
+   "U.S. Chamber endorsement (https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-greg-stanton-for-arizonas-fourth-district)",
+   "Beat a DSA-member challenger who ran on abolishing ICE (https://www.fox10phoenix.com/news/arizona-cd-4-election-rep-greg-stanton-skips-debate-kai-newkirk)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "A New Dem moderate with Laken Riley vote, border criticism of Biden and U.S. Chamber backing (CI about 3-4) and only DC statehood on the left side (LI 1). CI falls short of 5, but he is credentialed and moderately engaged (EO 3), so the nearest-bucket step places him in Category 4 (imperfect fit).",
+  "sources": [
+   "https://www.fox10phoenix.com/news/arizona-cd-4-election-rep-greg-stanton-skips-debate-kai-newkirk",
+   "https://www.yourvalley.net/mesa-independent/stories/three-candidates-debate-in-a-fight-to-be-congressional-delegate-for-cd4,725989",
+   "https://foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-greg-stanton-for-arizonas-fourth-district",
+   "https://www.stantonforarizona.com/dmfiendorsement",
+   "https://en.wikipedia.org/wiki/Greg_Stanton"
+  ]
+ },
+ {
+  "id": "G000606",
+  "name": "Adelita S. Grijalva",
+  "seat": "AZ-7",
+  "call_status": "re-elected 2026 (defeated Republican Daniel Butierez)",
+  "bio": {
+   "birth_year": 1970,
+   "education": "BA political science, Univ. of Arizona (1995)",
+   "career": "Director of the nonprofit juvenile-diversion program Pima County Teen Court for 25 years; daughter of the late Rep. Raul Grijalva",
+   "prior_office": "Tucson Unified School District board (2002-2020); Pima County Board of Supervisors 2021-25 (chair 2023); U.S. House since Nov 2025 (special election)"
+  },
+  "self_description": "Progressive; joined the Congressional Progressive Caucus on swearing-in (Nov 2025); supports single-payer Medicare for All.",
+  "primary_context": "2025 special primary: beat Deja Foxx (Gen-Z insurgent) and Daniel Hernandez Jr.; 2026 primary details not checked (no notable challenge found).",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 1,
+    "e": "In a televised debate during the 2025 special election accused Israel of committing 'genocide' in Gaza; co-sponsored Block the Bombs Act on taking office.",
+    "src": "https://www.azcentral.com/story/news/politics/elections/2025/08/26/adelita-grijalva-will-face-republican-challenger-in-tv-debate/85823985007/"
+   }
+  },
+  "L13_endorsements": [
+   "Bernie Sanders (Apr 2025)",
+   "Congressional Progressive Caucus / CPC PAC (Apr 2025)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "First elected 2025 (special); prior county board chair and school board -> 2; BA plus long nonprofit executive career -> 1; one year in office, ordinary record -> 1."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Debated Republican Daniel Butierez in the 2025 special election (televised) and again in the 26 Aug 2026 Clean Elections debate; took part in 2025 primary forums. Media: high profile on mainstream/friendly outlets after the delayed swearing-in and ICE pepper-spray incident (Dec 2025); held community oversight briefings on detention centers with Rep. Ansari; no hostile-outlet appearances found."
+  },
+  "outside_support": [
+   "Bernie Sanders",
+   "Congressional Progressive Caucus PAC",
+   "Labor unions"
+  ],
+  "notable_positions": [
+   "Called Israel's Gaza campaign a genocide in a 2025 TV debate (https://www.azcentral.com/story/news/politics/elections/2025/08/26/adelita-grijalva-will-face-republican-challenger-in-tv-debate/85823985007/)",
+   "Supports single-payer Medicare for All (https://en.wikipedia.org/wiki/Adelita_Grijalva)",
+   "Co-sponsor of Ultra-Millionaire Tax Act, Melt ICE Act, Block the Bombs Act (bulk)",
+   "Pepper-sprayed at a Tucson ICE raid, Dec 2025; oversight of detention centers (https://en.wikipedia.org/wiki/Adelita_Grijalva)"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships establish L1, L3, L9, L11 and L12 (5 points), and she was endorsed by Bernie Sanders and the CPC (2 points), giving LI about 7, above the Category 1 threshold. Her genocide statement and abolish-ICE-adjacent record are consistent with the movement-left bucket.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adelita_Grijalva",
+   "https://www.azcentral.com/story/news/politics/elections/2025/08/26/adelita-grijalva-will-face-republican-challenger-in-tv-debate/85823985007/",
+   "https://www.myheraldreview.com/news/cochise_county/bernie-sanders-endorses-adelita-grijalva-in-cd-7-race/article_40d19417-0c7f-44c9-a311-7c263ff35fb4.html",
+   "https://www.eenews.net/articles/grijalva-wins-progressive-caucus-backing-in-arizona-race/",
+   "https://www.azfamily.com/2026/08/21/stay-informed-heres-when-candidates-are-debating-before-november-election/",
+   "https://ansari.house.gov/media/press-releases/icymi-reps-ansari-and-grijalva-hold-community-oversight-briefing-on-mass-detention-centers",
+   "https://www.kawc.org/news/2026-08-27/republican-butierrez-challenges-a-democrat-grijalva-for-the-third-time"
+  ]
+ },
+ {
+  "id": "H001068",
+  "name": "Jared Huffman",
+  "seat": "CA-2",
+  "call_status": "re-elected 2026 (65.6% vs Republican Robin Littau; CA SoS count 10 Nov)",
+  "bio": {
+   "birth_year": 1964,
+   "education": "BA UC Santa Barbara (1986); JD Boston College",
+   "career": "Public-interest/consumer attorney; senior attorney, Natural Resources Defense Council; USA national volleyball team (1987)",
+   "prior_office": "Marin Municipal Water District board 1994-2006; California State Assembly 2006-12; U.S. House since 2013 (7 terms); ranking member, House Natural Resources Committee (2025-)"
+  },
+  "self_description": "'Congressman. Outdoorsman. Environmentalist. Humanist.' Vice-chair of the Congressional Progressive Caucus; co-founder/co-chair of the Congressional Freethought Caucus.",
+  "primary_context": "Top-two primary June 2026: first with 56.5%; Democratic challenger Rose Penelope Yee (backed by Progressive Democrats of America, Track AIPAC and reportedly DSA) was eliminated, a minor challenge from the left.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2013, former state assemblyman -> 3; JD plus NRDC senior attorney -> 2; ranking member of the Natural Resources Committee -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Debate with Republican Robin Littau unverified (no reports found; search budget exhausted). Media: active national Democratic messenger (Stop Project 2025 Task Force founder); no 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "California Labor Federation",
+   "LCV Action Fund, Sierra Club, California Environmental Voters, Center for Biological Diversity Action Fund",
+   "J Street, JACPAC",
+   "Planned Parenthood Action Fund",
+   "AIPAC listed on Wikipedia but marked 'citation needed' (unverified)"
+  ],
+  "notable_positions": [
+   "CPC vice-chair; ranking member of Natural Resources (https://www.jaredhuffman.com/about-jared)",
+   "Founded the Stop Project 2025 Task Force (2024) (https://en.wikipedia.org/wiki/Jared_Huffman)",
+   "One of 22 House members to vote against H.Res. 798 on campus antisemitism (Nov 2023) (https://en.wikipedia.org/wiki/Jared_Huffman)",
+   "Voted against the Fiscal Responsibility Act of 2023 (https://en.wikipedia.org/wiki/Jared_Huffman)",
+   "Bulk: co-sponsor of Medicare for All, Green New Deal (118th), DC statehood, Block the Bombs; Nay on Laken Riley and trans-sports bill"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (M4A, Green New Deal, DC statehood, Block the Bombs) give LI 4 with no movement-left endorsements verified, so he is progressive-leaning rather than clearly over the Category 1 line; no centrist markers. Credentialed and a committee ranking member, with engagement unverified, so the nearest-bucket step puts him in Category 1 (imperfect fit).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/2",
+   "https://www.jaredhuffman.com/about-jared",
+   "https://www.jaredhuffman.com/endorsements-1",
+   "https://en.wikipedia.org/wiki/Jared_Huffman",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "B001287",
+  "name": "Ami Bera",
+  "seat": "CA-3",
+  "call_status": "re-elected 2026 in the redrawn 3rd district (58.8% vs Republican Robb Tucker; CA SoS count 10 Nov). Previously represented CA-6.",
+  "bio": {
+   "birth_year": 1965,
+   "education": "BS and MD, UC Irvine (1991)",
+   "career": "Internist; medical director of care management, Mercy Healthcare Sacramento; chief medical officer, Sacramento County; associate dean of admissions, UC Davis School of Medicine",
+   "prior_office": "U.S. House since 2013 (7 terms); New Democrat Coalition vice-chair of outreach; House Intelligence and Foreign Affairs committees"
+  },
+  "self_description": "No ideological label found; campaign stresses 'commonsense values and practical solutions', small business, and 'Streamline Government, Balance the Budget'.",
+  "primary_context": "Top-two primary June 2026 in the new CA-3: advanced with Republican Robb Tucker; Democrats Chris Bennett (backed by Central Sierra Foothills DSA, PDA, Track AIPAC) and Nevada County Supervisor Heidi Hall (backed by Rep. Huffman) were eliminated, so a challenge from the left.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Campaign economy page: 'Streamline Government, Balance the Budget... Dr. Bera has spearheaded federal policy to balance our budget'; 'return to an ethic of responsibility and fiscal toughness'; no wealth-tax support found.",
+    "src": "https://www.beraforcongress.com/issues/jobs-economy"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Energy page: 'continue to explore the smartest and safest measures to maximize domestic oil and natural gas production' (enhanced oil recovery) while opposing offshore drilling; wrote a 2015 op-ed backing the Trans-Pacific Partnership; one of 16 Democrats to vote against the 2022 merger-fee antitrust package.",
+    "src": "https://www.beraforcongress.com/issues/energy-and-environment"
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (vice chair of outreach)",
+   "Formerly prominent in Problem Solvers/No Labels (praised by No Labels co-founder Mark McKinnon, 2014) - historical"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Member since 2013 -> 3; MD and county chief medical officer -> 2; ordinary legislative record (no lead-sponsored laws found; serves on Intelligence and Foreign Affairs) -> 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general-election debate with Robb Tucker unverified (search budget exhausted). No 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "314 Action",
+   "J Street PAC",
+   "SEIU California (co-endorsement)",
+   "California Faculty Association (co-endorsement)",
+   "Planned Parenthood Action Fund",
+   "California Environmental Voters (co-endorsement)",
+   "Sacramento Bee editorial board",
+   "Gov. Newsom, Sens. Padilla and Schiff, Nancy Pelosi"
+  ],
+  "notable_positions": [
+   "One of 10 Democrats who voted with Republicans to censure Rep. Al Green (Mar 2025) (https://en.wikipedia.org/wiki/Ami_Bera)",
+   "Balanced-budget and fiscal-toughness messaging (https://www.beraforcongress.com/issues/jobs-economy)",
+   "Supports maximising domestic oil/gas via enhanced recovery; opposes offshore drilling (https://www.beraforcongress.com/issues/energy-and-environment)",
+   "Boycotted Netanyahu's July 2024 address to Congress (https://en.wikipedia.org/wiki/Ami_Bera)",
+   "Bulk: DC statehood co-sponsor; Nay on Laken Riley"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Centrist signals are New Dem leadership, balanced-budget messaging and oil/gas, trade and antitrust positions (CI about 3), against an LI of 1 (DC statehood). Neither threshold is met; he is credentialed and engagement is unverified, so the nearest-bucket step places him in Category 4 (imperfect fit).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/3",
+   "https://www.beraforcongress.com/issues/jobs-economy",
+   "https://www.beraforcongress.com/issues/energy-and-environment",
+   "https://www.beraforcongress.com/endorsements",
+   "https://en.wikipedia.org/wiki/Ami_Bera",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "T000460",
+  "name": "Mike Thompson",
+  "seat": "CA-4",
+  "call_status": "uncalled, trailing (Dem-vs-Dem general vs. Eric Jones). CA Secretary of State count as of 10 Nov 2026 5:31pm: Jones 101,407 (52.1%) vs Thompson 93,092 (47.9%); no AP call or concession found as of 11 Nov. LIKELY NOT RETURNING; seat stays Democratic either way.",
+  "bio": {
+   "birth_year": 1951,
+   "education": "BA and MPA, California State University, Chico",
+   "career": "Vietnam veteran (173rd Airborne); vineyard owner; taught public administration at SF State and Chico State; aide to Assemblywoman Jackie Speier",
+   "prior_office": "California State Senate 1990-98; U.S. House since 1999 (14 terms); senior Ways and Means member; chair, House Gun Violence Prevention Task Force"
+  },
+  "self_description": "Long-time Blue Dog Coalition member; KQED calls him 'a moderate Democrat', CalMatters 'a traditional Blue Dog Democrat'. Campaign site: 'As a hunter and gun owner... protect the Second Amendment' while leading on background checks.",
+  "primary_context": "Top-two primary 2 Jun 2026: finished first; self-funding Democrat Eric Jones (35, ex-venture capitalist, endorsed by Our Revolution, later courted Republicans) finished second, producing a Dem-vs-Dem general.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 1,
+    "e": "Campaign 'Fiscal Responsibility' page: 'We have to get our debt and deficit under control', champions PAYGO, 'everything needs to be on the table, including defense spending'; not a co-sponsor of wealth-tax bills.",
+    "src": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by Peace Officers Research Association of California, California State Sheriffs' Association, several deputy sheriffs' associations and nine county sheriffs.",
+    "src": "https://www.mikethompsonforcongress.com/endorsements"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the National Association of Home Builders, Sacramento Metro Chamber PAC, Santa Rosa Metro Chamber PAC and the California and county Farm Bureaus.",
+    "src": "https://www.mikethompsonforcongress.com/endorsements"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "14-term member and former state senator -> 3; BA/MPA from Chico State plus teaching career -> 1; senior Ways and Means member, chairs the Gun Violence Prevention Task Force, author of the background-checks bill and enacted telehealth legislation -> 2."
+  },
+  "EO": {
+   "debate": 2,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in 11 debates/forums with Jones before the June primary and agreed to two general-election events (a televised LWV Yolo debate and a Yuba-Sutter Farm Bureau forum; LWV forum aired 15 Oct 2026); Jones had demanded nine debates and called two inadequate. Campaign says he held 40+ town halls, community coffees and house parties since Jan 2025. Gave a sit-down interview to the Davis Vanguard on ICE, Gaza and PAC money. No hostile/national conservative outlet appearances found."
+  },
+  "outside_support": [
+   "Nancy Pelosi, Hakeem Jeffries, Gov. Gavin Newsom",
+   "PORAC and sheriffs' associations",
+   "California Labor Federation, SEIU, CTA, UAW",
+   "Brady, Giffords, Everytown",
+   "LCV, Sierra Club, NRDC Action Fund",
+   "VoteVets",
+   "National Association of Home Builders, chambers of commerce, Farm Bureaus"
+  ],
+  "notable_positions": [
+   "Blue Dog member who chairs the House Gun Violence Prevention Task Force and backs universal background checks as a self-described hunter and gun owner (https://www.mikethompsonforcongress.com/issues/gun-violence-prevention)",
+   "PAYGO and deficit-reduction emphasis (https://www.mikethompsonforcongress.com/issues/fiscal-responsibility)",
+   "Comprehensive immigration reform plus 'increase immigration enforcement' (https://www.mikethompsonforcongress.com/issues/immigration)",
+   "Defended taking PG&E employee PAC money: 'I'm not embarrassed' (https://calmatters.org/politics/2026/09/california-congressional-race-thompson-jones/)",
+   "Bulk: co-sponsor of Medicare for All, DC statehood and Block the Bombs; voted Nay on Laken Riley"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "Blue Dog membership (2), deficit/PAYGO emphasis, police and sheriff endorsements and business/home-builder backing give CI about 5. Bulk co-sponsorships (M4A, DC statehood, Block the Bombs) put LI at 3, which is still within the Category 4 rule. However he may well lose his seat to fellow Democrat Eric Jones, who led 52.1-47.9 in the Secretary of State count of 10 Nov.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/4",
+   "https://www.kqed.org/news/12107102/early-results-show-rep-mike-thompson-in-tight-race-with-challenger-eric-jones",
+   "https://davisvanguard.org/2026/11/jones-expands-thompson-lead/",
+   "https://calmatters.org/politics/2026/09/california-congressional-race-thompson-jones/",
+   "https://www.mikethompsonforcongress.com/news/congressman-mike-thompson-announces-participation-two-debates-cd-04",
+   "https://www.pbs.org/video/candidate-forum-californias-4th-us-congressional-district-w3aukf/",
+   "https://www.mikethompsonforcongress.com/endorsements",
+   "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility",
+   "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention",
+   "https://en.wikipedia.org/wiki/Mike_Thompson"
+  ]
+ },
+ {
+  "id": "M001163",
+  "name": "Doris O. Matsui",
+  "seat": "CA-7",
+  "call_status": "uncalled but leading (Dem-vs-Dem general vs. Sacramento Councilmember Mai Vang): CA SoS count 10 Nov 5:31pm Matsui 123,958 (53.3%) vs Vang 108,613 (46.7%); Wikipedia still lists the race as not called. Batch file says 're-elected' - not yet confirmed.",
+  "bio": {
+   "birth_year": 1944,
+   "education": "BA psychology, UC Berkeley",
+   "career": "Government-affairs consultant; Clinton White House deputy assistant to the President / deputy director of public liaison (1993-98); widow of Rep. Bob Matsui",
+   "prior_office": "U.S. House since March 2005 (special election; 11 terms); ranking member, Energy & Commerce Communications and Technology Subcommittee"
+  },
+  "self_description": "Campaign slogan 'Always Fighting for Change'; presents as a results-oriented coalition builder ('Matsui builds coalitions to get things done') who 'stands up to Trump's cruel immigration tactics'. No ideological self-label found.",
+  "primary_context": "Top-two primary June 2026: advanced with Mai Vang (D), who was endorsed by Justice Democrats, Sacramento DSA, California WFP, Sunrise, Our Revolution, Leaders We Deserve and the Sacramento Bee; a direct challenge from the left that continued into the November general.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the Sacramento Deputy Sheriff's Association, Sacramento County Sheriff Jim Cooper and San Joaquin County Sheriff Patrick Withrow.",
+    "src": "https://matsuiforcongress.com/endorsements/"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the Sacramento Metro Chamber and the CalAsian Chamber of Commerce (listed under 'Business Organizations').",
+    "src": "https://matsuiforcongress.com/endorsements/"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Member since 2005 -> 3; senior White House staff role -> 2; subcommittee ranking member and author of the POWER ON Act that created the $10bn Grid Resilience and Innovation Partnership -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated Mai Vang in 2026 is unverified (no reports found; search budget exhausted). Media: local sit-down interviews (Elk Grove Citizen), unannounced ICE-facility oversight visits; no hostile-outlet appearances or town halls found."
+  },
+  "outside_support": [
+   "Self-funding/loans of about $5.4m (FEC bulk)",
+   "Gov. Newsom, Sens. Padilla and Schiff, Nancy Pelosi",
+   "California Democratic Party",
+   "AFSCME, CTA, NEA, building trades, Teamsters Local 150",
+   "Sacramento Deputy Sheriff's Association",
+   "Sierra Club, NRDC, California LCV, Planned Parenthood",
+   "Sacramento Metro Chamber, CalAsian Chamber"
+  ],
+  "notable_positions": [
+   "In July 2026 voted for the Massie amendment to cut US aid to Israel, while (per Wikipedia) not calling Gaza a genocide; not recorded as L12 (https://en.wikipedia.org/wiki/Doris_Matsui)",
+   "'Repeatedly votes no on funding ICE'; opposes masked ICE agents, but no abolish-ICE statement (https://matsuiforcongress.com/issues/)",
+   "Authored POWER ON Act grid-resilience program (https://matsuiforcongress.com/issues/)",
+   "Pushed FCC reform after action against Jimmy Kimmel (Sep 2025) (https://matsuiforcongress.com/in-the-news/)",
+   "Bulk: DC statehood co-sponsor; Nay on Laken Riley; no caucus memberships"
+  ],
+  "suggested_category": 4,
+  "confidence": "Low",
+  "rationale": "Mainstream establishment liberal: LI 1 (DC statehood) and CI 2 (law-enforcement and chamber endorsements); neither index is near its threshold. Credentialed with unverified engagement, so the nearest-bucket step gives Category 4 only as a weak, imperfect fit. Her seat is also not yet called against a movement-left challenger, though she leads.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/7",
+   "https://matsuiforcongress.com/endorsements/",
+   "https://matsuiforcongress.com/issues/",
+   "https://matsuiforcongress.com/in-the-news/",
+   "https://en.wikipedia.org/wiki/Doris_Matsui",
+   "https://en.wikipedia.org/wiki/Mai_Vang",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "G000559",
+  "name": "John Garamendi",
+  "seat": "CA-8",
+  "call_status": "re-elected 2026 (73.3% vs Republican Rudy Recile; CA SoS count 10 Nov)",
+  "bio": {
+   "birth_year": 1945,
+   "education": "BA business, UC Berkeley; MBA Harvard Business School",
+   "career": "Peace Corps volunteer (Ethiopia 1966-68); rancher/businessman; partner at Yucaipa Companies",
+   "prior_office": "California Assembly 1974-76; State Senate 1976-90 (majority leader); California Insurance Commissioner 1991-95 and 2003-07; U.S. Deputy Secretary of the Interior 1995-98; Lieutenant Governor of California 2007-09; U.S. House since Nov 2009 (ranking member, Armed Services Readiness Subcommittee)"
+  },
+  "self_description": "Congressional Progressive Caucus member; brands himself 'the leading voice in Congress for Make It In America' (Buy America, domestic manufacturing).",
+  "primary_context": "Top-two primary June 2026: advanced with a Republican; Democrats Nicolas Carjuzaa (backed by Our Revolution East Bay, Track AIPAC) and Aaron Rowden were eliminated, a minor challenge from the left.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 2,
+   "note": "Former Lt. Governor, Insurance Commissioner and Deputy Interior Secretary -> 3; Harvard MBA -> 2; Armed Services subcommittee ranking member and his eLoran GPS-backup bill passed the House -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general-election debate with Rudy Recile unverified (search budget exhausted). Long record of in-person town halls (e.g., Davis 2017) but no 2025-26 evidence gathered; no hostile-outlet appearances found. Diagnosed with multiple myeloma in July 2024."
+  },
+  "outside_support": [
+   "California Labor Federation, NUHW",
+   "Sierra Club, California Environmental Voters",
+   "Council for a Livable World",
+   "J Street PAC",
+   "Planned Parenthood Action Fund",
+   "California Democratic Party"
+  ],
+  "notable_positions": [
+   "'Make It In America': raised Buy America share for federally funded buses and rail from 60% to 70% (https://www.garamendi.org/issues)",
+   "Authored House-passed eLoran GPS backup bill (https://www.garamendi.org/issues)",
+   "Worked with Republican Doug LaMalfa on Sites Reservoir (https://www.garamendi.org/issues)",
+   "Bulk: CPC member; co-sponsor of Medicare for All, Green New Deal (118th), DC statehood, Block the Bombs"
+  ],
+  "suggested_category": 1,
+  "confidence": "Low",
+  "rationale": "Bulk co-sponsorships give LI 4 (M4A, Green New Deal, DC statehood, Block the Bombs) with no movement-left endorsements and no centrist markers found. He is highly experienced, but engagement is unverified, so the nearest-bucket step places him in Category 1 as an imperfect fit; his DW-NOMINATE score is relatively moderate for the caucus (context only).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/8",
+   "https://www.garamendi.org/issues",
+   "https://en.wikipedia.org/wiki/John_Garamendi",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "H001090",
+  "name": "Josh Harder",
+  "seat": "CA-9",
+  "call_status": "re-elected 2026 (66.9% vs Republican John McBride; CA SoS count 10 Nov)",
+  "bio": {
+   "birth_year": 1986,
+   "education": "BA Stanford (2008); MBA Harvard Business School and MPP Harvard Kennedy School",
+   "career": "Venture capitalist (vice president, Bessemer Venture Partners); business instructor, Modesto Junior College",
+   "prior_office": "U.S. House since 2019 (4 terms); Appropriations Committee; New Democrat Coalition vice chair"
+  },
+  "self_description": "Described as 'a moderate Democrat'; New Dem vice chair and Problem Solvers Caucus member; signature issues are blocking the Delta Tunnel, utility rates and fentanyl.",
+  "primary_context": "Top-two primary June 2026: first with 60.8% in a field otherwise made up of Republicans; no challenge from the left.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 1,
+    "e": "Opposes defunding the police; in 2023 introduced a grant program to help smaller police departments recruit and retain officers.",
+    "src": "https://en.wikipedia.org/wiki/Josh_Harder"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [
+   "New Democrat Coalition member (vice chair)",
+   "Problem Solvers Caucus member"
+  ],
+  "EPD": {
+   "office": 3,
+   "cred": 2,
+   "policy": 1,
+   "note": "Member since 2019 -> 3; Harvard MBA/MPP -> 2; Appropriations member with recurring bills (Stop the Delta Tunnels Act, utility-rate bills) but no enacted lead bill found -> 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general-election debate with John McBride unverified (search budget exhausted); no 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "J Street",
+   "JACPAC",
+   "Jewish Democratic Council of America",
+   "End Citizens United",
+   "Giffords",
+   "LCV Action Fund",
+   "California Labor Federation, NUHW"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act, one of 46 Democrats (https://en.wikipedia.org/wiki/Josh_Harder)",
+   "Opposes defunding police; police recruitment grants (https://en.wikipedia.org/wiki/Josh_Harder)",
+   "Co-introduced the Ban Corporate PACs Act (2019) (https://en.wikipedia.org/wiki/Josh_Harder)",
+   "Long-running opposition to Newsom's Delta Tunnel project (https://en.wikipedia.org/wiki/Josh_Harder)",
+   "Bulk: Medicare for All co-sponsor (119th)"
+  ],
+  "suggested_category": 4,
+  "confidence": "Medium",
+  "rationale": "New Dem vice chair and Problem Solvers member with a Laken Riley Yea and an anti-defund, pro-police-funding record (CI about 4); LI is 1 (M4A co-sponsorship). Short of the CI 5 threshold, but credentialed with unverified engagement, so the nearest-bucket step gives Category 4 (imperfect fit).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/9",
+   "https://en.wikipedia.org/wiki/Josh_Harder",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "D000623",
+  "name": "Mark DeSaulnier",
+  "seat": "CA-10",
+  "call_status": "re-elected 2026 (69.7% vs Republican Jeff Frese; CA SoS count 10 Nov)",
+  "bio": {
+   "birth_year": 1952,
+   "education": "BA history, College of the Holy Cross (1974)",
+   "career": "Restaurant owner/operator in the Bay Area; earlier probation officer and truck driver",
+   "prior_office": "Concord City Council 1991-94 (mayor 1993); Contra Costa County Supervisor 1994-2006 (originally appointed as a Republican); California Assembly 2006-08; State Senate 2008-15; U.S. House since 2015 (6 terms); ranking member, House Ethics Committee and Education & Workforce HELP Subcommittee"
+  },
+  "self_description": "Congressional Progressive Caucus member; no explicit self-label found.",
+  "primary_context": "Top-two primary June 2026: advanced with a Republican; minor Democrats (a community organizer, a brewer, a land broker) eliminated; endorsed by Jeffries, Pelosi, Pressley and Raskin. No significant left or right challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 3,
+   "cred": 1,
+   "policy": 2,
+   "note": "Member since 2015, former state senator -> 3; BA plus small-business career -> 1; ranking member of the Ethics Committee and a HELP subcommittee -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "2026 general-election debate with Jeff Frese unverified (search budget exhausted); no 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "Hakeem Jeffries, Nancy Pelosi, Katherine Clark, Ayanna Pressley, Jamie Raskin",
+   "Sens. Padilla and Schiff, AG Rob Bonta",
+   "Planned Parenthood Action Fund, Sierra Club",
+   "California Democratic Party"
+  ],
+  "notable_positions": [
+   "Voted against Israel aid in 2024 while supporting Ukraine and Taiwan aid (https://en.wikipedia.org/wiki/Mark_DeSaulnier)",
+   "Voted against the Fiscal Responsibility Act of 2023 (https://en.wikipedia.org/wiki/Mark_DeSaulnier)",
+   "Introduced bills to let local newspapers operate as nonprofits and an FTC bots task force (https://en.wikipedia.org/wiki/Mark_DeSaulnier)",
+   "Bulk: co-sponsor of Ultra-Millionaire Tax Act, Medicare for All, Green New Deal (118th), DC statehood, Block the Bombs"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships give LI 5 (wealth tax, M4A, Green New Deal, DC statehood, Block the Bombs), progressive-leaning but one point short of Category 1, with no movement endorsements verified and no centrist markers. Experienced, with engagement unverified, so the nearest-bucket step gives Category 1 (imperfect fit).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/10",
+   "https://en.wikipedia.org/wiki/Mark_DeSaulnier",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "S001231",
+  "name": "Lateefah Simon",
+  "seat": "CA-12",
+  "call_status": "re-elected 2026 (80.6% vs Democrat Jamie Joyce; CA SoS count 10 Nov)",
+  "bio": {
+   "birth_year": 1977,
+   "education": "BA public policy, Mills College; MPA, University of San Francisco",
+   "career": "Executive director, Center for Young Women's Development (MacArthur Fellow 2003); led SF DA Kamala Harris's Back on Track program; executive director, Lawyers' Committee for Civil Rights of the SF Bay Area; president, Akonadi Foundation and MeadowFund",
+   "prior_office": "CSU Board of Trustees (2016-); BART Board of Directors 2016-24 (president 2020); U.S. House since Jan 2025 (1 term); deputy whip for policy"
+  },
+  "self_description": "Associated with the progressive wing, 'supporting policies modeled on European social democracies', while saying she would work across ideological lines where that advances legislation.",
+  "primary_context": "Top-two primary June 2026: advanced with fellow Democrat Jamie Joyce (nonprofit director) and won about 81-19; no serious challenge.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 1,
+    "e": "Advocated in 2025 for a federal jobs guarantee (plus a $25 'Living Wage for All Act' in 2026).",
+    "src": "https://en.wikipedia.org/wiki/Lateefah_Simon"
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Our Revolution (2026)",
+   "California Working Families Party (2026)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": 0
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2024; former BART board president and CSU trustee -> 2; MPA plus senior nonprofit/foundation executive and MacArthur Fellow -> 2; her bipartisan Assisting Small Businesses Not Fraudsters Act passed the House (Feb 2025) -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether she debated Jamie Joyce in 2026 is unverified (search budget exhausted); no 2025-26 town-hall or hostile-outlet evidence gathered."
+  },
+  "outside_support": [
+   "California Labor Federation, NUHW",
+   "California WFP, Our Revolution, Progressive Democrats of America",
+   "CAIR Action, Track AIPAC",
+   "J Street",
+   "Giffords",
+   "LCV Action Fund, Sierra Club, Center for Biological Diversity Action Fund",
+   "Elect Democratic Women, Vote Mama"
+  ],
+  "notable_positions": [
+   "Federal jobs guarantee; $25 federal minimum wage bill (https://en.wikipedia.org/wiki/Lateefah_Simon)",
+   "Called the June 2025 Iran strikes 'lawless, dangerous, and immoral'; pledges to vote against funding warfare (https://en.wikipedia.org/wiki/Lateefah_Simon)",
+   "Says the US is complicit in civilian deaths in Gaza (https://en.wikipedia.org/wiki/Lateefah_Simon)",
+   "Bulk: co-sponsor of Ultra-Millionaire Tax Act, Medicare for All, Melt ICE Act, DC statehood, Block the Bombs"
+  ],
+  "suggested_category": 1,
+  "confidence": "High",
+  "rationale": "Bulk co-sponsorships establish L1, L3, L9, L11 and L12 (5 points); add a federal jobs guarantee (L6) and WFP and Our Revolution endorsements (L13 = 2), and LI is about 8, well above the Category 1 threshold. No centrist markers found.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/12",
+   "https://en.wikipedia.org/wiki/Lateefah_Simon",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://www.lateefahsimon.com/priorities"
+  ]
+ },
+ {
+  "id": "G000605",
+  "name": "Adam Gray",
+  "seat": "CA-13",
+  "call_status": "re-elected 2026 (62.0% vs Republican Kevin Lincoln; CA SoS count 10 Nov)",
+  "bio": {
+   "birth_year": 1977,
+   "education": "Merced College; BA political science, UC Santa Barbara",
+   "career": "Legislative staffer for state legislators (Cardoza, Wesson, Nunez, Horton, Calderon); family dairy-supply business",
+   "prior_office": "California State Assembly 2012-22 (chair, Governmental Organization Committee; founded the Assembly's bipartisan Problem Solvers Caucus); U.S. House since Jan 2025 (1 term); Blue Dog Coalition whip"
+  },
+  "self_description": "'What voters want here is an independent voice, not a Democratic voice, not a Republican voice' (Sacramento Bee, Sep 2026); calls symbolic anti-Trump votes such as impeachment 'virtue signaling'; seen as a centrist.",
+  "primary_context": "Top-two primary June 2026: first with 42% vs Trump-endorsed Kevin Lincoln 27.7%; a minor Democratic community organizer was eliminated. No left challenge of note.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 1,
+    "e": "Co-sponsor of the bipartisan Dignity Act (E-Verify mandate, more border security funding); 'I've actually voted with my Republican colleagues on several occasions on bills that they felt strongly increased border security'; Laken Riley Yea.",
+    "src": "https://www.adamgrayforcongress.com/news/icymi-sacramento-bee-adam-gray-discusses-immigration-socialism-and-trump"
+   },
+   "C5": {
+    "v": 1,
+    "e": "Endorsed by the California Fraternal Order of Police (Sep 2026) and the Modesto Police Officers' Association (Jul 2026).",
+    "src": "https://www.adamgrayforcongress.com/news/adam-gray-secures-endorsement-from-california-fraternal-order-of-police"
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 1,
+    "e": "Calls himself 'an independent voice, not a Democratic voice'; one of six Democrats who voted to end the Nov 2025 shutdown and for the FY2027 NDAA; with Tom Suozzi launched the anti-socialist 'Promise to America' initiative (June 2026) after DSA-backed primary wins.",
+    "src": "https://en.wikipedia.org/wiki/Adam_Gray"
+   },
+   "C8": {
+    "v": 1,
+    "e": "Endorsed by the California Farm Bureau; bills to 'ease permitting restrictions' and set enforceable environmental-review timelines for 21 water-storage projects; backs the Build Now Act on NEPA/ESA permitting.",
+    "src": "https://www.adamgrayforcongress.com/issues"
+   }
+  },
+  "C1_endorsements": [
+   "Blue Dog Coalition (whip)",
+   "New Democrat Coalition member",
+   "WelcomePAC endorsement",
+   "Founded the bipartisan Problem Solvers Caucus in the California Assembly"
+  ],
+  "EPD": {
+   "office": 2,
+   "cred": 1,
+   "policy": 1,
+   "note": "First elected 2024; 10 years in the state Assembly -> 2; BA plus staff career -> 1; several water/energy bills introduced, with provisions folded into a committee-passed ESA package, but no chamber-passed lead bill found -> 1."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Whether he debated Kevin Lincoln in 2026 is unverified (search budget exhausted). Gives long-form interviews to mainstream outlets (Sacramento Bee transcript, CNN State of the Union, Washington Post op-ed, KCRA) and engages opposing arguments on immigration and partisanship; no hostile-outlet appearances or town halls verified."
+  },
+  "outside_support": [
+   "WelcomePAC",
+   "AIPAC",
+   "Democratic Majority for Israel",
+   "JACPAC, Jewish Democratic Council of America",
+   "End Citizens United",
+   "California FOP, Modesto POA",
+   "California Farm Bureau",
+   "California Labor Federation, NUHW",
+   "MoveOn endorsement listed then struck/withdrawn"
+  ],
+  "notable_positions": [
+   "Voted for the Laken Riley Act and to end the Nov 2025 shutdown (bulk; https://en.wikipedia.org/wiki/Adam_Gray)",
+   "Launched the 'Promise to America' pro-capitalist, anti-socialist initiative with Rep. Suozzi (https://en.wikipedia.org/wiki/Adam_Gray)",
+   "Opposed the One Big Beautiful Bill and the 2026 Iran war (https://en.wikipedia.org/wiki/Adam_Gray)",
+   "Water-storage permitting streamlining for the San Joaquin Valley (https://www.adamgrayforcongress.com/issues)",
+   "Washington Post op-ed: Democrats should offer 'a helping hand, not a lecture' (https://www.adamgrayforcongress.com/news)"
+  ],
+  "suggested_category": 4,
+  "confidence": "High",
+  "rationale": "Blue Dog whip with New Dem membership and WelcomePAC backing (C1 = 3), plus border-security votes, FOP endorsements, an explicit 'independent voice' and anti-socialist posture, and permitting/agriculture business backing: CI about 7 with LI 0. Clear Category 4.",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/13",
+   "https://en.wikipedia.org/wiki/Adam_Gray",
+   "https://www.adamgrayforcongress.com/news/icymi-sacramento-bee-adam-gray-discusses-immigration-socialism-and-trump",
+   "https://www.adamgrayforcongress.com/news/adam-gray-secures-endorsement-from-california-fraternal-order-of-police",
+   "https://www.adamgrayforcongress.com/issues",
+   "https://www.adamgrayforcongress.com/news",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "id": "W000832",
+  "name": "Aisha Wahab",
+  "seat": "CA-14",
+  "call_status": "re-elected 2026 (Dem-vs-Dem vs. Melissa Hernandez, 57.6%-42.4% in CA SoS count 10 Nov; Wikipedia records her as winner). Sworn in 2 Sep 2026 after winning the 18 Aug special runoff to replace Eric Swalwell, who resigned 14 Apr 2026.",
+  "bio": {
+   "birth_year": 1987,
+   "education": "BA political science, San Jose State (2010); MBA, CSU East Bay (2013); Doctor of Social Work, USC (2024)",
+   "career": "Startup account manager/business-development director; IT consultant; former foster youth",
+   "prior_office": "Hayward City Council 2018-22; California State Senate 2022-26 (assistant majority leader; chair, Senate Housing Committee from 2025); U.S. House since Sep 2026"
+  },
+  "self_description": "Progressive; her 2020 House bid on Medicare for All drew AOC comparisons. Endorsed by the CPC PAC and backed by Bernie Sanders.",
+  "primary_context": "Led both the June 2026 regular primary (38.3%) and the June special primary; beat BART Board President Melissa Hernandez (backed by New Dem Action Fund, DMFI and more than $5m from AIPAC-affiliated super PACs) 53.1%-46.9% in the Aug special runoff and again in November. The challenge came from the centre.",
+  "L": {
+   "L1": {
+    "v": 0
+   },
+   "L2": {
+    "v": 0
+   },
+   "L3": {
+    "v": 0
+   },
+   "L4": {
+    "v": 0
+   },
+   "L5": {
+    "v": 0
+   },
+   "L6": {
+    "v": 0
+   },
+   "L7": {
+    "v": 0
+   },
+   "L8": {
+    "v": 0
+   },
+   "L9": {
+    "v": 0
+   },
+   "L10": {
+    "v": 0
+   },
+   "L11": {
+    "v": 0
+   },
+   "L12": {
+    "v": 0
+   }
+  },
+  "L13_endorsements": [
+   "Congressional Progressive Caucus PAC",
+   "Our Revolution",
+   "California Working Families Party",
+   "Bernie Sanders (post-primary)"
+  ],
+  "C": {
+   "C2": {
+    "v": 0
+   },
+   "C3": {
+    "v": 0
+   },
+   "C4": {
+    "v": 0
+   },
+   "C5": {
+    "v": 0
+   },
+   "C6": {
+    "v": 0
+   },
+   "C7": {
+    "v": 0
+   },
+   "C8": {
+    "v": -1,
+    "e": "As state Senate Housing chair called YIMBY zoning-reform proposals 'giveaways to developers' and said California must move away from 'development, development, development', doubting that more supply lowers prices (later voted for an amended SB 79).",
+    "src": "https://en.wikipedia.org/wiki/Aisha_Wahab"
+   }
+  },
+  "C1_endorsements": [],
+  "EPD": {
+   "office": 2,
+   "cred": 2,
+   "policy": 2,
+   "note": "First elected 2026; ex-state senator -> 2; DSW and MBA -> 2; authored dozens of enacted state laws and chaired the Senate Housing Committee -> 2."
+  },
+  "EO": {
+   "debate": 1,
+   "media": 1,
+   "substance": 1,
+   "note": "Took part in the 12 Apr 2026 Pleasanton Weekly/Livermore Vine multi-candidate primary forum (Wikipedia forum table); debates with Hernandez in the special runoff or general are unverified (search budget exhausted). No hostile-outlet or town-hall evidence gathered."
+  },
+  "outside_support": [
+   "CPC PAC",
+   "Bernie Sanders",
+   "California WFP, Our Revolution, Progressive Democrats of America, Indivisible",
+   "SEIU California, CTA, National Nurses United, California Labor Federation",
+   "CAIR Action",
+   "J Street",
+   "California Democratic Party",
+   "Opposed by >$5m from AIPAC-affiliated super PACs in the special runoff"
+  ],
+  "notable_positions": [
+   "Supports Medicare for All (2020 campaign; bulk co-sponsor) (https://en.wikipedia.org/wiki/Aisha_Wahab)",
+   "Authored SB 403 to ban caste discrimination (2023) (https://en.wikipedia.org/wiki/Aisha_Wahab)",
+   "Sought to expand local rent control (SB 466) and skeptical of supply-side housing reform (https://en.wikipedia.org/wiki/Aisha_Wahab)",
+   "Bulk: co-sponsor of Block the Bombs Act"
+  ],
+  "suggested_category": 1,
+  "confidence": "Medium",
+  "rationale": "Bulk co-sponsorships (M4A, Block the Bombs) plus left movement endorsements (CPC PAC, WFP, Our Revolution, Sanders; capped at 3) give LI about 5, progressive-leaning but just below the Category 1 line; she explicitly rejects 'abundance' housing positions. Credentialed, with engagement only partly verified, so the nearest-bucket step gives Category 1 (imperfect fit).",
+  "sources": [
+   "https://api.sos.ca.gov/returns/us-rep/district/14",
+   "https://en.wikipedia.org/wiki/Aisha_Wahab",
+   "https://en.wikipedia.org/wiki/2026_California%27s_14th_congressional_district_special_election",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://news.ballotpedia.org/2026/09/04/aisha-wahab-takes-office-ending-the-vacancy-in-californias-14th-congressional-district/",
+   "https://jewishinsider.com/2026/08/melissa-hernandez-loses-aisha-wahab-california-aipac-udp/"
+  ]
+ }
+]
